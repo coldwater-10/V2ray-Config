@@ -3,6 +3,70 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      - '🇹🇼 台湾节点'
+      - '🇭🇰 香港节点'
+  -
+    name: '📀 EMBY影视'
+    type: select
+    proxies:
+      - '🇭🇰 香港节点'
+      - '🇺🇲 美国节点'
+  -
+    name: '🌍 国外媒体'
+    type: select
+    proxies:
+      - '🚀 节点选择'
+      - '🇭🇰 香港节点'
+      - '🇹🇼 台湾节点'
+      - '🇺🇲 美国节点'
+      - '🇯🇵 日本节点'
+      - '🇸🇬 新加坡节点'
+      - '✈️ 手动切换'
+      - '♻️ 自动选择'
+      - '🎯 全球直连'
+  -
+    name: '🌏 国内媒体'
+    type: select
+    proxies:
+      - '🎯 全球直连'
+      - '🚀 节点选择'
+      - '✈️ 手动切换'
+  -
+    name: '📲 Telegram电报'
+    type: select
+    proxies:
+      - '🇭🇰 香港节点'
+      - '🇹🇼 台湾节点'
+      - '🇺🇲 美国节点'
+      - '🇯🇵 日本节点'
+      - '🇸🇬 新加坡节点'
+      - '✈️ 手动切换'
+      - '♻️ 自动选择'
+      - '🎯 全球直连'
+  -
+    name: '📱 Twitter推特'
+    type: select
+    proxies:
+      - '🇭🇰 香港节点'
+      - '🇹🇼 台湾节点'
+      - '🇺🇲 美国节点'
+      - '🇯🇵 日本节点'
+      - '🇸🇬 新加坡节点'
+      - '✈️ 手动切换'
+      - '♻️ 自动选择'
+      - '🎯 全球直连'
+  -
+    name: '🎶 网易云音乐'
+    type: select
+    proxies:
+      - '🎯 全球直连'
+  -
+    name: '⛓️ 微软云盘'
+    type: select
+    proxies:
+      - '🎯 全球直连'
+      - '🚀 节点选择'
+      - '🇭🇰 香港节点'
       - '🇺🇲 美国节点'
       - '✈️ 手动切换'
   -
@@ -539,67 +603,3 @@ rules:
  - DOMAIN-SUFFIX,coolguang.com,🛑 广告拦截
  - DOMAIN-SUFFIX,coremetrics.com,🛑 广告拦截
  - DOMAIN-SUFFIX,cpmchina.co,🛑 广告拦截
- - DOMAIN-SUFFIX,cpx24.com,🛑 广告拦截
- - DOMAIN-SUFFIX,crasheye.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,crosschannel.com,🛑 广告拦截
- - DOMAIN-SUFFIX,ctrmi.com,🛑 广告拦截
- - DOMAIN-SUFFIX,customer-security.online,🛑 广告拦截
- - DOMAIN-SUFFIX,daoyoudao.com,🛑 广告拦截
- - DOMAIN-SUFFIX,datouniao.com,🛑 广告拦截
- - DOMAIN-SUFFIX,ddapp.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,dianjoy.com,🛑 广告拦截
- - DOMAIN-SUFFIX,dianru.com,🛑 广告拦截
- - DOMAIN-SUFFIX,disqusads.com,🛑 广告拦截
- - DOMAIN-SUFFIX,domob.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,domob.com.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,domob.org,🛑 广告拦截
- - DOMAIN-SUFFIX,dotmore.com.tw,🛑 广告拦截
- - DOMAIN-SUFFIX,doubleverify.com,🛑 广告拦截
- - DOMAIN-SUFFIX,doudouguo.com,🛑 广告拦截
- - DOMAIN-SUFFIX,doumob.com,🛑 广告拦截
- - DOMAIN-SUFFIX,duanat.com,🛑 广告拦截
- - DOMAIN-SUFFIX,duiba.com.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,duomeng.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,dxpmedia.com,🛑 广告拦截
- - DOMAIN-SUFFIX,edigitalsurvey.com,🛑 广告拦截
- - DOMAIN-SUFFIX,eduancm.com,🛑 广告拦截
- - DOMAIN-SUFFIX,emarbox.com,🛑 广告拦截
- - DOMAIN-SUFFIX,exosrv.com,🛑 广告拦截
- - DOMAIN-SUFFIX,fancyapi.com,🛑 广告拦截
- - DOMAIN-SUFFIX,feitian001.com,🛑 广告拦截
- - DOMAIN-SUFFIX,feixin2.com,🛑 广告拦截
- - DOMAIN-SUFFIX,flashtalking.com,🛑 广告拦截
- - DOMAIN-SUFFIX,fraudmetrix.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,g1.tagtic.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,gentags.net,🛑 广告拦截
- - DOMAIN-SUFFIX,gepush.com,🛑 广告拦截
- - DOMAIN-SUFFIX,getui.com,🛑 广告拦截
- - DOMAIN-SUFFIX,glispa.com,🛑 广告拦截
- - DOMAIN-SUFFIX,go-mpulse,🛑 广告拦截
- - DOMAIN-SUFFIX,go-mpulse.net,🛑 广告拦截
- - DOMAIN-SUFFIX,godloveme.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,gridsum.com,🛑 广告拦截
- - DOMAIN-SUFFIX,gridsumdissector.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,gridsumdissector.com,🛑 广告拦截
- - DOMAIN-SUFFIX,growingio.com,🛑 广告拦截
- - DOMAIN-SUFFIX,guohead.com,🛑 广告拦截
- - DOMAIN-SUFFIX,guomob.com,🛑 广告拦截
- - DOMAIN-SUFFIX,haoghost.com,🛑 广告拦截
- - DOMAIN-SUFFIX,hivecn.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,hypers.com,🛑 广告拦截
- - DOMAIN-SUFFIX,icast.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,igexin.com,🛑 广告拦截
- - DOMAIN-SUFFIX,il8r.com,🛑 广告拦截
- - DOMAIN-SUFFIX,imageter.com,🛑 广告拦截
- - DOMAIN-SUFFIX,immob.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,inad.com,🛑 广告拦截
- - DOMAIN-SUFFIX,inmobi.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,inmobi.net,🛑 广告拦截
- - DOMAIN-SUFFIX,inmobicdn.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,inmobicdn.net,🛑 广告拦截
- - DOMAIN-SUFFIX,innity.com,🛑 广告拦截
- - DOMAIN-SUFFIX,instabug.com,🛑 广告拦截
- - DOMAIN-SUFFIX,intely.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,iperceptions.com,🛑 广告拦截
- - DOMAIN-SUFFIX,ipinyou.com,🛑 广告拦截
- - DOMAIN-SUFFIX,irs01.com,🛑 广告拦截

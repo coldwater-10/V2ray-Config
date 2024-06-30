@@ -3,6 +3,70 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广台|IEPL|03
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 3046
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广台|IEPL|04
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 3056
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广新|IEPL|01
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 6600
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广新|IEPL|02
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 6601
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广新|IEPL|03
+    type: ss
+    server: bs3.jymzffbquawl.com
+    port: 6602
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Standard|广新|IEPL|04
     type: ss
     server: bs3.jymzffbquawl.com
     port: 6603
@@ -539,67 +603,3 @@ proxy-groups:
     type: select
     proxies:
       - '🎯 全球直连'
-      - '🇹🇼 台湾节点'
-      - '🇭🇰 香港节点'
-  -
-    name: '📀 EMBY影视'
-    type: select
-    proxies:
-      - '🇭🇰 香港节点'
-      - '🇺🇲 美国节点'
-  -
-    name: '🌍 国外媒体'
-    type: select
-    proxies:
-      - '🚀 节点选择'
-      - '🇭🇰 香港节点'
-      - '🇹🇼 台湾节点'
-      - '🇺🇲 美国节点'
-      - '🇯🇵 日本节点'
-      - '🇸🇬 新加坡节点'
-      - '✈️ 手动切换'
-      - '♻️ 自动选择'
-      - '🎯 全球直连'
-  -
-    name: '🌏 国内媒体'
-    type: select
-    proxies:
-      - '🎯 全球直连'
-      - '🚀 节点选择'
-      - '✈️ 手动切换'
-  -
-    name: '📲 Telegram电报'
-    type: select
-    proxies:
-      - '🇭🇰 香港节点'
-      - '🇹🇼 台湾节点'
-      - '🇺🇲 美国节点'
-      - '🇯🇵 日本节点'
-      - '🇸🇬 新加坡节点'
-      - '✈️ 手动切换'
-      - '♻️ 自动选择'
-      - '🎯 全球直连'
-  -
-    name: '📱 Twitter推特'
-    type: select
-    proxies:
-      - '🇭🇰 香港节点'
-      - '🇹🇼 台湾节点'
-      - '🇺🇲 美国节点'
-      - '🇯🇵 日本节点'
-      - '🇸🇬 新加坡节点'
-      - '✈️ 手动切换'
-      - '♻️ 自动选择'
-      - '🎯 全球直连'
-  -
-    name: '🎶 网易云音乐'
-    type: select
-    proxies:
-      - '🎯 全球直连'
-  -
-    name: '⛓️ 微软云盘'
-    type: select
-    proxies:
-      - '🎯 全球直连'
-      - '🚀 节点选择'
-      - '🇭🇰 香港节点'
