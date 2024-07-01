@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-- DOMAIN-SUFFIX,skygo.co.nz,GlobalTV
-
-# > Spotify
-- DOMAIN-KEYWORD,spotify,GlobalTV
-- DOMAIN-SUFFIX,scdn.co,GlobalTV
-- DOMAIN-SUFFIX,spoti.fi,GlobalTV
-
-# > viuTV
-- DOMAIN-SUFFIX,viu.tv,GlobalTV
-
-# > Youtube
-- DOMAIN-KEYWORD,youtube,GlobalTV
-- DOMAIN-SUFFIX,googlevideo.com,GlobalTV
-- DOMAIN-SUFFIX,gvt2.com,GlobalTV
-- DOMAIN-SUFFIX,youtu.be,GlobalTV
-
-# (AsianTV)
 # > Bilibili
 - DOMAIN-KEYWORD,bilibili,AsianTV
 - DOMAIN-SUFFIX,acg.tv,AsianTV
@@ -603,3 +586,20 @@
 - DOMAIN-SUFFIX,focustaiwan.tw,Proxy
 - DOMAIN-SUFFIX,free.fr,Proxy
 - DOMAIN-SUFFIX,ftchinese.com,Proxy
+- DOMAIN-SUFFIX,gigacircle.com,Proxy
+- DOMAIN-SUFFIX,gov,Proxy
+- DOMAIN-SUFFIX,hk-pub.com,Proxy
+- DOMAIN-SUFFIX,hosting.co.uk,Proxy
+- DOMAIN-SUFFIX,hwcdn.net,Proxy
+- DOMAIN-SUFFIX,jtvnw.net,Proxy
+- DOMAIN-SUFFIX,linksalpha.com,Proxy
+- DOMAIN-SUFFIX,manyvids.com,Proxy
+- DOMAIN-SUFFIX,myactimes.com,Proxy
+- DOMAIN-SUFFIX,newsblur.com,Proxy
+- DOMAIN-SUFFIX,now.im,Proxy
+- DOMAIN-SUFFIX,redditlist.com,Proxy
+- DOMAIN-SUFFIX,signal.org,Proxy
+- DOMAIN-SUFFIX,sparknotes.com,Proxy
+- DOMAIN-SUFFIX,streetvoice.com,Proxy
+- DOMAIN-SUFFIX,ttvnw.net,Proxy
+- DOMAIN-SUFFIX,tv.com,Proxy

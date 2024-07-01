@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    name: 海外用户专用-美国
-    type: ss
-    server: f-us-01.ninjanode.pro
-    port: 63257
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-proxy-groups:
-  -
-    name: '🚀 节点选择'
-    type: select
-    proxies:
-      - '🇭🇰 香港节点'
       - '🇹🇼 台湾节点'
       - '🇺🇲 美国节点'
       - '🇯🇵 日本节点'
@@ -603,3 +586,20 @@ rules:
  - DOMAIN-KEYWORD,omgmta,🛑 广告拦截
  - DOMAIN-KEYWORD,omniture,🛑 广告拦截
  - DOMAIN-KEYWORD,openx,🛑 广告拦截
+ - DOMAIN-KEYWORD,partnerad,🛑 广告拦截
+ - DOMAIN-KEYWORD,pingfore,🛑 广告拦截
+ - DOMAIN-KEYWORD,socdm,🛑 广告拦截
+ - DOMAIN-KEYWORD,supersonicads,🛑 广告拦截
+ - DOMAIN-KEYWORD,usage,🛑 广告拦截
+ - DOMAIN-KEYWORD,wlmonitor,🛑 广告拦截
+ - DOMAIN-KEYWORD,zjtoolbar,🛑 广告拦截
+ - DOMAIN-SUFFIX,09mk.cn,🛑 广告拦截
+ - DOMAIN-SUFFIX,100peng.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,114la.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,123juzi.net,🛑 广告拦截
+ - DOMAIN-SUFFIX,138lm.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,17un.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,2cnt.net,🛑 广告拦截
+ - DOMAIN-SUFFIX,3gmimo.com,🛑 广告拦截
+ - DOMAIN-SUFFIX,3xx.vip,🛑 广告拦截
+ - DOMAIN-SUFFIX,51.la,🛑 广告拦截

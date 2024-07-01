@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
- - DOMAIN-SUFFIX,tianyancha.com,🎯 全球直连
- - DOMAIN-SUFFIX,tianyaui.com,🎯 全球直连
- - DOMAIN-SUFFIX,tietuku.com,🎯 全球直连
- - DOMAIN-SUFFIX,tiexue.net,🎯 全球直连
- - DOMAIN-SUFFIX,tmiaoo.com,🎯 全球直连
- - DOMAIN-SUFFIX,trip.com,🎯 全球直连
- - DOMAIN-SUFFIX,ttmeiju.com,🎯 全球直连
- - DOMAIN-SUFFIX,tudou.com,🎯 全球直连
- - DOMAIN-SUFFIX,tuniu.com,🎯 全球直连
- - DOMAIN-SUFFIX,tuniucdn.com,🎯 全球直连
- - DOMAIN-SUFFIX,umengcloud.com,🎯 全球直连
- - DOMAIN-SUFFIX,upyun.com,🎯 全球直连
- - DOMAIN-SUFFIX,uxengine.net,🎯 全球直连
- - DOMAIN-SUFFIX,videocc.net,🎯 全球直连
- - DOMAIN-SUFFIX,wandoujia.com,🎯 全球直连
- - DOMAIN-SUFFIX,weather.com,🎯 全球直连
- - DOMAIN-SUFFIX,weico.cc,🎯 全球直连
  - DOMAIN-SUFFIX,weidian.com,🎯 全球直连
  - DOMAIN-SUFFIX,weiphone.com,🎯 全球直连
  - DOMAIN-SUFFIX,weiphone.net,🎯 全球直连
@@ -332,7 +315,7 @@
  - GEOIP,CN,🎯 全球直连
  - MATCH,🕹 规则之外
 #---------------------------------------------------#
-## 更新：2024-07-01 09:20:46
+## 更新：2024-07-01 10:38:59
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 ## 链接：https://yiyosub.com/link/J6OpSJ9lfi1YHzQI?clash=1
 #---------------------------------------------------#
@@ -603,3 +586,20 @@ rules:
 
 # > Sky GO
 - DOMAIN-SUFFIX,sky.com,GlobalTV
+- DOMAIN-SUFFIX,skygo.co.nz,GlobalTV
+
+# > Spotify
+- DOMAIN-KEYWORD,spotify,GlobalTV
+- DOMAIN-SUFFIX,scdn.co,GlobalTV
+- DOMAIN-SUFFIX,spoti.fi,GlobalTV
+
+# > viuTV
+- DOMAIN-SUFFIX,viu.tv,GlobalTV
+
+# > Youtube
+- DOMAIN-KEYWORD,youtube,GlobalTV
+- DOMAIN-SUFFIX,googlevideo.com,GlobalTV
+- DOMAIN-SUFFIX,gvt2.com,GlobalTV
+- DOMAIN-SUFFIX,youtu.be,GlobalTV
+
+# (AsianTV)

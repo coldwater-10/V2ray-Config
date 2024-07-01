@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    - 'DOMAIN-KEYWORD,pingfore,REJECT'
-    - 'DOMAIN-KEYWORD,supersonicads,REJECT'
-    - 'DOMAIN-KEYWORD,uedas,REJECT'
-    - 'DOMAIN-KEYWORD,umeng,REJECT'
-    - 'DOMAIN-KEYWORD,usage,REJECT'
-    - 'DOMAIN-SUFFIX,vungle.com,REJECT'
-    - 'DOMAIN-KEYWORD,wlmonitor,REJECT'
-    - 'DOMAIN-KEYWORD,zjtoolbar,REJECT'
-    - 'DOMAIN-SUFFIX,9to5mac.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,abpchina.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,adblockplus.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,adobe.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,akamaized.net,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,alfredapp.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,amplitude.com,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,ampproject.org,❤️vpnhat❤️'
-    - 'DOMAIN-SUFFIX,android.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,angularjs.org,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,aolcdn.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,apkpure.com,❤️vpnhat❤️'
@@ -326,7 +309,7 @@
     - 'MATCH,❤️vpnhat❤️'
 
 #---------------------------------------------------#
-## 上次更新于：2024-07-01 09:20:46
+## 上次更新于：2024-07-01 10:38:59
 #---------------------------------------------------#
 
 port: 7890
@@ -603,3 +586,20 @@ proxies:
       mode: http
       host: 6011b158306.microsoft.com
   -
+    name: Premium|广港|IEPL|05
+    type: ss
+    server: pr1.jymzffbquawl.com
+    port: 3604
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+  -
+    name: Premium|广港|IEPL|06
+    type: ss
+    server: pr1.jymzffbquawl.com
+    port: 3605
+    cipher: rc4-md5

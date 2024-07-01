@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    name: Premium|广港|IEPL|05
-    type: ss
-    server: pr1.jymzffbquawl.com
-    port: 3604
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Premium|广港|IEPL|06
-    type: ss
-    server: pr1.jymzffbquawl.com
-    port: 3605
-    cipher: rc4-md5
     password: RenzheCloudSS
     udp: true
     plugin: obfs
@@ -603,3 +586,20 @@
       mode: http
       host: 6011b158306.microsoft.com
   -
+    name: 海外用户专用-美国
+    type: ss
+    server: f-us-01.ninjanode.pro
+    port: 63257
+    cipher: rc4-md5
+    password: RenzheCloudSS
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 6011b158306.microsoft.com
+proxy-groups:
+  -
+    name: '🚀 节点选择'
+    type: select
+    proxies:
+      - '🇭🇰 香港节点'
