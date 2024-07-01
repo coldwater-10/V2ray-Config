@@ -3,6 +3,45 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    - 'DOMAIN-SUFFIX,goo.gl,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,goodreaders.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,goodreads.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gravatar.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gstatic.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gvt0.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,hockeyapp.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,hotmail.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,icons8.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ifixit.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ift.tt,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ifttt.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,iherb.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imageshack.us,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,img.ly,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imgur.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imore.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,instapaper.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ipn.li,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,is.gd,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,issuu.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,itgonglun.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,itun.es,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ixquick.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,j.mp,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,js.revsci.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,jshint.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,jtvnw.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,justgetflux.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,kat.cr,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,klip.me,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,libsyn.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,linkedin.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,line-apps.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,linode.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,lithium.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,littlehj.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,live.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,live.net,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,livefilestore.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,llnwd.net,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,macid.co,❤️vpnhat❤️'
@@ -181,7 +220,7 @@
     - 'MATCH,❤️vpnhat❤️'
 
 #---------------------------------------------------#
-## 上次更新于：2024-07-01 11:19:59
+## 上次更新于：2024-07-01 12:20:26
 #---------------------------------------------------#
 
 port: 7890
@@ -564,42 +603,3 @@ proxies:
     plugin: obfs
     plugin-opts:
       mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Premium|广美|IEPL|04
-    type: ss
-    server: pr3.jymzffbquawl.com
-    port: 5611
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广台|IEPL|01
-    type: ss
-    server: bs3.jymzffbquawl.com
-    port: 3026
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广台|IEPL|02
-    type: ss
-    server: bs3.jymzffbquawl.com
-    port: 3036
-    cipher: rc4-md5
-    password: RenzheCloudSS
-    udp: true
-    plugin: obfs
-    plugin-opts:
-      mode: http
-      host: 6011b158306.microsoft.com
-  -
-    name: Standard|广台|IEPL|03

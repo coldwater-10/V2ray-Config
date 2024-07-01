@@ -3,6 +3,45 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ - DOMAIN-SUFFIX,ws.progrss.yahoo.com,🍃 应用净化
+ - DOMAIN-SUFFIX,yads.yahoo.co.jp,🍃 应用净化
+ - DOMAIN-SUFFIX,ybp.yahoo.com,🍃 应用净化
+ - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,🍃 应用净化
+ - DOMAIN-SUFFIX,shrek.6.cn,🍃 应用净化
+ - DOMAIN-SUFFIX,simba.6.cn,🍃 应用净化
+ - DOMAIN-SUFFIX,union.6.cn,🍃 应用净化
+ - DOMAIN-SUFFIX,logger.baofeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,xs.houyi.baofeng.net,🍃 应用净化
+ - DOMAIN-SUFFIX,dotcounter.douyutv.com,🍃 应用净化
+ - DOMAIN-SUFFIX,api.newad.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,exp.3g.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,game.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,iis3g.deliver.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,mfp.deliver.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,stadig.ifeng.com,🍃 应用净化
+ - DOMAIN-SUFFIX,adm.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,jobsfe.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,po.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,pub.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,pv.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,stat.funshion.com,🍃 应用净化
+ - DOMAIN-SUFFIX,ad.m.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,afp.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,c.uaa.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,cloudpush.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,cm.passport.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,cupid.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,gamecenter.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,ifacelog.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,mbdlog.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,meta.video.qiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,msg.71.am,🍃 应用净化
+ - DOMAIN-SUFFIX,msg1.video.qiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,msg2.video.qiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,paopao.iqiyi.com,🍃 应用净化
+ - DOMAIN-SUFFIX,paopaod.qiyipic.com,🍃 应用净化
+ - DOMAIN-SUFFIX,policy.video.iqiyi.com,🍃 应用净化
  - DOMAIN-SUFFIX,yuedu.iqiyi.com,🍃 应用净化
  - IP-CIDR,101.227.200.0/24,🍃 应用净化,no-resolve
  - IP-CIDR,101.227.200.11/32,🍃 应用净化,no-resolve
@@ -564,42 +603,3 @@
  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
  - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
  - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
- - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
- - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
- - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
- - DOMAIN-SUFFIX,pbs.org,🌍 国外媒体
- - DOMAIN-SUFFIX,pandora.com,🌍 国外媒体
- - DOMAIN-SUFFIX,phncdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,phprcdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,pornhub.com,🌍 国外媒体
- - DOMAIN-SUFFIX,pornhubpremium.com,🌍 国外媒体
- - DOMAIN-SUFFIX,qobuz.com,🌍 国外媒体
- - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
- - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
- - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
- - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
- - DOMAIN-SUFFIX,pscdn.co,🌍 国外媒体
- - DOMAIN-SUFFIX,scdn.co,🌍 国外媒体
- - DOMAIN-SUFFIX,spoti.fi,🌍 国外媒体
- - DOMAIN-SUFFIX,spotify.com,🌍 国外媒体
- - DOMAIN-SUFFIX,spotifycdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,spotifycdn.net,🌍 国外媒体
- - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🌍 国外媒体
- - DOMAIN-SUFFIX,tidal.com,🌍 国外媒体
- - DOMAIN-SUFFIX,tidalhifi.com,🌍 国外媒体
- - DOMAIN,hamifans.emome.net,🌍 国外媒体
- - DOMAIN-SUFFIX,skyking.com.tw,🌍 国外媒体
- - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
- - DOMAIN-SUFFIX,byteoversea.com,🌍 国外媒体
- - DOMAIN-SUFFIX,ibytedtos.com,🌍 国外媒体
- - DOMAIN-SUFFIX,ipstatp.com,🌍 国外媒体
- - DOMAIN-SUFFIX,muscdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,musical.ly,🌍 国外媒体
- - DOMAIN-SUFFIX,tik-tokapi.com,🌍 国外媒体
- - DOMAIN-SUFFIX,tiktok.com,🌍 国外媒体
- - DOMAIN-SUFFIX,tiktokcdn.com,🌍 国外媒体
- - DOMAIN-SUFFIX,tiktokv.com,🌍 国外媒体
- - DOMAIN-KEYWORD,ttvnw,🌍 国外媒体
- - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
- - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体

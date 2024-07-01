@@ -3,6 +3,45 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,iqiyi.com,Domestic
+- DOMAIN-SUFFIX,iqiyipic.com,Domestic
+- DOMAIN-SUFFIX,71.am.com,Domestic
+# > HunanTV
+- DOMAIN-SUFFIX,hitv.com,Domestic
+- DOMAIN-SUFFIX,mgtv.com,Domestic
+# > Meitu
+- DOMAIN-SUFFIX,meitu.com,Domestic
+- DOMAIN-SUFFIX,meitudata.com,Domestic
+- DOMAIN-SUFFIX,meipai.com,Domestic
+# > YYeTs
+- DOMAIN-SUFFIX,zmzapi.com,Domestic
+- DOMAIN-SUFFIX,zimuzu.tv,Domestic
+- DOMAIN-SUFFIX,zmzfile.com,Domestic
+- DOMAIN-SUFFIX,zmzapi.net,Domestic
+# > 蛋蛋赞
+- DOMAIN-SUFFIX,baduziyuan.com,Domestic
+- DOMAIN-SUFFIX,com-hs-hkdy.com,Domestic
+- DOMAIN-SUFFIX,czybjz.com,Domestic
+- DOMAIN-SUFFIX,dandanzan.com,Domestic
+- DOMAIN-SUFFIX,fjhps.com,Domestic
+- DOMAIN-SUFFIX,kuyunbo.club,Domestic
+# > Baidu
+- DOMAIN-SUFFIX,baidu.com,Domestic
+- DOMAIN-SUFFIX,baidubcr.com,Domestic
+- DOMAIN-SUFFIX,bdstatic.com,Domestic
+# > ChinaNet
+- DOMAIN-SUFFIX,189.cn,Domestic
+- DOMAIN-SUFFIX,21cn.com,Domestic
+# > ByteDance
+- DOMAIN-SUFFIX,bytecdn.cn,Domestic
+- DOMAIN-SUFFIX,pstatp.com,Domestic
+- DOMAIN-SUFFIX,snssdk.com,Domestic
+- DOMAIN-SUFFIX,toutiao.com,Domestic
+# > Content Delivery Network
+# > Akamai
+- DOMAIN-SUFFIX,akadns.net,Domestic
+# - DOMAIN-SUFFIX,akamai.net,Domestic
+# - DOMAIN-SUFFIX,akamaiedge.net,Domestic
 # - DOMAIN-SUFFIX,akamaihd.net,Domestic
 # - DOMAIN-SUFFIX,akamaistream.net,Domestic
 # - DOMAIN-SUFFIX,akamaized.net,Domestic
