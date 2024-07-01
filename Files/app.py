@@ -77,6 +77,9 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic",
+        "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2",
         "http://104.168.107.230/aggregate.txt",
         "http://sub.giga-downloader.com/clean.txt",
         "http://sub.giga-downloader.com/hiddify.txt",
@@ -267,6 +270,9 @@ def main():
         "https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2",
     ]
     dir_links = [
+        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/tuic",
+        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/hy2",
+        "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt",
         "http://104.168.107.230/aggregate.txt",
         "http://sub.giga-downloader.com/clean.txt",
         "http://sub.giga-downloader.com/hiddify.txt",
