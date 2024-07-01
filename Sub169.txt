@@ -3,95 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>404 · paste.gg</title>
-  <script
-    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
-<link
-  title="dark"
-  rel="stylesheet"
-  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
-<link
-  title="light"
-  rel="stylesheet alternate"
-  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
-<script
-  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
-<script
-  defer
-  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
-<script
-  defer
-  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
-<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
-<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
-<meta name="msapplication-TileColor" content="#FFFFFF"/>
-<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
-<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
-<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
-<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
-<body>
-<div class="wrapper">
-  <nav class="navbar">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="&#x2F;">
-        <span class="icon is-small">
-          <svg viewBox="0 0 24 24">
-  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
-</svg>
-        </span>
-        <span>paste.gg</span>
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="menu" class="navbar-menu">
-      <div class="navbar-start">
-        <a class="navbar-item" href="&#x2F;">
-          New
-        </a>
-      </div>
-      <div class="navbar-end">
-        <a class="navbar-item" href="&#x2F;about">
-          About
-        </a>
-      
-        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
-            Log in
-          </a>
-          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
-              Register
-            </a>
-            <div class="requires-js">
-              <hr class="navbar-divider"/>
-              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
-                Swap theme
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <section class="hero is-dark">
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
@@ -603,3 +514,92 @@ rules:
     - 'DOMAIN-SUFFIX,fabric.io,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,fast.com,❤️vpnhat❤️'
     - 'DOMAIN-SUFFIX,fastly.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,fc2.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,feedburner.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,feedly.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,feedsportal.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,fiftythree.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,firebaseio.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,flexibits.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,flickr.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,flipboard.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,g.co,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gabia.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,geni.us,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gfx.ms,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ggpht.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ghostnoteapp.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,git.io,❤️vpnhat❤️'
+    - 'DOMAIN-KEYWORD,github,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,globalsign.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gmodules.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,godaddy.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,golang.org,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gongm.in,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,goo.gl,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,goodreaders.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,goodreads.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gravatar.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gstatic.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,gvt0.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,hockeyapp.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,hotmail.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,icons8.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ifixit.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ift.tt,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ifttt.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,iherb.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imageshack.us,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,img.ly,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imgur.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,imore.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,instapaper.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ipn.li,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,is.gd,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,issuu.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,itgonglun.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,itun.es,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ixquick.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,j.mp,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,js.revsci.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,jshint.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,jtvnw.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,justgetflux.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,kat.cr,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,klip.me,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,libsyn.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,linkedin.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,line-apps.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,linode.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,lithium.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,littlehj.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,live.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,live.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,livefilestore.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,llnwd.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,macid.co,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,macromedia.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,macrumors.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mashable.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mathjax.org,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,medium.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mega.co.nz,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mega.nz,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,megaupload.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,microsofttranslator.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mindnode.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,mobile01.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,modmyi.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,msedge.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,myfontastic.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,name.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,nextmedia.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,nsstatic.net,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,nssurge.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,nyt.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,nytimes.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,omnigroup.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,onedrive.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,onenote.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,ooyala.com,❤️vpnhat❤️'
+    - 'DOMAIN-SUFFIX,openvpn.net,❤️vpnhat❤️'
