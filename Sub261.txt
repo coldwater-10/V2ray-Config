@@ -3,6 +3,55 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ - IP-CIDR,170.33.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,198.11.128.0/18,🎯 全球直连,no-resolve
+ - IP-CIDR,205.204.96.0/19,🎯 全球直连,no-resolve
+ - IP-CIDR,19.28.0.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,45.40.192.0/19,🎯 全球直连,no-resolve
+ - IP-CIDR,49.51.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,62.234.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,94.191.0.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,103.7.28.0/22,🎯 全球直连,no-resolve
+ - IP-CIDR,103.116.50.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,103.231.60.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,109.244.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,111.30.128.0/21,🎯 全球直连,no-resolve
+ - IP-CIDR,111.30.136.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,111.30.139.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,111.30.140.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,115.159.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,119.28.0.0/15,🎯 全球直连,no-resolve
+ - IP-CIDR,120.88.56.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,121.51.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,129.28.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,129.204.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,129.211.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,132.232.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,134.175.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,146.56.192.0/18,🎯 全球直连,no-resolve
+ - IP-CIDR,148.70.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,150.109.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,152.136.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,162.14.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,162.62.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,170.106.130.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,182.254.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,188.131.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,203.195.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,203.205.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,210.4.138.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.128.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.132.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,211.152.148.0/23,🎯 全球直连,no-resolve
+ - IP-CIDR,212.64.0.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,212.129.128.0/17,🎯 全球直连,no-resolve
+ - IP-CIDR,45.113.192.0/22,🎯 全球直连,no-resolve
+ - IP-CIDR,63.217.23.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,63.243.252.0/24,🎯 全球直连,no-resolve
+ - IP-CIDR,103.235.44.0/22,🎯 全球直连,no-resolve
+ - IP-CIDR,104.193.88.0/22,🎯 全球直连,no-resolve
+ - IP-CIDR,106.12.0.0/15,🎯 全球直连,no-resolve
+ - IP-CIDR,114.28.224.0/20,🎯 全球直连,no-resolve
  - IP-CIDR,119.63.192.0/21,🎯 全球直连,no-resolve
  - IP-CIDR,180.76.0.0/24,🎯 全球直连,no-resolve
  - IP-CIDR,180.76.0.0/16,🎯 全球直连,no-resolve
@@ -189,7 +238,7 @@
  - GEOIP,CN,🎯 全球直连
  - MATCH,🕹 规则之外
 #---------------------------------------------------#
-## 更新：2024-07-01 06:20:54
+## 更新：2024-07-01 07:14:57
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 ## 链接：https://yiyosub.com/link/J6OpSJ9lfi1YHzQI?clash=1
 #---------------------------------------------------#
@@ -554,52 +603,3 @@ rules:
 - DOMAIN-SUFFIX,weibo.cn,Domestic
 # > JD
 - DOMAIN-SUFFIX,jd.com,Domestic
-- DOMAIN-SUFFIX,jd.hk,Domestic
-- DOMAIN-SUFFIX,360buyimg.com,Domestic
-# > MI
-- DOMAIN-SUFFIX,duokan.com,Domestic
-- DOMAIN-SUFFIX,mi-img.com,Domestic
-- DOMAIN-SUFFIX,mifile.cn,Domestic
-- DOMAIN-SUFFIX,xiaomi.com,Domestic
-# > bilibili
-- DOMAIN-SUFFIX,acgvideo.com,Domestic
-- DOMAIN-SUFFIX,bilibili.com,Domestic
-- DOMAIN-SUFFIX,hdslb.com,Domestic
-# > iQiyi
-- DOMAIN-SUFFIX,iqiyi.com,Domestic
-- DOMAIN-SUFFIX,iqiyipic.com,Domestic
-- DOMAIN-SUFFIX,71.am.com,Domestic
-# > HunanTV
-- DOMAIN-SUFFIX,hitv.com,Domestic
-- DOMAIN-SUFFIX,mgtv.com,Domestic
-# > Meitu
-- DOMAIN-SUFFIX,meitu.com,Domestic
-- DOMAIN-SUFFIX,meitudata.com,Domestic
-- DOMAIN-SUFFIX,meipai.com,Domestic
-# > YYeTs
-- DOMAIN-SUFFIX,zmzapi.com,Domestic
-- DOMAIN-SUFFIX,zimuzu.tv,Domestic
-- DOMAIN-SUFFIX,zmzfile.com,Domestic
-- DOMAIN-SUFFIX,zmzapi.net,Domestic
-# > 蛋蛋赞
-- DOMAIN-SUFFIX,baduziyuan.com,Domestic
-- DOMAIN-SUFFIX,com-hs-hkdy.com,Domestic
-- DOMAIN-SUFFIX,czybjz.com,Domestic
-- DOMAIN-SUFFIX,dandanzan.com,Domestic
-- DOMAIN-SUFFIX,fjhps.com,Domestic
-- DOMAIN-SUFFIX,kuyunbo.club,Domestic
-# > Baidu
-- DOMAIN-SUFFIX,baidu.com,Domestic
-- DOMAIN-SUFFIX,baidubcr.com,Domestic
-- DOMAIN-SUFFIX,bdstatic.com,Domestic
-# > ChinaNet
-- DOMAIN-SUFFIX,189.cn,Domestic
-- DOMAIN-SUFFIX,21cn.com,Domestic
-# > ByteDance
-- DOMAIN-SUFFIX,bytecdn.cn,Domestic
-- DOMAIN-SUFFIX,pstatp.com,Domestic
-- DOMAIN-SUFFIX,snssdk.com,Domestic
-- DOMAIN-SUFFIX,toutiao.com,Domestic
-# > Content Delivery Network
-# > Akamai
-- DOMAIN-SUFFIX,akadns.net,Domestic

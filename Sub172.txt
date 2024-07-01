@@ -3,6 +3,55 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      - Standard|广美|IEPL|04
+      - Standard|广美|IEPL|05
+      - Standard|广美|IEPL|06
+      - Standard|广美|IEPL|07
+      - Standard|广美|IEPL|08
+      - 海外用户专用-新加坡
+      - 海外用户专用-日本
+      - 海外用户专用-美国
+  -
+    name: '📹 Youtube油管'
+    type: select
+    proxies:
+      - '🚀 节点选择'
+      - '🇭🇰 香港节点'
+      - '🇹🇼 台湾节点'
+      - '🇺🇲 美国节点'
+      - '🇯🇵 日本节点'
+      - '🇸🇬 新加坡节点'
+      - '✈️ 手动切换'
+      - '♻️ 自动选择'
+      - '🎯 全球直连'
+  -
+    name: '🎥 Netflix奈飞'
+    type: select
+    proxies:
+      - '🚀 节点选择'
+      - '🇭🇰 香港节点'
+      - '🇹🇼 台湾节点'
+      - '🇺🇲 美国节点'
+      - '🇯🇵 日本节点'
+      - '🇸🇬 新加坡节点'
+      - '✈️ 手动切换'
+      - '♻️ 自动选择'
+      - '🎯 全球直连'
+  -
+    name: '📺 巴哈姆特'
+    type: select
+    proxies:
+      - '🇹🇼 台湾节点'
+      - '🚀 节点选择'
+      - '✈️ 手动切换'
+      - '🎯 全球直连'
+  -
+    name: '📺 哔哩哔哩'
+    type: select
+    proxies:
+      - '🎯 全球直连'
+      - '🇹🇼 台湾节点'
+      - '🇭🇰 香港节点'
   -
     name: '📀 EMBY影视'
     type: select
@@ -554,52 +603,3 @@ rules:
  - DOMAIN-SUFFIX,appads.com,🛑 广告拦截
  - DOMAIN-SUFFIX,appboy.com,🛑 广告拦截
  - DOMAIN-SUFFIX,appdriver.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,appjiagu.com,🛑 广告拦截
- - DOMAIN-SUFFIX,applifier.com,🛑 广告拦截
- - DOMAIN-SUFFIX,appsflyer.com,🛑 广告拦截
- - DOMAIN-SUFFIX,atdmt.com,🛑 广告拦截
- - DOMAIN-SUFFIX,baifendian.com,🛑 广告拦截
- - DOMAIN-SUFFIX,banmamedia.com,🛑 广告拦截
- - DOMAIN-SUFFIX,baoyatu.cc,🛑 广告拦截
- - DOMAIN-SUFFIX,baycode.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,bayimob.com,🛑 广告拦截
- - DOMAIN-SUFFIX,behe.com,🛑 广告拦截
- - DOMAIN-SUFFIX,bfshan.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,biddingos.com,🛑 广告拦截
- - DOMAIN-SUFFIX,biddingx.com,🛑 广告拦截
- - DOMAIN-SUFFIX,bjvvqu.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,bjxiaohua.com,🛑 广告拦截
- - DOMAIN-SUFFIX,bloggerads.net,🛑 广告拦截
- - DOMAIN-SUFFIX,branch.io,🛑 广告拦截
- - DOMAIN-SUFFIX,bsdev.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,bshare.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,btyou.com,🛑 广告拦截
- - DOMAIN-SUFFIX,bugtags.com,🛑 广告拦截
- - DOMAIN-SUFFIX,buysellads.com,🛑 广告拦截
- - DOMAIN-SUFFIX,c0563.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cacafly.com,🛑 广告拦截
- - DOMAIN-SUFFIX,casee.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,cdnmaster.com,🛑 广告拦截
- - DOMAIN-SUFFIX,chance-ad.com,🛑 广告拦截
- - DOMAIN-SUFFIX,chanet.com.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,chartbeat.com,🛑 广告拦截
- - DOMAIN-SUFFIX,chartboost.com,🛑 广告拦截
- - DOMAIN-SUFFIX,chengadx.com,🛑 广告拦截
- - DOMAIN-SUFFIX,chmae.com,🛑 广告拦截
- - DOMAIN-SUFFIX,clickadu.com,🛑 广告拦截
- - DOMAIN-SUFFIX,clicki.cn,🛑 广告拦截
- - DOMAIN-SUFFIX,clicktracks.com,🛑 广告拦截
- - DOMAIN-SUFFIX,clickzs.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cloudmobi.net,🛑 广告拦截
- - DOMAIN-SUFFIX,cmcore.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cnxad.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cnzz.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cnzzlink.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cocounion.com,🛑 广告拦截
- - DOMAIN-SUFFIX,coocaatv.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cooguo.com,🛑 广告拦截
- - DOMAIN-SUFFIX,coolguang.com,🛑 广告拦截
- - DOMAIN-SUFFIX,coremetrics.com,🛑 广告拦截
- - DOMAIN-SUFFIX,cpmchina.co,🛑 广告拦截
- - DOMAIN-SUFFIX,cpx24.com,🛑 广告拦截
- - DOMAIN-SUFFIX,crasheye.cn,🛑 广告拦截

@@ -3,6 +3,55 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,jd.hk,Domestic
+- DOMAIN-SUFFIX,360buyimg.com,Domestic
+# > MI
+- DOMAIN-SUFFIX,duokan.com,Domestic
+- DOMAIN-SUFFIX,mi-img.com,Domestic
+- DOMAIN-SUFFIX,mifile.cn,Domestic
+- DOMAIN-SUFFIX,xiaomi.com,Domestic
+# > bilibili
+- DOMAIN-SUFFIX,acgvideo.com,Domestic
+- DOMAIN-SUFFIX,bilibili.com,Domestic
+- DOMAIN-SUFFIX,hdslb.com,Domestic
+# > iQiyi
+- DOMAIN-SUFFIX,iqiyi.com,Domestic
+- DOMAIN-SUFFIX,iqiyipic.com,Domestic
+- DOMAIN-SUFFIX,71.am.com,Domestic
+# > HunanTV
+- DOMAIN-SUFFIX,hitv.com,Domestic
+- DOMAIN-SUFFIX,mgtv.com,Domestic
+# > Meitu
+- DOMAIN-SUFFIX,meitu.com,Domestic
+- DOMAIN-SUFFIX,meitudata.com,Domestic
+- DOMAIN-SUFFIX,meipai.com,Domestic
+# > YYeTs
+- DOMAIN-SUFFIX,zmzapi.com,Domestic
+- DOMAIN-SUFFIX,zimuzu.tv,Domestic
+- DOMAIN-SUFFIX,zmzfile.com,Domestic
+- DOMAIN-SUFFIX,zmzapi.net,Domestic
+# > 蛋蛋赞
+- DOMAIN-SUFFIX,baduziyuan.com,Domestic
+- DOMAIN-SUFFIX,com-hs-hkdy.com,Domestic
+- DOMAIN-SUFFIX,czybjz.com,Domestic
+- DOMAIN-SUFFIX,dandanzan.com,Domestic
+- DOMAIN-SUFFIX,fjhps.com,Domestic
+- DOMAIN-SUFFIX,kuyunbo.club,Domestic
+# > Baidu
+- DOMAIN-SUFFIX,baidu.com,Domestic
+- DOMAIN-SUFFIX,baidubcr.com,Domestic
+- DOMAIN-SUFFIX,bdstatic.com,Domestic
+# > ChinaNet
+- DOMAIN-SUFFIX,189.cn,Domestic
+- DOMAIN-SUFFIX,21cn.com,Domestic
+# > ByteDance
+- DOMAIN-SUFFIX,bytecdn.cn,Domestic
+- DOMAIN-SUFFIX,pstatp.com,Domestic
+- DOMAIN-SUFFIX,snssdk.com,Domestic
+- DOMAIN-SUFFIX,toutiao.com,Domestic
+# > Content Delivery Network
+# > Akamai
+- DOMAIN-SUFFIX,akadns.net,Domestic
 # - DOMAIN-SUFFIX,akamai.net,Domestic
 # - DOMAIN-SUFFIX,akamaiedge.net,Domestic
 # - DOMAIN-SUFFIX,akamaihd.net,Domestic
@@ -554,14 +603,3 @@
 # > Twitter
 - IP-CIDR,69.195.160.0/19,Proxy
 - IP-CIDR,104.244.42.0/21,Proxy
-- IP-CIDR,192.133.76.0/22,Proxy
-- IP-CIDR,199.16.156.0/22,Proxy
-- IP-CIDR,199.59.148.0/22,Proxy
-- IP-CIDR,199.96.56.0/21,Proxy
-- IP-CIDR,202.160.128.0/22,Proxy
-- IP-CIDR,209.237.192.0/19,Proxy
-
-# GeoIP China
-- GEOIP,CN,Domestic
-
-- MATCH,Others
