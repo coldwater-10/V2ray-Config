@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+hysteria://173.234.25.53:48919?upmbps=55&downmbps=110&auth=dongtaiwang.com&insecure=1&peer=vkvd127.mycdn.me&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
+hysteria://173.234.25.54:48919?upmbps=55&downmbps=110&auth=dongtaiwang.com&insecure=1&peer=vkvd127.mycdn.me&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
+hysteria://173.234.25.53:48919?upmbps=55&downmbps=110&auth=dongtaiwang.com&insecure=1&peer=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
+hysteria://173.234.25.52:48919?upmbps=1000&downmbps=1000&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
+hysteria://173.234.25.50:1992?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=vkvd127.mycdn.me&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3
 hy2://f6e4b19a3110d19d@207.246.124.135:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://f6e4b19a3110d19d@207.246.124.135:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
@@ -598,8 +603,3 @@ trojan://0c6a3341e8d5ab17@5.44.249.44:3389?security=tls&allowInsecure=1&type=tcp
 vless://e832cdc2-0e7b-4d33-8fad-0efc1d0b53f4@104.21.69.44:2053?security=tls&sni=saijidweudjismxkcjsdeuwiuds.amoozeshgah-com.com&type=ws&path=/&host=saijidweudjismxkcjsdeuwiuds.amoozeshgah-com.com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://26a663656e575c0b@5.44.249.52:3389?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://3c4e10af98c30972@185.230.245.211:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.22.136:443?security=tls&sni=de1.test3.net&allowInsecure=1&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.15:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD

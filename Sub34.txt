@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.22.136:443?security=tls&sni=de1.test3.net&allowInsecure=1&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.15:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://c7f2ac91-c9ce-46c6-98f3-7204178e4b7c@172.233.57.232:443?security=reality&sni=tunnel.svnreallity.online&fp=chrome&pbk=d35k8hJ0aMt0SQ7DPprVNf6nm_QKabQsbfVmpg819lE&sid=3fdec952&type=grpc&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.94.143.221:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -598,8 +603,3 @@ vless://MsV2ray-MsV2ray-MsV2ray@back.msv2ray.online:80/?type=ws&encryption=none&
 vless://e51b714f-18ab-4969-a82d-4500649320bd@discord.org:8080/?type=ws&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://38387b39-ec56-4721-888a-6e2cdc41e304@45.92.93.134:46742/?type=ws&encryption=none&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://telegram-id-ArV2ray@185.146.173.59:80/?type=ws&encryption=none&host=10.h.mihanyas.ir.www.zula.ir.xn--lan-5j3ex52c62e1lg804d3wxa.Site.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@185.146.173.59:80/?type=ws&encryption=none&host=9.k.mihanyas.ir.www.farsroid.com.xn--48jyb6eya.Store.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://e51b714f-18ab-4969-a82d-4500649320bd@discord.org:8080/?type=ws&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://dc4b5be4-bec4-4524-8cf7-d4697dc15e57@[2a01:4f8:c013:13bd:c6::1]:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lastsecond.ir&alpn=http%2F1.1&fp=chrome&security=reality&pbk=g_QJhg-HmZB72GG49bcJkg0c0ZOixLMCmvZnJhFoaUA&sid=456d9a391ac248#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@discord.gg.:80/?type=ws&encryption=none&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://38387b39-ec56-4721-888a-6e2cdc41e304@45.92.93.134:46742/?type=ws&encryption=none&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
