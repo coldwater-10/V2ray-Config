@@ -3,6 +3,160 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+- DOMAIN-SUFFIX,foxnow.com,GlobalTV
+- DOMAIN-SUFFIX,foxplus.com,GlobalTV
+- DOMAIN-SUFFIX,foxplay.com,GlobalTV
+- DOMAIN-SUFFIX,ipinfo.io,GlobalTV
+- DOMAIN-SUFFIX,mstage.io,GlobalTV
+- DOMAIN-SUFFIX,now.com,GlobalTV
+- DOMAIN-SUFFIX,theplatform.com,GlobalTV
+- DOMAIN-SUFFIX,urlload.net,GlobalTV
+
+# > HBO && HBO Go
+- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GlobalTV
+- DOMAIN-SUFFIX,hbo.com,GlobalTV
+- DOMAIN-SUFFIX,hboasia.com,GlobalTV
+- DOMAIN-SUFFIX,hbogo.com,GlobalTV
+- DOMAIN-SUFFIX,hbogoasia.hk,GlobalTV
+
+# > Hulu
+- DOMAIN-SUFFIX,happyon.jp,GlobalTV
+- DOMAIN-SUFFIX,hulu.com,GlobalTV
+- DOMAIN-SUFFIX,huluim.com,GlobalTV
+- DOMAIN-SUFFIX,hulustream.com,GlobalTV
+
+# > Imkan
+- DOMAIN-SUFFIX,imkan.tv,GlobalTV
+
+# > JOOX
+- DOMAIN-SUFFIX,joox.com,GlobalTV
+
+# > MytvSUPER
+- DOMAIN-KEYWORD,nowtv100,GlobalTV
+- DOMAIN-KEYWORD,rthklive,GlobalTV
+- DOMAIN-SUFFIX,mytvsuper.com,GlobalTV
+- DOMAIN-SUFFIX,tvb.com,GlobalTV
+
+# > Netflix
+- DOMAIN-SUFFIX,netflix.com,GlobalTV
+- DOMAIN-SUFFIX,netflix.net,GlobalTV
+- DOMAIN-SUFFIX,nflxext.com,GlobalTV
+- DOMAIN-SUFFIX,nflximg.com,GlobalTV
+- DOMAIN-SUFFIX,nflximg.net,GlobalTV
+- DOMAIN-SUFFIX,nflxso.net,GlobalTV
+- DOMAIN-SUFFIX,nflxvideo.net,GlobalTV
+
+# > Pandora
+- DOMAIN-SUFFIX,pandora.com,GlobalTV
+
+# > Sky GO
+- DOMAIN-SUFFIX,sky.com,GlobalTV
+- DOMAIN-SUFFIX,skygo.co.nz,GlobalTV
+
+# > Spotify
+- DOMAIN-KEYWORD,spotify,GlobalTV
+- DOMAIN-SUFFIX,scdn.co,GlobalTV
+- DOMAIN-SUFFIX,spoti.fi,GlobalTV
+
+# > viuTV
+- DOMAIN-SUFFIX,viu.tv,GlobalTV
+
+# > Youtube
+- DOMAIN-KEYWORD,youtube,GlobalTV
+- DOMAIN-SUFFIX,googlevideo.com,GlobalTV
+- DOMAIN-SUFFIX,gvt2.com,GlobalTV
+- DOMAIN-SUFFIX,youtu.be,GlobalTV
+
+# (AsianTV)
+# > Bilibili
+- DOMAIN-KEYWORD,bilibili,AsianTV
+- DOMAIN-SUFFIX,acg.tv,AsianTV
+- DOMAIN-SUFFIX,acgvideo.com,AsianTV
+- DOMAIN-SUFFIX,b23.tv,AsianTV
+- DOMAIN-SUFFIX,biliapi.com,AsianTV
+- DOMAIN-SUFFIX,biliapi.net,AsianTV
+- DOMAIN-SUFFIX,bilibili.com,AsianTV
+- DOMAIN-SUFFIX,biligame.com,AsianTV
+- DOMAIN-SUFFIX,biligame.net,AsianTV
+- DOMAIN-SUFFIX,hdslb.com,AsianTV
+- DOMAIN-SUFFIX,im9.com,AsianTV
+
+# > IQIYI
+- DOMAIN-KEYWORD,qiyi,AsianTV
+- DOMAIN-SUFFIX,qy.net,AsianTV
+
+# > letv
+- DOMAIN-SUFFIX,api.mob.app.letv.com,AsianTV
+
+# > NeteaseMusic
+- DOMAIN-SUFFIX,163yun.com,AsianTV
+- DOMAIN-SUFFIX,music.126.net,AsianTV
+- DOMAIN-SUFFIX,music.163.com,AsianTV
+
+# > Tencent Video
+- DOMAIN-SUFFIX,vv.video.qq.com,AsianTV
+
+# China Area Network
+# > Microsoft
+- DOMAIN-SUFFIX,microsoft.com,Domestic
+- DOMAIN-SUFFIX,windows.net,Domestic
+- DOMAIN-SUFFIX,sfx.ms,Domestic
+- DOMAIN-SUFFIX,sharepoint.com,Domestic
+- DOMAIN-KEYWORD,officecdn,Domestic
+# > Blizzard
+- DOMAIN-SUFFIX,blizzard.com,Domestic
+- DOMAIN-SUFFIX,battle.net,Domestic
+- DOMAIN,blzddist1-a.akamaihd.net,Domestic
+# > Steam
+- DOMAIN-SUFFIX,steampowered.com,Domestic
+- DOMAIN-SUFFIX,steam-chat.com,Domestic
+- DOMAIN-KEYWORD,steamcdn,Domestic
+- DOMAIN-KEYWORD,steamstore,Domestic
+- DOMAIN-KEYWORD,steamuserimages,Domestic
+- DOMAIN-KEYWORD,steambroadcast,Domestic
+# > Tencent
+#USER-AGENT,MicroMessenger%20Client,Domestic
+#USER-AGENT,WeChat*,Domestic
+- DOMAIN-SUFFIX,qq.com,Domestic
+- DOMAIN-SUFFIX,qpic.cn,Domestic
+- DOMAIN-SUFFIX,tencent.com,Domestic
+# > Alibaba
+- DOMAIN-SUFFIX,alibaba.com,Domestic
+- DOMAIN-SUFFIX,alicdn.com,Domestic
+- DOMAIN-SUFFIX,amap.com,Domestic
+- DOMAIN-SUFFIX,dingtalk.com,Domestic
+- DOMAIN-SUFFIX,taobao.com,Domestic
+- DOMAIN-SUFFIX,tmall.com,Domestic
+- DOMAIN-SUFFIX,ykimg.com,Domestic
+- DOMAIN-SUFFIX,youku.com,Domestic
+- DOMAIN-SUFFIX,xiami.com,Domestic
+- DOMAIN-SUFFIX,xiami.net,Domestic
+# > NetEase
+- DOMAIN-SUFFIX,163.com,Domestic
+- DOMAIN-SUFFIX,126.net,Domestic
+- DOMAIN-SUFFIX,163yun.com,Domestic
+# > Sohu
+- DOMAIN-SUFFIX,sohu.com.cn,Domestic
+- DOMAIN-SUFFIX,itc.cn,Domestic
+- DOMAIN-SUFFIX,sohu.com,Domestic
+- DOMAIN-SUFFIX,v-56.com,Domestic
+# > Sina
+- DOMAIN-SUFFIX,weibo.com,Domestic
+- DOMAIN-SUFFIX,weibo.cn,Domestic
+# > JD
+- DOMAIN-SUFFIX,jd.com,Domestic
+- DOMAIN-SUFFIX,jd.hk,Domestic
+- DOMAIN-SUFFIX,360buyimg.com,Domestic
+# > MI
+- DOMAIN-SUFFIX,duokan.com,Domestic
+- DOMAIN-SUFFIX,mi-img.com,Domestic
+- DOMAIN-SUFFIX,mifile.cn,Domestic
+- DOMAIN-SUFFIX,xiaomi.com,Domestic
+# > bilibili
+- DOMAIN-SUFFIX,acgvideo.com,Domestic
+- DOMAIN-SUFFIX,bilibili.com,Domestic
+- DOMAIN-SUFFIX,hdslb.com,Domestic
+# > iQiyi
 - DOMAIN-SUFFIX,iqiyi.com,Domestic
 - DOMAIN-SUFFIX,iqiyipic.com,Domestic
 - DOMAIN-SUFFIX,71.am.com,Domestic
@@ -449,156 +603,3 @@
 - DOMAIN-SUFFIX,itasoftware.com,Proxy
 - DOMAIN-SUFFIX,madewithcode.com,Proxy
 - DOMAIN-SUFFIX,material.io,Proxy
-- DOMAIN-SUFFIX,polymer-project.org,Proxy
-- DOMAIN-SUFFIX,admin.recaptcha.net,Proxy
-- DOMAIN-SUFFIX,recaptcha.net,Proxy
-- DOMAIN-SUFFIX,shattered.io,Proxy
-- DOMAIN-SUFFIX,synergyse.com,Proxy
-- DOMAIN-SUFFIX,tensorflow.org,Proxy
-- DOMAIN-SUFFIX,tiltbrush.com,Proxy
-- DOMAIN-SUFFIX,waveprotocol.org,Proxy
-- DOMAIN-SUFFIX,waymo.com,Proxy
-- DOMAIN-SUFFIX,webmproject.org,Proxy
-- DOMAIN-SUFFIX,webrtc.org,Proxy
-- DOMAIN-SUFFIX,whatbrowser.org,Proxy
-- DOMAIN-SUFFIX,widevine.com,Proxy
-- DOMAIN-SUFFIX,x.company,Proxy
-- DOMAIN-SUFFIX,youtu.be,Proxy
-- DOMAIN-SUFFIX,yt.be,Proxy
-- DOMAIN-SUFFIX,ytimg.com,Proxy
-# > Steam
-- DOMAIN,media.steampowered.com,Proxy
-- DOMAIN,store.steampowered.com,Proxy
-# > Other
-- DOMAIN-SUFFIX,0rz.tw,Proxy
-- DOMAIN-SUFFIX,4bluestones.biz,Proxy
-- DOMAIN-SUFFIX,9bis.net,Proxy
-- DOMAIN-SUFFIX,allconnected.co,Proxy
-- DOMAIN-SUFFIX,amazonaws.com,Proxy
-- DOMAIN-SUFFIX,aol.com,Proxy
-- DOMAIN-SUFFIX,bcc.com.tw,Proxy
-- DOMAIN-SUFFIX,bit.ly,Proxy
-- DOMAIN-SUFFIX,bitshare.com,Proxy
-- DOMAIN-SUFFIX,blog.jp,Proxy
-- DOMAIN-SUFFIX,blogimg.jp,Proxy
-- DOMAIN-SUFFIX,blogtd.org,Proxy
-- DOMAIN-SUFFIX,broadcast.co.nz,Proxy
-- DOMAIN-SUFFIX,camfrog.com,Proxy
-- DOMAIN-SUFFIX,cfos.de,Proxy
-- DOMAIN-SUFFIX,citypopulation.de,Proxy
-- DOMAIN-SUFFIX,cloudfront.net,Proxy
-- DOMAIN-SUFFIX,ctitv.com.tw,Proxy
-- DOMAIN-SUFFIX,cuhk.edu.hk,Proxy
-- DOMAIN-SUFFIX,cusu.hk,Proxy
-- DOMAIN-SUFFIX,discuss.com.hk,Proxy
-- DOMAIN-SUFFIX,dropboxapi.com,Proxy
-- DOMAIN-SUFFIX,edditstatic.com,Proxy
-- DOMAIN-SUFFIX,flickriver.com,Proxy
-- DOMAIN-SUFFIX,focustaiwan.tw,Proxy
-- DOMAIN-SUFFIX,free.fr,Proxy
-- DOMAIN-SUFFIX,ftchinese.com,Proxy
-- DOMAIN-SUFFIX,gigacircle.com,Proxy
-- DOMAIN-SUFFIX,gov,Proxy
-- DOMAIN-SUFFIX,hk-pub.com,Proxy
-- DOMAIN-SUFFIX,hosting.co.uk,Proxy
-- DOMAIN-SUFFIX,hwcdn.net,Proxy
-- DOMAIN-SUFFIX,jtvnw.net,Proxy
-- DOMAIN-SUFFIX,linksalpha.com,Proxy
-- DOMAIN-SUFFIX,manyvids.com,Proxy
-- DOMAIN-SUFFIX,myactimes.com,Proxy
-- DOMAIN-SUFFIX,newsblur.com,Proxy
-- DOMAIN-SUFFIX,now.im,Proxy
-- DOMAIN-SUFFIX,redditlist.com,Proxy
-- DOMAIN-SUFFIX,signal.org,Proxy
-- DOMAIN-SUFFIX,sparknotes.com,Proxy
-- DOMAIN-SUFFIX,streetvoice.com,Proxy
-- DOMAIN-SUFFIX,ttvnw.net,Proxy
-- DOMAIN-SUFFIX,tv.com,Proxy
-- DOMAIN-SUFFIX,twitchcdn.net,Proxy
-- DOMAIN-SUFFIX,typepad.com,Proxy
-- DOMAIN-SUFFIX,udnbkk.com,Proxy
-- DOMAIN-SUFFIX,whispersystems.org,Proxy
-- DOMAIN-SUFFIX,wikia.com,Proxy
-- DOMAIN-SUFFIX,wn.com,Proxy
-- DOMAIN-SUFFIX,wolframalpha.com,Proxy
-- DOMAIN-SUFFIX,x-art.com,Proxy
-- DOMAIN-SUFFIX,yimg.com,Proxy
-
-- DOMAIN-KEYWORD,dlercloud,Proxy
-- DOMAIN-SUFFIX,dler.cloud,Proxy
-
-# Local Area Network
-- DOMAIN-KEYWORD,announce,DIRECT
-- DOMAIN-KEYWORD,torrent,DIRECT
-- DOMAIN-KEYWORD,tracker,DIRECT
-- DOMAIN-SUFFIX,smtp,DIRECT
-- DOMAIN-SUFFIX,local,DIRECT
-- IP-CIDR,192.168.0.0/16,DIRECT
-- IP-CIDR,10.0.0.0/8,DIRECT
-- IP-CIDR,172.16.0.0/12,DIRECT
-- IP-CIDR,127.0.0.0/8,DIRECT
-- IP-CIDR,100.64.0.0/10,DIRECT
-
-# > IQIYI
-- IP-CIDR,101.227.0.0/16,AsianTV
-- IP-CIDR,101.224.0.0/13,AsianTV
-- IP-CIDR,119.176.0.0/12,AsianTV
-
-# > Youku
-- IP-CIDR,106.11.0.0/16,AsianTV
-
-# > Telegram
-- IP-CIDR,67.198.55.0/24,Proxy
-- IP-CIDR,91.108.4.0/22,Proxy
-- IP-CIDR,91.108.8.0/22,Proxy
-- IP-CIDR,91.108.12.0/22,Proxy
-- IP-CIDR,91.108.16.0/22,Proxy
-- IP-CIDR,91.108.56.0/22,Proxy
-- IP-CIDR,109.239.140.0/24,Proxy
-- IP-CIDR,149.154.160.0/20,Proxy
-- IP-CIDR,205.172.60.0/22,Proxy
-
-# (Extra IP-CIRD)
-# > Google
-- IP-CIDR,35.190.247.0/24,Proxy
-- IP-CIDR,64.233.160.0/19,Proxy
-- IP-CIDR,66.102.0.0/20,Proxy
-- IP-CIDR,66.249.80.0/20,Proxy
-- IP-CIDR,72.14.192.0/18,Proxy
-- IP-CIDR,74.125.0.0/16,Proxy
-- IP-CIDR,108.177.8.0/21,Proxy
-- IP-CIDR,172.217.0.0/16,Proxy
-- IP-CIDR,173.194.0.0/16,Proxy
-- IP-CIDR,209.85.128.0/17,Proxy
-- IP-CIDR,216.58.192.0/19,Proxy
-- IP-CIDR,216.239.32.0/19,Proxy
-# > Facebook
-- IP-CIDR,31.13.24.0/21,Proxy
-- IP-CIDR,31.13.64.0/18,Proxy
-- IP-CIDR,45.64.40.0/22,Proxy
-- IP-CIDR,66.220.144.0/20,Proxy
-- IP-CIDR,69.63.176.0/20,Proxy
-- IP-CIDR,69.171.224.0/19,Proxy
-- IP-CIDR,74.119.76.0/22,Proxy
-- IP-CIDR,103.4.96.0/22,Proxy
-- IP-CIDR,129.134.0.0/17,Proxy
-- IP-CIDR,157.240.0.0/17,Proxy
-- IP-CIDR,173.252.64.0/19,Proxy
-- IP-CIDR,173.252.96.0/19,Proxy
-- IP-CIDR,179.60.192.0/22,Proxy
-- IP-CIDR,185.60.216.0/22,Proxy
-- IP-CIDR,204.15.20.0/22,Proxy
-# > Twitter
-- IP-CIDR,69.195.160.0/19,Proxy
-- IP-CIDR,104.244.42.0/21,Proxy
-- IP-CIDR,192.133.76.0/22,Proxy
-- IP-CIDR,199.16.156.0/22,Proxy
-- IP-CIDR,199.59.148.0/22,Proxy
-- IP-CIDR,199.96.56.0/21,Proxy
-- IP-CIDR,202.160.128.0/22,Proxy
-- IP-CIDR,209.237.192.0/19,Proxy
-
-# GeoIP China
-- GEOIP,CN,Domestic
-
-- MATCH,Others
