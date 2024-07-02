@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
 			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
@@ -599,7 +603,3 @@ vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?encryption=none
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzEyLfCfh63wn4ewSEstNDcuMjQzLjIzMC4yMjItMjQ3MiIsImFkZCI6IjQ3LjI0My4yMzAuMjIyIiwicG9ydCI6MzU2NjgsImlkIjoiYWI0ZGYzZWYtZTc3Zi00ZjJhLWJmYjgtNjM2MDQ0MTJmNzNiIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiIiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.117.150:2053?encryption=none&type=ws&host=CrT-31-BgP-73C-221-e2-o-Ncw02-Din-293-PKiW-nhyW-aUeb-CUEw.pAgEs.deV&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-20%2C10-20&sni=CrT-31-BgP-73c-221-E2-O-NCw02-diN-293-PkiW-nhyW-AUEB-CuEw.PaGES.DeV#313-%E7%BE%8E%E5%9B%BD_0701231533
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzE0LfCfh7rwn4e4VVMtMTQyLjQuOTYuNjctMDQ3MyIsImFkZCI6IjE0Mi40Ljk2LjY3IiwicG9ydCI6MzEwMDAsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
-vless://ab30a818-4d19-467d-b07d-dc0e720ca259@LIGHTNING6-joinbed.filj.top:8880?encryption=none&type=ws&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D9999&host=V2ray.E.weufgwoof.cfd.&security=none&alpn=h3%2Ch2&fp=safari&sni=V2ray.E.weufgwoof.cfd.#315-%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzE2LfCfj4FSRUxBWS0xMDQuMTkuNDcuMjMyLTEzNzMiLCJhZGQiOiIxMDQuMTkuNDcuMjMyIiwicG9ydCI6ODA4MCwiaWQiOiJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6Im9paWN0dy55eWRzaWkuY29tIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://b429e4f2-2382-5395-a03c-1a7d1677173b@172.67.199.240:443?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=parmo.hirore2452.WOrKERS.deV&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=parmo.hirore2452.WOrKERS.deV#317-%E7%BE%8E%E5%9B%BD_0701231820
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzE4LfCfj4FSRUxBWS0xNzIuNjcuMjIyLjEwNS0xOTk3IiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6ODAsImlkIjoiMjVlYzM5ZjctN2NkZC00YzNjLWJjM2MtNjBlOWE4OTI3YjRhIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiIvd3MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Ii93cyIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoic2FmYXJpIn0=
