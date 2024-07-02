@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?encryption=none&security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=L7rg6DtGQXTvbwhkjdrG&mode=gun#d4%20tls%20grpc%20direct%20vless
+trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:443?security=tls&sni=hidd2.parthianempire.org&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=VOkcnRNFk1GfvbwhkjdrG&mode=gun#d4%20tls%20grpc%20direct%20trojan
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImQ0IHRscyBncnBjIGRpcmVjdCB2bWVzcyIsDQogICJhZGQiOiAiaGlkZDIucGFydGhpYW5lbXBpcmUub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjE5YzgwY2U5LTA5MzUtNDFiOS1iMDc3LTI3NzYyMTMxNmE4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJndW4iLA0KICAiaG9zdCI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAicGF0aCI6ICJsaVV4VUdKVEdvUHZid2hramRyRyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJoaWRkMi5wYXJ0aGlhbmVtcGlyZS5vcmciLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:41088?sni=hidd2.parthianempire.org&alpn=h3&congestion_control=cubic#d4%20TUIC
+hysteria2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.parthianempire.org:34008/?sni=hidd2.parthianempire.org&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&insecure=0#d4%20Hysteria2
+
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 
 hy2://%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443?sni=let-him-cook.ircp.online&obfs=salamander&obfs-password=%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489#🔒 HYSTERIA-UDP 🇳🇱 NL-193.38.54.48:443
@@ -593,13 +603,3 @@ hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@ELiV2Ray-@ELiV2Ray?sni=speedtest.realityforus.com#de-mtn-@ELiV2Ray
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
-hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒 HYSTERIA-UDP 🇩🇪 DE-45.142.113.238:40443
-hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒 HYSTERIA-UDP 🇫🇷 FR-173.199.70.234:443
-hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒 HYSTERIA-UDP 🇫🇷 FR-173.199.70.234:443 📡 PING-000.00-MS
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.145.212.30:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇫🇷 FR-141.145.212.30:443
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443?mport=21000-26000&insecure=1#🔒 HYSTERIA-UDP 🇳🇱 NL-141.148.245.250:443
-hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470
-hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-156.254.114.144:64470 📡 PING-000.00-MS
-hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x3%40oneclickvpnkeys
-hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
-hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.192.224.140:40391
