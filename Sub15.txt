@@ -4,6 +4,23 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		}
 	],
 	"index" : 0,
@@ -586,20 +603,3 @@ vless://49b891f8-901c-47c0-8fd0-c7db42eb40be@zula.ir:8080?encryption=none&type=w
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzA3LVJFTEFZ8J+aqSB8IFJvY2twLkJsYW5rdS5NZS00NDMgfCAyLjQ1bXMiLCJhZGQiOiIxMDQuMTYuNi42NSIsInBvcnQiOjQ0MywiaWQiOiIzZWQ5YWM1My1jZTAwLTRhYTUtOWY3YS1hMmU2ZmFiMGUxNGEiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczQ5NDA2IiwiaG9zdCI6IlRyZWUuQmxhbmt1Lk1lIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUifQ==
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.152.206:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#308-%E6%9C%AA%E7%9F%A5_0702087982
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.233.83:80?encryption=none&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=a.ssll.gay#309-%E6%9C%AA%E7%9F%A5_0702085138
-vless://e926558e-f6de-40d5-cee6-178e72f5586b@104.27.77.90:80?encryption=none&type=ws&path=%2F&host=neT.MiCrosOfTS.doWnLOAd&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=neT.MiCrosOfTS.doWnLOAd#310-DE%F0%9F%87%A9%F0%9F%87%AA%20%7C%20neT.MiCrosOfTS.doWnLOAd-80%20%7C%20339.53ms
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.18:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#311-%E6%9C%AA%E7%9F%A5_0702087726
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.116:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=kr1.175852.xyz#312-%E7%BE%8E%E5%9B%BD_0702081704
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.161.104:8443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=edgood.king361.cf&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C10-50%2C10-50&sni=edgood.king361.cf#313-RELAY%F0%9F%9A%A9%20%7C%20edgood.king361.cf-8443%20%7C%20247.28ms
-vmess://eyJ0eXBlIjoiIiwicHMiOiIzMTQtUkVMQVnwn5qpIHwgQXJha2VseWFuLmRpZ2lmYXNob3AuaXIuLTQ0MyB8IDQzNi40NW1zIiwiYWRkIjoiS2h1b3Nyb3cuZGlnaWZhc2hvcC5pci4iLCJwb3J0Ijo0NDMsImlkIjoiMjhkYzYyM2YtM2VlNy00OTY5LTg0OWItZDRhN2FmNTgwNzhjIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6IkFyYWtlbHlhbi5kaWdpZmFzaG9wLmlyLiIsIm5ldCI6IndzIiwicGF0aCI6IkBSYUZhVjJyYXkiLCJob3N0IjoiIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://f8ae1d19-44c5-4cc3-ab1c-24e452ed15a0@104.16.60.8:2095?encryption=none&type=ws&security=none&headerType=none&alpn=http%2F1.1&fp=ios&sni=104.16.60.8#315-%E6%9C%AA%E7%9F%A5_070208616
-vless://c80f9385-324b-4185-a338-8af320030bbc@104.19.255.52:443?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-50&sni=me.shopservices.ir.#316-%E6%9C%AA%E7%9F%A5_0702086934
-vless://43000d6b-198c-4b87-b8d7-545d54d0988a@185.146.173.58:2052?encryption=none&type=ws&path=%2FTelegram-configMs%3Fed%3D2048&host=5.V2rayV2ray-_-_-V2ray.irantech.Org.&security=none&alpn=h2&fp=ios&sni=5.V2rayV2ray-_-_-V2ray.irantech.Org.#317-%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40sinabigo%20%7C%200
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.247.127:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#318-%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0_070208062
-vless://c416be20-32b3-467f-83c2-735e04d639f7@104.21.56.227:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C50-100%2C20-50&sni=eagle.Hafezdivan.Online.#319-%E6%9C%AA%E7%9F%A5_0702088261
-vless://5a84001d-87f0-4972-98bf-e836e3599b9c@web.bbv2ry.pics:443?encryption=none&type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=Skyy.bbv2ry.pics#320-%E2%9D%94XX%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40VpnSkyy%20%7C%200
-vless://cfa14880-381f-4524-bb41-02c96a7e8832@104.25.71.208:80?encryption=none&type=ws&path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048&host=freedom1.hamrahmarzban.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=freedom1.hamrahmarzban.com#321-%E6%9C%AA%E7%9F%A5_0702088466
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?encryption=none&type=ws&path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&host=t-netplus-4vx.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=t-netplus-4vx.pages.dev#322-%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40ConfigsHUB%20%7C%205
-vless://7284dbc7-cdfb-4ee3-9539-023e7f027f80@185.146.173.95:2095?encryption=none&type=ws&path=%2F&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&security=none&alpn=h3%2Ch2&fp=chrome&sni=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#323-%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40V2RayTz%20%7C%2017
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?encryption=none&type=ws&path=tg%40zdyz2&host=cfed.tgzdyz2.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-50&sni=cfed.tgzdyz2.top#324-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6_070208014
-vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.60.8:8880?encryption=none&type=ws&security=none&headerType=none&alpn=h3%2Ch2&fp=edge&sni=104.16.60.8#325-%E6%9C%AA%E7%9F%A5_070208620
-vless://4135228e-8246-4886-9ee0-0140fca3f3cb@172.67.177.176:8080?encryption=none&type=ws&path=%2FV2ray.motorcycles%3Fed%3D2048&host=v2ray.n.bimax.ir.iranhost.com.speedtest.net.zula.ir.ncba.ir.&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=v2ray.n.bimax.ir.iranhost.com.speedtest.net.zula.ir.ncba.ir.#326-%E7%BE%8E%E5%9B%BD_0702081765
