@@ -139,6 +139,14 @@ def main():
         "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt",
         "https://raw.githubusercontent.com/Mohammadgb0078/IRV2ray/main/vmess.txt",
         "https://raw.githubusercontent.com/Mohammadgb0078/IRV2ray/main/vless.txt",
+        "https://nmsubs.com/interface/Client/getSubscribe?token=30d691c705d50a064e25e05dad555b3b",
+        "https://duijie.cfyun.top/api/v1/client/subscribe?token=9dbea5a02c4c40b29f6795d13d06800a",
+        "https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt",
+        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ssr",
+        "https://proxy.crazygeeky.com/sip002/sub",
+        "https://proxy.crazygeeky.com/ssr/sub",
+        "https://proxy.crazygeeky.com/vmess/sub",
+        "https://proxy.crazygeeky.com/trojan/sub",
     ]
     dir_links = [
         "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt",
@@ -166,6 +174,7 @@ def main():
         "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
         "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub_NoTest.txt",
         "https://raw.githubusercontent.com/nameless255/shadow/main/shadow.txt",
+        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ssr.txt",
     ]
 
     decoded_links = decode_links(links)
