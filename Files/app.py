@@ -144,6 +144,8 @@ def main():
         "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt",
         "https://raw.githubusercontent.com/jahangirGH/sublinks/main/tuicsub.txt#IrancpinetSub1",
         "https://drive.google.com/uc?export=download&id=1Gkg2Ru0fO7-4UDNEks5vBWEXih-6_DKW",
+        "https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt",
+        "https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/tuic%20%26%20hy2.txt",
         "https://alienvpn402.github.io/AlienVPN402-subscribe-servers-sing-box",
         "https://miner.isherv.in",
         "https://api.yebekhe.link/shervin/",
