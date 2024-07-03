@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://your_password@15.160.138.221:443/?type=tcp&security=tls&sni=aws-it-milan-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B9IT%28AzadNet.t.me%29
+vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tor2.jarviskit.com&fp=chrome&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_001
+vless://0c1a8b2f-8dfe-497a-bea3-ac66865a3956@103.35.189.42:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=namasha.com&fp=chrome&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_002
+trojan://your_password@43.206.127.212:443/?type=tcp&security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_003
+trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_004
+trojan://share.mjj-home.com@185.212.56.168:443/?type=tcp&security=tls&sni=share.softbank.mjj-home.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_005
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@qmyuj-1087-tr-0.d-kcd.tuil.xyz:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_006
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_007
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.34:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_008
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_009
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_010
+trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_011
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_012
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_013
 trojan://3c4e10af98c30972@172.105.230.133:3306/?type=tcp&security=tls&sni=n2.gladns.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_014
@@ -591,15 +603,3 @@ trojan://your_password@aws-sg-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443/?type=ws&host=aws-se-stockholm-1.f1cflinea.com&path=%2Ff1rocket&security=tls&sni=aws-se-stockholm-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_291
 trojan://your_password@aws-mx-queretaro-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-mx-queretaro-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_292
 trojan://your_password@aws-jp-tokyo-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-jp-tokyo-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_293
-trojan://your_password@aws-it-milan-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-it-milan-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_294
-trojan://your_password@aws-in-mumbai-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-in-mumbai-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_295
-trojan://your_password@aws-id-jakarta-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_296
-trojan://your_password@aws-id-jakarta-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_297
-trojan://your_password@aws-hk-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-hk-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_298
-trojan://your_password@aws-ge-frankfurt-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-ge-frankfurt-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_299
-trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_300
-trojan://your_password@aws-fr-paris-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-fr-paris-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_301
-trojan://your_password@aws-es-madrid-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-es-madrid-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_302
-trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-ch-zurich-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_303
-trojan://your_password@aws-ch-zurich-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-ch-zurich-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_304
-trojan://your_password@aws-ca-central-1.f1cflineb.com:443/?type=ws&host=aws-ca-central-1.f1cflineb.com&path=%2Ff1rocket&security=tls&sni=aws-ca-central-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_305
