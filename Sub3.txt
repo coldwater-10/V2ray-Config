@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@3.22.179.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 15
+trojan://telegram-id-directvpn@3.129.140.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-directvpn@35.182.182.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 17
+trojan://telegram-id-privatevpns@18.168.164.100:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🇬🇧GB | 🔴 | trojan | @oneclickvpnkeys | 5
+trojan://telegram-id-privatevpns@34.254.122.51:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🇮🇪IE | 🔴 | trojan | @oneclickvpnkeys | 6
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#🇷🇺RU | 🟢 | trojan | @v2ray_swhil | 11
 trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443?security=tls&headerType=none&type=tcp&sni=scarily.golfland.club#🇬🇧GB | 🟢 | trojan | @VmessProtocol | 5
 trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @proxystore11 | 0
@@ -53,8 +58,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQ2pwODdUSWtVaUo1QWhSWmdsWjlF@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MVRmalpzbG9JRXVhblJTQWVCSWpq@95.164.10.184:10430#🇩🇰DK | 🟢 | ss | @OutlineVpnOfficial | 18
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🇬🇧GB | 🟢 | ss | @iP_CF | 0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#🇺🇸US | 🟢 | ss | @iP_CF | 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇬🇧GB | 🟢 | ss | @proxy_mtm | 0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧GB | 🟢 | ss | @proxy_mtm | 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇬🇧GB | 🟢 | ss | @proxy_mtm | 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧GB | 🟢 | ss | @proxy_mtm | 2
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYWNhY2ItYWFjYi1jYWFiLWFkY2ItYWJhYmJjY2FjYWNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgV0VELTEzLVRJUi0xNDAzIFx1ZDgzZFx1ZGQ1MSAxNzoxNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTA0LjIwLjM5LjE4NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogInZtZXNzLnRheGFyNzEwNTQud29ya2Vycy5kZXYiLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTA0LjIwLjM5LjE4Njo0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInZtZXNzLnRheGFyNzEwNTQud29ya2Vycy5kZXYiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMzguNTQuMTEyLjIzOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjEyM2QzOTctNjFlYi00NmY3LWI1MDctYWYzYzhkMmE0NTdmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6ICI0NzcyMCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtTkEgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1ZLTM4LjU0LjExMi4yMzg6NDc3MjAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -598,8 +603,3 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2087?security=tls&s
 trojan://ypDt8RkT7J@89.187.189.88:43118?security=tls&sni=tpmrr.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇨🇿 CZ-89.187.189.88:43118
 trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.18:443
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.82.54:43118
-trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.222:443
-trojan://9bPT0131yR@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#🔒 TR-WS-NA 🇩🇪 DE-164.90.167.137:2095
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.11.194:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:443?security=tls&sni=mailbox.CpifoRPErSia.Uk&type=ws&host=mailbox.CpifoRPErSia.Uk&path=trojan-ws%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:443
-trojan://NISHIKUITAN222@34.48.111.143:443?security=tls&sni=t726.ylks.link&type=ws&host=t726.ylks.link&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-34.48.111.143:443
