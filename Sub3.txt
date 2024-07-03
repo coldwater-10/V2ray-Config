@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
-ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@185.146.173.94:443#🇸🇪SE | 🟢 | ss | @DeamNet_Proxy | 0
-ss://NWRjMjNiYmEtMGUzMS00MDE2LTg5NWYtNTE3Y2U0YjdjY2MwOg==@729.outline-vpn.cloud:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 1
-ss://NDZkYmFjOGItZWFiYS00Mjc1LTk0MGMtODE5Zjk1ZDE2OTE2Og==@unpkg.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3
-ss://OGI3ZWZhY2YtOGU4My00ZTUxLWFiNTUtMTI2M2JhY2NkNGIyOg==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4
 ss://Y2Q2M2JhY2MtZmI5Yy00OTJhLWFmMjItZGFmMjYyMzMwNWI2Og==@172.67.166.121:8443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 5
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@188.114.96.2:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 6
 ss://YzRiNmFkNDgtZGI0YS00MzQ4LThlNGEtZTZhNjRhODYzYzdkOg==@104.21.7.6:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
@@ -603,3 +594,12 @@ trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.de
 trojan://telegram-id-directvpn@52.215.113.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.215.113.11:22222
 trojan://Z3TxDc6q8CZy3DaAaeARzS2pOAaeARzS2pO3DXwFKl40OF7YNyS9Y3RBlCSEeaF7YNyS9@154.31.115.81:28335?security=tls&sni=western.meijireform.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.115.81:28335
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30007?security=tls&sni=hktn2.6kk.org&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30007
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:8443
+trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
+trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443?security=tls&sni=n21-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.131.41:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.192.157:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.157:443
+trojan://telegram-id-privatevpns@51.21.4.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.4.82:22222
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@172.64.145.237:2083?security=tls&sni=mailbox.cpifORpERsia.UK&type=ws&host=mailbox.cpifORpERsia.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.237:2083
+trojan://NISHIKUITAN222@8.219.174.142:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.174.142:443
