@@ -175,6 +175,7 @@ def main():
         "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub_NoTest.txt",
         "https://raw.githubusercontent.com/nameless255/shadow/main/shadow.txt",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ssr.txt",
+        "https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/splitted/ssr.txt",
     ]
 
     decoded_links = decode_links(links)
