@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@3.255.42.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 17
 trojan://telegram-id-privatevpns@18.168.164.100:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🇬🇧GB | 🔴 | trojan | @oneclickvpnkeys | 5
 trojan://telegram-id-privatevpns@34.254.122.51:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk#🇮🇪IE | 🔴 | trojan | @oneclickvpnkeys | 6
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#🇷🇺RU | 🟢 | trojan | @v2ray_swhil | 9
@@ -602,4 +603,3 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@162.159.130.67:2087?security=tls&s
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30007?security=tls&sni=hktn2.6kk.org&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30007
 trojan://telegram-id-directvpn@35.182.32.202:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-35.182.32.202:22222
 trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
-trojan://FcYCR32n8lEy3aaXTSAYzl3DNXTSAYzl3DNqZ58SDgFBOxeC6Cw47uSZy3Aje0xeC6Cw4@23.106.35.90:28331?security=tls&sni=hovland.golfland.club&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-23.106.35.90:28331
