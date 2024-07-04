@@ -159,6 +159,7 @@ def main():
         "https://api.yebekhe.link/shervin/",
         "https://raw.githubusercontent.com/1Shervin/Sub/main/v2ray",
         "https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm",
+        "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/EdgeTunnel/ed",
         "https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/Eternity.txt",
         "https://mrsp137.github.io/NewSub_FREEV2RNG/@FREEV2RNG#FreeV2rng-1",
         "https://paste.gg/p/anonymous/21b6068195f14f7fac5f4f9a4cc77ac6/files/2e54b7f9fc5242bd82f804cb32ce9065/raw",
