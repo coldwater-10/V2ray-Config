@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://ffb792e9-f974-48f9-9914-4441481b43a3@[2606:4700:20::6818:c514]:8080?security=none&type=ws&host=fire.abrarvan.xyz&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:20::6818:c514]:8080
-vless://42e8e2af-ff40-4adb-ba5b-1ffb0b31c368@[2600:3c06::f03c:94ff:fe9f:72ec]:9124?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-[2600:3c06::f03c:94ff:fe9f:72ec]:9124
-vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.16.4.103:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.103:8080
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.82.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.82.91:80
-vless://fb80eb30-475e-11ee-b239-205c6d5f5d78@104.31.16.65:2087?security=tls&sni=@VPNOD&type=grpc&serviceName=vlgrpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.65:2087
-vless://939fcfa4-0d30-4f86-a1f7-13cc2dae002b@162.159.195.65:443?security=tls&sni=codm-http-server.ejlvovtt.workers.dev&type=ws&host=codm-http-server.ejlvovtt.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.65:443
-vless://cb90b0ec-9f06-4b88-81d5-2e0c8c91e86b@103.184.44.104:8880?security=none&type=ws&host=LiV2rayb.lightningz.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:8880
-vless://a532a0ba-30b8-429c-8b64-ee5329151297@45.14.174.6:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🇩🇪 DE-45.14.174.6:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.147.43:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.169.112:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.169.112:443
 vless://3e77855d-dde3-48fa-8e69-d3e3b976c585@104.18.37.111:2052?security=none&type=ws&host=almanv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.retete.fun.&path=/germaniV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.111:2052
@@ -603,3 +595,11 @@ trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.98.75:2053?security=tls&sni=
 trojan://NISHIKUITAN222@8.219.111.175:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.175:8443
 trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083
 trojan://pUxG77WPOZ@104.17.148.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+trojan://telegram-id-directvpn@54.75.207.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.75.207.130:22222
+trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
+trojan://telegram-id-directvpn@13.60.151.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.151.38:22222
+trojan://fMucnQTndf@[2603:c020:400a:9ff9::8]:443?#🔒 TR-TCP-NA 🇺🇸 US-[2603:c020:400a:9ff9::8]:443
+trojan://nkmnlPd4k2@45.67.32.147:31104?security=reality&sni=discordapp.com&type=grpc&serviceName=DiscordApp&fp=chrome&pbk=zyH6UtOnpnRnv_DQQE4KVnP2iD6o2R7dx1VPS6BbGV8&sid=109b91b5#🔒 TR-GRPC-REALITY 🇷🇺 RU-45.67.32.147:31104
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.42.19:2083?security=tls&sni=mailbox.cpifORpERsia.UK&type=ws&host=mailbox.cpifORpERsia.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.19:2083
+trojan://5f5cbdd9cc@82.223.108.64:443?security=tls&sni=sp1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇪🇸 ES-82.223.108.64:443
+trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@195.123.213.46:443?security=tls&sni=ua-full.privateip.net#🔒 TR-TCP-TLS 🇱🇻 LV-195.123.213.46:443
