@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-directvpn@3.254.227.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 10
-trojan://telegram-id-directvpn@18.134.63.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 11
-trojan://telegram-id-directvpn@13.43.29.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 12
-trojan://telegram-id-directvpn@13.39.209.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 13
 trojan://telegram-id-directvpn@13.39.73.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@13.50.156.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 15
 trojan://telegram-id-directvpn@13.50.9.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 16
@@ -29,7 +25,7 @@ ss://Mzc4YWMyMDctMzhkMy00NDAxLWJhOTYtM2E3OTMxOTY4YmM1Og==@148.113.175.147:80#�
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.44.155:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
 ss://OTk0YzkxZGQtYjI4Mi00YzI1LWEwYzUtYWY3NmI0ODBjMDgwOg==@66.235.200.1:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 8
 ss://MWRlNDA3MjUtM2U2Yi00MmIxLTllM2UtMzMwYzg1MmQwNDllOg==@172.66.46.225:8443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 9
-ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@6544.outline-vpn.cloud:8080#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 10
+ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@6544.outline-vpn.cloud:8080#🇨🇷CR | 🟢 | ss | @DeamNet_Proxy | 10
 ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@188.114.97.141:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 11
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.24.37:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 12
 ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 14
@@ -603,3 +599,7 @@ trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=ban
 trojan://ypDt8RkT7J@89.187.189.88:43118?security=tls&sni=tpmrr.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇨🇿 CZ-89.187.189.88:43118
 trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.130:43118
 trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
+trojan://telegram-id-privatevpns@51.44.46.184:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.46.184:22222
+trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&sni=earya.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-185.180.13.70:43118
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.41.208:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.41.208:443
+trojan://telegram-id-privatevpns@13.42.111.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.42.111.239:22222

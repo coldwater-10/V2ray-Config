@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.18:5003#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjRjSzdBeGtFWDBzdjZMT09iVVAw@89.185.84.185:12575#🔒 SS-TCP-NA 🇬🇧 GB-89.185.84.185:12575
-ss://YWVzLTEyOC1nY206MjAyMzA4MzEyMzU4MDAwMDAwMDAwMDIw@103.151.40.98:1020#🔒 SS-TCP-NA 🇯🇵 JP-103.151.40.98:1020
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.154:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.154:8882
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZFBKSkF2WW5QTk1vNXlTcmhEWVNH@64.176.166.4:62557#🔒 SS-TCP-NA 🇮🇱 IL-64.176.166.4:62557
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.225:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8882
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.42:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:7002
@@ -603,3 +599,7 @@ vless://d9637a00-15a3-45ef-b53b-082f9c08c268@185.146.173.237:80?path=%2F%40Proxy
 vless://d9416e42-928a-4bee-d647-1a0bacf5ce75@185.146.173.32:8880?path=%2Ftelegram-%40spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Ctelegram-spikevpn%2Cspikev2rayng-V2raynspike-telegram-spike-vpn%3Fed%3D2056&security=none&encryption=none&host=inaslnyekosshernist.borogomsho12pa34.kiling-spoooky---dude.spikevpn.cfd.&type=ws#RELAY🚩 | inaslnyekosshernist.borogomsho12pa34.kiling-spoooky---dude.spikevpn.cfd.-8880 | 31.26ms
 vless://d7dd3a35b68b4992b319a85b8a1fc8e5@213.35.115.68:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#RELAY🚩 | dns68.putata.eu.org-443 | 349.78ms
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.61.83.37:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&type=ws&sni=dns68.putata.eu.org#RELAY🚩 | dns68.putata.eu.org-443 | 2.61ms
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.61.83.37:443?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org#RELAY🚩 | dns68.putata.eu.org-443 | 3.58ms
+vless://d7d7adc4-3056-4876-f1b5-ba18731c0af8@104.17.180.185:8443?security=tls&sni=free.smelean.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#RELAY🚩 | free.smelean.ir-8443 | 233.07ms
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#RELAY🚩 | e10c0e4b.oodaeq2.pages.dev-443 | 15.71ms
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2FTelegram-%40Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#RELAY🚩 | e10c0e4b.oodaeq2.pages.dev-443 | 2.75ms
