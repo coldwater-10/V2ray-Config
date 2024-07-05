@@ -161,6 +161,7 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt",
         "https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/tuic%20%26%20hy2.txt",
         "https://alienvpn402.github.io/AlienVPN402-subscribe-servers-sing-box",
+        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://miner.isherv.in",
         "https://api.yebekhe.link/shervin/",
         "https://raw.githubusercontent.com/1Shervin/Sub/main/v2ray",
