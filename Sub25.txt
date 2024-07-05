@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.235.195:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.235.195:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.82.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.82.58:80
 vless://ae052ac1-ceea-476a-8846-24a70fb69c8b@[2606:4700:3037::6815:194]:2083?security=tls&sni=marketepicnode6.nabarbest.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3037::6815:194]:2083
 vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.246.225:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.225:8880
@@ -603,3 +602,4 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.192.157:443?security=tls&sni=jo
 trojan://NISHIKUITAN222@47.237.14.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.14.220:8443
 trojan://NISHIKUITAN222@104.19.51.59:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.59:443
 trojan://bfc552e8-2607-4386-9c90-81437ac5ba23@46.3.96.108:2024?security=tls&sni=sg6.naizi.vip&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-46.3.96.108:2024
+trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.181.172:443
