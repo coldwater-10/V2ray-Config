@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-146.56.179.67:40005
+trojan://52407859fe@91.209.70.106:44?security=tls&sni=ru1.connecton.surf#🔒 TR-TCP-TLS 🇧🇿 BZ-91.209.70.106:44
+trojan://telegram-id-directvpn@13.50.149.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.149.52:22222
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
+trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.76.49.246:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.76.49.246:2053
+trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
+trojan://3080amimVq@104.21.72.61:2053?security=tls&sni=frankfoortvip.followprovider.ir&type=ws&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.61:2053
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM#🔒 TR-GRPC-TLS 🏴‍☠️ NA-188.114.98.0:443
 trojan://NISHIKUITAN222@8.222.183.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.183.242:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.125:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.125:8443
@@ -595,11 +603,3 @@ trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&sn
 trojan://telegram-id-directvpn@3.79.131.235:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.131.235:22222
 trojan://telegram-id-directvpn@15.157.141.220:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.141.220:22222
 trojan://E0002134H@104.21.109.230:443?security=tls&sni=6504e90a.xpxroject.pages.dev&type=ws&host=6504e90a.xpxroject.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.109.230:443
-trojan://OVsFRZT5jG@172.67.191.189:443?security=tls&sni=web.teama.tk&type=ws&host=web.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.191.189:443
-trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
-trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com#🔒 TR-TCP-TLS 🇨🇦 CA-138.199.57.185:43118
-trojan://ccaabab-abca-cbaa-adbc-bbacaacbcbac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTphYmFjYmNhLWJhYWMtYmNhYS1iZGNhLWNhYmJhYWJiY2NhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 MON-18-TIR-1403 🕑 23:00
-ss://bm9uZTphY2FiY2FiLWJhY2EtY2FhYi1hYmRjLWNjYWJiYWFiY2NiYQ==@127.0.0.1:2080#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.114.6:5499#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.6:5499
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.31:5601#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:5601

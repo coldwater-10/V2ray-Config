@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.66.11:2087?security=tls&sni=PPAl03.TINoJO7099.worKERs.DeV&type=ws&host=PpaL03.tINOJO7099.workerS.dEV&path=%2FLCjr2Pjva1I0fqy0%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.11:2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:20::681a:75f]:2053?security=tls&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&type=ws&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:20::681a:75f]:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.242.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.242.201:80
+vless://1b7f55e9-e89e-432e-fa73-53008ca7ef9e@37.152.189.22:49339?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.189.22:49339
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.86:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.86:80
+vless://9b174395-2af1-49e4-bc0c-542b6366522f@172.67.171.49:8080?security=none&type=ws&host=31ww.debian.org.3.debian.org.speedtest.net.azadistadium.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:8080
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.110.240:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.184:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.27.217:2053?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.27.217:2053
 vless://e695cbee-0c5f-48bc-8d5f-93012fd4a1ad@92.38.168.14:80?security=none&type=ws&host=music-farsi.com#🔒 VL-WS-NONE 🇺🇸 US-92.38.168.14:80
@@ -595,11 +603,3 @@ trojan://NISHIKUITAN222@8.219.83.71:8443?security=tls&sni=t111.ylks.link&type=ws
 trojan://telegram-id-privatevpns@35.159.191.2:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.159.191.2:22222
 trojan://moist@47.243.67.28:2083?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-47.243.67.28:2083
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.157:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.157:2087
-trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-146.56.179.67:40005
-trojan://52407859fe@91.209.70.106:44?security=tls&sni=ru1.connecton.surf#🔒 TR-TCP-TLS 🇧🇿 BZ-91.209.70.106:44
-trojan://telegram-id-directvpn@13.50.149.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.149.52:22222
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
-trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.76.49.246:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.76.49.246:2053
-trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
-trojan://3080amimVq@104.21.72.61:2053?security=tls&sni=frankfoortvip.followprovider.ir&type=ws&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.61:2053
