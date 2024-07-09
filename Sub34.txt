@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8888
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989
+ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.17.110.12:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.110.12:443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.115:7002#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.115:7002
+ss://YTk0Y2NmOTgtMTljOC00ZGU0LWJmYjMtYWMzN2E2Njk2NzI5Og==@172.66.44.240:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.240:8443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.113.204.156:443#🔒 SS-TCP-NA 🇯🇵 JP-13.113.204.156:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8882
@@ -598,8 +603,3 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.13:443?type=ws&encryption
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.136.14:443?type=ws&encryption=none&host=nnfgrr.azurewebsites.net&path=%2F&security=tls&sni=nnfgrr.azurewebsites.net#US🇺🇸 | nnfgrr.azurewebsites.net-443 | 66.76ms
 vless://6f74afeb-e1c4-4bc0-a167-d2925bee62b3@104.25.191.117:443?path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http%2F1.1&host=hetzner6ksflsf.nftsmmpanel.com&fp=randomized&type=ws&sni=hetzner6ksflsf.nftsmmpanel.com#DE🇩🇪 | hetzner6ksflsf.nftsmmpanel.com-443 | 180.59ms
 vless://6f74afeb-e1c4-4bc0-a167-d2925bee62b3@104.25.191.117:443?type=ws&encryption=none&host=hetzner6ksflsf.nftsmmpanel.com&path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&sni=hetzner6ksflsf.nftsmmpanel.com&alpn=http%2F1.1&fp=randomized#DE🇩🇪 | hetzner6ksflsf.nftsmmpanel.com-443 | 158.61ms
-vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:80?type=ws&encryption=none&host=Uk1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray#GB🇬🇧 | Uk1.vless.site.-80 | 175.6ms
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=randomized&type=ws&sni=test-teSt-tEsT-teSt.pagES.DEv#RELAY🚩 | test-teSt-tEsT-teSt.pagES.DEv-443 | 51.38ms
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=%2FDXapKozkFI9aiqC7%3Fed&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=randomized&type=ws&sni=TeST-TESt-tEst-tESt.PagES.DEV#RELAY🚩 | TeST-TESt-tEst-tESt.PagES.DEV-443 | 9.44ms
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=%2FDXapKozkFI9aiqC7%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=randomized&type=ws&sni=TeST-TESt-tEst-tESt.PagES.DEV#RELAY🚩 | TeST-TESt-tEst-tESt.PagES.DEV-443 | 9.34ms
-vless://67aaeabb-cb78-44b0-913c-2afb628811fd@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#RELAY🚩 | dcc4.servernet.fun.-8080 | 31.54ms
