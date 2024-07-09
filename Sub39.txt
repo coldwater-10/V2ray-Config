@@ -3,28 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "DE9E32FF31B704BF98967202DE78D00D",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
@@ -603,3 +581,25 @@ vless://03c06af1-0faa-4712-9b79-f4854475fa16@172.67.169.139:80?encryption=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?encryption=none&type=ws&path=%2F&host=a.ssll.gay&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=a.ssll.gay#261-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_070823009
 vless://a348ba81-9ef2-4f80-e4ff-b58b22c4db8b@173.245.58.100:2052?encryption=none&type=ws&host=zula.ir.www.speedtest.net.%D0%B5%D2%B2%E2%80%94%D0%B5%D2%B2%E2%80%94%D0%B7%E2%80%9D%C2%B7%D0%B4%D3%99%D3%A2%D0%B7%D2%A1%E2%80%9E%D0%B4%D3%99%D3%A2%D0%B5%D2%B2%E2%80%94%D0%B4%D1%91%D2%A0%D0%B8%D3%A9%D3%A3%D0%B7%E2%80%9D%C2%B784.Online.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=zula.ir.www.speedtest.net.%D0%B5%D2%B2%E2%80%94%D0%B5%D2%B2%E2%80%94%D0%B7%E2%80%9D%C2%B7%D0%B4%D3%99%D3%A2%D0%B7%D2%A1%E2%80%9E%D0%B4%D3%99%D3%A2%D0%B5%D2%B2%E2%80%94%D0%B4%D1%91%D2%A0%D0%B8%D3%A9%D3%A3%D0%B7%E2%80%9D%C2%B784.Online.#262-%E7%BE%8E%E5%9B%BD_0708231997
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.210.131:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#263-%E6%9C%AA%E7%9F%A5_0708239972
+vless://94de0d76-92ea-491e-ada3-d834cfa5f668@104.21.70.222:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=net3.irnicho.monster#264-%E6%9C%AA%E7%9F%A5_0708239927
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=cfed.tgzdyz2.top#265-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_070823096
+vless://ee091af5-83cc-445c-9ced-79a65a8f9a40@173.245.49.64:80?encryption=none&type=httpupgrade&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=173.245.49.64#266-%E6%B3%95%E5%9B%BD_070823069
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.70:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=http%2F1.1&fp=randomized&sni=kr1.175852.xyz#267-%E6%9C%AA%E7%9F%A5_0708239906
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.211.224:443?encryption=none&type=ws&path=%2F07n1q4ys4Pwba7qM&host=sANDWOrm.pAGEs.DeV&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C10-50&sni=sandWorm.PaGES.DEv#268-%E7%BE%8E%E5%9B%BD_0708233307
+vless://5d5bb467-0562-4a07-9d50-5982acb34174@188.114.97.3:8080?encryption=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&security=none&alpn=http%2F1.1&fp=randomized&sni=VPNCUSTOMIZE.V2ray.Community.#269-%E8%8D%B7%E5%85%B0_070823243
+vless://82eb7e99-878d-402b-d53c-e36de2338b21@188.114.97.3:443?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=dl1.spikevpn.cfd#270-%E8%8D%B7%E5%85%B0_070823088
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.24.161.146:4090?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-50%2C10-20&sni=cfed.tgzdyz2.top#271-%E6%B3%95%E5%9B%BD_070823067
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?encryption=none&type=ws&path=twitterfreecodes&host=a.ssll.gay&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C20-50&sni=a.ssll.gay#272-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_070823014
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.120.94.159:443?encryption=none&type=ws&host=tmcir.pages.dev&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=PAGES.DEV#273-%E7%BE%8E%E5%9B%BD_0708233667
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.188:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-20%2C10-50&sni=cfed.tgzdyz2.top#274-%E7%BE%8E%E5%9B%BD_0708231620
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.106.183:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#275-%E6%9C%AA%E7%9F%A5_0708237466
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.208:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#276-%E6%9C%AA%E7%9F%A5_0708237268
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.4:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#277-%E6%9C%AA%E7%9F%A5_0708236790
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.75:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#278-%E6%9C%AA%E7%9F%A5_0708239234
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=t-netplus1.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=t-netplus1.pages.dev#279-%E7%BE%8E%E5%9B%BD_0708231654
+vless://19477f96-ea81-4f5b-93e7-119a171a7813@104.21.7.27:443?encryption=none&type=ws&path=%2Fsafe&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=safe.footballlovernews.com#280-%E6%9C%AA%E7%9F%A5_0708236839
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.245:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#281-%E6%9C%AA%E7%9F%A5_0708236677
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.108:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=ios&sni=us3.rtacg.com#282-%E6%9C%AA%E7%9F%A5_0708239976
+vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@172.67.25.165:443?encryption=none&type=ws&path=%2Fvless%3Fed&host=at1.vless.site&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=at1.vless.site#283-%E7%BE%8E%E5%9B%BD_0708232979
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.89:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=kr1.175852.xyz#284-%E6%9C%AA%E7%9F%A5_0708239836
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=mmdv2.pages.dev#285-%E7%BE%8E%E5%9B%BD_0708231559
