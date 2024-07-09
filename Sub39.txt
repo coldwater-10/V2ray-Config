@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "135238:ekBYebTKgsF",
-			"obfs" : "plain",
-			"obfsparam" : "dad31135238.wns.windows.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		}
-	],
-	"index" : 0,
-	"random" : true,
 	"sysProxyMode" : 3,
 	"shareOverLan" : false,
 	"localPort" : 1080,
@@ -603,3 +590,16 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.18:80?encryption=none&ty
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@108.162.198.123:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#316-%E7%BE%8E%E5%9B%BD_0708232498
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.45:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=edtunnel-csc.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=edtunnel-csc.pages.dev#317-%E7%BE%8E%E5%9B%BD_0708232387
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.253.141:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#318-%E6%9C%AA%E7%9F%A5_0708236706
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.66:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=kr1.175852.xyz#319-%E7%BE%8E%E5%9B%BD_0708231930
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@162.251.82.187:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=ARM64-V8A.pages.DEV#320-%E7%BE%8E%E5%9B%BD_0708231492
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.253:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=chrome&sni=us3.rtacg.com#321-%E8%8D%B7%E5%85%B0_070823313
+vless://d1c39c87-0ce1-497f-ba7a-59672b005a49@104.16.0.0:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-20&sni=t5.funlifea.shop#322-%E6%9C%AA%E7%9F%A5_0708236975
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.157:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2&fp=safari&sni=kr1.175852.xyz#323-%E6%9C%AA%E7%9F%A5_0708239306
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.18.162:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=randomized&sni=us3.rtacg.com#324-%E6%9C%AA%E7%9F%A5_0708239473
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.161:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=safari&sni=us3.rtacg.com#325-%E6%9C%AA%E7%9F%A5_0708238145
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.28:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=kr1.175852.xyz#326-%E6%9C%AA%E7%9F%A5_0708236666
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.64.16.165:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=current.ircp.online&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=current.ircp.online#327-%E7%BE%8E%E5%9B%BD_0708232808
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.16.194:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#328-%E6%9C%AA%E7%9F%A5_0708238172
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.35.103:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#329-%E6%9C%AA%E7%9F%A5_0708236716
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@104.31.16.196:80?encryption=none&type=ws&path=%2FDiReCt49-13-163-226-CleAnMaRk-IR&host=DiReCt49-13-163-226.CleAnMaRk.IR&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=DiReCt49-13-163-226.CleAnMaRk.IR#330-%E6%9C%AA%E7%9F%A5_0708239224
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.8.184:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=us3.rtacg.com#331-%E6%9C%AA%E7%9F%A5_0708239862
