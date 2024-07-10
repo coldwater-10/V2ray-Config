@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "DE9E32FF31B704BF98967202DE78D00D",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
 			"server_udp_port" : 0,
 			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
@@ -603,3 +589,17 @@ vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjY1LfCfh7rwn4e4IF9VU1/nvo7lm70iLCJhZGQiOiIx
 vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.194:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C50-100%2C20-50&sni=v2rayc.peymod.com#266-%E6%96%B0%E5%8A%A0%E5%9D%A1_071008442
 vless://d9c91a0a-64dd-4ada-b2dd-447bf63858f5@151.101.142.20:80?encryption=none&type=ws&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&host=pardazeshvpn.tg0.ir&security=none&alpn=h2&fp=firefox&sni=pardazeshvpn.tg0.ir#267-%E9%98%BF%E8%81%94%E9%85%8B_071008014
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@singapore.com:443?encryption=none&type=ws&path=%2Fblue&host=hk112.ylks.link&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=hk112.ylks.link#268-%E6%9C%AA%E7%9F%A5_07100810760
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjY5LfCfh7rwn4e4IOe+juWbvSBDbG91ZEZsYXJl6IqC54K5IiwiYWRkIjoiMTA0LjE5LjU5Ljg5IiwicG9ydCI6MjA1MiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoiY2RuMS5mcmVlZ3JhZGVseS54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJjZG4xLmZyZWVncmFkZWx5Lnh5eiIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?encryption=none&type=ws&path=%2F%40bypass_filter%2F%3Fed%3D100&host=bypassfilter.cmyyvat.workers.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-20&sni=bypassfilter.cmyyvat.workers.dev#270-%E7%BE%8E%E5%9B%BD_0710082345
+vless://6176f2d6-7db3-417b-9017-4904270ffbb4@104.21.91.124:2096?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=xpaceteam-mci.cataba.ir#271-%E6%9C%AA%E7%9F%A5_0710089960
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjcyLfCfh6jwn4ezIOW5v+S4nOecgSDnp7vliqgiLCJhZGQiOiIxODMuMjQwLjIzNS4xNjIiLCJwb3J0Ijo1NDg4MiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsImFscG4iOiJoMiIsImZwIjoic2FmYXJpIn0=
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjczLfCfh7rwn4e4IOe+juWbvSBDbG91ZEZsYXJl6IqC54K5IiwiYWRkIjoiMTA0LjE5LjQ1LjkwIiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoiaXAyLjE0NTcyMzAueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAyLjE0NTcyMzAueHl6IiwiYWxwbiI6ImgyIiwiZnAiOiJhbmRyb2lkIn0=
+vless://842bead9-8f6e-42d9-9437-766952c4b33e@104.16.219.230:2087?encryption=none&type=ws&path=%252...&host=vi6.tavalede.co&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=vi6.tavalede.co#274-%E6%9C%AA%E7%9F%A5_07100810574
+vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@103.184.45.251:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop#275-%E4%B8%AD%E5%9B%BD_071008030
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.255.30.3:22222?encryption=none&type=ws&path=%2Ftelegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=telegram-channel-vlessconfig.sohala.uk#276-%E7%88%B1%E5%B0%94%E5%85%B0_071008008
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.8:443?encryption=none&type=ws&path=twitterfreecodes&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=a.ssll.gay#277-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_071008055
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.253:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#278-%E8%8D%B7%E5%85%B0_071008140
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.148:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2&fp=randomized&sni=kr1.175852.xyz#279-%E6%9C%AA%E7%9F%A5_07100810589
+vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.207:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=MOJ.Bklink.IR#280-%E6%96%B0%E5%8A%A0%E5%9D%A1_071008180
+vless://bab958f4-9527-4417-a020-e37ce7524d22@Ipv6.acangame.ir:446?encryption=none&type=grpc&security=none&alpn=h3%2Ch2&fp=firefox&sni=Ipv6.acangame.ir#281-%E5%BE%B7%E5%9B%BD_071008290
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjgyLTEwfPCfh63wn4ewIOmmmea4rzN8QHJpcGFvamllZGlhbiIsImFkZCI6IjExMi4xMzIuMjEyLjE5IiwicG9ydCI6NTAwMDQsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwidGxzIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiYW5kcm9pZCJ9
