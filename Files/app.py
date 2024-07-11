@@ -158,6 +158,7 @@ def main():
     dir_links = [
         "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt",
         "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/hysteria2",
+        "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/hysteria2",
         "https://raw.githubusercontent.com/jahangirGH/sublinks/main/tuicsub.txt#IrancpinetSub1",
         "https://drive.google.com/uc?export=download&id=1Gkg2Ru0fO7-4UDNEks5vBWEXih-6_DKW",
         "https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt",
