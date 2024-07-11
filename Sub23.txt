@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.100.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.100.66:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.59.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.59.58:80
-vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@94.242.230.213:443?security=tls&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat&type=grpc#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.230.213:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.136:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.170.136:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.200:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.98:443?security=tls&sni=kkh.ylks.link&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.98:443
@@ -603,3 +599,7 @@ vless://8e61d1cf-11f3-4e6e-866c-8429b5020f7a@217.60.239.177:17328?security=none&
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.16.23.29:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.23.29:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.33.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.33.215:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.38.222:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.38.222:80
+vless://d0a907a2-a5d7-418f-a6ac-08fe5e3199c7@104.21.76.252:2053?security=tls&sni=rpn.jerkinhead.ir&type=ws&host=rpn.jerkinhead.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.252:2053
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@162.120.94.175:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.175:2096
+vless://408ac76d-672f-4292-bb5b-c2a55db05cc4@92.223.124.48:80?security=none&type=ws&host=pardazeshvpn.com#🔒 VL-WS-NONE 🇩🇪 DE-92.223.124.48:80
+vless://6c4c66b4-fd23-49c7-8d4e-fd018e9a4895@37.27.84.48:51077?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.84.48:51077
