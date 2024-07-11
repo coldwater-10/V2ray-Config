@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
@@ -599,7 +603,3 @@ vmess://eyJ0eXBlIjoiIiwicHMiOiIyMTYt8J+HqPCfh6ZDQV84X0BTdXJmYm9hcmR2MnJheSIsImFk
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyMTct8J+HqPCfh6ZDQV8xNF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxNzIuNjcuNzEuMTYwIiwicG9ydCI6NDQzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvYmRpaS5jZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6Im9iZGlpLmNmZCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiaW9zIn0=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.192.188:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=mmdv2.pages.dev#218-%F0%9F%87%BA%F0%9F%87%B8US_383_%40Surfboardv2ray
 vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.64.155:443?encryption=none&type=ws&path=%2F&host=farm.vpn.farm.vpnbdhdjwj.sbs&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=www.elledecor.com#219-%F0%9F%87%BA%F0%9F%87%B8US_171_%40Surfboardv2ray
-vless://61b3cbba-e6ac-485a-9481-976a5415eab9@104.21.31.229:443?encryption=none&type=ws&host=lIngerInG-dARKnESs-0D00.detAcaG555.WorKErS.dEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=lINgeRIng-dARKneSs-0D00.deTACag555.WorkeRS.Dev#220-%F0%9F%87%A8%F0%9F%87%A6CA_164_%40Surfboardv2ray
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=t-netplus-4vx.pages.dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=t-netplus-4vx.pages.dev#221-%F0%9F%87%A8%F0%9F%87%A6CA_313_%40Surfboardv2ray
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&type=ws&path=%2F%3Fed&host=bpb-worker-panel-chf.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-20&sni=bpb-worker-panel-chf.pages.dev#222-%F0%9F%87%A8%F0%9F%87%A6CA_414_%40Surfboardv2ray
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@104.17.148.22:443?encryption=none&type=ws&path=%2F&host=7f905f51.garywelch.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C10-50&sni=7f905f51.garywelch.pages.dev#223-%F0%9F%87%BA%F0%9F%87%B8US_233_%40Surfboardv2ray
