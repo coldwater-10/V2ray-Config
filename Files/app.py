@@ -80,6 +80,7 @@ def main():
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic",
         "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2",
+        "http://91.231.182.239:2096/sub/oUODTZ1C",
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged_base64",
         "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated",
         "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vmess",
