@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://2634cc5c-c620-4506-8a03-3ce563312a15@152.42.230.29:443?security=tls&sni=aka.ms&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.230.29:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@205.233.181.144:443?security=tls&sni=xinh.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.144:443
 vless://05214830-5d65-4ee1-a3d4-68f36cbea637@185.170.166.124:443?security=tls&sni=api5.htve.ir&type=ws&host=api5.htve.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-185.170.166.124:443
 vless://092f3363-3980-4c0f-a7e0-5a3a59511f1e@14.102.228.64:443?security=tls&sni=de2ocean.mohamadphp.ir&type=grpc&serviceName=vless-grpc&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-14.102.228.64:443
 vless://17cf14d6-60fb-4ae6-bf1b-fdfcd114e936@185.24.252.126:456?security=tls&sni=zerma.ir&type=ws&host=zerma.ir&path=%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇮🇷 IR-185.24.252.126:456
@@ -603,3 +601,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.4:443?security=tls&sni=94
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.17.20.32:80?security=none&type=ws&host=LG3.topshop20.com&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.20.32:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.180.51:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2087
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.0.241:8880?type=ws&host=%E6%A8%B1%E6%A1%83.%E6%B5%86%E6%9E%9C.%E8%8D%89%E8%8E%93.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A82024%E5%9C%B0%E7%8B%B1.site.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.0.241:8880
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.212.141:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.212.141:8919
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.151:443?security=tls&sni=hkh.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.151:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3fd97eba-2517-4011-8bc3-50356388cf91@85.158.145.202:2083?security=tls&sni=Panel.amazonwashop2.top&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-85.158.145.202:2083
-vless://a026abc3-3376-4cec-bd20-e3a24dfe2850@85.9.110.165:52926?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.110.165:52926
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@205.233.181.142:443?security=tls&sni=xini.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.142:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.31.141:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.141:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.169.115:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.115:80
@@ -603,3 +601,5 @@ vless://31100534-bcec-4b7e-a577-d3d193bd6446@104.16.17.18:443?security=tls&sni=c
 vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.130.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.57.245.232:443?security=tls&sni=hki.ylks.link&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-47.57.245.232:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.246:80
+vless://dd5a38d3-71a0-4f22-8693-bad730adbd0b@162.159.7.247:443?security=tls&sni=sky.ararat3d.com&type=ws&host=sKy.ARaraT3d.cOm.&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.68:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.68:80
