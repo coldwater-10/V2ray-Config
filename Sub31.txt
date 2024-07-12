@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://fdc65525-e161-3356-9992-f0446eff60fc@8.211.197.163:14586?security=tls&sni=ukvip101.qlgq.fun&type=grpc&serviceName=ukvip101#🔒 TR-GRPC-TLS 🇬🇧 GB-8.211.197.163:14586
-trojan://14bdba6dede262387ebdebaa706e1c90@133.18.230.121:443?security=tls&sni=trs05.bolab.net&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-133.18.230.121:443
 trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
 trojan://ypDt8RkT7J@138.199.41.25:43118?security=tls&sni=dngn.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-138.199.41.25:43118
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.2:443
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SkV2bDR6b2xwYXVoMUVlNnhMeWJ4@103.35.190.211
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmZiNjkyZS0xYzhiLTNhNjUtYWQ4My0yM2FkOWRlZWUxMTE=@154.16.55.112:61005#🔒 SS-TCP-NA 🇯🇵 JP-154.16.55.112:61005
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:6697
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@213.183.63.69:9027#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9027
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#🔒 SS-TCP-NA 🇵🇱 PL-94.228.165.178:58176
