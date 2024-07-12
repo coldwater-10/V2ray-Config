@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://38d10eab-39b9-4794-a814-b394a33da7c5@104.16.219.243:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.219.243:443
 vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.178.18:443?security=tls&sni=PpaL03.BOmoc17486.WorkERs.DEv&type=ws&host=pPal03.bOmOC17486.WorKeRs.dEv&path=%2FK3a7c9fHg6oDGDUp%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.18:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
@@ -603,3 +602,4 @@ trojan://4aec4e7f8cf8454ea4613659822e1a61@104.16.159.112:443?security=tls&sni=jo
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.220.84.2:46002?#🔒 TR-TCP-NA 🇨🇳 CN-120.220.84.2:46002
 trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@195.123.213.46:443?security=tls&sni=ua-full.privateip.net#🔒 TR-TCP-TLS 🇱🇻 LV-195.123.213.46:443
 trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sni=AtYrGkMyE51.diamondgalery.ir&type=ws&host=AtYrGkMyE51.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🇺🇸 US-162.251.82.187:443
+trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇷🇺 RU-185.59.218.220:443
