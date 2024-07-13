@@ -156,6 +156,7 @@ def main():
         "https://proxy.crazygeeky.com/trojan/sub",
         "https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a",
         "https://sub.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k961d68",
+        "https://falcocloud.730894.xyz/api/v1/client/subscribe?token=2be7ea32053de07b2453f7516894b215",
     ]
     dir_links = [
         "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/hys-tuic.txt",
