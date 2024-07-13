@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://c0b4f67c-d0ba-4384-8680-7e5f87f18be1@104.26.6.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.89:443
+vless://fbc05b63-d4af-4f36-a254-bd97b2723a32@146.75.36.223:443?security=tls&sni=www.python.org&type=ws&host=sepehr-shaparak.ir&path=%2Ftelegram%3Djd_vpn%3Fed%3D1024&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-146.75.36.223:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.173.170:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.173.170:80
+vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-79.132.192.72:41343
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.72:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.54.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.54.59:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.150.253:80
@@ -599,7 +603,3 @@ trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&
 trojan://telegram-id-privatevpns@35.156.143.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.143.6:22222
 trojan://ypDt8RkT7J@62.210.83.57:43118?security=tls&sni=ruvil.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.83.57:43118
 trojan://96950280-3970-11ef-9ee2-1239d0255272@172.67.204.84:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
-trojan://telegram-id-directvpn@18.211.127.227:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.211.127.227:22222
-trojan://teYlM0h6dQ@172.105.122.253:54523?security=tls&sni=m.facebook.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-172.105.122.253:54523
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.22.19:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.22.19:443
-trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-139.162.84.183:3306
