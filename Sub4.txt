@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🚩CF | 🔴 | vless | @Capital_NET | 14
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇨🇦CA | 🔴 | vless | @Capital_NET | 16
-vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🇺🇸US | 🔴 | vless | @Capital_NET | 17
-vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🇳🇱NL | 🟢 | vless | @Capital_NET | 18
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#🇨🇦CA | 🔴 | vless | @Capital_NET | 19
-vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🇳🇱NL | 🟢 | vless | @Capital_NET | 20
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=/#🇳🇱NL | 🔴 | vless | @Capital_NET | 21
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?mode=gun&security=reality&encryption=none&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=fada4f5f#🇫🇮FI | 🔴 | vless | @Capital_NET | 22
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?mode=gun&security=reality&encryption=none&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=a18472f7#🇩🇪DE | 🔴 | vless | @Capital_NET | 23
@@ -142,6 +136,7 @@ trojan://telegram-id-directvpn@18.170.101.117:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.36.127.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 13
 trojan://telegram-id-directvpn@15.237.239.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@13.53.118.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 15
+trojan://telegram-id-privatevpns@3.75.2.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @ConfigsHUB | 6
 #profile-title: base64:VFZDIHwgU1M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -603,3 +598,8 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.11:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.235:2052?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.235:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?security=tls&sni=kkh.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.90:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.33:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.33:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?security=tls&sni=hki.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.251:443
+vless://090ac18d-09db-4abe-b525-52d361da0e1b@104.17.98.95:8443?security=tls&sni=contact.my-contorol.com&type=grpc&serviceName=t.me/entryNET&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.98.95:8443
+vless://29cf96e6-8008-4233-a883-4b5daeb72309@199.232.196.193:443?security=tls&sni=imgur.com&type=ws&host=That-Man-3.ir&path=%2F%40azadi_az_inja_migzare%3Fed%3D4096&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.196.193:443
+vless://f2ad7f50-7f9e-4b46-be48-521a322e3df0@185.146.173.38:2052?security=none&type=ws&host=cp.amoozeshaparatprograming.ir.&path=%2F%40Mehran-v2ray-%40LookiVpn%3Fed%3D1024#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.38:2052
+vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=%2Fbackup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
