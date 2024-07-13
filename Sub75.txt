@@ -3,32 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?flow=&type=tcp#@V2rayMiner
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:80?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&type=ws#@V2rayMiner
-vless://f533e37c-9da5-4955-a218-a7886e5719b6@38.180.70.206:80?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=vkvd127.mycdn.me&path=%2FpURR7fXWnkIMyATWmx5f6MblN&type=ws#@V2rayMiner
-vless://e4824193-4f54-453b-d037-88368e85ef0e@data2v3.direct80ip.shop:8880?flow=&type=grpc#@V2rayMiner
-trojan://ypDt8RkT7J@143.244.43.216:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.158.203.31:43118?allowInsecure=1&alpn=http%2F1.1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@51.159.102.179:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://ypDt8RkT7J@151.115.88.59:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://7ac49a893e0bd10c@5.44.249.53:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.wangcai_1&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&fp=chrome&security=tls&sni=vkvd127.mycdn.me&type=tcp#@V2rayMiner
-trojan://b84d16a244460e09@45.11.104.94:3306?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome&host=tg.oeo12&path=%2Fgateway%2Fconnect&security=tls&sni=vkvd127.mycdn.me&type=ws#@V2rayMiner
-socks4://84.46.255.25:1080#@V2rayMiner
-
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
-vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb104238179179.rethamartinez.net&type=grpc#@V2rayMiner
-vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb14420218154.rethamartinez.net&type=grpc#@V2rayMiner
-vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb155138227173.rethamartinez.net&type=grpc#@V2rayMiner
-vless://ParsVip0-ParsVip0-Parsvip000@speed.cloudflare.com:443?alpn=h2%2Chttp%2F1.1&flow=&fp=chrome&security=tls&serviceName=%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0&sni=1-telegram-parsvip0-parsvip0-parsvip0-parsvip0-parsvip0.pars-vip.sbs&type=grpc#@V2rayMiner
-vless://7415478e-0e1b-4f1a-a048-e54c546df7c6@speed.cloudflare.com:80?ed=2048&eh=Sec-Websocket-Protocol&flow=&host=uk02.v.v.v.v-_-_-v2ray-_-_-v.v.v.v.www.speedtest.net.zula.ir.mohamadphp.ir.&path=%2Fvless%2F&type=ws#@V2rayMiner
-vmess://441da342-ce90-441e-bff9-d2ceb55e68ca@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.shf2.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
-vmess://8259cb1c-dd6c-4739-9c88-af550d977525@50.lwdh.us:12940?encryption=auto&fp=chrome&security=tls&sni=50.lwdh.us&type=tcp#@V2rayMiner
-vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb4532220133.rethamartinez.net&type=grpc#@V2rayMiner
-vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb457663171.rethamartinez.net&type=grpc#@V2rayMiner
-vmess://00fb7867-95ad-4eaf-99f1-22255beb6251@speed.cloudflare.com:2053?encryption=auto&fp=chrome&security=tls&sni=szowqddgrtwxeal0ffazn1dvihr5chs4rt1bkfig9tm2xvj5f.protonix.ir.&type=grpc#@V2rayMiner
 vmess://8259cb1c-dd6c-4739-9c88-af550d977525@195.123.240.45:12947?alpn=http%2F1.1&encryption=auto&fp=chrome&host=195.123.240.45&security=tls&sni=57.lwdh.us&type=ws#@V2rayMiner
 vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb14420218154.rethamartinez.net&type=grpc#@V2rayMiner
 vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb155138227173.rethamartinez.net&type=grpc#@V2rayMiner
