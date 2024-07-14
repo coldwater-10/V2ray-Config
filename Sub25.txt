@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.117:443?security=tls&sni=zdyk.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.117:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.204:443?security=tls&sni=zdyk.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.204:443
 vless://1302983f-57bb-440e-b981-4f00558a71ef@194.33.28.1:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-194.33.28.1:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@144.24.243.207:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇨🇭 CH-144.24.243.207:443
@@ -603,3 +602,4 @@ vless://b2239019-56d6-4c7b-aa88-213ffb5846c2@94.228.163.191:443?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.0:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.236.193:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.236.193:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.51.211:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.51.211:443
+vless://b4453922-b52f-422a-8cee-7cbc15ae1949@104.21.1.200:2053?security=tls&sni=f1.uspro.ir&type=httpupgrade&host=f1.uspro.ir&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.1.200:2053

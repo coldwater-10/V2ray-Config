@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
-	"TTL" : 0,
 	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
@@ -603,3 +599,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.215.10:443?encryption=none&t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.35.11:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#334-%E6%9C%AA%E7%9F%A5_0713239611
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzM1LfCfj4FSRUxBWS0xMDQuMTkuNDYuNjMtMDI1NCIsImFkZCI6IjEwNC4xOS40Ni42MyIsInBvcnQiOjIwODYsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJpcDIuMTQ1NzIzMC54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDIuMTQ1NzIzMC54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
 vless://160516dd-6c55-4ba9-d3c7-b6955e15fecf@172.64.40.81:2096?encryption=none&type=ws&path=%2FJoin%40t.me%2Fv2raygofree%2F&host=shoes-sales-online.cyberscaler.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=shoes-sales-online.cyberscaler.com#336-%E7%BE%8E%E5%9B%BD_0713233998
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.55.19:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#337-%E6%9C%AA%E7%9F%A5_0713239486
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?encryption=none&type=ws&host=baipiao1.curly-train.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C30-80%2C10-50&sni=baipiao1.curly-train.pages.dev#338-%E7%BE%8E%E5%9B%BD_0713233806
+vless://6fd588b2-7868-4601-ba75-060756f063da@172.67.191.197:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-50&sni=chykz.fort-games-book.ir#339-%E7%BE%8E%E5%9B%BD_0713232119
+vless://a88a6e98-1c69-4b99-b1f2-1ecb9dc37c11@185.146.173.185:2095?encryption=none&type=ws&path=%2F&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&alpn=http%2F1.1&fp=firefox&sni=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#340-%E7%91%9E%E5%85%B8_071323194
