@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.171.91:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.171.91:443
-trojan://NISHIKUITAN222@8.222.181.117:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.181.117:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.157:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.157:2087
-trojan://1a6c9637-7bf5-41a2-855d-3035c8699709@139.177.191.48:443?security=tls&sni=sg2-full.privateip.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-139.177.191.48:443
 trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
 trojan://hS3A4bVXD2@152.42.236.184:28316?security=none&type=ws&host=m.whatsapp.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-152.42.236.184:28316
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@20.162.145.162:443#�
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.20:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:8881
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbjg5bkZOVGR6YzNtRU90a05XQTlC@37.1.192.68:23166#🔒 SS-TCP-NA 🇩🇪 DE-37.1.192.68:23166
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#🔒 SS-TCP-NA 🇱🇺 LU-92.38.163.53:989
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@80.92.204.106:9064#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9064
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzE1MzRmZi04M2EzLTQxMzctOTFiNy03OWUxNDQ0ODk2NDM=@46.232.123.37:50239#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50239
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
