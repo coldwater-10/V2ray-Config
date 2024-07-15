@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://6af4854b-9d20-405e-9801-0692845f3a7b@193.151.150.95:2080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.150.95:2080
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.107:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.207.108:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.207.108:80
 vless://09e1f9f0-acf8-4603-9543-a856f86bcec7@[2a13:4ac0:10:0:f816:3eff:feee:d870]:54331?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-[2a13:4ac0:10:0:f816:3eff:feee:d870]:54331
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.28.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.245:80
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN222@34.147.231.33:443?security=tls&sni=t726.ylks.link&type=w
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 trojan://NISHIKUITAN222@47.237.82.15:8443?sni=t009.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.237.82.15:8443
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
-trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
-trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&sni=google.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-45.76.47.77:443
