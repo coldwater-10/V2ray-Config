@@ -12,23 +12,6 @@
 		},
 		{
 			"remarks" : "dongtaiwang.com",
-			"id" : "DE9E32FF31B704BF98967202DE78D00D",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
 			"id" : "148477AE146D474DFF2EA001FFF8DF35",
 			"server" : "aiavnd1.vip.conectinnode.info",
 			"server_port" : 1611,
@@ -603,3 +586,20 @@ vless://505094ea-297c-496a-af29-ed33db58f820@172.66.44.237:80?encryption=none&ty
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.200.72:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=edge&sni=us3.rtacg.com#268-%E7%BE%8E%E5%9B%BD_0715083954
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY5LfCfj4FSRUxBWS0xNzIuNjcuMTgzLjM1LTE2ODQiLCJhZGQiOiIxNzIuNjcuMTgzLjM1IiwicG9ydCI6NDQzLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiMzguNzJpbWcueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIzOC43MmltZy54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3gifQ==
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjcwLfCfj4FSRUxBWS0xNTQuOTIuOS4yOS05Mjg2IiwiYWRkIjoiMTU0LjkyLjkuMjkiLCJwb3J0Ijo0NDMsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsImhvc3QiOiIiLCJhbHBuIjoiaDIiLCJmcCI6InJhbmRvbWl6ZWQifQ==
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.156.162:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=chrome&sni=us3.rtacg.com#271-%E7%BE%8E%E5%9B%BD_0715083951
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjcyLTV8ZCoqKioqKioqKmcuY29tXzE2IiwiYWRkIjoiMTA0LjE5LjMyLjIyNiIsInBvcnQiOjIwNTIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImNkbjMuZnJlZWdyYWRlbHkueHl6IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.170.187:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=randomized&sni=us3.rtacg.com#273-%E6%9C%AA%E7%9F%A5_0715086396
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjc0LfCfj4FSRUxBWS0xNTQuOTIuOS4xMzItOTMwOCIsImFkZCI6IjE1NC45Mi45LjEzMiIsInBvcnQiOjQ0MywiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9ibHVlIiwiaG9zdCI6IiIsImFscG4iOiJoMiIsImZwIjoic2FmYXJpIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjc1LfCfj4FSRUxBWS0xMDQuMTkuNDcuMzctMDgwMSIsImFkZCI6IjEwNC4xOS40Ny4zNyIsInBvcnQiOjg0NDMsImlkIjoiMzkxMzVhMzktZTZjYS00M2RmLWEzNjAtZDg1OWVlYTU4ZDg2IiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJoazAxLmxpbmtpdG5vdy5uZXQiLCJob3N0IjoiIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.209:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#276-%E6%9C%AA%E7%9F%A5_0715086001
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.213.222:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=ios&sni=us3.rtacg.com#277-%E6%9C%AA%E7%9F%A5_0715086357
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjc4LfCfh7Pwn4exTkwtMTU0Ljg1LjEuMTI4LTkzMjciLCJhZGQiOiIxNTQuODUuMS4xMjgiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY4NDU4MDc1MjIxMyIsImhvc3QiOiIiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.166.239:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#279-%E6%9C%AA%E7%9F%A5_0715086515
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.143.198:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2%2Chttp%2F1.1&fp=edge&sni=kr1.175852.xyz#280-%E6%9C%AA%E7%9F%A5_0715086539
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjgxLfCfh7rwn4e4IOe+juWbvSBDbG91ZEZsYXJl6IqC54K5IiwiYWRkIjoiMTcyLjY3LjE5OS4yMzIiLCJwb3J0Ijo4MDgwLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJ0bHMiOiIiLCJzbmkiOiJvaWljdHcueXlkc2lpLmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.246:80?encryption=none&type=ws&security=none&headerType=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=198.41.209.246#282-%E6%9C%AA%E7%9F%A5_0715085547
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.56:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=android&sni=us3.rtacg.com#283-%E6%9C%AA%E7%9F%A5_0715085916
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg0LfCfj4FSRUxBWS0xMDQuMjYuMC42Ni0xMTE3IiwiYWRkIjoiMTA0LjI2LjAuNjYiLCJwb3J0IjoyMDUyLCJpZCI6ImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiY2RuMi5mcmVlZ3JhZGVseS54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNkbjIuZnJlZWdyYWRlbHkueHl6IiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjg1LfCfh7rwn4e4IOe+juWbvSBDbG91ZEZsYXJl6IqC54K5IiwiYWRkIjoiMTA0LjE5LjQ3LjIzMSIsInBvcnQiOjgwODAsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjoiMCIsInRscyI6IiIsInNuaSI6Im9paWN0dy55eWRzaWkuY29tIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjg2LfCfh7rwn4e4IOe+juWbvSBDbG91ZEZsYXJl6IqC54K5IiwiYWRkIjoiMTA0LjE5LjQ1LjQ3IiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoiaXAyLjE0NTcyMzAueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAyLjE0NTcyMzAueHl6IiwiYWxwbiI6ImgyIiwiZnAiOiJlZGdlIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg3LfCfj4FSRUxBWS0xNTQuOTIuOS4zLTkyODUiLCJhZGQiOiIxNTQuOTIuOS4zIiwicG9ydCI6ODAsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
