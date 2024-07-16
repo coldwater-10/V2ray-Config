@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://91d7b973-630c-492f-9600-719f6a70f01e@172.64.166.58:443?security=tls&sni=e2.777655.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.166.58:443
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-103.168.154.2:889
+trojan://telegram-VPNHTTPIinjectorfree@104.18.5.250:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@23.102.237.91:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.102.237.91:443
+trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
+trojan://telegram-id-directvpn@18.219.100.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.219.100.154:22222
+trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.64.146.48:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.48:443
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.2:443
+trojan://BO7e2KO_KlAjuJY-HYoabQ@104.21.3.201:443?security=tls&sni=n37-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.3.201:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.144:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.144:443
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
+trojan://auto@159.246.55.132:443?sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=/#🔒 TR-WS-NA 🇺🇸 US-159.246.55.132:443
+trojan://84f8a120-1fd0-11ef-add0-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
 trojan://450524c4-86ee-4a97-ac7f-888942039bcd@172.233.146.107:24444?security=tls&sni=new.download.the-best-airport.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-172.233.146.107:24444
 trojan://telegram-id-privatevpns@13.50.254.145:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.254.145:22222
 trojan://NISHIKUITAN222@47.237.10.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.10.1:8443
@@ -590,16 +603,3 @@ trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.co
 trojan://telegram-id-privatevpns@79.125.127.56:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-79.125.127.56:22222
 trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.234:443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12022?sni=china2.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12022
-trojan://telegram-id-privatevpns@13.39.171.159:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.171.159:22222
-trojan://telegram-id-privatevpns@13.48.216.189:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.216.189:22222
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.137:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.137:2053
-trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
-trojan://NISHIKUITAN222@172.67.199.233:2083?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.199.233:2083
-trojan://telegram-id-privatevpns@13.60.112.192:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.112.192:22222
-trojan://telegram-id-privatevpns@18.135.49.56:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.135.49.56:22222
-trojan://telegram-id-privatevpns@54.72.86.118:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.72.86.118:22222
-trojan://qun521@15.237.55.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.55.233:22222
-trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
-trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&sni=tpmwf.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇹🇷 TR-207.211.215.169:43118
-trojan://6332d0b6-d5c2-4afa-8170-3bfb5e181879@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443
