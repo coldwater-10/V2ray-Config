@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
@@ -587,19 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@141.101.114.86:80?encryption=none&t
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.53:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C20-50&sni=cfed.tgzdyz2.top#266-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B7%F0%9F%87%BA%20RU-31.12.75.53%3A443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.61.150:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2&fp=chrome&sni=kr1.175852.xyz#267-%E6%9C%AA%E7%9F%A5_07161311982
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@ip.sb:2087?encryption=none&type=ws&path=%2Fblue&host=jpn.ylks01.eu.org&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=jpn.ylks01.eu.org#268-%E7%BE%8E%E5%9B%BD_0716133920
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.230.130:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=mmdv2.pages.dev#269-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.230.130%3A443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.232.201:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#270-%E6%9C%AA%E7%9F%A5_0716134872
-vless://cf37227e-d438-4292-8d43-56413fb5d8f1@172.67.229.179:2052?encryption=none&type=ws&path=%2F&host=pdHexy.sHapaRak.bio&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=pdHexy.sHapaRak.bio#271-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.229.179%3A2052
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.58.217:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=android&sni=us3.rtacg.com#272-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.58.217%3A80
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjczLfCfh67wn4ezSU4tMTU1LjI0OC4yNDEuNTItMTI5OSIsImFkZCI6IjE1NS4yNDguMjQxLjUyIiwicG9ydCI6NDQzLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.255.131:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=mmdv2.pages.dev#274-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.255.131%3A443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.45.238:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=us3.rtacg.com#275-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.45.238%3A80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.27:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=kr1.175852.xyz#276-%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.98.27%3A80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.159:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#277-%E6%9C%AA%E7%9F%A5_0716134820
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.243:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#278-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.92.243%3A80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.83:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#279-%E6%9C%AA%E7%9F%A5_0716134082
-vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?encryption=none&type=ws&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none&alpn=h2&fp=android&sni=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#280-%E6%9C%AA%E7%9F%A5_071613143
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.142.9:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=mmdv2.pages.dev#281-%E7%BE%8E%E5%9B%BD_0716132768
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.238.181:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#282-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.238.181%3A80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.21.151:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#283-%E6%9C%AA%E7%9F%A5_0716134813
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.134:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#284-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.26.3.134%3A80
