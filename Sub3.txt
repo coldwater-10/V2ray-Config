@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=vpnmarket-8bm.pages.dev&fp=chrome&type=ws&sni=vpnmarket-8bm.pages.dev#🚩CF | 🔴 | vless | @v2rayng_config_amin | 2
+vless://f93405f5-b64f-40ba-a4da-140b994d511f@143.110.169.55:40987?type=tcp&security=reality&pbk=sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ&fp=firefox&sni=*.sourceforge.net&sid=d3043362&spx=/#🇬🇧GB | 🔴 | vless | @Capital_NET | 6
+vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#🇺🇸US | 🔴 | vless | @Capital_NET | 7
+vless://24f6cf45-67ef-493c-8db8-5cad032bf123@159.223.4.137:38915?security=reality&encryption=none&pbk=V7PuAOITOyH7RZ-PRJndYVA5udmu-DqAp7LdjpNYwUQ&headerType=none&fp=firefox&spx=/&type=tcp&sni=sourceforge.net&sid=33c38f16#🇳🇱NL | 🟢 | vless | @Capital_NET | 8
+vless://cf052982-23bb-4404-8817-05302c50fcd3@168.119.110.229:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 9
 vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&security=reality&pbk=YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE&fp=firefox&sni=sourceforge.net&sid=e7f19002&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 10
 vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇺🇸US | 🔴 | vless | @Capital_NET | 12
@@ -598,8 +603,3 @@ vless://78d8c4e0-ef1e-4321-8e90-77ddd5a694d3@104.17.148.22:8880?Telegram=@V2RayT
 vless://ba6e5115-736e-4377-a0ca-05cab776f628@185.146.173.58:8080?Telegram=@V2RayTz,@V2RayTz&path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @V2RayTz | 5
 vless://0bcd4b6a-cc84-4542-8b86-df0f97252e75@185.146.173.58:8080?Telegram=@V2RayTz,@V2RayTz&path=/servernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @V2RayTz | 6
 vless://--VPNCUSTOMIZE--@104.21.94.168:8080?Telegram=@V2RayTz,@V2RayTz&path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 7
-vless://Telegram-ipV2Ray-saq@104.17.147.22:80?Telegram=@V2RayTz,@V2RayTz&path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 8
-vless://Telegram-ipV2Ray-fde@104.17.148.22:80?Telegram=@V2RayTz,@V2RayTz&path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 9
-vless://71a420c4-06fb-4699-8566-1b083a5ba6f7@104.17.147.22:8080?Telegram=@V2RayTz,@V2RayTz&path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 10
-vless://f2d1a754-79b5-424b-9ee6-4e5c7108d29f@104.21.94.168:8080?Telegram=@V2RayTz,@V2RayTz&path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 11
-vless://1333101e-2858-485c-a173-2f45aa3cbc57@104.21.94.168:8080?Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 12
