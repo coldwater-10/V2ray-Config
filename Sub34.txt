@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.28.16:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.28.16:443
+trojan://RmdXQRXg@223.113.54.154:20344?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-223.113.54.154:20344
+trojan://telegram-id-directvpn@3.135.23.23:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.135.23.23:22222
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.254:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.254:2053
+trojan://telegram-id-privatevpns@18.156.16.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.156.16.167:22222
+trojan://telegram-id-privatevpns@13.39.142.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.142.72:22222
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.16:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.16:2096
+trojan://qun521@13.41.27.113:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.41.27.113:22222
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.10:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.10:443
+trojan://4f811851-23b7-408d-8c25-5e49db8ea7ec@45.140.169.83:30002?sni=ru01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-45.140.169.83:30002
 trojan://NISHIKUITAN222@47.245.126.151:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.245.126.151:8443
 trojan://telegram-id-privatevpns@13.50.187.110:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.187.110:22222
 trojan://NISHIKUITAN222@8.222.169.222:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.169.222:8443
@@ -593,13 +603,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2375#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#🔒 SS-TCP-NA 🇺🇸 US-67.220.85.74:6697
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5003
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMW9VejBkenl5RUdvTEJEOUdKekF3@45.153.230.90:443#🔒 SS-TCP-NA 🇩🇪 DE-45.153.230.90:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5001
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:8888#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:8888
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:50234#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50234
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:4444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@176.97.76.206:1080#🔒 SS-TCP-NA 🇷🇴 RO-176.97.76.206:1080
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.21.78:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.21.78:80
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.133:8882#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8882
