@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
@@ -599,7 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.22.217:80?encryption=none&ty
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.26:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#329-%E6%9C%AA%E7%9F%A5_0718083120
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzMwLfCflJIgVk0tVENQLU5BIPCfh6jwn4ezIENOLTEyMC4yMTAuMjA1LjgyOjUwMDAyIiwiYWRkIjoiMTIwLjIxMC4yMDUuODIiLCJwb3J0Ijo1MDAwMiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInRscyI6IiIsInNuaSI6Im1wdmlkZW8ucXBpYy5jbiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6Im1wdmlkZW8ucXBpYy5jbiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&host=de1-moryvpnbot.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=de1-moryvpnbot.pages.dev#331-%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub%60
-vless://162ae8ff-0122-45f7-9e74-576bd90db552@185.146.173.38:8080?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=www.google.com.api.rango0161.ir.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=www.google.com.api.rango0161.ir.#332-%E7%91%9E%E5%85%B8_071808087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.209.198:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=firefox&sni=us3.rtacg.com#333-%E6%9C%AA%E7%9F%A5_0718081486
-vless://9a930dda-da56-4333-b40f-9d07bd2cc879@cpanel.com:443?encryption=none&type=ws&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&host=www.GozargahVPN.top&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C10-20&sni=www.GozargahVPN.top#334-%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40GozargahVPN%20%7C%200
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.34.119:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#335-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.34.119%3A80
