@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws&host=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.0:443
-trojan://95af4fd9-3b0a-3af6-8836-982739fed565@202.78.166.226:16217?security=tls&sni=eplcgame.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-202.78.166.226:16217
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?security=tls&sni=4-193-105-141.nhost.00cdn.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-146.19.215.165:443
-trojan://8afkpIzf3W@13.215.172.86:443?security=tls&sni=addyourhost&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-13.215.172.86:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.2:443
 trojan://d8c5dfdb-f5c3-4732-8bce-85af70d32a57@180.178.234.102:41024?security=tls&sni=ssl.sbgfw.info&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇨🇳 CN-180.178.234.102:41024
@@ -603,3 +599,7 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.42.19:2087?security=tls&sni
 trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
 trojan://telegram-id-privatevpns@35.159.131.218:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.159.131.218:22222
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.229:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.229:2053
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.2:2053
+trojan://450524c4-86ee-4a97-ac7f-888942039bcd@172.233.146.107:24444?security=tls&sni=new.download.the-best-airport.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-172.233.146.107:24444
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
