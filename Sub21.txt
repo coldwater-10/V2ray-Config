@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:2087?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2087
-vless://0a45fb6b-77af-48b3-ab7d-8404d5ad5ccb@167.235.58.117:2082?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-167.235.58.117:2082
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.83.231:23022?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-64.110.83.231:23022
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.137.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.137.232:8880
-vless://de352a82-25dd-4cbc-98bf-2e761da633f5@[2606:4700:3030::6815:334]:8443?security=tls&sni=Fin.Melobigg.Site&type=grpc&serviceName=me&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3030::6815:334]:8443
 vless://cd538545-c016-42db-bde3-d9011258114e@45.67.211.23:44049?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-45.67.211.23:44049
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.108.65:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.108.65:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.242.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.242.188:443
@@ -603,3 +598,8 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.255.131:443?security=tls&sni
 vless://b1ce79b9-eb56-4bb4-b7cc-1cf407fad78e@185.8.174.10:2053?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.8.174.10:2053
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.133:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.40.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.40.96:80
+vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@172.66.213.38:2096?security=tls&sni=mci.ircf.space&type=grpc&serviceName=(&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
+vless://d3b99623-7f42-499f-9c40-224b52d18d46@172.67.163.103:8080?security=none&type=ws&host=wWw.spEedtest.net.ftp.debiAnn.org.自己不去看啥事情基本事事.vraY96.SITE.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.103:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.64.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%40vlees_v2rayng#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.64.230:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.71.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.71.66:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.126.99:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.126.99:80
