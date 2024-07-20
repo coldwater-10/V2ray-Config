@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&encryption=none&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c741ad33#🇩🇪DE | 🟢 | vless | @VmessProtocol | 7
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#🚩CF | 🔴 | vless | @VmessProtocol | 9
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.111.121:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @VmessProtocol | 10
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @VmessProtocol | 11
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#🚩CF | 🔴 | vless | @VmessProtocol | 12
 vless://8850f2ea-843b-4b22-bb5d-6c6b426c1626@g1.denanet.online:2096?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=g1.denanet.online#🇫🇮FI | 🟢 | vless | @VmessProtocol | 13
@@ -137,6 +134,7 @@ vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@serverpars.com:2052?encryption=none
 vless://22d318fb-8d00-4d30-9a4b-69dc954a51ef@xn--mgba2h8quf.kiava.fun:2052?encryption=none&security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.a.cloudfront.net.kiava.fun&path=/join-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava?ed=2048#❔XX | 🔴 | vless | @kiava | 6
 vless://be2a1410-7f6c-4271-d8b7-4841fad682b3@melonmusic.ir:2052?encryption=none&security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ts.cloudfront.net.kiava.fun&path=/join-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava?ed=2048#🇩🇪DE | 🔴 | vless | @kiava | 7
 vless://be2a1410-7f6c-4271-d8b7-4841fad682b3@melonmusic.ir:2052?encryption=none&security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.t.cloudfront.net.kiava.fun&path=/join-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava?ed=2048#🇩🇪DE | 🔴 | vless | @kiava | 8
+vless://Telegram-ipV2Ray-zaw@www.parsvds.ir:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇺🇸US | 🔴 | vless | @nofiltering2 | 2
 vless://7a6e9384-c282-4396-b647-5b1ec159b075@188.114.97.3:80?path=/PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🚩CF | 🔴 | vless | @proxy_mtm | 0
 vless://39848671-e667-4b6d-bff6-e38e34f536c4@check-host.net:80?path=/PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇺🇸US | 🔴 | vless | @proxy_mtm | 1
 vless://39848671-e667-4b6d-bff6-e38e34f536c4@185.146.173.68:80?path=/PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇸🇪SE | 🔴 | vless | @proxy_mtm | 2
@@ -232,6 +230,8 @@ trojan://telegram-id-directvpn@13.48.15.143:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@35.169.212.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 13
 trojan://telegram-id-directvpn@3.134.150.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@3.21.109.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 15
+trojan://telegram-id-directvpn@15.156.2.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-directvpn@15.156.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 17
 #profile-title: base64:VFZDIHwgU1M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
