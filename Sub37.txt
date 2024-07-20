@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://4179ca8a-d210-34c2-9d17-125377a5abd2@51.81.137.217:9980?security=tls&sni=tj-us02.yiyo2way.xyz#🔒 TR-TCP-TLS 🇺🇸 US-51.81.137.217:9980
+trojan://xqdbdPpn7d@104.239.87.127:41495?security=none&type=tcp#🔒 TR-TCP-NONE 🇬🇧 GB-104.239.87.127:41495
+trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&type=ws&host=aws-us-oregon-1.f1cflinec.com&path=/f1rocket&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.230:443
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
+trojan://ac1f3b35-1d03-3a85-beab-258d8f23edc6@183.236.49.103:11025?sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-183.236.49.103:11025
 trojan://NISHIKUITAN222@146.56.171.182:11659?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-146.56.171.182:11659
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.144:443
 trojan://e8105dfd24414268b6c7652c63731097@104.18.24.92:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.24.92:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.126.193:443#🔒 SS-TCP-NA 🇫
 ss://ZDY0ZjQ0ZDUtNjZkYy00N2VlLWI5OTEtNzIxYjRhOTZiNjNkOg==@104.21.46.119:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.46.119:443
 ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@104.21.79.143:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.79.143:2083
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6379
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUmJGWlRDZzNpdVhwNDJ3NlBvMzRY@128.199.233.152:3127#🔒 SS-TCP-NA 🇸🇬 SG-128.199.233.152:3127
-ss://Zjc3NTk3OGItNmUyMi00MWE4LWFlNWUtNWY5Nzc5ZTY3NDVmOg==@89.116.161.250:8443#🔒 SS-TCP-NA 🇱🇹 LT-89.116.161.250:8443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeU01eDZwNENKOGRsYjB5OW1WSEJL@188.94.155.82:35152#🔒 SS-TCP-NA 🇰🇿 KZ-188.94.155.82:35152
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.212.52:80#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.212.52:80
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989
