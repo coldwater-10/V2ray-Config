@@ -3,6 +3,33 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
     "SwitchAllowLan": "",
     "ShowLogs": "",
     "ServerMoveUp": "",
@@ -576,30 +603,3 @@ vless://38535031-ccc3-4a94-bd54-c68806486406@172.64.146.223:443?encryption=none&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.146.223:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2security%3Dtls&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WorkeRs.Dev&alpn=http%2F1.1&fp=chrome&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WorkeRs.Dev#154-12%7CBG_speednode_0015-worker
 vless://e832cdc2-0e7b-4d33-8fad-0efc1d0b53f4@172.64.146.223:2053?encryption=none&type=ws&path=%2Fsaijidweudjismxkcjsdeuwiuds.amoozeshgah-com.com%3A2053%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.workeRS.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.workeRS.deV#155-%E6%9C%AA%E7%9F%A5_0720138545-worker
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.64.146.223:443?encryption=none&type=ws&path=%2Fcurrent.ircp.online%3A443%2F%3Fed%3D2048&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.worKERs.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.worKERs.dev#156-%E7%BE%8E%E5%9B%BD_0720132022-worker
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.64.146.223:443?encryption=none&type=ws&path=%2Fjp112.ylks01.eu.org%3A443%2Fblue&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WorKERs.DeV&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WorKERs.DeV#157-%E6%9C%AA%E7%9F%A5_07201313197-worker
-vless://68da4304-05a7-4d0a-b983-8e2ea5080442@172.64.146.223:443?encryption=none&type=ws&path=%2Fwww.elledecor.com%3A443%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKErS.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKErS.dEv#158-%E7%BE%8E%E5%9B%BD_0720131992-worker
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@172.64.146.223:2096?encryption=none&type=ws&path=%2Fde08.simansanat.ir.%3A2096%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRkERS.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRkERS.dev#159-%E6%9C%AA%E7%9F%A5_072013968-worker
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.64.146.223:443?encryption=none&type=ws&path=%2Fjp112.ylks01.eu.org%3A443%2Fblue&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRkeRs.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRkeRs.dev#160-%E7%BE%8E%E5%9B%BD_0720134732-worker
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@172.64.146.223:2096?encryption=none&type=ws&path=%2FIc.zafarinoco.ir%3A2096%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wORKers.DEV&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wORKers.DEV#161-%E7%BE%8E%E5%9B%BD_0720131592-worker
-vless://68da4304-05a7-4d0a-b983-8e2ea5080442@172.64.146.223:443?encryption=none&type=ws&path=%2Fwww.elledecor.com%3A443%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.worKeRs.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.worKeRs.dev#162-%E7%BE%8E%E5%9B%BD_0720131991-worker
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@172.64.146.223:8443?encryption=none&type=ws&path=%2Firaniancp.autos%3A8443%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WORKERs.DEV&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WORKERs.DEV#163-%E6%9C%AA%E7%9F%A5_0720138678-worker
-vless://40073c0e-891e-4521-85a9-6c80a7ca1752@172.64.146.223:443?encryption=none&type=ws&path=%2Ffun.labkhand2020.ir%3A443%2F&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKERS.DEV&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKERS.DEV#164-%E6%9C%AA%E7%9F%A5_0720131272-worker
-vless://c07fef7d-e8d2-42fe-b977-50e368f18293@172.64.146.223:443?encryption=none&type=ws&path=%2Fvincent-jackson2021.ga%3A443%2FThe-Great-Awakening_ws&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.Workers.dEV&security=tls&flow=xtls-rprx-direct-udp443&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.Workers.dEV#165-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_072013069-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.146.223:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRKers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRKers.dev#166-%E6%97%A5%E6%9C%AC_072013026-worker
-vless://01ab9337-f478-4765-9534-88f009f83ddb@172.64.146.223:443?encryption=none&type=ws&path=%2Faut112.ylks.link%3A443%2Fblue&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wOrkeRs.dEv&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C30-80%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wOrkeRs.dEv#167-%E7%BE%8E%E5%9B%BD_0720134721-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.146.223:8443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A8443%2Ftg%40zdyz2&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrkERs.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrkERs.dev#168-%E6%96%B0%E5%8A%A0%E5%9D%A1_072013614-worker
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?encryption=none&type=ws&path=%2FR5lApEWHnBpYI2jQ%3Fed%3D2560&host=mSDONOr.Pages.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-50&sni=MSdOnoR.pagEs.dEV#169-%F0%9F%87%A8%F0%9F%87%A6CA_177_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.87.52:443?encryption=none&type=ws&path=%2F%3Fed&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=mmdv2.pages.dev#170-%F0%9F%87%A8%F0%9F%87%A6CA_346_%40Surfboardv2ray
-vless://66a7609a-2143-465c-b690-78dcfad6299c@172.67.180.12:443?encryption=none&type=ws&path=%2Fgithub.com%2Fmhditaheri%2F%3Fed%3D2048&host=github.vipsmt.Workers.Dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=github.vipsmt.Workers.Dev#171-%F0%9F%87%A8%F0%9F%87%A6CA_158_%40Surfboardv2ray
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.73.163:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=t-netplus-4vx.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=t-netplus-4vx.pages.dev#172-%F0%9F%87%A8%F0%9F%87%A6CA_265_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.228.220:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-50&sni=mmdv2.pages.dev#173-%F0%9F%87%A8%F0%9F%87%A6CA_349_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.98.219:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#174-%F0%9F%87%BA%F0%9F%87%B8US_347_%40Surfboardv2ray
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=bpb-worker-panel-chf.pages.dev&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-20&sni=bpb-worker-panel-chf.pages.dev#175-%F0%9F%87%A8%F0%9F%87%A6CA_366_%40Surfboardv2ray
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=de1-moryvpnbot.pages.dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C20-50%2C10-20&sni=de1-moryvpnbot.pages.dev#176-%F0%9F%87%A8%F0%9F%87%A6CA_212_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?encryption=none&type=ws&path=%2Fbmkpskkiym1rrlxm%3Fed&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C20-50%2C10-20&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#177-%F0%9F%87%A8%F0%9F%87%A6CA_181_%40Surfboardv2ray
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=www.Arizona.edu#178-%F0%9F%87%BA%F0%9F%87%B8US_324_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@192.0.54.75:443?encryption=none&type=ws&path=%2F%3Fproxyip&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=ve.ylks.xyz#179-%F0%9F%87%BA%F0%9F%87%B8US_198_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?encryption=none&type=ws&path=%2F%3Fed&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#180-%F0%9F%87%A8%F0%9F%87%A6CA_338_%40Surfboardv2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.47:443?encryption=none&type=ws&path=%2F%3Fproxyip&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=kke.ylks.xyz#181-%F0%9F%87%BA%F0%9F%87%B8US_257_%40Surfboardv2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.242:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=kke.ylks.xyz#182-%F0%9F%87%BA%F0%9F%87%B8US_259_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODMt8J+HqPCfh6ZDQV8yX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xODMuMjIwIiwicG9ydCI6NDQzLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqYWhma2poYS5jZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiZWRnZSJ9
