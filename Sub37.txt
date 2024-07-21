@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@18.219.100.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.219.100.154:22222
+trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&sni=z-v2-002750.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-78.141.221.194:443
+trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
+trojan://fb89083a4ba1df5@172.67.145.123:443?security=tls&sni=turk-net-shop.internetir.biz.tr&type=grpc&serviceName=wwww&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.145.123:443
+trojan://b69c24fe-b9be-4dcd-a833-3f6b211eea7c@152.228.242.161:443?security=tls&sni=s102.myv2r.ml&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-152.228.242.161:443
+trojan://Watashi_VPN@172.66.44.249:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
 trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-213.186.36.123:43118
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
 trojan://telegram-id-privatevpns@13.53.123.202:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.123.202:22222
@@ -597,9 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:5600#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9042
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:9102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZblNqalNCVlhWNmt5eEhGbGdaTnpi@77.246.98.67:443#🔒 SS-TCP-NA 🇳🇱 NL-77.246.98.67:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.154:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.154:8882
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:50233#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50233
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312
