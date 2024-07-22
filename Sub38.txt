@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-43.206.127.212:443
 trojan://e8781c66-aeec-4655-984f-2aca65a64766@104.21.80.99:30180?sni=download.windowsupdate1.com#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.80.99:30180
 trojan://NISHIKUITAN222@8.219.198.139:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.198.139:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.247:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.247:443
@@ -602,4 +603,3 @@ trojan://0ddff0f8-04d6-4eae-a5a6-5af7746bb30d@57.128.173.6:443?security=tls&sni=
 trojan://telegram-id-privatevpns@3.9.143.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.9.143.87:22222
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12069
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.118:2096
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@36.151.194.76:12003?sni=cn1.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.151.194.76:12003
