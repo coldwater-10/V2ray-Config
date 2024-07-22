@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d62cfbb9-5431-4b6f-bd1e-d51164dbaebc@172.67.129.146:443?security=tls&sni=kiNgaRIAMehr2.PAGeS.DeV&type=ws&host=kINgarIaMeHR2.pAGes.dEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.146:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:20001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:20001
 vless://dcacefde-6be0-4865-b0e6-2354ff6e990e@139.177.191.48:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=grpc&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-139.177.191.48:2003
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.23.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.82:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.22:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.22:80
@@ -601,5 +603,3 @@ vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@47.91.65.39:443?security=tls&sni=hk
 vless://433cc5ab-af3f-444c-85fb-00eb7d11448e@85.9.108.43:26995?security=none&type=tcp&host=Goodady.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.108.43:26995
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.83:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-15.236.223.83:22222
 vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:80?security=none&type=ws&host=sg18.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.115:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.48.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.34:80
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@3.70.219.196:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇩🇪 DE-3.70.219.196:443
