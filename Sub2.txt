@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://ypDt8RkT7J@212.102.54.11:43118?headerType=none&security=tls&sni=tpmrq.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | IT🇮🇹 | 0️⃣6️⃣
-trojan://ypDt8RkT7J@169.150.206.186:43118?headerType=none&security=tls&sni=tpmem.phooeyunfold.com&type=tcp#رایگان | TROJAN | @oneclickvpnkeys | DE🇩🇪 | 0️⃣7️⃣
-#profile-title: base64:VFZDIHwgU0hBRE9XU09DS1M=
-#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
@@ -603,3 +599,7 @@ vless://cf052982-23bb-4404-8817-05302c50fcd3@116.202.99.47:56372?type=tcp&securi
 vless://0448c6ea-34ce-487a-93be-8e57bd2f2fa8@116.202.99.47:49124?type=tcp&security=reality&pbk=rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI&fp=firefox&sni=dalan-group.de&sid=0bf98883&spx=/#🇩🇪DE | 🔴 | vless | @Capital_NET | 11
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇺🇸US | 🔴 | vless | @Capital_NET | 12
 vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#🇺🇸US | 🔴 | vless | @Capital_NET | 13
+vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🚩CF | 🔴 | vless | @Capital_NET | 14
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🇨🇦CA | 🔴 | vless | @Capital_NET | 16
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🇺🇸US | 🔴 | vless | @Capital_NET | 17
+vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🇳🇱NL | 🟢 | vless | @Capital_NET | 18
