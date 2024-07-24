@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
@@ -603,3 +591,15 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.145.247:443?encryption=none&
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@hidden-rbpamewkcxqxrz3lct.hidden0612.ir:443?encryption=none&type=ws&path=%2F&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C50-100%2C20-50&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir#224-_159_%40Surfboardv2ray
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=www.Arizona.edu#225-%F0%9F%87%BA%F0%9F%87%B8US_312_%40Surfboardv2ray
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@www.speedtest.net:443?encryption=none&type=ws&path=%2Fparadise&host=tymks.dfonni.info&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C10-50&sni=tymks.dfonni.info#226-%F0%9F%87%BA%F0%9F%87%B8US_63_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?encryption=none&type=ws&path=%2F%3Fed&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-50&sni=mmdv2.pages.dev#227-%F0%9F%87%A8%F0%9F%87%A6CA_335_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.170.191:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-50&sni=mmdv2.pages.dev#228-%F0%9F%87%A8%F0%9F%87%A6CA_342_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=mmdv2.pages.dev#229-%F0%9F%87%BA%F0%9F%87%B8US_338_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?encryption=none&type=ws&path=%2Fbmkpskkiym1rrlxm%3Fed&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C10-20&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#230-%F0%9F%87%A8%F0%9F%87%A6CA_180_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=www.Arizona.edu#231-%F0%9F%87%BA%F0%9F%87%B8US_324_%40Surfboardv2ray
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?encryption=none&type=ws&path=%2Fws&host=continuity.sasuke.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C20-50&sni=continuity.sasuke.ir#232-%F0%9F%87%A8%F0%9F%87%A6CA_147_%40Surfboardv2ray
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?encryption=none&type=ws&path=%2Fws&host=continuity.sasuke.ir&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=continuity.sasuke.ir#233-%F0%9F%87%A8%F0%9F%87%A6CA_148_%40Surfboardv2ray
+vless://601a1cf2-5abf-4cb4-90a7-f82cf3e22bff@108.162.192.20:443?encryption=none&type=ws&path=%2FVLESS&host=blaze-uk.my-android-app.info&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=blaze-uk.my-android-app.info#234-%F0%9F%87%A8%F0%9F%87%A6CA_153_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C20-50&sni=www.Arizona.edu#235-%F0%9F%87%BA%F0%9F%87%B8US_318_%40Surfboardv2ray
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=bpb-worker-panel-chf.pages.dev&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=bpb-worker-panel-chf.pages.dev#236-%F0%9F%87%A8%F0%9F%87%A6CA_365_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.210:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#237-%F0%9F%87%BA%F0%9F%87%B8US_336_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443?encryption=none&type=ws&path=%2F%3Fproxyip&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=vh.ylks.xyz#238-%F0%9F%87%BA%F0%9F%87%B8US_183_%40Surfboardv2ray
