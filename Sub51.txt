@@ -3,6 +3,46 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "148477AE146D474DFF2EA001FFF8DF35",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
@@ -563,43 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.125:80?encryption=none&t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.22:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=us3.rtacg.com#269-%E6%9C%AA%E7%9F%A5_0725087179
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.248:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=android&sni=us3.rtacg.com#270-%E6%9C%AA%E7%9F%A5_0725082366
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.115.200:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#271-%E6%9C%AA%E7%9F%A5_0725082339
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.12.52:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=edge&sni=us3.rtacg.com#272-%E6%9C%AA%E7%9F%A5_0725086537
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.127:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=randomized&sni=us3.rtacg.com#273-%E6%9C%AA%E7%9F%A5_0725082405
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.95:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=http%2F1.1&fp=firefox&sni=kr1.175852.xyz#274-%E6%9C%AA%E7%9F%A5_0725087839
-vless://abaabe38-b551-48ad-bfee-98ac2f0ed838@104.16.87.46:8080?encryption=none&type=ws&host=join-to.vmessorg.Community.&alpn=h2%2Chttp%2F1.1&fp=ios&sni=join-to.vmessorg.Community.#275-%E6%9C%AA%E7%9F%A5_0725088836
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.128.0:443?encryption=none&type=ws&host=ndfddd.azurewebsites.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=ndfddd.azurewebsites.net#276-%E7%BE%8E%E5%9B%BD_0725082169
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?encryption=none&type=ws&path=%2F%40bypass_filter%2F%3Fed%3D100&host=bypassfilter.cmyyvat.workers.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=bypassfilter.cmyyvat.workers.dev#277-%E7%BE%8E%E5%9B%BD_0725082858
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.37.187:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#278-%E6%9C%AA%E7%9F%A5_0725085148
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.108:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=chrome&sni=us3.rtacg.com#279-%E6%9C%AA%E7%9F%A5_0725087087
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.11.212:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#280-%E6%9C%AA%E7%9F%A5_0725084494
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.164:443?encryption=none&type=ws&path=%2F%3Fproxyip&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=kke.ylks.xyz#281-%E7%BE%8E%E5%9B%BD_0725082622
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.157.52:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#282-%E7%BE%8E%E5%9B%BD_0725081778
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.131:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=us3.rtacg.com#283-%E6%9C%AA%E7%9F%A5_0725085213
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@104.21.65.150:443?encryption=none&type=grpc&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=fourth.pinocchio1.ir.#284-%E6%9C%AA%E7%9F%A5_0725088820
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg1LfCfj4FSRUxBWS0xMDQuMjAuMTcuMTg2LTEwNDkiLCJhZGQiOiIxMDQuMjAuMTcuMTg2IiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6ImgyIiwiZnAiOiJlZGdlIn0=
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.68.41:443?encryption=none&type=ws&path=%2F07n1q4ys4Pwba7qM&host=sANDWOrm.pAGEs.DeV&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=sandWorm.PaGES.DEv#286-%E7%BE%8E%E5%9B%BD_0725083970
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.253.20:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#287-%E6%9C%AA%E7%9F%A5_0725081921
-vless://887ab474-b0d6-4628-a2a2-9d3095059881@104.20.66.92:80?encryption=none&type=ws&host=vv.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=vv.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.#288-%E6%9C%AA%E7%9F%A5_0725088400
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.111.20:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2&fp=chrome&sni=kr1.175852.xyz#289-%E6%9C%AA%E7%9F%A5_0725087881
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.137.180:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=mmdv2.pages.dev#290-%E7%BE%8E%E5%9B%BD_0725083554
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.15:2096?encryption=none&type=ws&host=De13.SiMaNsAnAt.Ir.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=De13.SiMaNsAnAt.Ir.#291-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_072508004
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@188.114.97.169:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=us3.rtacg.com#292-%E8%8D%B7%E5%85%B0_072508136
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.129.75:443?encryption=none&type=ws&path=%2F&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=mmdv2.pages.dev#293-%E7%BE%8E%E5%9B%BD_0725083228
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.212.190:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-50&sni=mmdv2.pages.dev#294-%E7%BE%8E%E5%9B%BD_0725083709
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.57.196:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#295-%E6%9C%AA%E7%9F%A5_0725086641
-vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@104.21.61.188:2052?encryption=none&type=ws&host=mijml3.hamedigold.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=mijml3.hamedigold.com#296-%E6%9C%AA%E7%9F%A5_0725089559
-vless://a7a50082-b5c4-4729-af1d-230138122e2b@173.245.59.81:443?encryption=none&type=ws&path=%2Fwss&host=hqf9c6.gishebal.com&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=hqf9c6.gishebal.com#297-%E7%BE%8E%E5%9B%BD_0725082786
-vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.46.235:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=finland.hiytocloud.ir#298-%E6%9C%AA%E7%9F%A5_072508998
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.65:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=kkk.ylks.link#299-%E7%BE%8E%E5%9B%BD_0725082712
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@malaysia.com:8443?encryption=none&type=ws&path=%2Fblue&host=xin112.ylks.link&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=xin112.ylks.link#300-%E7%BE%8E%E5%9B%BD_0725085259
-vless://4807b8ab-d74a-445e-9556-45a7ace4f6d6@cf.dalazhi.eu.org:443?encryption=none&type=ws&path=%2Fpuijws&host=tj2.dalazhi.eu.org&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=tj2.dalazhi.eu.org#301-%E6%9C%AA%E7%9F%A5_07250814449
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.baipiao.eu.org:8443?encryption=none&type=ws&path=%2Fblue&host=jp112.ylks01.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=jp112.ylks01.eu.org#302-%E6%9C%AA%E7%9F%A5_07250814255
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@210.186.12.244:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=xin726.ylks.link#303-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A_072508005
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.219.151:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=randomized&sni=us3.rtacg.com#304-%E6%9C%AA%E7%9F%A5_0725087064
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.19:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#305-%E6%9C%AA%E7%9F%A5_0725082462
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.248.117:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=mmdv2.pages.dev#306-%E6%9C%AA%E7%9F%A5_0725089476
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.26.167:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2&fp=randomized&sni=us3.rtacg.com#307-%E6%9C%AA%E7%9F%A5_0725083845
-vless://c9e3842d-37a9-471c-acc7-3cc75548bf7b@140.248.184.41:80?encryption=none&type=ws&host=pardazesh.tg.ir&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=pardazesh.tg.ir#308-%E7%BE%8E%E5%9B%BD_0725083010
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.202.27:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=us3.rtacg.com#309-%E6%9C%AA%E7%9F%A5_0725083468
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@russia.com:2096?encryption=none&type=ws&path=%2Fblue&host=jp112.ylks01.eu.org&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=jp112.ylks01.eu.org#310-%E6%9C%AA%E7%9F%A5_07250814226
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.10.28:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#311-%E6%9C%AA%E7%9F%A5_0725086533
