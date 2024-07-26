@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@13.248.169.48:443?security=tls&sni=t3.teslacdn2.live&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-13.248.169.48:443
+trojan://7c18cd10-243d-49f1-9d5f-90febae16653@54.95.178.176:666?security=tls&sni=2jpmax05.233235.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-54.95.178.176:666
+trojan://auto@35.201.203.106:443?security=tls&sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua#🔒 TR-WS-TLS 🇹🇼 TW-35.201.203.106:443
+trojan://telegram-id-privatevpns@13.36.85.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.85.207:22222
+trojan://telegram-id-directvpn@51.20.59.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.59.216:22222
+trojan://NISHIKUITAN222@47.236.102.102:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.102.102:8443
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.5:443
+trojan://NISHIKUITAN222@172.67.199.233:2053?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-172.67.199.233:2053
 trojan://o1lRNAcx0Z@172.67.218.216:2053?security=tls&sni=vip.pegahtck.ir&type=grpc&fp=firefox&alpn=h3&allowInsecure=1#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.218.216:2053
 trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.66.213.38:2083
 trojan://auto@162.159.128.233:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:8443
@@ -595,11 +603,3 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@104.17.61.6:443?security=tls&sni=jobsc
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
 trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@104.21.46.126:2053?security=tls&sni=ip-cf.hukinghumans-655.WorkeRs.dEv&type=ws&host=ip-cf.hukinghumans-655.WorkeRs.dEv&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.46.126:2053
 trojan://GSYYULACz0@104.18.203.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
-trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.18.22.19:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=grpc&serviceName=4xLDSO3FrWl2DhrWGqHh74mj&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.22.19:443
-trojan://Watashi_VPN@173.245.49.20:2096?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🔒 TR-WS-TLS 🇺🇸 US-173.245.49.20:2096
-trojan://Rxsu3v73sz@172.105.122.253:32399?security=tls&sni=store.steampowered.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-172.105.122.253:32399
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
-trojan://a906625d-446c-468f-9e26-1d15981fa0e9@188.119.112.242:443?security=tls&sni=nl-full.privateip.net#🔒 TR-TCP-TLS 🇳🇱 NL-188.119.112.242:443
-trojan://your_password@172.67.165.204:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&type=ws&host=aws-uk-london-1.f1cflinea.com&path=/f1rocket&fp=chrome#🔒 TR-WS-TLS 🇺🇸 US-172.67.165.204:443
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@20.2.201.209:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.201.209:443
-trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.118.216:8443
