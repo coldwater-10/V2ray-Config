@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.57.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.57.83:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.12.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.12.157:80
 vless://d19cd8ff-62c4-4160-80bb-4b2452878a9d@154.219.5.203:2053?security=tls&sni=v2rayc.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.203:2053
 vless://ef3761cf-a11b-4719-bbaf-d2e374146812@104.21.23.87:2087?security=tls&sni=blog.neper.xyz&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.87:2087
@@ -602,4 +603,3 @@ vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:443?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.147.178:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.147.178:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.0.8:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.0.8:80
 vless://a168d3e6-8ccd-48e1-a053-e14bba0b4fd1@83.229.87.210:1033?security=none&type=grpc&serviceName=2096vless#🔒 VL-GRPC-NONE 🇩🇪 DE-83.229.87.210:1033
-vless://82ebbc8d-1265-43af-bedb-627f3d8110ab@46.245.72.11:9051?security=none&type=tcp&host=skype.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.72.11:9051

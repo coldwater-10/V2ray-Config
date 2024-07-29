@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&type=ws&host=aws-us-oregon-1.f1cflinec.com&path=/f1rocket&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.52:443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.50.252:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.50.252:2087
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.39:443?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.39:443
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.115:3306#🔒 SS-TCP-NA 🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZU5saWFDd3p2UENjUmptZjhPaVVX@95.181.161.101:62907#🔒 SS-TCP-NA 🇩🇪 DE-95.181.161.101:62907
 ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw==@5.182.87.210:35961#🔒 SS-TCP-NA 🇩🇪 DE-5.182.87.210:35961
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.115:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.115:443
