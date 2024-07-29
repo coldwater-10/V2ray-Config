@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://085f3ab6-92fb-4c56-8ed5-6d0df11d8c0c@de.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29_029
-trojan://085f3ab6-92fb-4c56-8ed5-6d0df11d8c0c@ap.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29_030
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.62:989#%F0%9F%87%AD%F0%9F%87%B7HR%28AzadNet.t.me%29_001
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#%F0%9F%87%AD%F0%9F%87%B7HR%28AzadNet.t.me%29_002
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR%28AzadNet.t.me%29_003
-trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9ID%28AzadNet.t.me%29_001
-trojan://idc117okt@103.226.139.201:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9ID%28AzadNet.t.me%29_002
-trojan://idc117okt@103.176.78.153:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9ID%28AzadNet.t.me%29_003
-trojan://telegram-id-privatevpns@52.208.59.8:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%AAIE%28AzadNet.t.me%29_001
 trojan://telegram-id-directvpn@54.229.17.238:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%AAIE%28AzadNet.t.me%29_002
 trojan://your_password@43.205.109.9:443/?type=tcp&security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B3IN%28AzadNet.t.me%29_001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTzBNbkdkWDh0ZTN4WFJYSWpEVjBu@103.75.198.71:60753#%F0%9F%87%AE%F0%9F%87%B3IN%28AzadNet.t.me%29_002
@@ -603,3 +594,12 @@ vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443/?type=ws&encrypt
 vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=famil-5c8.pages.dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_267
 vless://0ddfb4dd-d1f0-4416-8d5b-dd00e6d10d66@172.67.171.89:443/?type=ws&encryption=none&path=%2Fvless&security=tls&sni=dk3-vless.sshmax.xyz&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_268
 vless://0dd1347e-e342-456c-b802-779b859cca42@173.245.58.113:443/?type=ws&encryption=none&path=%2Fchatapiws&security=tls&sni=login1.abglaaa.info&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_269
+vless://0dd1347e-e342-456c-b802-779b859cca42@172.64.32.113:443/?type=ws&encryption=none&path=%2Fchatapiws&security=tls&sni=login1.abglaaa.info&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_270
+vless://0dd1347e-e342-456c-b802-779b859cca42@108.162.192.113:443/?type=ws&encryption=none&path=%2Fchatapiws&security=tls&sni=login1.abglaaa.info&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_271
+vless://0b8a411f-0b7e-4d50-8c0c-4dfb4b2ae45e@172.67.171.44:443/?type=ws&encryption=none&path=%2Fvless&security=tls&sni=fr1-vless.sshmax.xyz&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_272
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg7.pages.dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_273
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg7.pages.dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_274
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.26.173:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ARM64-V8A.pages.DEV&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_275
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.66.213.38:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ARM64-V8A.pages.DEV&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_276
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@162.251.82.187:443/?type=ws&encryption=none&path=%2F%3Fed%3D2560&security=tls&sni=ARM64-V8A.pages.DEV&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_277
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.31.16.136:443/?type=ws&encryption=none&path=%2F%3Fed%3D2560&security=tls&sni=ARM64-V8A.pages.DEV&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_278
