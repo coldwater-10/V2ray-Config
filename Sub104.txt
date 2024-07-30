@@ -3,6 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://1e8e2283-4c2d-11ef-ad7f-00505605a82d@146.59.93.142:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Fwebsocket&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2897%29
+vless://2cf3cb79-50eb-4865-8b96-dfb128d36f9c@94.154.37.237:443/?encryption=none&host=vkvd127.mycdn.me&type=tcp&headerType=http#%40V2rayMiner%20%2898%29
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@147.45.78.23:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%2899%29
+vless://d78bbf7c-8e5c-493f-888d-9a421e39bc74@5.161.209.168:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner%20%28100%29
+
+#profile-title:@V2rayMiner-MTN🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
+vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@142.93.144.99:3389?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
+vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@167.99.179.27:3389?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
+vmess://04621bae-ab36-11ec-b909-0242ac120002@23.166.88.183:22324?encryption=auto&type=tcp#@V2rayMiner
+vmess://107187d8-9214-41dd-b48c-60bf9fb676d3@140.238.173.178:8080?encryption=auto&host=vkvd127.mycdn.me&path=%2Fitdog%3Fed%3D2560&type=ws#@V2rayMiner
+vmess://39cec18f-a439-427c-9a4e-aeb6fcdf6f53@139.162.141.25:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=linja05.hwcar.sbs&path=%2Flinkws&security=tls&sni=linja05.hwcar.sbs&type=ws#@V2rayMiner
+vmess://93ea486a-bada-42a4-ac38-d088b320fa1e@139.162.157.245:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=xmivideo.cfd&path=%2Flinkws&security=tls&sni=xmivideo.cfd&type=ws#@V2rayMiner
+vmess://62aa5f80-0328-4004-a375-7f5a59df4022@192.46.236.97:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=hms19.best-tizi.top&path=%2Flinkws&security=tls&sni=hms19.best-tizi.top&type=ws#@V2rayMiner
+vmess://76221bfb-e92f-4e80-81c5-6fe48f50ac0b@172.104.149.31:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=glweidf.sbs&path=%2Flinkws&security=tls&sni=glweidf.sbs&type=ws#@V2rayMiner
+vmess://441da342-ce90-441e-bff9-d2ceb55e68ca@172.104.226.150:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=ivideos.sbs&path=%2Flinkws&security=tls&sni=ivideos.sbs&type=ws#@V2rayMiner
+vmess://93ea486a-bada-42a4-ac38-d088b320fa1e@172.104.242.26:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=xmivideo.cfd&path=%2Flinkws&security=tls&sni=xmivideo.cfd&type=ws#@V2rayMiner
+vmess://93ea486a-bada-42a4-ac38-d088b320fa1e@172.105.244.120:443?alpn=http%2F1.1&encryption=auto&fp=chrome&host=xmivideo.cfd&path=%2Flinkws&security=tls&sni=xmivideo.cfd&type=ws#@V2rayMiner
+vmess://a1655f51-1e20-4a92-8a11-b7ca30a7a353@speed.cloudflare.com:80?encryption=auto&host=7whrapid-river-a083.sisay70779.workers.dev&path=%2Fafrhms07.xfixedfloat.cfd%2Flinkws&type=ws#@V2rayMiner
 vmess://04621bae-ab36-11ec-b909-0242ac120002@23.157.88.32:22324?encryption=auto&type=tcp#@V2rayMiner
 vmess://04621bae-ab36-11ec-b909-0242ac120002@23.157.88.35:22324?encryption=auto&type=tcp#@V2rayMiner
 vmess://ffebe07c-7651-4b6e-8c66-365ca279151c@91.107.156.158:2052?encryption=auto&host=vkvd127.mycdn.me&path=%2F%40irvpnn%2C%40irvpnn%2C%40irvpnn%2C%40irvpnn%3Fed%3D1024&type=ws#@V2rayMiner
