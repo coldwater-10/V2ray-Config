@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.37.60:20017?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇰🇷 KR-146.56.37.60:20017
+vless://d8d615e9-3e6b-4597-8178-47d36fcab82e@[2606:4700:3032::6815:452c]:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3032::6815:452c]:2086
+vless://7272c784-b6d3-4ef5-a384-0d1b2d742292@185.58.241.252:48405?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.241.252:48405
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.181.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.181.12:80
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.5:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.5:443
 vless://b6df798c-81f3-4c1f-b829-11d3ac446e64@213.176.0.6:8880?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.0.6:8880
 vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&type=ws&host=dw.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.11:8080
@@ -599,7 +603,3 @@ vless://9af28087-87e6-44ae-a6e0-51852ecab457@[2606:4700:3033::ac43:c0cc]:8443?se
 vless://fae371fe-b27e-4354-9913-400596208387@154.219.5.115:2053?security=tls&sni=dl12.peymod.com&type=grpc&serviceName=@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-@ViV2ray/2053&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.115:2053
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.0.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.123:80
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.127.79:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.122:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.122:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.50.208:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.208:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.30.89:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.30.89:80
