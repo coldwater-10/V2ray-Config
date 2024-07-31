@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.127.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.127.65:443
 vless://9a2de796-cea9-4af5-c2f6-f43a5a5d4a60@31.40.4.84:2087?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.40.4.84:2087
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@216.24.57.16:443?security=tls&sni=vq.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.16:443
@@ -603,3 +601,5 @@ vless://e4830f21-7318-4c2a-fb52-ba2347ed3a0b@94.182.145.179:30657?security=none&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.32:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.32:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.144.83:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.144.83:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@95.164.62.196:443?security=tls&sni=hq.ylks.xyz&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇧🇪 BE-95.164.62.196:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.66.87:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.66.87:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.108.125:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.108.125:80
