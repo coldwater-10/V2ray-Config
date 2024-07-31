@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
 	"TTL" : 0,
@@ -603,3 +599,7 @@ vless://6217c0bc-1b18-42fd-8787-3193c109ef2a@89.187.183.14:443?encryption=none&t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.242.121:2082?encryption=none&type=ws&path=%2FjAsBGuKEGkSfriqt%2FcHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&host=bPbg.168168.US.kG&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=bPbg.168168.US.kG#331-%E7%BE%8E%E5%9B%BD_0731135505
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.247.75:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=safari&sni=us3.rtacg.com#332-%E6%9C%AA%E7%9F%A5_07311312376
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.14:443?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=h2&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=cfed.tgzdyz2.top#333-%E5%A1%9E%E8%88%8C%E5%B0%94_073113012
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzM0LfCfj4FSRUxBWS0xMDQuMzEuMTYuNTQtODk4MCIsImFkZCI6IjEwNC4zMS4xNi41NCIsInBvcnQiOjgwLCJpZCI6IjhhYmU5NDk2LTVlMjQtNGU0OS1iNTY2LWRjZjg2MTE2MDE3ZCIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2k5OUxndlNhc2xic1BMTFFRN2o2WiIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImlvcyJ9
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzM1LfCfh6rwn4e6IOasp+a0sijmsrnnrqE656C06Kej6LWE5rqQ5ZCbMi4wKSIsImFkZCI6Imx6NzQuYWlqaWFzdS54eXoiLCJwb3J0IjozNTU3NSwiaWQiOiJkNWNlMzc4OC0wMzExLTQ5NGEtZWIxZC01OWU2YzFhOTBjY2IiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibHo3NC5haWppYXN1Lnh5eiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6Imx6NzQuYWlqaWFzdS54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzM2LfCfj4FSRUxBWS0xMDQuMTkuNDcuMjI0LTAyMzgiLCJhZGQiOiIxMDQuMTkuNDcuMjI0IiwicG9ydCI6ODQ0MywiaWQiOiIzOTEzNWEzOS1lNmNhLTQzZGYtYTM2MC1kODU5ZWVhNThkODYiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6ImhrMDEubGlua2l0bm93Lm5ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiaGswMS5saW5raXRub3cubmV0IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+vless://1dbe32b7-708f-4e88-8785-3400fcc7e071@104.18.6.87:2096?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed%3D2048&host=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C10-50&sni=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev#337-%E6%9C%AA%E7%9F%A5_07311313481
