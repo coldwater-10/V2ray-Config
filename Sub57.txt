@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
@@ -597,9 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.73.67:80?encryption=none&typ
 vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=none&type=ws&path=%2F&host=sni2.tohid3aeed.com&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C20-50&sni=sni2.tohid3aeed.com#331-%E8%8D%B7%E5%85%B0_080113008
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.203.232:443?encryption=none&type=ws&host=bpb-worker-pa...&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#332-%E6%9C%AA%E7%9F%A5_08011314380
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzMzLfCfh7jwn4esIDEwLDExfOaWsOWKoOWdoXxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiY2ZjZG4yLnNhbmZlbmNkbjkuY29tIiwicG9ydCI6MjA1MiwiaWQiOiJlMDkzY2E5NC05ODkwLTRiMDYtODM4NC0wODU3MmM1ZDMyMTUiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoicnBtbHliZ3pzZzIueW9mbmhrZmMueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvLzNZS2Z6R3c0IiwiaG9zdCI6InJwbWx5Ymd6c2cyLnlvZm5oa2ZjLnh5eiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.51.232:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#334-%E6%9C%AA%E7%9F%A5_0801133871
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.94:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2&fp=edge&sni=kr1.175852.xyz#335-%E6%9C%AA%E7%9F%A5_0801138836
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.194.147:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=edge&sni=us3.rtacg.com#336-%E6%9C%AA%E7%9F%A5_0801131361
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.233.124:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#337-%E6%9C%AA%E7%9F%A5_0801133564
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzM4LfCfj4FSRUxBWS0xNzIuNjcuMTkzLjEyNS04NjIxIiwiYWRkIjoiMTcyLjY3LjE5My4xMjUiLCJwb3J0IjoyMDk1LCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.205.194:2082?encryption=none&type=ws&path=%2FjAsBGuKEGkSfriqt%2FcHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&host=bPbg.168168.US.kG&alpn=http%2F1.1&fp=chrome&sni=bPbg.168168.US.kG#339-%E7%BE%8E%E5%9B%BD_0801132481
