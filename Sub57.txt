@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
-	"TTL" : 0,
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
 	"autoBan" : false,
@@ -603,3 +586,20 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.73.67:80?encryption=none&typ
 vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=none&type=ws&path=%2F&host=sni2.tohid3aeed.com&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C20-50&sni=sni2.tohid3aeed.com#331-%E8%8D%B7%E5%85%B0_080113008
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.203.232:443?encryption=none&type=ws&host=bpb-worker-pa...&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#332-%E6%9C%AA%E7%9F%A5_08011314380
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzMzLfCfh7jwn4esIDEwLDExfOaWsOWKoOWdoXxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiY2ZjZG4yLnNhbmZlbmNkbjkuY29tIiwicG9ydCI6MjA1MiwiaWQiOiJlMDkzY2E5NC05ODkwLTRiMDYtODM4NC0wODU3MmM1ZDMyMTUiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoicnBtbHliZ3pzZzIueW9mbmhrZmMueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvLzNZS2Z6R3c0IiwiaG9zdCI6InJwbWx5Ymd6c2cyLnlvZm5oa2ZjLnh5eiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.51.232:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#334-%E6%9C%AA%E7%9F%A5_0801133871
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.94:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2&fp=edge&sni=kr1.175852.xyz#335-%E6%9C%AA%E7%9F%A5_0801138836
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.194.147:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=edge&sni=us3.rtacg.com#336-%E6%9C%AA%E7%9F%A5_0801131361
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.233.124:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#337-%E6%9C%AA%E7%9F%A5_0801133564
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzM4LfCfj4FSRUxBWS0xNzIuNjcuMTkzLjEyNS04NjIxIiwiYWRkIjoiMTcyLjY3LjE5My4xMjUiLCJwb3J0IjoyMDk1LCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.205.194:2082?encryption=none&type=ws&path=%2FjAsBGuKEGkSfriqt%2FcHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&host=bPbg.168168.US.kG&alpn=http%2F1.1&fp=chrome&sni=bPbg.168168.US.kG#339-%E7%BE%8E%E5%9B%BD_0801132481
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.232.179:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=us3.rtacg.com#340-%E6%9C%AA%E7%9F%A5_0801133558
+vless://4e223d48-6f31-4ce1-8939-3906d0916211@162.159.153.4:443?encryption=none&type=ws&path=%2F---------DisVpn---------DisVpn---------DisVpn&host=DisVpn.us.kg&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C10-20%2C10-20&sni=DisVpn.us.kg#341-%E6%9C%AA%E7%9F%A5_0801137155
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.43.80:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#342-%E6%9C%AA%E7%9F%A5_0801135089
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.90:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=kr1.175852.xyz#343-%E6%9C%AA%E7%9F%A5_0801138805
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.74:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=us3.rtacg.com#344-%E6%9C%AA%E7%9F%A5_0801137084
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-3584
+trojan://Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp@154.17.10.185:443?security=tls&sni=tubular.wireshop.net#%F0%9F%87%BA%F0%9F%87%B8US-154.17.10.185-5249
+vmess://ewogICAgImFkZCI6ICIxNjIuMTU5LjI1MC4xMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ2Y3AuY3VzaGluZ3JlZmxleDIud09Sa2Vycy5kRVYiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTYyLjE1OS4yNTAuMTIyLTI5ODgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ2Y3AuY3VzaGluZ3JlZmxleDIud09Sa2Vycy5kRVYiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjEuOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInZtZXNzLnRheGFyNzEwNTQud29ya2Vycy5kZXYiLAogICAgImlkIjogIjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLAogICAgInBvcnQiOiAyMDk1LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuNjEuOC01ODQ1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjcuMzgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ3b3JrZXItZmxhdC1oYXQtMDBmMi5yYXZhcGltNDI2LndvcmtlcnMuZGV2IiwKICAgICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZ2x3ZWlkZi5jZmQvbGlua3dzIiwKICAgICJwb3J0IjogMjA5NiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2LjY3LjM4LTU5NjciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ3b3JrZXItZmxhdC1oYXQtMDBmMi5yYXZhcGltNDI2LndvcmtlcnMuZGV2Igp9
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjEuOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjhlaC1iYW5kLWQ5OTQuZ2lqaWNhNTkzMi53b3JrZXJzLmRldiIsCiAgICAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2l2aWRlb3Muc2JzL2xpbmt3cyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNi42MS44LTU5MDYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI4ZWgtYmFuZC1kOTk0LmdpamljYTU5MzIud29ya2Vycy5kZXYiCn0=
