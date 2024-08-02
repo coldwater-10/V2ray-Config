@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://710102ef-2e66-4fe1-f245-45c42d524f46@104.21.28.188:80?security=none&type=httpupgrade&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.33.cloudfront.net.kiava.fun#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.28.188:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.98:443
 vless://0f7a9c01-2780-4898-bff1-445b7b7dd561@85.9.120.80:2095?security=none&type=tcp&host=cloud.docker.com,+tps.yektanet.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.120.80:2095
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@34.255.66.135:22222?security=tls&sni=trojan.bur
 trojan://3a58b690-4fb4-11ef-8df4-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
 trojan://telegram-id-directvpn@13.53.208.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.53.208.177:22222
 trojan://Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp@154.17.10.185:443?security=tls&sni=tubular.wireshop.net&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.17.10.185:443
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.142.99:443?security=tls&sni=cfus2.trojanwss.xyz&type=ws&host=cfus2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.142.99:443
