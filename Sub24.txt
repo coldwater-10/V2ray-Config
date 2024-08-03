@@ -3,43 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    "SwitchAllowLan": "",
-    "ShowLogs": "",
-    "ServerMoveUp": "",
-    "ServerMoveDown": "",
-    "RegHotkeysAtStartup": false
-  }
-}
-{
-	"configs" : [
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "7C5DAB77B4F0DA16E76EF5CF0407EFE4",
-			"server" : "us7.edge.boom.skin",
-			"server_port" : 46000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "9D5249CB74D17FE57D18E5ED8AD1EC47",
-			"server" : "us7.edge.boom.skin",
-			"server_port" : 46000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -603,3 +566,40 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.91:443?encryption=none&ty
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.42.139:443?encryption=none&type=ws&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h2&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=mmdv2.pages.dev#181-%F0%9F%87%BA%F0%9F%87%B8US_1144_%40Surfboardv2ray
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&host=fraud.chase&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=www.Arizona.edu#182-%F0%9F%87%BA%F0%9F%87%B8US_1039_%40Surfboardv2ray
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=www.Arizona.edu#183-%F0%9F%87%BA%F0%9F%87%B8US_1060_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=www.Arizona.edu#184-%F0%9F%87%BA%F0%9F%87%B8US_1054_%40Surfboardv2ray
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=bpb-worker-panel3.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=bpb-worker-panel3.pages.dev#185-%F0%9F%87%A8%F0%9F%87%A6CA_985_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=www.Arizona.edu#186-%F0%9F%87%BA%F0%9F%87%B8US_1049_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIxODct8J+HqPCfh6ZDQV8xMDNfQFN1cmZib2FyZHYycmF5IiwiYWRkIjoiMTcyLjY3LjIxOS4xOTQiLCJwb3J0Ijo0NDMsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImVkZ2UifQ==
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=www.Arizona.edu#188-%F0%9F%87%BA%F0%9F%87%B8US_1057_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIxODkt8J+HqPCfh6ZDQV85NF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsInBvcnQiOjQ0MywiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJhbHBuIjoiaDIiLCJmcCI6ImFuZHJvaWQifQ==
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&type=ws&path=telegram-PROXY_MTM%2F%3Fed%3D2048&host=e10c0e4b.oodaeq2.pages.dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=e10c0e4b.oodaeq2.pages.dev#190-%F0%9F%87%A8%F0%9F%87%A6CA_1122_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=www.Ar#191-%F0%9F%87%BA%F0%9F%87%B8US_1041_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=www.Arizona.edu#192-%F0%9F%87%BA%F0%9F%87%B8US_1043_%40Surfboardv2ray
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=cfed.tgzdyz2.top#193-%F0%9F%87%A9%F0%9F%87%AADE_314_%40Surfboardv2ray
+vless://c845e5bd-49e7-4952-a69f-6c384799a9a1@speedtest.net:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&host=parsvds.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=speedtest.net#194-%F0%9F%87%BA%F0%9F%87%B8US_995_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=www.Arizona.edu#195-%F0%9F%87%BA%F0%9F%87%B8US_1050_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIxOTYt8J+HqPCfh6ZDQV8xNDlfQFN1cmZib2FyZHYycmF5IiwiYWRkIjoibGluMDUwMi5od2Nhci5zYnMiLCJwb3J0Ijo0NDMsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiYW5kcm9pZCJ9
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@185.146.173.32:443?encryption=none&type=ws&path=%2Ftelegram.v2ray_apha.spacefp&host=e10c0e4b.oodaeq2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C20-50&sni=e10c0e4b.oodaeq2.pages.dev#197-%F0%9F%87%B8%F0%9F%87%AASE_1120_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-50&sni=www.Arizona.edu#198-%F0%9F%87%BA%F0%9F%87%B8US_1028_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C10-20&sni=www.Arizona.edu#199-%F0%9F%87%BA%F0%9F%87%B8US_1052_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=www.Arizona.edu#200-%F0%9F%87%BA%F0%9F%87%B8US_1026_%40Surfboardv2ray
+vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?encryption=none&type=ws&host=pardazeshvpn-tg105.pages.dev&security=tls&alpn=h2&fp=ios&fragment=tlshello%2C20-50%2C10-20&sni=pardazeshvpn-tg105.pages.dev#201-%F0%9F%87%A8%F0%9F%87%A6CA_1185_%40Surfboardv2ray
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?encryption=none&type=ws&path=%2Fsteel&host=steel.footballlovernews.com&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C10-50%2C20-50&sni=steel.footballlovernews.com#202-%F0%9F%87%A8%F0%9F%87%A6CA_1192_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?encryption=none&type=ws&path=%2FTElEGRAM-MARAMBASHI-MARAMBASHI%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#203-%F0%9F%87%A8%F0%9F%87%A6CA_1140_%40Surfboardv2ray
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?encryption=none&type=ws&path=%2F&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-50&sni=juzibaipiao.5112233.xyz#204-%F0%9F%87%A9%F0%9F%87%AADE_1238_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMDUt8J+HqPCfh6ZDQV8xNjhfQFN1cmZib2FyZHYycmF5IiwiYWRkIjoienVsYS5pciIsInBvcnQiOjQ0MywiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiamFoZmtqaGEuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMDYtXzE1N19AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJzdjEuZmFzdHNlcnZlcnM5OC5pciIsInBvcnQiOjQ0MywiaWQiOiJjYTNhODYxYi1iZGM1LTVkNWQtNDFhYi0zMjU4YWFkYTQwYTQiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiZnIuZmFzdHNlcnZlcnM5OC5pciIsIm5ldCI6IndzIiwicGF0aCI6Ii9JVkFwaS9GUi80IiwiaG9zdCI6ImZyLmZhc3RzZXJ2ZXJzOTguaXIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMDct8J+HqPCfh6ZDQV8xNDhfQFN1cmZib2FyZHYycmF5IiwiYWRkIjoiamFoZmtqaGEuY2ZkIiwicG9ydCI6NDQzLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
+vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?encryption=none&type=ws&path=%2Fsteel&host=steel.footballlovernews.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=steel.footballlovernews.com#208-%F0%9F%87%A8%F0%9F%87%A6CA_1191_%40Surfboardv2ray
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.216:443?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=cfed.tgzdyz2.top#209-%F0%9F%87%A9%F0%9F%87%AADE_348_%40Surfboardv2ray
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.211:443?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=cfed.tgzdyz2.top#210-%F0%9F%87%BA%F0%9F%87%B8US_324_%40Surfboardv2ray
+vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?encryption=none&type=ws&path=%2FpURR7fXWnkIMyATWmx5f6MblN&host=nl88.tradex2080.com&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=nl88.tradex2080.com#211-%F0%9F%87%A8%F0%9F%87%A6CA_1213_%40Surfboardv2ray
+vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.47.183:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazeshvpn-tg2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-50&sni=pardazeshvpn-tg2.pages.dev#212-%F0%9F%87%A8%F0%9F%87%A6CA_1252_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.16.110.91:443?encryption=none&type=ws&path=%2F%3Fproxyip&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=vs.ylks.xyz#213-%F0%9F%87%AB%F0%9F%87%B7FR_673_%40Surfboardv2ray
+vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=7f905f51.garywelch.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=7f905f51.garywelch.pages.dev#214-%F0%9F%87%A8%F0%9F%87%A6CA_714_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F%3Fed&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=www.Arizona.edu#215-%F0%9F%87%BA%F0%9F%87%B8US_1064_%40Surfboardv2ray
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=www.Arizona.edu#216-%F0%9F%87%BA%F0%9F%87%B8US_1044_%40Surfboardv2ray
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.28.239.142:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=dns68.putata.eu.org&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=dns68.putata.eu.org#217-%F0%9F%87%B8%F0%9F%87%ACSG_1135_%40Surfboardv2ray
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.120:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=cfed.tgzdyz2.top#218-%F0%9F%87%B3%F0%9F%87%B1NL_319_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMTkt8J+HqPCfh6ZDQV84M19AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxMDQuMjEuOTQuNjQiLCJwb3J0Ijo0NDMsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImFscG4iOiJodHRwLzEuMSIsImZwIjoic2FmYXJpIn0=
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.30:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C10-50&sni=hs.ylks.xyz#220-%F0%9F%87%BA%F0%9F%87%B8US_906_%40Surfboardv2ray
