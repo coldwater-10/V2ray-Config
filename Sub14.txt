@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://9daf70ee-0a48-4331-afa7-2c3124275b46@3.1.206.185:40569?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-3.1.206.185:40569
 vless://aa9e4f20-f7f3-46cc-96f3-897116755cf3@104.18.1.84:443?security=tls&sni=worker-jolly-block-2e78.gamal32324.workers.Dev&type=ws&host=worker-jolly-block-2e78.gamal32324.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.84:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.255.22.40:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-3.255.22.40:22222
 vless://ffb792e9-f974-48f9-9914-4441481b43a3@172.67.66.177:8080?security=none&type=ws&host=fire.abrarvan.xyz&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8080
@@ -603,3 +602,4 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=job
 trojan://4f53849d-10af-4aeb-837f-238af4db50ea@188.166.226.225:443?security=tls&sni=★Addyourownhost★&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-188.166.226.225:443
 trojan://telegram-id-privatevpns@18.156.151.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.156.151.245:22222
 trojan://telegram-id-privatevpns@13.60.135.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.60.135.116:22222
+trojan://telegram-id-privatevpns@18.184.169.155:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.184.169.155:22222
