@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.118:21109
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@[2606:4700:3032::6815:1558]:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3032::6815:1558]:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.213.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.213.51:80
 vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
@@ -602,4 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.250.20:443?security=tls&sni=
 vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32035?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.94:32035
 vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?security=tls&sni=pardazesh25.pages.dev&type=ws&host=pardazesh25.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.189:443
 vless://0a45fb6b-77af-48b3-ab7d-8404d5ad5ccb@167.235.58.117:2082?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-167.235.58.117:2082
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:443

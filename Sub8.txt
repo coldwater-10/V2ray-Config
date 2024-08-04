@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://f64de9bd-73e7-4666-94ad-4eef2a776f40@104.21.41.230:2083?security=tls&sni=ips.impervasec.com&type=grpc&serviceName=2083vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.41.230:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=viEEzer-pANeL.paGES.DEv&type=ws&host=vIeEZEr-PaNeL.PAGes.dev&path=%2FHRj71tnRkPZV60Ea%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:443
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@166.1.157.124:443?security=tls&sni=page-us-qg0.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-166.1.157.124:443
 vless://622d9cf2-7417-4951-9a5e-8173a46c6761@31.40.4.84:2053?security=none&type=tcp&host=xbox.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.40.4.84:2053
@@ -602,4 +603,3 @@ vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@[2606:4700:3030::6815:334]:80?secur
 vless://f7888d7b-8b08-4d1e-a408-9a02338a1e51@78.109.194.92:52567?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.92:52567
 vless://7aab6c59-79e1-43b7-e841-730092149afe@104.25.254.88:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.99:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.99:443
-vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@172.67.213.252:2052?security=none&type=ws&path=/@EsiVP#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.213.252:2052

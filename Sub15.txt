@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@[2606:4700:310c::ac42:2ca8]:2053?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:310c::ac42:2ca8]:2053
 vless://a0597c21-66ae-4eb6-809f-fbf785dcada9@107.189.31.139:80?security=none&type=ws&path=/vless#🔒 VL-WS-NONE 🇱🇺 LU-107.189.31.139:80
 vless://fa12a543-ffc8-4816-a97f-bdc035178967@[2a06:98c1:58::da]:80?security=none&type=ws&host=a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.soft-co.ir&path=@vpn_proxy_channel#🔒 VL-WS-NONE 🏴‍☠️ NA-[2a06:98c1:58::da]:80
 vless://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-[2a01:4f9:c010:1ac8::1]:13269
@@ -602,4 +603,3 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobs
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@168.138.163.13:35702?sni=sg01.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇸🇬 SG-168.138.163.13:35702
 trojan://4f811851-23b7-408d-8c25-5e49db8ea7ec@[2a00:b700::3:5a]:30002?sni=ru01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-[2a00:b700::3:5a]:30002
 trojan://8a1ab0df6abea549@172.105.220.7:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect#🔒 TR-WS-TLS 🇯🇵 JP-172.105.220.7:3306
-trojan://telegram-id-privatevpns@63.34.128.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.128.176:22222
