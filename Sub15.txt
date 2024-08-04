@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://ef331986-0b83-4c44-bc26-0362e969ab59@109.94.165.23:49259?security=none&type=tcp&host=discord.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.94.165.23:49259
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇬🇧 GB-91.193.58.119:2053
 vless://d738e24e-0c85-4e2c-ac54-4f920359c566@104.21.4.4:8443?security=tls&sni=mast.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.4:8443
 vless://041f929a-63f6-4af1-a492-8cbff5797b8a@172.67.69.236:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2096
 vless://57561b79-a630-4589-ad76-bde89c06e8ba@31.40.4.145:8080?security=none&type=ws&path=/@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp@Esivpp#🔒 VL-WS-NONE 🇮🇷 IR-31.40.4.145:8080
@@ -603,3 +601,5 @@ trojan://telegram-id-directvpn@3.135.23.23:22222?security=tls&sni=trojan.burgeri
 trojan://450524c4-86ee-4a97-ac7f-888942039bcd@172.233.146.107:24444?security=tls&sni=new.download.the-best-airport.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-172.233.146.107:24444
 trojan://telegram-id-privatevpns@3.252.224.71:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-3.252.224.71:22222
 trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com#🔒 TR-TCP-TLS 🇨🇦 CA-138.199.57.185:43118
+trojan://telegram-id-directvpn@35.157.99.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.157.99.233:22222
+trojan://52c020954a@208.115.233.80:443?security=tls&sni=usa2.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-208.115.233.80:443
