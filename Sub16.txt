@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443?security=tls&sni=yalda20230103.freedns.site&type=grpc&serviceName=freevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.36:8443
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.55.192:80?security=none&type=ws&host=آیدی-چنل-تلگرام-ماV2rayGodVipهستش.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.55.192:80
-vless://ed846d1d-0b27-4339-aa3f-289d81148b8c@104.17.111.108:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.111.108:8080
-vless://0e5ee689-d40e-594e-9555-8ae7159c7bf7@172.67.145.156:2096?security=tls&sni=parmo.koyohi9973.wOrKErs.Dev&type=ws&host=parmo.koyohi9973.wOrKErs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.145.156:2096
-vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?security=tls&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com&type=ws&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2053
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@[2606:4700::6812:1f06]:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700::6812:1f06]:2087
-vless://abaedaf5-8ccc-4b47-9fbe-2805a753d094@[2606:4700:3030::6815:3ecb]:2087?security=tls&sni=ae4a80a163bbda38.rebeetb.eU.Org&type=ws&host=f6bef6525bf21bfe.rebeetb.eU.Org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::6815:3ecb]:2087
 vless://e945a5ba-b3a1-4208-d069-e7177993c80d@[2606:4700:3032::6815:2afa]:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3032::6815:2afa]:443
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@[2606:4700:3035::6815:2155]:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3035::6815:2155]:8880
 vless://3c7ae8cb-52cd-4bf0-d146-30ed993c7798@85.9.99.104:8443?security=tls&sni=venum.neper.xyz&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-85.9.99.104:8443
@@ -603,3 +596,10 @@ trojan://telegram-id-privatevpns@52.57.33.126:22222?security=tls&sni=trojan.burg
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
 trojan://7c18cd10-243d-49f1-9d5f-90febae16653@52.68.136.145:666?security=tls&sni=2jpmax05.233235.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-52.68.136.145:666
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.5.87:22222
+trojan://telegram-id-privatevpns@13.48.121.226:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.121.226:22222
+trojan://Watashi_VPN@104.18.12.229:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
+trojan://telegram-id-privatevpns@3.11.27.253:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.27.253:22222
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.17:80?type=ws&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&path=/us6#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.129.17:80
+trojan://telegram-id-directvpn@44.236.103.174:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-44.236.103.174:22222
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
+trojan://auto@172.66.47.7:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
