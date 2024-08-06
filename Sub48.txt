@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443/?type=ws&encryption=none&host=fraud.chase&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@[2606:4700:3036::6815:5ea8]:2095/?type=ws&encryption=none&host=10.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@[2606:4700:3036::6815:5ea8]:2095/?type=ws&encryption=none&host=10.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@[2606:4700:3036::6815:5ea8]:2095/?type=ws&encryption=none&host=10.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-
 
 
 .
@@ -603,3 +595,11 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
   defer
   src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
   integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
