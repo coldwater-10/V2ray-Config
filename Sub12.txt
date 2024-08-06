@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@[2606:4700::6810:6670]:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700::6810:6670]:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.201.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.227:443
 vless://f533e37c-9da5-4955-a218-a7886e5719b6@104.26.9.103:443?security=tls&sni=nl88.tradex2080.com&type=ws&host=nl88.tradex2080.com&path=/pURR7fXWnkIMyATWmx5f6MblN&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.103:443
 vless://c338686e-02c3-46f8-9e67-7c63f9e163c4@104.128.95.217:51147?type=ws&path=/#🔒 VL-WS-NA 🇺🇸 US-104.128.95.217:51147
@@ -602,4 +603,3 @@ vless://f110e62b-c579-de82-d5b8-61c53cde88a5@81.12.92.157:16175?security=none&ty
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.21.253:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.21.253:443
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb55@188.114.98.224:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
-vless://77de458b-5d58-4379-927a-7e749b2d17f8@[2606:4700:3032::6815:1558]:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3032::6815:1558]:443
