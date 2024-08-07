@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
 	"proxyHost" : "",
 	"proxyPort" : 0,
 	"proxyAuthUser" : "",
@@ -603,3 +598,8 @@ vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.19.37:2053?encryption=none&t
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjExLfCfh6bwn4e6QVUtMTAzLjIyNC4yMTIuMjE1LTE0OTUiLCJhZGQiOiJ2aW4xLjBiYWQuY29tIiwicG9ydCI6NDQzLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoidmluMS4wYmFkLmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jaGF0IiwiaG9zdCI6InZpbjEuMGJhZC5jb20iLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.96.18:2053?encryption=none&type=ws&host=edgood.king361.cf&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=edgood.king361.cf#212-%E8%8D%B7%E5%85%B0_080708144
 vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@104.21.61.188:2052?encryption=none&type=ws&host=mijml3.hamedigold.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=mijml3.hamedigold.com#213-%E6%9C%AA%E7%9F%A5_0807082577
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?encryption=none&type=ws&path=%2F%3Fed&host=crxre.ribiwa9933.workers.dev&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=crxre.ribiwa9933.workers.dev#214-%E6%9C%AA%E7%9F%A5_080708667
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjE1LfCfj4FSRUxBWS0xMDQuMTguNi40My0wMjUxIiwiYWRkIjoiMTA0LjE4LjYuNDMiLCJwb3J0Ijo4MDgwLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6MCwidGxzIjoiIiwic25pIjoib2lpY3R3Lnl5ZHNpaS5jb20iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjE2LfCfh63wn4ewSEstOC4yMTAuMjA2LjE2My0zMTEyIiwiYWRkIjoiOC4yMTAuMjA2LjE2MyIsInBvcnQiOjQ1NzE5LCJpZCI6ImEyMjBkYWQyLWEzNGUtNDQ2MC1iMGY3LWVhYmE5YzQ2ZTYzOSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJob3N0IjoiIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJhbmRyb2lkIn0=
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.58.100:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=randomized&sni=us3.rtacg.com#217-%E6%9C%AA%E7%9F%A5_0807081493
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjE4LfCfj4FSRUxBWS0xODUuMTYyLjIyOC4xMTAtMjMzNiIsImFkZCI6IjE4NS4xNjIuMjI4LjExMCIsInBvcnQiOjQ0MywiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
