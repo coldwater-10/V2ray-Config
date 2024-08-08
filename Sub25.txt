@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "148477AE146D474DFF2EA001FFF8DF35",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -591,15 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.146.223:443?encryption=none&
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTYzLfCfj4FSRUxBWS0xNjIuMTU5LjEzOC4yMzItODI2NS13b3JrZXIiLCJhZGQiOiIxNzIuNjQuMTQ2LjIyMyIsInBvcnQiOjQ0MywiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6InRoZXBhLWVyeW91bS1udGlvbmVkaXN0aXQtZWRjYXVzZXNvZi1lYXRoaW5wYXRpZS10c3dpdC1jZWxpYWNkaS5hdXRvaW1tdW5lNC53b3JrRVJTLmRFdiIsIm5ldCI6IndzIiwicGF0aCI6Ii9kaXNjb3JkLmNvbTo0NDMvd3NzMTM4ODkiLCJob3N0IjoidGhlcGEtZXJ5b3VtLW50aW9uZWRpc3RpdC1lZGNhdXNlc29mLWVhdGhpbnBhdGllLXRzd2l0LWNlbGlhY2RpLmF1dG9pbW11bmU0LndvcmtFUlMuZEV2IiwiYWxwbiI6ImgzLGgyIiwiZnAiOiJyYW5kb21pemVkIn0=
 vless://5e0eb74b-51f4-42b1-a0bb-55863ca79568@172.64.146.223:443?encryption=none&type=ws&path=%2Fus2.vless.site%3A443%2FTelegram-%40AstroVPN_Official&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKErS.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.WOrKErS.dev#164-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.30.6%3A443-worker
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.223:2083?encryption=none&type=ws&path=%2Fa.ssll.gay%3A2083%2Ftwitterfreecodesfp%3Dchrome&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRKerS.DEV&security=tls&alpn=h2&fp=firefox&fragment=tlshello%2C10-50%2C10-50&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.woRKerS.DEV#165-12%7CEE_speednode_0089-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.146.223:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2FTwitterfreecodestg%40zdyz2security%3Dtls&host=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wORkERS.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=thepa-eryoum-ntionedistit-edcausesof-eathinpatie-tswit-celiacdi.autoimmune4.wORkERS.dEv#166-RELAY%F0%9F%9A%A9%20%7C%20cfed.tgzdyz2.top-443%20%7C%202.94ms-worker
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxNjctXzIyX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6InN2Mi5mYXN0ZmFzdDgwLmlyIiwicG9ydCI6NDQzLCJpZCI6IjZhOTk3MjVkLTJhZjgtZDI3Yy1jZWY1LTMwMmZiYmU1NGMwNyIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1ay5mYXN0ZmFzdDgwLmlyIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lWQXBpL1VLLzciLCJob3N0IjoidWsuZmFzdGZhc3Q4MC5pciIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMTY4LfCfh6jwn4emQ0FfMTFfQFN1cmZib2FyZHYycmF5IiwiYWRkIjoiMTcyLjY3LjcxLjE2MCIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoib2JkaWkuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJvYmRpaS5jZmQiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F&host=fraud.chase&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=www.Arizona.edu#169-%F0%9F%87%BA%F0%9F%87%B8US_65_%40Surfboardv2ray
-vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?encryption=none&type=ws&path=%2Fwebsocket%3Fed%3D2560&host=01.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=speedtest.net#170-%F0%9F%87%BA%F0%9F%87%B8US_71_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzEt8J+HuPCfh6pTRV8xMl9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxODUuMTQ2LjE3My41OSIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoib2JkaWkuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJvYmRpaS5jZmQiLCJhbHBuIjoiaDIiLCJmcCI6InNhZmFyaSJ9
-vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@185.146.173.200:443?encryption=none&type=ws&path=%2Fuk2%3Fed&host=mc0.pages.dev&security=tls&alpn=h2&fp=android&fragment=tlshello%2C20-50%2C10-20&sni=pages.dev#172-%F0%9F%87%B8%F0%9F%87%AASE_43_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?encryption=none&type=ws&path=%2Ftelegram-proxy_mtm%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=mmdv2.pages.dev#173-%F0%9F%87%BA%F0%9F%87%B8US_68_%40Surfboardv2ray
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443?encryption=none&type=ws&path=%2FXV2ray%3Fed%3D2560&host=mc0.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=pages.dev#174-%F0%9F%87%A8%F0%9F%87%A6CA_41_%40Surfboardv2ray
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?encryption=none&type=ws&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&host=solid.footballlovernews.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=solid.footballlovernews.com#175-%F0%9F%87%A8%F0%9F%87%A6CA_70_%40Surfboardv2ray
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&type=ws&path=%2F%3Fed&host=fraud.chase&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=www.Arizona.edu#176-%F0%9F%87%BA%F0%9F%87%B8US_66_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?encryption=none&type=ws&path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#177-%F0%9F%87%A8%F0%9F%87%A6CA_45_%40Surfboardv2ray
