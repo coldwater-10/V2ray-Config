@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.235.127:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.127:80
-vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@[2606:4700:3036::ac43:b801]:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-[2606:4700:3036::ac43:b801]:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.89:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.89:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.240:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.240:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.151.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.151.70:80
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.40.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.40.164:80
 vless://ba33c8f1-d3c0-4b04-9e9f-b7990c528d4d@66.235.200.89:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🇺🇸 US-66.235.200.89:8080
 vless://345e72cf-f54f-4016-9daa-3fe236ec2c0d@84.47.232.100:8080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.100:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.214.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.153:443
+vless://0348038c-de3b-5790-8756-402479efb5c7@[2606:4700:3031::ac43:b2b0]:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3031::ac43:b2b0]:2053
