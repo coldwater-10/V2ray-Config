@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://45cfcee5-9312-49f5-8be6-a290672d9ae2@185.211.56.197:25379?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.56.197:25379
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.56:80
-vless://07ffa30b-2366-4621-8c3a-aa7daeb70731@87.236.208.30:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-87.236.208.30:8080
 vless://b5474d01-e295-41f1-9861-01a7596dc624@95.179.141.71:36932?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-95.179.141.71:36932
 vless://3ffec0f7-8837-4568-a039-d124abfee84f@14.102.229.229:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-14.102.229.229:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.22.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.22.151:443
@@ -603,3 +600,6 @@ vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@[2606:4700::6811:f6cb]:8080?securit
 vless://e8ad197d-2766-41ed-ad70-ba111abeebb3@147.78.140.152:8080?security=none&type=ws&host=vigiLanTe823467DHasdfh3D.義務警員.online.&path=@daily_configs-@daily_configs-@daily_configs-@daily_configs#🔒 VL-WS-NONE 🇧🇬 BG-147.78.140.152:8080
 vless://c4cf5d20-3c08-4f05-e905-f0731c2ad2fa@57.129.23.209:19542?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-57.129.23.209:19542
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.233.64:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.233.64:80
+vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@[2606:4700:3030::ac43:aa47]:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3030::ac43:aa47]:2087
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.73:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.173.8:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.8:443
