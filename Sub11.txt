@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.169.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.169.249:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.192.33:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.192.33:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.199:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.199:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.1.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.82:80
 vless://98765644-5154-4b79-d694-cad5705bc260@103.184.44.21:443?security=tls&sni=nimkAtV2ray.jonedel.com&type=grpc&serviceName=@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.21:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@112.219.148.204:50036?security=tls&sni=kx.ylks.xyz&type=ws&path=/blue#🔒 VL-WS-TLS 🇰🇷 KR-112.219.148.204:50036
@@ -599,7 +603,3 @@ vless://b8193a2e-f914-45d5-ced4-62ea5e02fcda@35.159.167.152:8081?type=tcp&host=z
 vless://9bd4142c-7025-4405-9350-33851fdb4ecc@162.251.82.187:443?security=tls&sni=de2pq.itsvpns.app&type=ws&host=de2pq.itsvpns.app&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.145.85:8443?security=tls&sni=jw.ylks01.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:8443
 vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@104.21.8.209:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.8.209:80
-vless://2f6bfff5-8060-40e6-9a4f-9073ee2757be@185.228.236.63:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.228.236.63:8080
-vless://a8bb4dca-6de0-443a-9529-746de53835a9@[2a01:4f8:1c17:e805::1]:39563?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-[2a01:4f8:1c17:e805::1]:39563
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.59.97:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.97:80
-vless://51e823ea-da11-43e7-89b0-32a729f14551@185.239.105.218:49098?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.239.105.218:49098

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2096
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.244:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.83.231:23022?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-64.110.83.231:23022
+vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.212.202:8580?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.212.202:8580
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.81.133:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.81.133:80
 vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@[2606:4700:3031::ac43:83f0]:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3031::ac43:83f0]:443
 vless://bd892084-1f33-40f4-8c0b-67d13f26905f@172.67.204.84:2082?security=none&type=httpupgrade&host=www.speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.ir.&path=/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.204.84:2082
@@ -599,7 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.223.205:80?security=none&typ
 vless://c2e1eec3-2d9d-4df4-9636-09a64f35dc7f@188.165.177.45:32565?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-188.165.177.45:32565
 vless://a653f8d9-90a1-512b-998e-61af7b2f31c2@185.146.173.44:443?security=tls&sni=nl1.vless.site&type=ws&host=nl1.vless.site&path=/vless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.44:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@[2606:4700:3030::ac43:b6cf]:8443?security=tls&sni=sisand.waztow.wORkERS.dEv&type=ws&host=sisand.waztow.wORkERS.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::ac43:b6cf]:8443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.212.30:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.30:8080
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.58.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.58.131:80
-vless://5da27733-3527-479e-bb81-4c5a9c75d83f@[2606:4700:3037::ac43:88f6]:443?security=tls&sni=viphamester.wolfmoon.ir&type=grpc&serviceName=okala.com&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3037::ac43:88f6]:443
-vless://7728f089-122a-483e-beba-6ea57dfa2454@85.237.223.142:33217?security=none&type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NONE 🇵🇱 PL-85.237.223.142:33217
