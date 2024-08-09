@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://67fff5a6-52fe-4247-969e-122a50c37df8@116.203.0.138:2053?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-116.203.0.138:2053
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.120.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.120.201:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.160.81:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.160.81:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.203:80
 vless://5d4fb4ee-cc86-4bdf-9777-ff6e759a8700@104.16.60.8:80?type=ws&host=slatdrres45rewrubikaeitasalam.dr-salam.com&path=/48608/Down#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80
 vless://555e0d5f-77ea-4c7d-8b3e-89836ec5f428@92.114.50.11:2093?security=none&type=tcp&host=speedtest.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.50.11:2093
@@ -603,3 +600,6 @@ trojan://telegram-id-directvpn@44.236.103.174:22222?security=tls&sni=trojan.burg
 trojan://-YZ7Suz3ZpIJjXIJobWrqw@172.67.163.61:80?security=none&type=ws&host=shop.fa-behsazan.ir&path=/shop#🔒 TR-WS-NONE 🏴‍☠️ NA-172.67.163.61:80
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
+trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
+trojan://saMgiangGt@172.67.180.110:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.180.110:443
