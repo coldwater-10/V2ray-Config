@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e725ae63-60ad-47b5-8d4e-89ae45514d95@92.243.74.80:443?security=tls&sni=dl.halachicago.com.&type=ws&host=dl.halachicago.com.&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.80:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.251.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.251.230:443
 vless://a989201e-f910-4533-aa58-fdd29b1ef48d@185.146.173.95:443?security=tls&sni=all1.vip-save.space&type=ws&host=all1.vip-save.space&path=/Telegram+-+@SavageV2ray+-+Telegram+-+@SavageV2ray#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.95:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.161.104:8443?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.42.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.42.156:80
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.84:443?security=tls&sni=
 vless://9afa7e48-1af0-418f-b063-04bc7776b70e@[2606:4700:3034::6815:4811]:443?security=tls&sni=blog.webex.com.sg.ryo.biz.id&type=ws&host=blog.webex.com.sg.ryo.biz.id&path=/vless-ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3034::6815:4811]:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.239.1:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.239.1:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.76.203.101:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-47.76.203.101:2053
-vless://a8e73365-f524-4a5e-a5af-a7af3c2ec133@89.42.46.60:8833?security=none&type=tcp&host=uptvs.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.42.46.60:8833
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.145.85:8443?security=tls&sni=jw.ylks01.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:8443
