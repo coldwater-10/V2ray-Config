@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://cc43e1ab-0fa8-4e32-9484-bd9954ed34fb@212.23.214.147:20053?security=none&type=tcp&host=Webmail.yjc.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.23.214.147:20053
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.137.198:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.137.198:80
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@[2606:4700:20::ac43:42b1]:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:20::ac43:42b1]:2083
 vless://3eba6868-8bea-42c2-b0a0-652a5a27776e@194.5.179.148:443?security=tls&sni=france.alighan.ir&type=ws&host=france.alighan.ir&path=/vbd&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-194.5.179.148:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.63.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.63.83:80
@@ -601,5 +603,3 @@ vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@[2606:4700:20::ac43:42b1]:443?secur
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.184.154:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.154:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.164.155:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.164.155:443
 vless://91a3e83d-b067-3ba3-af2f-e534b7ed4e42@193.151.131.204:5550?security=none&type=tcp&host=fararu.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.131.204:5550
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.130:18357?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.130:18357
-vless://433c6f97-9f0b-4fd2-a7d8-157c02e046a3@2.189.59.4:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇮🇷 IR-2.189.59.4:8443
