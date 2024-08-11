@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
 	"autoBan" : false,
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
@@ -583,23 +603,3 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?encryption=none&t
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjAzLfCfj4FSRUxBWS0xMDMuMjEuMjQ0LjIxOS0xNDc3IiwiYWRkIjoiMTAzLjIxLjI0NC4yMTkiLCJwb3J0Ijo4NDQzLCJpZCI6ImE2YTM3ZTA0LTVlODEtNDRjOS1iZTUzLWJhYTNmZjQ2ZWI4YiIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiLzhjZGE0OGIzIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
 vless://39248a56-c0fa-4246-8b1b-84c9e57126d2@185.146.173.52:2052?encryption=none&type=ws&path=%2Fvless&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=Fr1.vless.site.#204-%E7%91%9E%E5%85%B8_081113070
 vless://0eaec99a-99d4-423d-8b4d-9313aaa20d03@104.17.147.22:2083?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=all4.savagev2ray.site#205-%E6%9C%AA%E7%9F%A5_0811138684
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjA2LfCfj4FSRUxBWS0xNzMuMjQ1LjQ5LjIzLTIyNTciLCJhZGQiOiIxNzMuMjQ1LjQ5LjIzIiwicG9ydCI6ODQ0MywiaWQiOiJhNmEzN2UwNC01ZTgxLTQ0YzktYmU1My1iYWEzZmY0NmViOGIiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii84Y2RhNDhiMyIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
-vless://5520c61b-86a1-40a7-9588-a8357a66f8ab@104.16.60.8:80?encryption=none&type=ws&path=%2Ftelegram-%40Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2CMmdv2rayng-V2rayngmmd-telegram-mreza-v2ray%3Fed%3D2056&host=bloger9.trustdevlo.com.&alpn=http%2F1.1&fp=edge&sni=bloger9.trustdevlo.com.#207-%E6%9C%AA%E7%9F%A5_0811139202
-vless://0b56814b-3c31-4646-ef9c-da6e605b6be2@192.200.160.76:2096?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=panel.h3i0.site#208-%E7%BE%8E%E5%9B%BD_0811131481
-vless://f7ec83d7-c36a-4a10-e7f8-81d4da3f5de1@185.146.173.59:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=niimkAtV2ray.jonedel.com#209-%E7%91%9E%E5%85%B8_081113182
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjEwLfCfj4FSRUxBWS0xMDQuMjAuMTcuMTg2LTEwNjgiLCJhZGQiOiIxMDQuMjAuMTcuMTg2IiwicG9ydCI6MjA1MiwiaWQiOiJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6ImNkbjEuZnJlZWdyYWRlbHkueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiY2RuMS5mcmVlZ3JhZGVseS54eXoiLCJhbHBuIjoiaDMsaDIiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjExLfCfj4FSRUxBWS0xMDQuMTkuNDUuMTktMTE0MiIsImFkZCI6IjEwNC4xOS40NS4xOSIsInBvcnQiOjIwOTUsImlkIjoiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJvbmVhLmZsaGEucnUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Im9uZWEuZmxoYS5ydSIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiZWRnZSJ9
-vless://568ed750-084c-4051-9c56-4042c0824f95@185.146.173.18:2087?encryption=none&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=185.146.173.18#212-%E7%91%9E%E5%85%B8_081113272
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.159.133:80?encryption=none&type=ws&path=%2Fabcde&host=kr1.175852.xyz&alpn=h3%2Ch2&fp=android&sni=kr1.175852.xyz#213-%E6%9C%AA%E7%9F%A5_0811138756
-vless://28a02be3-c01d-4388-8879-f98b89896ca4@185.146.173.85:80?encryption=none&type=ws&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.#214-%E7%91%9E%E5%85%B8_081113059
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@167.68.11.116:443?encryption=none&type=ws&path=%2Fproxyip&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=xin005.ylks.link#215-%E7%BE%8E%E5%9B%BD_0811133770
-vless://7cfb0575-9759-4953-846e-f55127eea2d8@172.67.153.196:2083?encryption=none&type=ws&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=marketepicnode2.modernstory.ir#216-%E7%BE%8E%E5%9B%BD_0811133858
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@84.32.84.33:80?encryption=none&type=ws&host=ehda.sajaditsme.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=ehda.sajaditsme.com#217-%E7%AB%8B%E9%99%B6%E5%AE%9B_081113010
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.9.147:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&alpn=h2&fp=chrome&sni=us3.rtacg.com#218-%E6%9C%AA%E7%9F%A5_0811139293
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjE5LfCfh7jwn4esU0ctMTY1LjIyLjEwNy4xMjQtMjU1MyIsImFkZCI6InNnMi5zYWZlcG4ubmV0IiwicG9ydCI6NDQzLCJpZCI6ImVlNzZjZWNmLTEyMTktNDJiZS1hZTNmLTZiODA3N2U0Y2FjYyIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoic2cyLnNhZmVwbi5uZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNnMi5zYWZlcG4ubmV0IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJpb3MifQ==
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.207.182:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=mmdv2.pages.dev#220-%E7%BE%8E%E5%9B%BD_0811132629
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?encryption=none&type=ws&path=%2Ftg%40zdyz2security%3Dtls&host=cfed.tgzdyz2.top&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C20-50&sni=cfed.tgzdyz2.top#221-%E7%BE%8E%E5%9B%BD_081113061
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjIyLfCfj4FSRUxBWS0yMDMuMzAuMTkxLjQtMjY4OSIsImFkZCI6IjIwMy4zMC4xOTEuNCIsInBvcnQiOjQ0MywiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://7f618645-b14f-44c5-9dd6-97606ad27227@104.21.69.44:80?encryption=none&type=ws&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&security=none&alpn=http%2F1.1&fp=chrome&sni=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.#223-%E6%9C%AA%E7%9F%A5_0811134504
-vless://386e270d-7d87-4970-97e3-d685cab1ee82@185.146.173.252:8080?encryption=none&type=ws&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=unlimiteddev-vpn.unlimiteddev.Community.#224-%E7%91%9E%E5%85%B8_081113069
-vless://18888d75-d802-41c2-9fc2-6c7ae419d792@104.19.121.216:2052?encryption=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&alpn=h2&fp=chrome&sni=1.V2rayV2ray-_-_-V2ray.irantech.Org.#225-%E6%9C%AA%E7%9F%A5_0811138646
