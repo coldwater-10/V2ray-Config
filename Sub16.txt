@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@104.21.50.213:443?security=tls&sni=tere.minusober.com&type=ws&path=/tere#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.213:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.164:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.226.164:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@[2606:4700:3034::6815:32d5]:443?security=tls&sni=vahem.minusober.com&type=ws&path=/vahem#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3034::6815:32d5]:443
+vless://98765644-5154-4b79-d694-cad5705bc260@103.184.44.21:443?security=tls&sni=nimkAtV2ray.jonedel.com&type=grpc&serviceName=@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.21:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.73:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.230.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.230.194:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.108.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.108.163:80
@@ -598,8 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.32.249:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.224:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.50.224:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.249.202.215:8086?security=tls&sni=ak.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-173.249.202.215:8086
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.66:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.16.133:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.16.133:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.47.234:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.47.234:80
-vless://c47a3535-1065-4742-a4e5-b19d32023d07@89.44.118.107:43136?security=none&type=tcp&host=zula.ir&path=/@v2configer&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.118.107:43136
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.168.249:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.249:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.0.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.0.176:80
