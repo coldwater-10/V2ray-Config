@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6697
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@80.92.204.106:9024#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9024
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔒 SS-TCP-NA 🇧🇪 BE-192.71.249.78:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVjdwVjJRamlDcENGc3pSNWg3SThRcTRoK3YyWHk5VmhIVEtKQytwUlZBPQ==@128.199.136.90:32903#🔒 SS-TCP-NA 🇸🇬 SG-128.199.136.90:32903
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODdjMTQ=@46.232.123.37:50206#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQkVFRFdiZVQxekZOMGVLYVQ0dHJ0@147.45.114.160:20810#🔒 SS-TCP-NA 🇳🇱 NL-147.45.114.160:20810
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTWE4enJZSU5tWXNTdmJ0VnM0NFhZ@178.128.93.10:2376#🔒 SS-TCP-NA 🇸🇬 SG-178.128.93.10:2376
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:800#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:800
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRkJMQ25LZHlwYzdpT1loR2hkRlZn@89.23.108.217:5555#🔒 SS-TCP-NA 🇩🇪 DE-89.23.108.217:5555
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#🔒 SS-TCP-NA 🇰🇿 KZ-89.44.193.112:51348
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.135.19:6379#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@213.130.141.113:39192#🔒 SS-TCP-NA 🇭🇰 HK-213.130.141.113:39192
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.113:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:443
@@ -592,14 +603,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&securi
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.66ms
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.55ms
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.51ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.48ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?type=ws&encryption=none&host=fraud.chase&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.46ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed&security=tls&sni=www.Arizona.edu&fp=chrome#US🇺🇸 | www.Arizona.edu-443 | 2.62ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed&security=tls&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.75ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.37ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#US🇺🇸 | speedtest.net-443 | 2.25ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.48ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.26ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#US🇺🇸 | www.Arizona.edu-443 | 2.36ms
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#RELAY🚩 | ircp-617.pages.dev.-443 | 12.57ms
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#RELAY🚩 | ircp-617.pages.dev.-443 | 3.12ms
