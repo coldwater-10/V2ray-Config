@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
 
 	}
 }
@@ -586,20 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.148:80?encryption=none&t
 vless://14c8b3b2-e91f-4549-975c-fa42e278a318@104.21.20.142:443?encryption=none&type=ws&path=%2F&host=armanibashfreeapp2.iranserver.askdhbasikjbas.shop&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=armanibashfreeapp2.iranserver.askdhbasikjbas.shop#218-%E6%9C%AA%E7%9F%A5_0811231137
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.227.126:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=android&sni=us3.rtacg.com#219-%E6%9C%AA%E7%9F%A5_0811233038
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.76.225.255:2053?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=dns68.putata.eu.org&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=dns68.putata.eu.org#220-%E9%A6%99%E6%B8%AF_081123160
-vless://9a015c95-aa54-449f-8604-ecd16d67a38c@172.67.158.147:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws81.cloudfront.net.kiava.fun&security=none&alpn=h3%2Ch2&fp=chrome&sni=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws81.cloudfront.net.kiava.fun#221-%E7%BE%8E%E5%9B%BD_0811232313
-vless://92dc1a08-9db4-4551-8c15-8cb3edff26b7@104.21.19.124:8880?encryption=none&type=httpupgrade&path=%2Fnazan%2Fpedar%2Fsag&host=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.&security=none&alpn=http%2F1.1&fp=firefox&sni=wEb.ArvAncLoud.Ir.DigIcYBer.CLIck.#222-%E6%9C%AA%E7%9F%A5_081123057
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.37:443?encryption=none&type=ws&path=%2Ftg%40zdyz2&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=cfed.tgzdyz2.top#223-%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_081123074
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.191.118:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#224-%E7%BE%8E%E5%9B%BD_0811232963
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjI1LfCfj4FSRUxBWS0yMy4yMjcuMzguMjctMTUxNyIsImFkZCI6IjIzLjIyNy4zOC4yNyIsInBvcnQiOjQ0MywiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6Im9wbGcxLmNmY2RuMi54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQVVJS044QVUiLCJob3N0Ijoib3BsZzEuY2ZjZG4yLnh5eiIsImFscG4iOiJoMiIsImZwIjoicmFuZG9taXplZCJ9
-vless://7f1548ae-3c31-45a4-9150-727e5d08e068@104.21.20.68:80?encryption=none&type=ws&path=%2Fvless&host=Fi3.vless.site.&alpn=h2&fp=firefox&sni=Fi3.vless.site.#226-%E6%9C%AA%E7%9F%A5_0811233495
-vless://0ec75700-9ceb-43d5-914a-c2888a7b6c25@104.17.147.22:2087?encryption=none&type=ws&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D2048&host=LiV2ry.lightning1.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=LiV2ry.lightning1.ir#227-%E6%9C%AA%E7%9F%A5_0811239221
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.10:443?encryption=none&type=ws&path=tg%40zdyz2security%3Dtls&host=cfed.tgzdyz2.top&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=cfed.tgzdyz2.top#228-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_081123003
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjI5LfCfj4FSRUxBWS0xMDQuMTkuNTEuMjMyLTAxNDAiLCJhZGQiOiIxMDQuMTkuNTEuMjMyIiwicG9ydCI6MjA4NiwiaWQiOiIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjMwLfCfj4FSRUxBWS0xMDQuMTkuNDcuMTEzLTA1NDUiLCJhZGQiOiIxMDQuMTkuNDcuMTEzIiwicG9ydCI6ODA4MCwiaWQiOiJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6Im9paWN0dy55eWRzaWkuY29tIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwiaG9zdCI6Im9paWN0dy55eWRzaWkuY29tIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
-vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=suping2.snapppfood.sbs#231-%E6%9C%AA%E7%9F%A5_0811231413
-vless://e3414cff-d076-4e7a-9518-c5792f9a87ac@188.164.158.49:443?encryption=none&type=ws&path=%2FFWwdxcwcwwQwdcwqwdd333qqqqqqqwdddddd&host=connectingno.technewspaper.store&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=connectingno.technewspaper.store#232-%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_081123012
-vless://11b0b18f-c916-4871-8846-821291ad4901@46.245.77.82:30304?encryption=none&type=ws&path=%2Fproject&host=dragon.runflare.run&alpn=http%2F1.1&fp=chrome&sni=dragon.runflare.run#233-%E4%BC%8A%E6%9C%97_081123107
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?encryption=none&type=grpc&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=join-telegram-channel-vipv2rey.mamare.ir#234-%E7%AB%8B%E9%99%B6%E5%AE%9B_081123009
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.191.120:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=mmdv2.pages.dev#235-%E7%BE%8E%E5%9B%BD_0811232964
-vless://ce44db58-ed9a-49f4-86b2-99053b0b54cf@85.133.200.34:2087?encryption=none&type=ws&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=nl1.anonymous011.me#236-%E4%BC%8A%E6%9C%97_081123073
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjM3LfCfj4FSRUxBWS0xMDQuMTkuNTUuNDktMTE1MiIsImFkZCI6IjEwNC4xOS41NS40OSIsInBvcnQiOjIwODYsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJpcDIuMTQ1NzIzMC54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImlwMi4xNDU3MjMwLnh5eiIsImFscG4iOiJoMiIsImZwIjoicmFuZG9taXplZCJ9
