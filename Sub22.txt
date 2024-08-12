@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@104.208.111.108:443?security=tls&sni=hknode02.oportal.cc&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-104.208.111.108:443
+trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&sni=z-v2-002797.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-66.42.84.121:443
+trojan://3f02bd7f-3bfb-418f-9e02-56fafe33c890@45.33.33.254:443?sni=13-231-155-134.nhost.00cdn.com#🔒 TR-TCP-NA 🇺🇸 US-45.33.33.254:443
+trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@23.99.97.169:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.97.169:443
+trojan://IU5j1R3chk@43.153.41.7:12398?security=tls&sni=gg.makezhan.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-43.153.41.7:12398
+trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
+trojan://telegram-id-privatevpns@16.171.100.224:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.100.224:22222
+trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
+trojan://telegram-id-privatevpns@3.255.33.65:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-3.255.33.65:22222
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
+trojan://telegram-id-privatevpns@13.43.171.37:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.171.37:22222
 trojan://telegram-id-directvpn@18.130.186.95:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.130.186.95:22222
 trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-3.250.123.154:22222
 trojan://v7ZfjqfU2s@152.42.237.5:19850?security=tls&sni=m.zoom.us&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-152.42.237.5:19850
@@ -591,15 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.9.119.55:443#🔒 SS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.115:7002#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.115:7002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLT3VUQjdDMWUvR1IweWYzWDZYTzVaRDFIbzBpaHFvd1lTcWJXb0k1a3JBPQ==@3.79.35.159:8080#🔒 SS-TCP-NA 🇩🇪 DE-3.79.35.159:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQzFLYUtsTmxKbks1YTMyT24ySGJ6@178.128.95.145:3127#🔒 SS-TCP-NA 🇸🇬 SG-178.128.95.145:3127
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5004#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5004
-ss://ODNhYTI2MzQtOTZhNy00ZWU2LWFhYzEtMDdmZDk2ZjFjNmMwOg==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5000
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.19:8881#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:8881
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWCtEZFloVkUreFFNMUJXbzBTYTZXdWZYVHlsOEZTQitqL2drVU1SUDVjPQ==@3.68.107.96:2087#🔒 SS-TCP-NA 🇩🇪 DE-3.68.107.96:2087
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:2375
-ss://YWVzLTEyOC1nY206Y2FhNjAwNTEtYTMxOC00ODRmLTgwZDktMzkyODlhOGRmNTIy@129.154.222.205:32303#🔒 SS-TCP-NA 🇰🇷 KR-129.154.222.205:32303
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6697
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:5001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.148:8080
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.89:5004#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5004
