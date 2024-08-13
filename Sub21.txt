@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.63.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.63.120:80
-vless://b59d6542-bbb1-4fbc-8a6c-5715900a4f62@185.143.233.5:2096?security=none&type=ws&host=anaservice-d44d8e9e81-anaservice.apps.ir-thr-ba1.arvancaas.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:2096
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.249.203:8080?security=none&type=ws&host=de7.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.249.203:8080
 vless://c346375a-8898-4a45-9455-6b5596dba898@198.41.193.40:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.40:80
 vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sni=FreeIran.DarkMood.cfd&type=grpc&serviceName=FreeIran.DarkMood.cfd&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.101:2053
@@ -603,3 +601,5 @@ trojan://e4f288433b@54.36.173.159:443?security=tls&sni=pol1.connecton.surf&type=
 trojan://telegram-id-privatevpns@35.181.238.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.238.93:22222
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
 trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.27.7.142:2053
+trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@104.21.46.126:2053?security=tls&sni=ip-cf.hukinghumans-655.WorkeRs.dEv&type=ws&host=ip-cf.hukinghumans-655.WorkeRs.dEv&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.46.126:2053
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
