@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.59:80
+vless://77b78135-c5c5-4bb1-902b-05cfa00ab702@78.141.196.197:44545?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-78.141.196.197:44545
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.243.170:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.243.170:443
 vless://d88d5d47-0826-49ea-b146-c5fbfb4ccdf2@85.198.9.12:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.9.12:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.118.188:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.247.118.188:22222
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:8443?security=tls&sn
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.86:443?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇩🇪 DE-50.7.87.86:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.80.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.80.233:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.107.238:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.107.238:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.63.184:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.63.184:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.164.125:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.125:443

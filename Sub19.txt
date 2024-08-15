@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://5da27733-3527-479e-bb81-4c5a9c75d83f@104.21.7.164:443?security=tls&sni=viphamester.wolfmoon.ir&type=grpc&serviceName=okala.com&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.7.164:443
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2052
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.228.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.143:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.79.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.79.132:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.54.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.54.195:80
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.11.227:80?security=none&type
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.86:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%253...#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.86:8080
 vless://66b3cbba-e6ac-485a-9201-976a0476eab9@172.67.157.231:443?security=tls&sni=eSeTSecUrityLiCEnsE.RqUGI.woRkErs.dEV&type=ws&host=EseTSECuRItYLicEnsE.RQUGI.worKErs.dev&path=%2FGCKOW5jRaMSG7hSK%2FMTQ2LjcwLjE3NS4xODc%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.231:443
 vless://8ba98c5f-3784-4194-b65c-b7c80489207e@104.21.69.42:443?security=tls&sni=Portal1.ziba8shop.ir.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.42:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.59:80
-vless://77b78135-c5c5-4bb1-902b-05cfa00ab702@78.141.196.197:44545?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-78.141.196.197:44545
