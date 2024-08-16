@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://5387472d-fb54-4d7d-90fc-4cb93083e397@89.23.126.154:443?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.23.126.154:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.51.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.59:80
-vless://a8ac2355-3b31-4ded-8b15-186da100fa77@104.17.148.22:2083?security=tls&sni=all1.vip-save.space&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.4.61:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.61:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.59.4:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.4:80
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.64:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.64:80
-vless://1e4f26c3-13a5-46e8-b92e-1122ea27d0ec@185.135.47.150:32155?security=tls&sni=de.kingsv.top&type=tcp&host=anten.ir&headerType=http&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-185.135.47.150:32155
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.121:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.111.121:80
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
 vless://c0615218-5881-49d3-a008-03ca8359dc68@162.159.152.17:80?security=none&type=ws&host=ipv4dali.xwdil.ir&path=%2FDigiconnecT%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.17:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.59.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.59.90:80
@@ -603,3 +595,11 @@ vless://0b56814b-3c31-4646-ef9c-da6e605b6be2@192.200.160.76:2096?security=tls&sn
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.132:18101?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.92.132:18101
 vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@141.101.123.126:80?security=none&sni=mAhI.hAsMAIlKOREA.store&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.123.126:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.188:80
+vless://77320bb4-4bba-4ec5-8c3a-9bade10cf358@[2a01:4f8:1c1e:5d54::1]:33892?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-[2a01:4f8:1c1e:5d54::1]:33892
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.206.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.206.66:443
+vless://aab09ae2-7fb0-4531-8b00-bf923553ae37@209.38.242.189:59735?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-209.38.242.189:59735
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.92.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.92.22:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.66:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.66:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.206.234:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.206.234:80
+vless://cdd64fef-92f7-4b0e-adb5-45268345a016@190.93.247.155:2096?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2096
+vless://ab25bad4-3a40-4356-9ce2-d69af637dcc4@[2606:4700:3035::6815:3e0f]:2053?security=tls&sni=just2.esk6a.ir&type=ws&host=just2.esk6a.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3035::6815:3e0f]:2053
