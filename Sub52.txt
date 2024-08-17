@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://4bacb8f1a089763b@5.44.249.52:3306/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_006
-trojan://7b06d22a8a7c764f@5.44.249.53:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_007
-trojan://4bacb8f1a089763b@5.44.249.50:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_008
-trojan://0c6a3341e8d5ab17@5.44.249.42:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_009
-trojan://0c6a3341e8d5ab17@5.44.249.44:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_010
-trojan://26a663656e575c0b@5.44.249.52:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_011
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_012
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_013
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_014
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@145.239.6.202:9101#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_015
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8119#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_016
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.6.202:8888#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_017
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@145.239.6.202:8008#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_018
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_019
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_020
@@ -603,3 +591,15 @@ vmess://eyJhZGQiOiI2OS41MC45My45MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJhZGQiOiI2Ni4yNDEuMTI0LjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY29sZC1kYXduLTkyNDYuZmx5LmRldiIsImlkIjoiZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2VhNDkwOWVmLTdjYTYtNGI0Ni1iZjJlLTZjMDc4OTZlZjMzOC12bSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKV80NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiY29sZC1kYXduLTkyNDYuZmx5LmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI2NS4yMC4xMTMuMjAzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoZGZ5NS5jcGlvbmxpbmUuY28iLCJpZCI6IjI1MTc4MGMxLTE1MDEtNDNiMy1iZTJhLWQxNDRhMjBkNDc5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii9OYnMyRFNUU2tGVzZNcnJGUUhlU0RRNyIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzQ3MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI2NS4yMC4xMTMuMjAzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI1MTc4MGMxLTE1MDEtNDNiMy1iZTJhLWQxNDRhMjBkNDc5YSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiTmJzMkRTVFNrRldlNEtWbms5QUhRdiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKV80NzEiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI1MC4xMTQuMjQzLjYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIyNDZlMzRkLWJiZDEtNDAxNi04Zjc0LWVhNDYxYzM3ZTQxMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDM4MzQiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKV80NzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80/?type=ws&encryption=none&path=%2F&security=tls&sni=proxiiraniii.hitido2760.workers.dev&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_473
+vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443/?type=ws&encryption=none&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048&security=tls&sni=FalCUnaRGO.E9744be7D6.woRKERs.Dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_474
+vless://f6c960f3-dc81-45ca-9891-4138f78d9125@104.21.36.84:443/?type=ws&encryption=none&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048&security=tls&sni=FalCUnaRGO.E9744be7D6.woRKERs.Dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_475
+vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:443/?type=ws&encryption=none&path=%2F%40vano_ganzzz&security=tls&sni=v2fly.milik-fukada.eu.org&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_476
+vless://eab1d836-bd54-464f-8478-03f799af9fd8@104.21.24.215:2096/?type=ws&encryption=none&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sina.gufniv.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_477
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=private-codmhttp.teqqlzdw.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_478
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=private-codmhttp.teqqlzdw.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_479
+vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.219:443/?type=ws&encryption=none&path=%2F&security=tls&sni=hexaprop.dirih76753.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_480
+vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443/?type=ws&encryption=none&path=%2F&security=tls&sni=hexaprop.dirih76753.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_481
+vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@104.21.1.80:443/?type=ws&encryption=none&path=%2F&security=tls&sni=hexaprop.dirih76753.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_482
+vless://e447a2c8-773b-4423-bd25-fe7f87bc03d5@172.67.218.193:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=worker-calm-butterfly-d905.hoyowe1837.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_483
