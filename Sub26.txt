@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@223.111.179.8:46002?#🔒 TR-TCP-NA 🇨🇳 CN-223.111.179.8:46002
+trojan://CMLiu@47.237.8.82:8443?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.237.8.82:8443
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.130.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.130.234:443
+trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
+trojan://auto@172.67.68.157:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com#🔒 TR-TCP-TLS 🇵🇱 PL-151.115.83.239:43118
 trojan://Watashi_VPN@104.18.12.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
 trojan://ac1f3b35-1d03-3a85-beab-258d8f23edc6@[2409:8754:c10:2007:0:1:0:a135]:11025?sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8754:c10:2007:0:1:0:a135]:11025
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp#🔒 TR-TCP-TLS 🇮🇸 IS-89.221.224.94:80
@@ -597,9 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.46:8090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.46:8090
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Rm9qaEtIUmpCYlFWQnIwUTM1WnI1@40.120.63.151:18295#🔒 SS-TCP-NA 🇬🇧 GB-40.120.63.151:18295
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.103:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9024
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTU5ZmZiNS1hZjJmLTRmZDctOWRhZS1lNGVjM2RkNjc0YzQ=@120.238.122.160:20003#🔒 SS-TCP-NA 🇨🇳 CN-120.238.122.160:20003
-ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@42.98.119.98:443#🔒 SS-TCP-NA 🇭🇰 HK-42.98.119.98:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998
-ss://YWVzLTEyOC1jZmI6ODk=@103.224.212.211:4233#🔒 SS-TCP-NA 🇦🇺 AU-103.224.212.211:4233
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptUFNWUEE4N2ZLdmxzbjhVdVNhcXB4@104.248.156.210:15564#🔒 SS-TCP-NA 🇸🇬 SG-104.248.156.210:15564
