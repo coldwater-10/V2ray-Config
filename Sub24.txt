@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.22.34:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.34:80
-vless://b217b5b1-514d-4c56-b04a-789fc7bcf9d6@162.159.137.232:2083?security=tls&sni=freeinternetforeveryone.segaro.tech&type=grpc&serviceName=TLQVyGiO5OwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.42.88:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.42.88:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.215.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.215.230:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.125:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.148.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.227:80
-vless://42e8e2af-ff40-4adb-ba5b-1ffb0b31c368@[2a01:4f8:c17:b908::1]:9124?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-[2a01:4f8:c17:b908::1]:9124
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.182.110:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.182.110:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.244.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.244.244:443
-vless://d70f8f38-2187-41bc-93bc-779dcbeb56a8@109.94.165.95:10094?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.95:10094
 vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@[2606:4700:3036::6815:3339]:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3036::6815:3339]:443
 vless://c9b85c37-b3ec-4e8d-ef61-e8edde961338@85.133.146.85:2087?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.146.85:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.190.186:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.190.186:80
@@ -603,3 +593,13 @@ vless://4682f237-64dd-4afb-8330-0c98f7bd4685@69.87.221.121:2087?security=none&ty
 vless://fb8e3684-d096-4ebf-8e3f-583c98f50728@185.146.173.57:80?security=none&type=ws&host=1.1.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.com.&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.57:80
 vless://50abbe7f-dd35-4da1-cd72-8647e8da26be@31.40.4.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.40.4.84:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.176:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.20.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.20.247:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.2.150:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.150:80
+vless://3f65fe5d-5dfd-4775-8fad-857d34ef6386@83.147.17.63:2088?security=none&type=ws&path=/KPgBdGS4/#🔒 VL-WS-NONE 🇬🇧 GB-83.147.17.63:2088
+vless://8a58dacc-c0a8-431b-919a-36970624bbef@199.232.208.194:443?security=tls&sni=metacritic.com&type=ws&host=pardazeshvpn.tg0.ir&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.208.194:443
+vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@104.18.202.232:443?security=tls&sni=MARGbaR3fasEd.PAGes.DEv&type=ws&host=MarGbAr3FasEd.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
+vless://d98c32e5-a188-461f-bc5c-3745124f1e4c@185.46.0.192:2053?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.46.0.192:2053
+vless://5db47982-e0ec-4a6e-82bc-8bd0d4255c3c@104.20.38.4:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.38.4:8080
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.163.3.63:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-43.163.3.63:443
+vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.156:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.&path=%2Fhajmi%3Fed%3D2048#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.156:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.223:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.223:443
