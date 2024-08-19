@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://auto@162.159.152.193:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.193:443
-trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.199.220:8443
-trojan://auto@162.159.153.180:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.180:443
-trojan://auto@172.64.146.66:8443?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&host=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&path=%2Fabbas.ab841vpn.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.66:8443
-trojan://telegram-id-privatevpns@13.43.158.110:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.158.110:22222
-trojan://dH5phyuPXH@95.181.226.162:443?security=none&type=kcp&headerType=dtls#🔒 TR-KCP-NONE 🇷🇺 RU-95.181.226.162:443
-trojan://LIItSq6Q780XhDsFmx1dKQ@89.235.118.183:5002?security=none&type=ws#🔒 TR-WS-NONE 🇮🇷 IR-89.235.118.183:5002
-trojan://telegram-id-privatevpns@3.11.77.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.77.233:22222
-trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇷🇺 RU-185.59.218.220:443
 trojan://14bdba6dede262387ebdebaa706e1c90@133.18.230.121:443?security=tls&sni=trs05.bolab.net&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-133.18.230.121:443
 trojan://de5a47b3e2@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-198.244.252.93:443
 trojan://telegram-id-privatevpns@15.237.8.198:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.8.198:22222
@@ -603,3 +594,12 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#🔒 SS-TCP-NA 🇺�
 ss://MTQxMjRkZGEtYzhkZS00NmZiLThhMGMtNjljNzYzNWZjMGM4Og==@104.18.12.229:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.12.229:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcDQxbEoxT0JmY0Y0YVRSS29Ma1JV@195.2.85.32:56901#🔒 SS-TCP-NA 🇷🇺 RU-195.2.85.32:56901
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.213:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.213:7307
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.101.233:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.101.233:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmZhYWZlNS1kODI1LTQyNGUtYmI2Yi00NzFjOGY0ZGFlZjM=@183.232.142.59:19581#🔒 SS-TCP-NA 🇨🇳 CN-183.232.142.59:19581
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHT0FSaDB1Y25pN1hscDlyZXllQ0J4@152.42.168.157:5076#🔒 SS-TCP-NA 🇸🇬 SG-152.42.168.157:5076
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5600#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:5600
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmYxYTI5NC0zYjZiLTQ1ZjUtYjMyMS0yMDFiODNlYTkxMTQ=@152.69.211.94:16889#🔒 SS-TCP-NA 🇸🇬 SG-152.69.211.94:16889
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpScVNiMWJyd0FxVENwNWlYSy10bExn@95.164.8.130:443#🔒 SS-TCP-NA 🇪🇪 EE-95.164.8.130:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz@194.34.239.105:18760#🔒 SS-TCP-NA 🇷🇺 RU-194.34.239.105:18760
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
