@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.189.11:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.11:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.226.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.226.109:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.25.31:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.25.31:80
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@89.116.161.85:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.161.85:8080
@@ -603,3 +602,4 @@ vless://f643272a-6662-4815-b5ea-bfb48f88a617@54.36.235.106:47316?security=none&t
 vless://03993135-ae86-433f-94d4-7bad33d7fc22@172.67.5.213:443?security=tls&sni=aZAdneT-sTM-USa.pagEs.DeV&type=ws&host=azADneT-StM-usa.paGeS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.213:443
 vless://65d2c27d-0957-415d-b67a-b915cd857723@194.50.216.44:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#🔒 VL-WS-NONE 🇮🇷 IR-194.50.216.44:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.217:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.217:443
+vless://dcdb3552-9550-4278-b0e7-09ce5a73a6b3@185.146.173.88:8880?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🇸🇪 SE-185.146.173.88:8880
