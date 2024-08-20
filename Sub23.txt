@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.158:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.69:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.30:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.21:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.21:80
-vless://d9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff@190.93.244.10:2095?security=none&sni=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.10:2095
-vless://a0cdf2e9-06e3-4051-85fa-4dd8986c0bae@148.251.147.83:27082?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-148.251.147.83:27082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.167.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.167.106:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.83:80
 vless://d39ab667-829c-4db5-95d8-d8232dfb0b1b@8.8.8.8:4440?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-8.8.8.8:4440
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.160.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.160.47:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.84.75:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.84.75:443
@@ -603,3 +595,11 @@ vless://095f0ede-5187-426d-b837-328c14d389c9@104.18.252.72:8080?type=ws&host=joi
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.252:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@54.69.94.141:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-54.69.94.141:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.11.9:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.9:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.123:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.123:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.227:443
+vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@[2606:4700::6811:f5cb]:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+:+@vpn_xw+Telegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xwTelegram+:+@vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700::6811:f5cb]:443
+vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@[2606:4700:20::681a:439]:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=/TG-AiLuMao/&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:20::681a:439]:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.201.23:80
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@[2606:4700::6812:195c]:2087?security=tls&sni=LnCsYjPe22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700::6812:195c]:2087
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.171.55:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.194:80
