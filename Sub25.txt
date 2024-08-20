@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@[2606:4700:3037::ac43:bdde]:443?security=tls&sni=cixoo.cixoo.store&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3037::ac43:bdde]:443
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.203.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2053
 vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@[2606:4700:20::ac43:477a]:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=/TG-AiLuMao/&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:20::ac43:477a]:2096
 vless://c306f9dc-771b-4fa3-bdad-364c898a169a@188.114.97.3:2053?security=tls&sni=tech-channel1.lookjump.ir&type=ws&host=tech-channel1.lookjump.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:2053
@@ -602,4 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.170:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.120:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.126:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.126:80
 vless://b98b2a92-afb8-4abc-d6fe-0990fa80747a@46.245.64.173:30617?security=none&type=tcp&host=Webmail.yjc.ir&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.173:30617
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.76.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.76.126:80
