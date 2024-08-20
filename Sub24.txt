@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.186:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.56:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.56:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.69:443?security=tls&sni=bz.linghang.buzz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.69:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.139.213:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.139.213:443
-vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@[2606:4700:310c::ac42:2f2c]:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:310c::ac42:2f2c]:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.44.23:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.23:80
-vless://824fd081-bca0-48b4-9133-d6b0b47f41f7@37.32.11.207:777?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.11.207:777
-vless://d0d42596-ff07-4f6f-9edd-7fbf3e93b8fd@78.153.139.212:777?security=none&type=tcp&host=este.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-78.153.139.212:777
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.172.108:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.108:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.167.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.167.106:80
 vless://10d686fe-e14a-49fd-8496-88d5c26f5ccb@94.182.106.183:44456?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.106.183:44456
@@ -603,3 +595,11 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.50.122:443?security=tls&sni=
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:443
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2053?security=tls&sni=VvYlUrQs14.hAmEdIgOlD.CoM&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.1.125:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.115.99:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.115.99:443
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.72.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.244:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.231:443?security=tls&sni=eh.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.231:443
+vless://db9cdb8c-e827-410f-8fad-4f906000c9c2@104.21.45.132:2096?security=tls&sni=mtech-ip-fast.shantiya1401.ir&type=grpc&serviceName=2096vless&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.132:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.54:80
+vless://42e8e2af-ff40-4adb-ba5b-1ffb0b31c368@[2600:3c06::f03c:94ff:fe9f:72ec]:9124?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-[2600:3c06::f03c:94ff:fe9f:72ec]:9124
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.105.49.234:80?type=ws&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-34.105.49.234:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.197.143:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.197.143:80
