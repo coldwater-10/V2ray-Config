@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@[2606:4700:3030::ac43:b20c]:443?security=tls&sni=thorianite.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::ac43:b20c]:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.117.71:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.117.71:443
+vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.16.235.30:443?security=tls&sni=srv12.xyzquant.cloud&type=ws&host=srv12.xyzquant.cloud&path=/6eenmFpORi4fyf8bW&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.235.30:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.216.244:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.216.244:80
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.28:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.251.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.251.156:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.194.97:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.194.97:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.67:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.55.67:80
@@ -598,8 +603,3 @@ trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&sni=trj.rollin
 trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://telegram-id-directvpn@54.217.215.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.217.215.66:22222
 trojan://NISHIKUITAN222@8.219.194.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.194.170:8443
-trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.246.247:443
-trojan://telegram-id-privatevpns@3.78.120.158:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.120.158:22222
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.4:443
-trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
-trojan://bpg9SJpHui@104.17.148.22:2052?security=none&type=ws&host=free.prochanel99.online&path=TelegramChanel:t.me/HTTP_injector99#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:2052
