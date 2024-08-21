@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.116.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.48:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.105:80
 vless://429a2672-eda2-45ab-aa66-33ea0bca8118@104.18.101.8:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.101.8:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.20:80
@@ -603,3 +602,4 @@ trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&
 trojan://trojan@104.18.12.229:8880?security=none&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.12.229:8880
 trojan://29969830-5736-11ef-a70d-1239d0255272@104.17.147.22:443?security=tls&sni=usa.test3.net&type=ws&host=usa.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.9.55:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
+trojan://telegram-id-privatevpns@13.49.99.44:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.99.44:22222

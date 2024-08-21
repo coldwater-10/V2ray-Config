@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@13.49.99.44:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.99.44:22222
 trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://yu7AvNL9rW@212.33.206.111:80?security=none&type=tcp#🔒 TR-TCP-NONE 🇮🇷 IR-212.33.206.111:80
 trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@129.154.49.249:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#🔒 TR-GRPC-TLS 🇰🇷 KR-129.154.49.249:15055
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpScVNiMWJyd0FxVENwNWlYSy10bExn@95.164.8.130:443#🔒 SS-TCP-NA 🇪🇪 EE-95.164.8.130:443
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9040
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.10:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8888
+ss://SVNTEAM2@151.101.66.219:443#🔒 SS-TCP-NA 🇺🇸 US-151.101.66.219:443
