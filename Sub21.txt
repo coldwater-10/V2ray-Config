@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.135.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.232:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.200.220:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.200.220:2053
 vless://d797831b-2d83-4b59-a951-8c9e0aa8592c@104.16.11.133:8080?security=none&type=ws&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.11.133:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.18.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.18.3:80
 vless://792ef1fd-84e4-4056-b1cf-492293aace2e@172.66.46.249:443?security=tls&sni=aryoovpn-5fr.pages.dev&type=ws&host=aryoovpn-5fr.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.54.205:80?type=ws&host=us3.r
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@212.41.15.119:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/security#🔒 VL-WS-TLS 🇷🇺 RU-212.41.15.119:443
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&sni=MSdOnoR.pagEs.dEV&type=ws&host=mSDONOr.Pages.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.181.38:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.97.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.97.174:443
-vless://3e0dc5b0-b66f-47f0-8d58-56bb1bb7a684@193.3.168.50:10055?security=none&type=tcp&host=speedtest.net,+fast.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-193.3.168.50:10055
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.60:443?security=tls&sni=joInMahdISeRveR-dk3.pageS.dEV&type=ws&host=JOiNMahdiSErver-Dk3.pagES.DEv&path=%2FPX8F58g99kX8jRU8%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.60:443

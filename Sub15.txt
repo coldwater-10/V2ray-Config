@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.248.116:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.248.116:80
+vless://4fabe6bd-5223-408d-840c-027b5a7ca137@85.133.200.41:6890?security=none&type=tcp&host=trello.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.200.41:6890
 vless://149712da-0ce8-4117-a345-0211341b1f3d@85.133.225.73:2052?security=none&type=ws&host=speedtest.net&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.133.225.73:2052
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.138.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:8080
@@ -601,5 +603,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.144.223:80?security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.25.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.96:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.55:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.212.97:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.97:80
-vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.241:443
-vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.72.33:2087
