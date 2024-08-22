@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@[2606:4700:3030::6815:c3d]:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::6815:c3d]:443
+vless://cdd64fef-92f7-4b0e-adb5-45268345a016@190.93.247.155:2096?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.172.18:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.172.18:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.154.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.154.249:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.179.231:80?type=ws&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.222.179.231:80
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@[2606:4700:310c::ac42:2d2a]:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:310c::ac42:2d2a]:2053
 vless://50ced16f-78dd-5499-acf9-a57fe1895728@[2606:4700:3035::ac43:9722]:443?security=tls&sni=free.cconfigv2rayserv.workers.dev&type=ws&host=free.cconfigv2rayserv.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3035::ac43:9722]:443
@@ -599,7 +603,3 @@ vless://8503fd89-f054-4360-d2ea-fe1d5e54b49f@31.14.119.222:443?security=none&typ
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@188.114.98.0:2096?security=tls&sni=bpb-Nms.PageS.DeV&type=ws&host=bPB-nmS.PAges.DeV&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.0:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.101.140:443?security=tls&sni=baipiao55.stunning-bassoon.pages.dev&type=ws&host=baipiao55.stunning-bassoon.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.101.140:443
 vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@172.67.195.105:443?security=tls&sni=rightel1.chaghooosazi.shop&type=ws&host=rightel1.chaghooosazi.shop&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.105:443
-vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.26.13.31:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=/TG-AiLuMao/&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:2096
-vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@104.18.14.19:2083?security=tls&sni=email-st.samanpsd.ir.&type=ws&host=email-st.samanpsd.ir.&path=%2F%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:2083
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.239.103:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.239.103:443
-vless://0ee74307-c9b8-4a7c-9197-2b4b891fdb31@[2606:4700:20::6818:c414]:2095?security=none&type=httpupgrade&host=germa.cUstomizespeedtest.net.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-[2606:4700:20::6818:c414]:2095
