@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c4516bc5-9e46-4205-983e-2b8646e498dd@[2606:4700:3037::ac43:9dcb]:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3037::ac43:9dcb]:2083
-vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:8443?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.223:80
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@35.159.153.57:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-35.159.153.57:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.245.217:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.245.217:443
@@ -603,3 +601,5 @@ trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.0.33:443?security=tls&sni=
 trojan://telegram-id-directvpn@13.40.244.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.40.244.130:22222
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.5.6:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.5.6:443
 trojan://trojan@104.17.147.22:8443?security=tls&sni=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
+trojan://WyYdHzq88EQJVVThgpupm3wCKVD44jtN@46.29.162.87:39257?security=tls&sni=ihave.baselinux.net&type=grpc&serviceName=discord&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🇷🇺 RU-46.29.162.87:39257
+trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
