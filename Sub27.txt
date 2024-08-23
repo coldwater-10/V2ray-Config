@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.58.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.58.111:80
-vless://0dca0968-d923-4cc1-8bcb-760adeb78c61@89.47.200.168:4003?security=none&type=tcp&host=@VPNHubMaRKeT&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.200.168:4003
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.13.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.22:80
 vless://8a46ee35-122f-488d-a880-14f5b4d5ae25@81.12.27.89:1411?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-81.12.27.89:1411
 vless://8b25f392-c4bd-48b8-adfd-28f6e941fddb@185.162.228.3:8880?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.3:8880
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.202.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.202.70:80
@@ -603,3 +600,6 @@ trojan://auto@162.159.152.117:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd
 trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
 trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
 trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@38.181.73.222:13498?security=tls&sni=freesg01.jd0001.top&type=grpc&serviceName=freesg01#🔒 TR-GRPC-TLS 🇸🇬 SG-38.181.73.222:13498
+trojan://Libertas*One*E*@172.67.180.35:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.35:443
+trojan://auto@172.66.47.128:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
+trojan://htt5LstLra@152.42.236.184:28864?security=none&type=ws&host=m.instagram.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-152.42.236.184:28864
