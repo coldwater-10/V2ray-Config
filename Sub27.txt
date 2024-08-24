@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.103.147:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.103.147:443
 vless://65288781-7f6d-41d7-82b5-579873b40c65@188.114.96.80:80?security=none&type=ws&host=www.SpeEDteSt.neT.FTP.dEbIan.OrG.VIGIlantecOllecTIOn.COM.&path=25750%2FDAILYCONFIGS%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.80:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.54:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.54:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.104:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.104:80
@@ -603,3 +602,4 @@ trojan://telegram-id-directvpn@3.121.43.211:22222?security=tls&sni=trojan.burger
 trojan://auto@162.159.152.187:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.187:443
 trojan://telegram-id-privatevpns@18.168.232.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.168.232.14:22222
 trojan://telegram-id-privatevpns@13.49.199.55:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.199.55:22222
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443?sni=golinkwuxian.top#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.133.220:443
