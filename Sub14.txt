@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@[2606:4700:3037::6815:13ca]:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:3037::6815:13ca]:2052
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.205.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.94:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.62.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.62.189:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.168.108:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.168.108:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.174.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.73:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.121.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.219:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.10.181:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.10.181:80
@@ -603,3 +599,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&sni
 vless://131f0fe7-9042-4180-b2a1-8dc51d3fdffe@95.182.101.118:8443?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-95.182.101.118:8443
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80?type=ws&host=IRON.man.policeoficer-45.GAMERme.IR#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.9:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.235.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.235.253:80
+vless://f97c7f12-e303-4679-8723-80edf65bbe37@91.107.160.74:39851?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.160.74:39851
+vless://e90c28b4-8e5b-4e05-99bc-42c87ef345fc@[2a01:4f8:1c1b:2929::1]:37618?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-[2a01:4f8:1c1b:2929::1]:37618
+vless://e0f52d31-566b-437d-9961-1865e38d10fb@104.24.197.20:8880?security=none&type=ws&host=up.sourceforge.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.197.20:8880
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@[2606:4700:10::6816:30fd]:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-[2606:4700:10::6816:30fd]:80
