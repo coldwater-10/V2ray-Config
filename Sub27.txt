@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.3:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.64.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.81:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.152.13:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.152.13:80
-vless://fdad3f0a-6dce-4783-9023-e324ba5dac50@188.114.98.224:8880?security=none&type=httpupgrade&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.98.224:8880
 vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?security=tls&sni=promo.worldofwarships.eu&type=ws&host=mythstore.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-2.56.220.2:443
 vless://565ae15e-6979-404d-84b5-d8860187cc65@172.67.189.38:2083?security=tls&sni=mahnode.interazad.nl&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.38:2083
 vless://54b9c4c5-4bf5-44c6-9aa8-1d8d74e478f6@103.224.212.211:2096?security=tls&sni=ger.vwfghin.info&type=ws&host=ger.vwfghin.info&path=/@V2ray_vpn_ir#🔒 VL-WS-TLS 🇦🇺 AU-103.224.212.211:2096
@@ -603,3 +599,7 @@ trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobs
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
 trojan://trojan@104.17.148.22:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
+trojan://telegram-id-privatevpns@52.16.85.24:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.16.85.24:22222
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
+trojan://aRh4GRxYO6@38.180.70.206:2096?security=none&type=tcp#🔒 TR-TCP-NONE 🇳🇱 NL-38.180.70.206:2096
+trojan://telegram-id-privatevpns@13.50.254.145:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.254.145:22222
