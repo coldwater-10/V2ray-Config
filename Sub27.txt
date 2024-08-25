@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://27296b86-e52d-4293-8814-20f041c291a1@[2606:4700:3030::ac43:a9be]:2053?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::ac43:a9be]:2053
+vless://86632902-c329-40f8-a7a2-43fb983f7e7c@85.133.151.142:35349?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.151.142:35349
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@104.17.223.175:443?security=tls&sni=jnir-sh.hpcode.ir&type=splithttp&host=jnir-sh.hpcode.ir&path=%2Fsh%2F%40JavidnamanIran%2F&fp=chrome&alpn=h3,h2#🔒 VL-SPLITHTTP-TLS 🏴‍☠️ NA-104.17.223.175:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.150.141:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.150.141:80
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.215.93:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-13.41.215.93:22222
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.220.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.105:80
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.4:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.4:8880
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&sni=turkmenistan.armanibash.Shop.&type=ws&host=turkmenistan.armanibash.Shop.#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.39:443
@@ -598,8 +603,3 @@ trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@162.159.4.8:443?security=tls&sni=c
 trojan://telegram-id-privatevpns@18.171.51.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.171.51.132:22222
 trojan://telegram-id-directvpn@3.137.6.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.137.6.109:22222
 trojan://telegram-id-directvpn@54.164.254.135:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-54.164.254.135:22222
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.11:443
-trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
-trojan://WyYdHzq88EQJVVThgpupm3wCKVD44jtN@46.29.162.87:39257?security=tls&sni=ihave.baselinux.net&type=grpc&serviceName=discord&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🇷🇺 RU-46.29.162.87:39257
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.147.22:80?security=none&type=ws#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.14:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.14:443
