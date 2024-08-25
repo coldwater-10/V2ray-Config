@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.26.216:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.26.216:443
 vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.136:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.136:8080
 vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.119:3013?security=none&type=tcp&host=subscene.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.119:3013
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.166.163:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.166.163:443
@@ -603,3 +602,4 @@ trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&sni=z-v2-003294.kailib.com&
 trojan://trojan@104.18.15.19:80?security=none&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
 trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&sni=radtz.phooeyunfold.com#🔒 TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 trojan://telegram-id-directvpn@52.56.54.196:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.54.196:22222
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=/1C1eEyrBbGr0r2HZ1tSkA&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
