@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.27.69:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.69:80
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.4:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.4:8880
-vless://b1634f7c-a569-4587-adb0-e1ed8cf27966@172.66.44.65:443?security=tls&sni=rmgy.pages.dev&type=ws&path=/?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.65:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.48.30:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.48.30:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.14.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.14.171:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.209:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.170.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.170.58:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.132.152:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.152:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.168:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.168:80
 vless://8f3c38ea-e76d-542d-95ee-c8de4275574e@104.18.31.6:2087?security=tls&sni=us2.vless.site&type=ws&host=us2.vless.site&path=%2Faaaaaaaaa%F2AstroVPN_Official%40#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.31.6:2087
@@ -603,3 +596,10 @@ trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.66.177:443?security=tls&sni
 trojan://auto@162.159.153.173:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.173:443
 trojan://RXJBaMNA6o@3.65.13.195:42651?security=tls&sni=zac23.ir&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-3.65.13.195:42651
 trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.138:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.138:80
+trojan://CMLiu@47.236.75.152:2083?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.236.75.152:2083
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
+trojan://CMLiu@35.201.203.106:443?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇹🇼 TW-35.201.203.106:443
+trojan://telegram-id-directvpn@52.56.54.196:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.54.196:22222
+trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@209.209.11.112:4586?sni=ca1.doubledou.win#🔒 TR-TCP-NA 🇨🇦 CA-209.209.11.112:4586
+trojan://WhhW7Q0vnZ@45.67.32.147:24135?security=tls&sni=wellyoumust.goahead.rf.gd&type=splithttp&host=wellyoumust.goahead.rf.gd&path=%2Fpunchfreaktion&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-SPLITHTTP-TLS 🇷🇺 RU-45.67.32.147:24135
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.167.147:22222

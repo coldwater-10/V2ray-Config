@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://CMLiu@47.236.75.152:2083?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇸🇬 SG-47.236.75.152:2083
-trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
-trojan://CMLiu@35.201.203.106:443?sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me#🔒 TR-WS-NA 🇹🇼 TW-35.201.203.106:443
-trojan://telegram-id-directvpn@52.56.54.196:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.54.196:22222
-trojan://7484d7c8-b010-373e-9c2a-2b9d20f8c963@209.209.11.112:4586?sni=ca1.doubledou.win#🔒 TR-TCP-NA 🇨🇦 CA-209.209.11.112:4586
-trojan://WhhW7Q0vnZ@45.67.32.147:24135?security=tls&sni=wellyoumust.goahead.rf.gd&type=splithttp&host=wellyoumust.goahead.rf.gd&path=%2Fpunchfreaktion&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-SPLITHTTP-TLS 🇷🇺 RU-45.67.32.147:24135
-trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.68.167.147:22222
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
 trojan://telegram-id-directvpn@3.129.71.30:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.129.71.30:22222
 trojan://telegram-id-privatevpns@13.37.207.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.207.66:22222
@@ -603,3 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGhtTw==@51.195.218.78:8388#🔒 SS-TCP-NA 
 ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@36.133.145.87:25366#🔒 SS-TCP-NA 🇨🇳 CN-36.133.145.87:25366
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.110.145:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.110.145:443
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9101
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.113:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:443
+ss://YWVzLTI1Ni1nY206clB5K1ZYRkhtZGhNUFBHM0pqbFllL0lHRGtVWnVoU2JiVm9GeW80TERpWT0=@128.140.81.110:80#🔒 SS-TCP-NA 🇩🇪 DE-128.140.81.110:80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTU5ZmZiNS1hZjJmLTRmZDctOWRhZS1lNGVjM2RkNjc0YzQ=@120.238.122.160:50002#🔒 SS-TCP-NA 🇨🇳 CN-120.238.122.160:50002
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.17.157.120:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.157.120:443
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.85:51472#🔒 SS-TCP-NA 🇰🇷 KR-221.150.109.85:51472
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.12:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.12:443
+ss://ZDJiNGJjMWUtMzZmMy00ZTBlLTg4MDQtZGE2ZjEwZTUwODQ2Og==@104.18.34.21:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.34.21:2083
