@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@104.21.33.85:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.33.85:8880
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.229.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.229.94:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.60.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.60.200:80
-vless://47827684-1811-4837-b1d9-ba4efc1f6c4f@37.152.181.176:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.181.176:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.93.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.93.214:443
 vless://bcbcaaa-aacb-aacb-acdb-bccacbaabbca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 trojan://acabbca-aacb-acab-dacb-ccbbbcaaaacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-05-SHAHRIVAR-1403 🕑 23:08
 trojan://baaabcc-abca-cbaa-dcab-cacabccbbbaa@127.0.0.1:2080?security=tls&type=tcp#🎁 DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI
@@ -603,3 +598,8 @@ trojan://telegram-id-directvpn@51.20.36.197:22222?security=tls&sni=trj.rollingne
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12012?security=tls&sni=cn1.cdn.xfltd-cdn.top&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.218:12012
 trojan://telegram-id-directvpn@18.203.41.165:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.203.41.165:22222
 trojan://236ee4a7-438d-418a-83d1-13337a1e8056@47.101.71.126:12041?security=tls&sni=cdn.alibaba.com&type=tcp&fp=chrome&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-47.101.71.126:12041
+trojan://moist@27.50.48.108:443?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-NA 🇸🇬 SG-27.50.48.108:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.95:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.95:8443
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12031?sni=cdn.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:12031
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.9:443
+trojan://Libertas*One*E*@104.21.67.195:443?security=tls&sni=ironone.libertasiran.cloud&type=ws&path=/n890&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.67.195:443
