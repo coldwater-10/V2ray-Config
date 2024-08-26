@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.34.188:2053?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-8.210.34.188:2053
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.78.63.183:80?security=none&type=ws#🔒 VL-WS-NONE 🇺🇸 US-5.78.63.183:80
-vless://fb76ae39-f97e-5a9f-9beb-0e7100166f69@172.67.200.209:2096?security=tls&sni=6-vpnkenzo.tgsqd.WoRKErs.deV&type=ws&host=6-vpnkenzo.tgsqd.WoRKErs.deV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.209:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.192.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.192.188:443
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.33.58:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.33.58:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.235.11:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.235.11:443
@@ -603,3 +599,7 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.185:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.190.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.70:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.118.103:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.118.103:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.120.232:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.232:443
+vless://a8a8778a-820e-491b-8ce0-46821fad465c@217.60.191.239:2087?security=none&type=tcp&host=cloudflare.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.191.239:2087
+vless://e8213d4c-a3e2-46b1-a041-9bc78c7b8442@62.60.172.104:43973?security=none&type=tcp&host=varzesh3.com,telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.172.104:43973
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.150.8:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.150.8:80
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.33.176.169:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-63.33.176.169:22222

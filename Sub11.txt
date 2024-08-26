@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@3.1.206.185:16608?security=tls&sni=m.zoom.us&type=ws&path=/&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-3.1.206.185:16608
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.222.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.222.80:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.189.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.109:80
-vless://89643b95-aa9e-4188-803f-8559478e8e2a@54.255.187.72:22362?security=none&type=ws&host=m.whatsapp.com&path=/#🔒 VL-WS-NONE 🇸🇬 SG-54.255.187.72:22362
 vless://211267ce-6387-413e-b221-30c6283ab397@104.21.19.195:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.19.195:2087
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.189:80
 vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.133.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.233:2083
@@ -603,3 +599,7 @@ vless://6944df44-2a95-45e6-b228-b381af37ddf9@172.67.200.113:2083?security=tls&sn
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.2.148:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.148:80
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.15.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.52:443
+vless://5d19ae36-bb68-4cef-beea-6c26511e11f7@172.67.138.69:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.138.69:8880
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.21:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.21:443
+vless://727b54ea-0ae5-412f-d5bf-9590d3f91246@104.21.37.215:443?security=tls&sni=new1.alpha5.top&type=grpc&serviceName=@V2ray_Alpha#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.37.215:443
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.26.15.16:443?security=tls&sni=pages.dev&type=ws&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:443
