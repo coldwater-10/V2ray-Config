@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@15.237.230.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.230.107:22222
-trojan://Watashi_VPN@172.64.149.134:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.149.134:8443
 trojan://Watashi_VPN@172.67.155.165:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.155.165:443
 trojan://telegram-id-directvpn@99.80.73.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.80.73.72:22222
 trojan://WyYdHzq88EQJVVThgpupm3wCKVD44jtN@46.29.162.87:39257?security=tls&sni=ihave.baselinux.net&type=grpc&serviceName=discord&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🇷🇺 RU-46.29.162.87:39257
@@ -603,3 +601,5 @@ trojan://telegram-id-privatevpns@3.10.31.199:22222?security=tls&sni=trojan.burge
 trojan://telegram-id-directvpn@3.12.33.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.12.33.4:22222
 trojan://dH5phyuPXH@95.181.226.162:443?security=none&type=kcp&headerType=dtls#🔒 TR-KCP-NONE 🇷🇺 RU-95.181.226.162:443
 trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@129.154.49.249:15055?security=tls&sni=freehr01.jd0001.top&type=grpc&serviceName=freehr01#🔒 TR-GRPC-TLS 🇰🇷 KR-129.154.49.249:15055
+trojan://telegram-id-privatevpns@35.177.98.41:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.177.98.41:22222
+trojan://auto@162.159.152.29:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.29:443
