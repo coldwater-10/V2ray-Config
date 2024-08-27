@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2096?security=tls&sni=folani.iiipok.WoRKeRS.DEv&type=ws&host=folani.iiipok.WoRKeRS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2096
-vless://19c1d401-a3b6-4a78-8c2f-bbdac3477b85@80.249.114.28:2095?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-80.249.114.28:2095
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.121.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.219:443
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.228.91:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.228.91:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.172.233:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.172.233:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.114.66:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.114.66:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.231.189:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.231.189:443
 vless://d480372f-6596-4177-ae85-28af07adf1cb@[2606:4700:3033::ac43:cedd]:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3033::ac43:cedd]:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.166.145:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.166.145:80
 vless://9ed22e4b-3329-4fbe-a56b-7617e7326376@212.227.166.11:45660?security=none&type=tcp&host=alibaba.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-212.227.166.11:45660
@@ -603,3 +596,10 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.153.78:443?security=tls&sni=
 vless://e725ae63-60ad-47b5-8d4e-89ae45514d95@92.243.74.80:443?security=tls&sni=dl.halachicago.com.&type=ws&host=dl.halachicago.com.&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D1024&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.80:443
 vless://2ce3f82f-609e-4646-c289-0e918df396ba@103.184.44.21:2053?security=tls&sni=mt.AntiV2ray.site&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-103.184.44.21:2053
 vless://60d7155a-ed19-4287-88d1-4619f6f88089@104.31.16.17:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.17:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.49.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.49.44:80
+vless://844d4435-1651-4f55-be79-b25bcf8b1285@104.16.16.16:2095?security=none&type=httpupgrade&host=5.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.16.16:2095
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.185:80
+vless://462340fd-5523-4a10-bc15-52678b579ddf@172.67.191.234:2096?security=tls&sni=mrz-cdn.dooshvari.sbs&type=grpc&serviceName=@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.172.161:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.161:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.216.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.216.235:80
+vless://55b65677-e55d-4003-8c3c-122cf6282083@13.215.179.134:39120?security=none&type=ws&host=content.cdn.viber.com&path=/#🔒 VL-WS-NONE 🇸🇬 SG-13.215.179.134:39120
