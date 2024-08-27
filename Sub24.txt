@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://27b6e259-9c75-488a-ac60-9fcf520cadd2@141.105.130.195:29345?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.195:29345
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@31.7.78.80:46036?security=none&type=tcp&host=skype.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.78.80:46036
-vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.230.69:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.230.69:80
-vless://c8418abd-fc3f-4143-e9c9-757db855fbeb@172.67.0.121:443?security=tls&sni=yaya.vipconnected.cfd&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.0.121:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.134.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.134.188:443
-vless://109da3aa-afca-4819-826c-bc8de2dc65d2@104.16.28.34:8880?security=none&type=ws&host=worker-odd-bonus-bf32.voydepofyu.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.28.34:8880
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.37.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.218:80
-vless://b728bfce-eb55-4981-a2fd-6d615e091f56@77.221.157.132:37121?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-77.221.157.132:37121
 vless://8ff4d697-e339-443a-b66a-809ff2a5791d@104.21.16.154:2083?security=tls&sni=cdnnode7mahz.cr-cfd.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.154:2083
 vless://59c2d896-eb88-43a4-9c6a-56ac21f462b1@104.21.25.204:443?security=tls&sni=ppaL03.RaSHEeN-KyEDen.wORkeRS.DEV&type=ws&host=PPAL03.raSHeEN-kYEDEN.WoRKERS.Dev&path=%2Fe0FINp7yyKWtEMOs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.204:443
 vless://6b10e086-7d43-46fa-954a-ad303d7cc37f@190.93.244.38:443?security=tls&sni=grpc2.sharesite.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.38:443
@@ -603,3 +595,11 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.11.227:80?security=none&type
 vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?security=tls&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com&type=ws&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2053
 vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@[2606:4700:20::6818:c514]:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:20::6818:c514]:2053
 vless://fae72d2b-3ed7-4bcf-8869-0155befd20ad@94.242.231.241:80?type=ws&host=hJ-dE.sHaHidrazI.OnlInE.#🔒 VL-WS-NA 🇱🇺 LU-94.242.231.241:80
+vless://38ace213-5184-477b-ac3e-d800d0cf3cd9@104.31.16.65:2095?security=none&type=ws&host=de1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2095
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.50.236:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.50.236:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.236.172:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.184.154:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.154:443
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2096
+vless://d4a843d4-3c96-4483-ae12-72706da66d30@45.131.4.143:8080?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com&path=2560%2FDaily_Configs%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.143:8080
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.190.24:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.190.24:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.102.190:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.102.190:80
