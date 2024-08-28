@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.109:2083
-vless://d9f86526-6899-4b7b-a561-b774cd97e1b2@104.26.3.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2083
 vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.101:443
 vless://538e00df-f7df-44d1-b5ec-25cc1a0ae7b3@23.37.17.8:443?security=tls&sni=www.pinterest.com&type=ws&host=a1.mehran.ir&path=%2F%3Fed%3D1024&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-23.37.17.8:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@[2606:4700:310c::ac42:2ca8]:2053?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:310c::ac42:2ca8]:2053
@@ -603,3 +601,5 @@ vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@173.245.58.51:443?security=tls&sni=
 vless://ff1ea66a-a918-4c52-8437-e7c816d28d87@104.17.147.22:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht87.cloudfront.net.kiava.fun#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:8880
 vless://6d3ac2e8-7986-4d26-88ef-9e0194784432@104.18.6.24:80?security=none&type=ws&host=ZulaV2rayFINLAND7.7.7.7.ir.Com.Space.xn--uis47ll23adun.CoM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.6.24:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.255.24:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.255.24:443
+vless://a168d3e6-8ccd-48e1-a053-e14bba0b4fd1@83.229.87.157:2050?security=none&type=grpc&serviceName=2096vless#🔒 VL-GRPC-NONE 🇩🇪 DE-83.229.87.157:2050
+vless://df9b2dda-98c7-4b95-acd6-047274297e7f@104.20.27.27:2083?security=tls&sni=liV2helm.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.27.27:2083

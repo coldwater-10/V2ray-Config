@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.253:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.254:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.102:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.102:443
 vless://2cca1b6f-b2ea-49f7-832a-0c8363c30ded@178.22.69.174:43857?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-178.22.69.174:43857
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.201.203.106:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443
@@ -603,3 +601,5 @@ vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@104.21.79.51:2087?security=tls&sni=
 vless://e3414cff-d076-4e7a-9518-c5792f9a87ac@188.164.158.49:443?security=tls&sni=connectingno.technewspaper.store&type=ws&host=connectingno.technewspaper.store&path=%2FFWwdxcwcwwQwdcwqwdd333qqqqqqqwdddddd&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.49:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.26.90:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.90:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.75.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.75.236:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.22.92:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.92:80
+vless://7e7008fb-9aeb-4708-a8b2-a453d670daaf@172.67.134.51:443?security=tls&sni=himan1.parsianboton.ir&type=grpc&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.134.51:443
