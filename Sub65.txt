@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJhZGQiOiIxNzIuNjcuMTU5LjQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNmE4MDk5MmItODA0NC00ZTQ5LTgwNTgtNjVkZTA3MjRiNjFiIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJAVjJyYXlfQWxwaGEgQFYycmF5X0FscGhhIEBWMnJheV9BbHBoYSIsInBvcnQiOiIyMDk2IiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6ImNoYW5uZWwuZnJlZXYyYWxwaGEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://9f2b63a3-6b33-4697-b713-01850134bf63@104.20.2.1:2096?security=tls&sni=gol.bovrichi.sbs&fp=chrome&type=grpc&serviceName=@SOURCEviPN-@SOURCEviPN-@SOURCEviPN-@SOURCEviPN-@SOURCEviPN&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://48fd814e-214d-499d-bba9-d777530b13ac@172.66.44.158:80?security=&type=ws&path=/backup&host=j4a0O7.DL-vSCODE.COM&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://384193af-acf4-4e3d-a570-5720befa42ee@173.245.59.16:80?security=&type=ws&path=/backup&host=Okhvod.KAshTI.WOrLd&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjMwIiwiYWlkIjoiMCIsImhvc3QiOiJmcjQudjItdGVoLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pudjhWaVpPVVZnaWpqT2gwcDV1R2pIblhJaVkiLCJwb3J0IjoiMjA5NSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://06188bf1-a31d-468d-811e-7fa7cb3678d6@104.23.123.123:80?security=&type=ws&path=/backup&host=Tak6U1.AmOOzEshGaH-pc.COM&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMDMuOTkuMTEuMTM3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImVjYzRhMGE3LTQwYmMtNDE1OS1lNzBiLTA1NzQ4M2JlZTI0NCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTMwNTIiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.25.188:443?security=tls&sni=iraniancp.click&type=ws&path=/?ed%3D2048&host=worker.iraniancp.click&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?security=tls&sni=current.iraniancp.fun&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=current.iraniancp.fun&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -595,11 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#@vpnclashfa 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#@vpnclashfa - 41
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWFdiRk5JTnJ0bW0xVDBRTnVJbk5abFpUaW12NmNyTGNBS3RtRkRVR3hCNTVUcDA@81.28.6.186:51348#@vpnclashfa - 40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@188.212.132.20:52952#@vpnclashfa - 39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQk9wNHBiTmZyRmVleVoxYUdDSExq@212.113.106.76:61992#@vpnclashfa - 38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVVVPQTY2dG8yeVdMa0wzWGtXVlN4@147.45.124.227:30488#@vpnclashfa - 37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@vpnclashfa - 36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#@vpnclashfa - 35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGekdVWEl3REpCZExZaHFSY1hoNVlI@13.79.91.48:8480#@vpnclashfa - 34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFODl2ZFExdFBVdXdjWmNNY2VpSEJ0VUNvR1gzVTkyUEFHYWpxODNFWm56RVhOTVdzM0E1OXU2VUtqR2E0YVNENzVxcEJDUmJKcnFNcFFtOGJYYzNGTUhHWXZBV0FOeFk=@mx2.drawnrisha.one:55988#@vpnclashfa - 33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaXNkQmRBME9KZjVZUjdzVWw2Zkl2@81.19.141.45:52873#@vpnclashfa - 32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYU5HMWFObEgwUUpSa2RzV1Z6VzYz@89.185.84.185:12575#@vpnclashfa - 31
