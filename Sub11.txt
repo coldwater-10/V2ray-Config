@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://04023a5a-21d6-4d32-9522-097ccd2c59e3@195.230.107.8:35154?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.230.107.8:35154
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.44.115:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.44.115:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.61.35:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.61.35:80
 vless://b16721a5-b18e-4517-afff-b59c1db7da55@135.181.101.223:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.101.223:8080
@@ -603,3 +602,4 @@ vless://b05d3ec4-6892-438e-b1a3-79fc8b635840@162.159.128.233:80?security=none&ty
 vless://00000000-0000-0000-0000-000000000005@185.143.232.253:443?security=tls&sni=3f40e40b00522eb1eb9bfb420b8bb012.skyroom.online&type=ws&host=flsrv.cdnplus1.ir&path=/downloadws?13011683841757#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.253:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.192.28:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.192.28:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?security=tls&sni=xini.ylks.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.245:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.1.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.248:80
