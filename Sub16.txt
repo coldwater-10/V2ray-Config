@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bfb39691-d545-4ea4-8bea-080aee2fef9f@[2606:4700:3031::ac43:cc54]:2096?security=tls&sni=am.gooshttest.online&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[2606:4700:3031::ac43:cc54]:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.46.218:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.46.218:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.196.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.196.109:80
 vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@172.67.2.238:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.41:443?security=tls&sni=sj.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.41:443
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?security=tls&sn
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@104.26.12.54:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram%40Freakconfig&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 vless://c416be20-32b3-467f-83c2-735e04d639f7@[2606:4700:3034::ac43:af94]:443?security=tls&sni=summer-king-3735.segete5426.workers.dev&type=ws&host=summer-king-3735.segete5426.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3034::ac43:af94]:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.57.35:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.57.35:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.163.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.163.254:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.121.201:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.201:443
