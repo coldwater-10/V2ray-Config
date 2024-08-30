@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.69.236:443?security=tls&sni=pages.dev&type=ws&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:443
-vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@89.117.112.7:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.117.112.7:8080
-vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.16.133.222:80?security=none&type=ws&host=workerr.babray.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.133.222:80
-vless://d3484b27-0cdf-469b-953e-1066d4e488f8@172.67.157.96:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.96:443
-vless://01970606-dfa3-4f13-efbb-7dbed93884f3@135.181.195.221:37814?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇫🇮 FI-135.181.195.221:37814
-vless://cb6e5952-e662-458f-a32c-fb25fa4014a8@104.31.16.65:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.65:8443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.73.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.248:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.84:2087
 vless://29af39ed-f8c8-49b8-9a5f-ea24fad97a09@151.101.129.203:443?security=tls&sni=video.nordkapp-boats.no&type=ws&host=fastopra.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.129.203:443
 vless://3d4fac5a-6011-4526-b70d-2a71058f11f6@104.17.185.16:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.185.16:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.52.61:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.52.61:80
@@ -603,3 +595,11 @@ trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.wo
 trojan://Watashi_VPN@104.17.147.22:443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
 trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@172.64.33.100:443?security=tls&sni=cfsg2.trojanwss.xyz&type=ws&host=cfsg2.trojanwss.xyz&path=%2FCFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
 trojan://trojan@104.18.13.229:8880?security=none&type=ws&host=ana-service--xn--kbraa23dbb976icac773ddad2349aeae99rfaf8546aga0.mjxrwd.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.13.229:8880
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.147.22:80?security=none&type=ws#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+trojan://telegram-id-privatevpns@3.127.59.36:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.127.59.36:22222
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.129.17:80?security=none&type=ws&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&path=%2Fus6#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.129.17:80
+trojan://5301502@65.75.192.35:22857?security=tls&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&type=ws&host=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.comh3&path=%2Ftrojan-9tc.pages.dev%2F#🔒 TR-WS-TLS 🇺🇸 US-65.75.192.35:22857
+trojan://telegram-id-privatevpns@52.211.1.131:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.211.1.131:22222
+trojan://ypDt8RkT7J@51.158.217.197:43118?security=tls&sni=riyyy.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.197:43118
+trojan://telegram-id-directvpn@52.58.49.169:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.58.49.169:22222
+trojan://tg-dns68@162.159.153.155:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.155:443
