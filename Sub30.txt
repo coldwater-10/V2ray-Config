@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://auto@162.159.153.191:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.191:443
+trojan://WwO6VNfw7v@104.18.28.7:2086?security=none&type=httpupgrade&host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-icg738.lavazemkhoshina.ir.&path=%2FAsuS.CoM%3Fed%3D32846#🔒 TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.28.7:2086
+trojan://telegram-id-privatevpns@18.132.92.245:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-18.132.92.245:22222
+trojan://236ee4a7-438d-418a-83d1-13337a1e8056@47.101.71.126:12041?security=tls&sni=cdn.alibaba.com&type=tcp&fp=chrome&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-47.101.71.126:12041
+trojan://telegram-id-privatevpns@35.159.150.114:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.159.150.114:22222
+trojan://ac1f3b35-1d03-3a85-beab-258d8f23edc6@183.236.48.85:11025?sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-183.236.48.85:11025
+trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://tg-dns68@43.156.56.22:7676?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇸🇬 SG-43.156.56.22:7676
 trojan://auto@162.159.153.254:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.254:443
 trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
@@ -596,10 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFOWJQTjJQVHNuSldoQ1g3ZkJnWmhH@77.246.98.67:443#🔒 SS-TCP-NA 🇳🇱 NL-77.246.98.67:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.118:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:5499
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.101:8008
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@117.143.14.213:13253#🔒 SS-TCP-NA 🇨🇳 CN-117.143.14.213:13253
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.27.200.28:989#🔒 SS-TCP-NA 🇺🇾 UY-179.27.200.28:989
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#🔒 SS-TCP-NA 🇲🇽 MX-190.103.179.23:989
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5499
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.174:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSNnBoNkJneERPRTlid3RmS0pjZ2RL@193.57.136.223:19423#🔒 SS-TCP-NA 🇹🇷 TR-193.57.136.223:19423
