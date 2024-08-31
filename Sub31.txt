@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://tg-dns68@162.159.152.220:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&fp=chrome&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.220:443
-trojan://auto@162.159.153.100:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.100:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.215:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.215:2087
 trojan://cba32ac1-abbb-4371-ba50-19eb5c38748c@135.181.253.237:443?security=tls&sni=xvqn.de&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-135.181.253.237:443
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
@@ -603,3 +601,5 @@ ss://NGQ1NDAwZWYtMjAxZC00M2EzLTg5MGYtYzc2Nzc0NmZjNTI0Og==@104.21.32.208:443#🔒
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.85:51472#🔒 SS-TCP-NA 🇰🇷 KR-221.150.109.85:51472
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:58456#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:58456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzNjOGZkNC1lZjBjLTQ3OWMtYTRmZi1jYmQwZjRiZDNlZjE=@46.232.123.37:50202#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50202
+ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@172.64.111.69:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.111.69:443
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.88:5499

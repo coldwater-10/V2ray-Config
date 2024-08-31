@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.20.19.145:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.145:2053
-vless://305f0fa2-0f65-4d8b-9fb8-6f1c8913f606@185.83.183.212:10001?security=none&type=tcp&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.183.212:10001
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.201:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.201:80
 vless://93b99881-df03-4597-9146-0c11e46387f7@141.147.183.49:29876?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-141.147.183.49:29876
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.182.43:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.43:443
@@ -603,3 +601,5 @@ trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&s
 trojan://saMgiangGt@104.21.18.57:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.18.57:443
 trojan://telegram-id-privatevpns@13.43.212.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-13.43.212.82:22222
 trojan://telegram-id-directvpn@51.44.2.49:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.2.49:22222
+trojan://JFMaLXeL4t@152.42.236.184:25383?security=none&type=ws&host=m.youtube.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-152.42.236.184:25383
+trojan://tg-dns68@13.228.142.218:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🇸🇬 SG-13.228.142.218:443

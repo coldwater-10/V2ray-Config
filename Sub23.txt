@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.252.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.252.163:80
-vless://04dc7b3a-1814-4af2-a53a-d08d5b86b345@78.141.193.208:41085?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-78.141.193.208:41085
 vless://cbeb450f-df92-46bf-9817-06d733118932@198.41.193.40:80?security=none&type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.40:80
 vless://412f1f14-b740-4d52-8e58-fa16d5461b5c@185.126.200.45:2056?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.200.45:2056
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.8.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.8.236:80
@@ -603,3 +601,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.82.109:80?security=none&type
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
 vless://1a8b4f8b-a240-4818-a75f-3b74e875ca6f@172.66.45.23:443?security=tls&sni=pardazeshvpn-tg10.pages.dev&type=ws&host=pardazeshvpn-tg10.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.23:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.85.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.85.220:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.163.6:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.6:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@108.162.192.248:2096?security=tls&sni=BPbp.KMEvpS.iR&type=ws&host=bpBp.KmeVps.IR&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.248:2096
