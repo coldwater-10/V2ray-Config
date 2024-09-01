@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://TELEGRAM-NUFiLTER@[2a04:4e42::731]:80/?type=ws&encryption=none&host=Bd.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vless://dc946a26-e9f6-4323-9dbe-b215e7a05b9e@[2a01:4f8:1c17:df8f::1]:18632/?encryption=none&host=Zara.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
+vless://306b0231-7084-43f6-9149-ba0a5cc8e23b@104.17.147.22:2082/?type=ws&encryption=none&host=academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcademiGroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D1024#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
 vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MDkwNzA4MjY4NTk0MjA1OTg3NjM4Nzc5OTgyNDc3OS5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiZjFmYjI4ZTUtZTViNi00NTBjLTk3MmMtMTMyMzVjOTQyODVjIiwibmV0Ijoid3MiLCJwYXRoIjoiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwicHMiOiLimKwgU0jOntCvVklO4oSiIPCfpYIg8J2RhPCdkaLwnZGS8J2RkvCdkZsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://7d043a1c-5417-491e-8c0a-d12f1dd8474a@87.107.146.77:8880/?type=ws&encryption=none&host=aDmIn.SaNa-DoWnLoAd.Ir.&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
 vless://ad434f1b-7e0b-4077-8b6a-445ab65ff267@104.25.0.86:8080/?type=ws&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%F0%9F%A5%82%20%F0%9D%91%84%F0%9D%91%A2%F0%9D%91%92%F0%9D%91%92%F0%9D%91%9B
@@ -598,8 +603,3 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 <html lang="en" class="no-js">
 <head>
   <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>404 · paste.gg</title>
-  <script
-    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
