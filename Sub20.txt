@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://41d17df9-c57d-4223-ac07-b4ee347c8bf2@212.80.19.118:15035?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.19.118:15035
 vless://44f8846d-8ef0-47ab-97fd-3df5213e0f0b@85.9.112.146:3535?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-85.9.112.146:3535
 vless://ccbceb9c-acbf-49f6-a716-81cf25a4c622@104.21.87.211:443?security=tls&sni=bia-anaservice.tazxjf.workers.dev&type=ws&host=bia-anaservice.tazxjf.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.211:443
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:8443?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.132:8443
@@ -602,4 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.51.8:443?security=tls&sni=mm
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.203.232:8443?security=tls&sni=folani.iiipok.WorKeRS.DEv&type=ws&host=folani.iiipok.WorKeRS.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:8443
 vless://768961c6-1172-4cfa-9d2b-d44c8be6cd0f@85.198.9.157:2070?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.9.157:2070
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.110.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.110.235:80
-vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?security=none&type=ws&path=/vpnjantit#🔒 VL-WS-NONE 🇺🇸 US-50.114.37.34:10004
