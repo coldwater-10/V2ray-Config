@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🔗 Vauth - 416
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🔗 Vauth - 417
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🔗 Vauth - 418
+vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🔗 Vauth - 419
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#🔗 Vauth - 420
 vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🔗 Vauth - 421
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=/#🔗 Vauth - 422
@@ -599,7 +603,3 @@ vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&ty
 vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?security=tls&sni=kingOfIRaN.Pages.DEV&type=ws&path=%2Ftelegram-%40sinabigo%2F%3Fed#🔗 Vauth - 1013
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.15:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔗 Vauth - 1014
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@94.177.8.43:443?security=tls&sni=yx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔗 Vauth - 1015
-vless://437bb227-4e4c-4bfd-9d1d-35564d107934@140.99.130.152:8443?security=tls&sni=ul-singapore2.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#🔗 Vauth - 1016
-vless://93b99881-df03-4597-9146-0c11e46387f7@124.199.44.146:35018?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔗 Vauth - 1017
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2FPath%2FTelegram@V2ray_alpha%2F%3Fed%3D2048#🔗 Vauth - 1018
-vless://51d163e2-f5dd-4f8c-b010-a98aba85a401@151.101.1.57:443?security=tls&sni=fastly.com&type=ws&host=join-dailyconfigs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&fp=random&alpn=h3,h2#🔗 Vauth - 1019
