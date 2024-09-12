@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0174
-trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0204
 vmess://eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaWN5LXRvb3RoLTNkMDUucGx6dGhzbWRuc3MtN2Q4bHkud29ya2Vycy5kZXYiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vYmRpaS5jZmQvbGlua3dzIiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKV8zMTM4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmQtdHJ1dGgtMjEwYThod2pocy5ib25hcjExMDExLndvcmtlcnMuZGV2IiwiaWQiOiI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaXZpZGVvcy5zYnMvbGlua3dzIiwicG9ydCI6Ijg4ODAiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKV8zMTM5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXMyZS0yMDI0MDExNi52MmZyZWV2cG4uY29tIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXMyZWtqZHMzbmF5IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzMxNDEiLCJzY3kiOiJhdXRvIiwic25pIjoidXMyZS0yMDI0MDExNi52MmZyZWV2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +601,5 @@ trojan://your_password@aws-uk-london-1.f1cflineb.com:443/?type=ws&host=aws-uk-lo
 trojan://your_password@aws-us-oregon-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-us-oregon-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0283
 vless://1ea40d23-e223-4be9-a830-036c9740b830@mamadtatardo442.my442vpn442.workers.dev:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0374
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@freedom14.geraxex389.workers.dev:443/?type=ws&encryption=none&path=%2F&security=tls&sni=freedom14.geraxex389.workers.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0477
+trojan://8f2a62a0-f6ae-40c9-bdfa-f2adfd6788fa@104.20.128.75:443/?type=tcp&security=tls&sni=cdnhid.vpweb.cfd&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_102_2
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@pardazeshvpn-tg20.pages.dev:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg20.pages.dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_1677
