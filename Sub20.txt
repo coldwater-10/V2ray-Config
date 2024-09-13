@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://tg-dns68@162.159.152.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A594
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3389#US70%201.8MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVFcgMS4yTUIvcyIsImFkZCI6IjExNC40My4xNjUuMTgxIiwicG9ydCI6IjE5MzMxIiwiaWQiOiI5MDZlNGQzZi0zMTg1LTRjMjMtODQ2NC0yM2NlZTBkYTMzYzMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InRvbmd5dS5sdDExMjIuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJUVyJ9
+trojan://tg-dns68@162.159.152.22:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A595
 trojan://tg-dns68@162.159.153.242:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A596
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5004#US71%201.9MB%2Fs
 trojan://tg-dns68@162.159.153.62:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A597
@@ -599,7 +603,3 @@ vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80/?type=ws&encryption
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.70.24:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔗 Vauth - 584
 vless://3dc00ff4-ac4b-4576-b1ec-f3418e438844@speedtest.net:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc3.ir&type=ws&sni=speedtest.net#🔗 Vauth - 585
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.204.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔗 Vauth - 586
-vless://4fb85b33-41ed-4a33-a8d9-987c39951a8b@185.133.125.43:59823?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🔗 Vauth - 587
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.59.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔗 Vauth - 588
-vless://55349db5-b030-452e-82f0-9ace27b04406@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=i-am-melo.com&fp=firefox&type=ws&sni=speedtest.net#🔗 Vauth - 589
-vless://8e9d52f8-aebe-4f60-b341-48665cfc5e44@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=melofin.ir&fp=firefox&type=ws&sni=speedtest.net#🔗 Vauth - 590
