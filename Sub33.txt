@@ -4,6 +4,20 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
+hy2://1f17cdf0578a2860@45.76.0.86:443/?obfs=salamander&obfs-password=4b817757&insecure=1#CPI3
+
+hy2://18240b2dfdd76484@[2a05:f480:2000:1384:5400:5ff:fe19:8b0a]:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4-ipv6
+
+hy2://18240b2dfdd76484@70.34.207.153:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4
+
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?encryption=none&security=tls&sni=xraypsiphon.sassanidempire.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=xraypsiphon.sassanidempire.com&path=%2Fwspath#CPI_psi_Xray
+
+vless://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhVhQEtbuL9Nwd#IRANCPI_%20tls_h2%20WS%20CDN%20vless
+
+trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCVhQEtbuL9Nwd#IRANCPI_%20tls_h2%20WS%20CDN%20trojan
+
+vless://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=httpupgrade&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhIzEEluJuj#IRANCPI_%20tls_h2%20httpupgrade%20CDN%20vless
+
 vless://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhkg3TaA1#IRANCPI_%20tls_h2%20splithttp%20CDN%20vless
 
 trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1#IRANCPI_%20tls_h2%20splithttp%20CDN%20trojan
@@ -589,17 +603,3 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@139.162.119.212:3
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@139.162.119.212:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇯🇵 JP-139.162.119.212:3074
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_237%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.183.184.241:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_241%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_29%20%40wangcai_8%202
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_152%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_72%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_044%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%E2%9A%9C%EF%B8%8F2%40oneclickvpnkeys
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_079%20%40WangCai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@45.11.104.79:3074?insecure=1&sni=TG.%40WangCai2#🔒 HYSTERIA-UDP 🇭🇰 HK-45.11.104.79:3074
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8%202
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_143%20%40wangcai_8
