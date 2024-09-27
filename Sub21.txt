@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://db3323d2-146c-4bba-b681-c0c93688580f@speedtest.net:443?path=/expressv2ray?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=airdrops.com&fp=chrome&type=ws&sni=speedtest.net#🇺🇸US_76_@Surfboardv2ray
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=chrome&type=ws&sni=119f3a0b.chikiy123w.pages.dev#🇨🇦CA_77_@Surfboardv2ray
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=chrome&type=ws&sni=119f3a0b.chikiy123w.pages.dev#🇨🇦CA_78_@Surfboardv2ray
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&fp=chrome#🇺🇸US_79_@Surfboardv2ray
-vless://e5107ad1-c575-494e-ad44-3bafbb1779b1@104.22.32.78:443?security=tls&sni=PaStiRoO.pAgEs.Dev&type=ws&host=PaStiRoO.pAgEs.Dev&path=mehdi/?ed=2560&fp=chrome&alpn=h2,http/1.1#🇨🇦CA_80_@Surfboardv2ray
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed=2048&fp=chrome#🇨🇦CA_81_@Surfboardv2ray
 vless://e93db79d-fa80-4c33-8dea-0833753b25a1@104.18.218.118:8443?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#🇨🇦CA_82_@Surfboardv2ray
 vless://ed2adfd2-97d9-4634-899b-69b8fbe295d2@104.17.147.22:2096?security=tls&sni=g.yUSEFkharE.SBS&type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@DOnald_vpn&fp=chrome&alpn=h3,h2,http/1.1#🇨🇦CA_83_@Surfboardv2ray
@@ -603,3 +598,8 @@ vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?encryption=no
 ssr://MTkyLjI0MC45OS4xODI6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPUkwUXdPVUl2UVZNeE56UTZJRlZ1YVhSbFpDQlRkR0YwWlhNJmdyb3VwPVFYVjBiMU5UVWc
 ssr://NDYuMTcuNDYuMTAxOjE0NDA1OmF1dGhfYWVzMTI4X21kNTpyYzQtbWQ1OnRsczEuMl90aWNrZXRfYXV0aDpRM05yZHpaay8_b2Jmc3BhcmFtPVptWTFZVEF5TlRZeE5URXViV2xqY205emIyWjBMbU52YlEmcHJvdG9wYXJhbT1NalUyTVRVeE9tMHpTVTVIU2cmcmVtYXJrcz1JemsxUVRjdlFWTTFNVFkxT1RvZ1VuVnpjMmxoJmdyb3VwPVFYVjBiMU5UVWc
 ssr://MTM5LjE2Mi4xNS40NTo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9SXpkR01VUXZRVk0yTXprME9Ub2dVMmx1WjJGd2IzSmwmZ3JvdXA9UVhWMGIxTlRVZw
+ssr://MTk0LjE0Ny4zNC45NjoxNDQwNDphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTp0bHMxLjJfdGlja2V0X2F1dGg6UTNOcmR6WmsvP29iZnNwYXJhbT1abVkxWVRBeU5UWXhOVEV1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TWpVMk1UVXhPbTB6U1U1SFNnJnJlbWFya3M9STBaRlFrVXZRVk0xTVRZMU9Ub2dVblZ6YzJsaCZncm91cD1RWFYwYjFOVFVn
+ssr://NDUuOC4xNTguMzM6MTQ0MDM6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlEzTnJkelprLz9vYmZzcGFyYW09Wm1ZMVlUQXlOVFl4TlRFdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU1qVTJNVFV4T20welNVNUhTZyZyZW1hcmtzPUl6aEJSVFV2UVZNME9UTTVNam9nVW5WemMybGgmZ3JvdXA9UVhWMGIxTlRVZw
+ssr://MTcyLjEwNS4xOTIuMTM1OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1JekpCTnprdlFWTTJNemswT1RvZ1NtRndZVzQmZ3JvdXA9UVhWMGIxTlRVZw
+ssr://NDMuMjI1LjEwMC42Mzo1MjMwMDpvcmlnaW46YWVzLTI1Ni1jdHI6cGxhaW46WVdFMU1qQXdNalV4TXpFMC8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPUl6WXhPRUl2UVZNME5UazBPaUJJYjI1bklFdHZibWMmZ3JvdXA9UVhWMGIxTlRVZw
+ssr://MTk0LjE1Ni4xMjAuMTAyOjg4ODY6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46ZDNkM0xtWnlaV1Z6Y3k1aVpYTjAvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1JekZHTWtJdlFWTTBPVE01TWpvZ1VuVnpjMmxoJmdyb3VwPVFYVjBiMU5UVWc
