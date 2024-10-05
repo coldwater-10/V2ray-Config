@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+hy2://1ab02865393bfa6d@[2a01:4ff:f0:c551::1]:443?obfs=salamander&obfs-password=d5a9baeec9b61a44&insecure=1&sni=www.google.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%D8%AF%D9%88
+hy2://1ea621651a6c247a@sh.netmh9.xyz:443?obfs=salamander&obfs-password=d6da8047&insecure=1#3days
+hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#us@vip_programs%E2%9C%8D%EF%B8%8F%F0%9F%8C%B9
+hy2://25e6eae8b3b48bb7@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#IPCF
+hy2://2f1b122607f533dc@51.222.12.75:443?obfs=salamander&obfs-password=7925a5b3071cb35f&insecure=1&sni=www.google.com#%D9%87%D9%85%D8%B1%D8%A7%D9%87%D8%A7%D9%88%D9%84
+hy2://2f1b122607f533dc@[2607:5300:205:200::1926]:443?obfs=salamander&obfs-password=7925a5b3071cb35f&insecure=1&sni=www.google.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%D8%AF%D9%88
+hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988?insecure=1#%F0%9F%87%A8%F0%9F%87%A6@vio_programs%F0%9F%A4%8D%F0%9F%8C%B9
+hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988?insecure=1#%F0%9F%87%BA%F0%9F%87%B8@vio_programs%F0%9F%A4%8D%F0%9F%8C%B9
+hy2://34bc180770b8e735@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#IPCF2
+hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#@VPN_KODLARY%F0%9F%87%B9%F0%9F%87%B2
+hy2://3725816f-1464-450f-a2ce-dfcd81e28eaf@192.9.165.40:51000?insecure=1&sni=cn.cremedelamer.com%7Chttps://3725816f-1464-450f-a2ce-dfcd81e28eaf@192.9.179.140:51000/?insecure%3D1#@VPN_KODLARY%F0%9F%87%A6%F0%9F%87%BA
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#%E2%9A%A1%EF%B8%8F@zebelkhan(Hysteria)
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%BA%F0%9F%87%B8@vpnAndroid2
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443?insecure=1&sni=cn.cremedelamer.com#%E2%9A%A1%EF%B8%8F@zebelkhan(Hysteria)
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%AE%F0%9F%87%B3@vpnAndroid2
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@141.148.182.2:443?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%BA%F0%9F%87%B8@vpnAndroid2
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@144.22.197.28:443?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%A7%F0%9F%87%B7@vpnAndroid2
@@ -588,18 +602,4 @@ trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?security=tls&sni=su
 vless://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=KCoBBKhQONXdAX1q&mode=gun#IRANCPI_%20tls_h2%20grpc%20CDN%20vless
 
 trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=ypSUmDMymGhCQONXdAX1q&mode=gun#IRANCPI_%20tls_h2%20grpc%20CDN%20trojan
-
-vless://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhVhQEtbuL9Nwd#IRANCPI_%20tls%20WS%20CDN%20vless
-
-trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCVhQEtbuL9Nwd#IRANCPI_%20tls%20WS%20CDN%20trojan
-
-vless://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhIzEEluJuj#IRANCPI_%20tls%20httpupgrade%20CDN%20vless
-
-vless://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=KCoBBKhQONXdAX1q&mode=gun#IRANCPI_%20tls%20grpc%20CDN%20vless
-
-trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=ypSUmDMymGhCQONXdAX1q&mode=gun#IRANCPI_%20tls%20grpc%20CDN%20trojan
-
-vless://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h3&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhkg3TaA1#IRANCPI_%20h3_quic%20splithttp%20CDN%20vless
-
-trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@indeed.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h3&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1#IRANCPI_%20h3_quic%20splithttp%20CDN%20trojan
 
