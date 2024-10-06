@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#%E2%9A%A1%EF%B8%8F@zebelkhan(TUIC)
-hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#%F0%9F%A7%B8@TM_KODLARY
-hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#%E2%9A%A1%EF%B8%8F@skill_look(TUIC)
-hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#%E2%9A%A1%EF%B8%8F@zebelkhan(TUIC)
-hy2://855b3ef2-a162-417e-931d-f6a49adf21cf@51.15.53.153:45500?insecure=1&sni=www.bing.com#HysteriaserversshoceanPODVPN
-hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#%E2%9A%A1%EF%B8%8F@zebelkhan(Hysteria)
-hy2://8c490573-586e-47b3-811e-ee83d1b28d3d@208.87.243.143:443?insecure=1&sni=www.microsoft.com#%E6%BC%82%E4%BA%AE%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B802
 hy2://8c490573-586e-47b3-811e-ee83d1b28d3d@208.87.243.147:443?insecure=1&sni=www.microsoft.com#%E6%BC%82%E4%BA%AE%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B803
 hy2://8c490573-586e-47b3-811e-ee83d1b28d3d@208.87.243.191:443?insecure=1&sni=www.microsoft.com#%E6%BC%82%E4%BA%AE%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B801
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@hy2jp01.xqc.best:30002?sni=hy2jp01.xqc.best#Hy2@v2rayNG_VPN
@@ -603,3 +596,10 @@ vless://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?encryption=non
 
 vless://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=KCoBBKhQONXdAX1q&mode=gun#IRANCPI_%20tls%20grpc%20CDN%20vless
 
+trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=ypSUmDMymGhCQONXdAX1q&mode=gun#IRANCPI_%20tls%20grpc%20CDN%20trojan
+
+vless://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h3&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhkg3TaA1#IRANCPI_%20h3_quic%20splithttp%20CDN%20vless
+
+trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h3&fp=chrome&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1#IRANCPI_%20h3_quic%20splithttp%20CDN%20trojan
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TldJMU5XSmpPV1l5TldSa05EZGxZamxtTURNeFlUYzJOMk01WW1VMFlqVT06TVRWak1qUTVNV0V3TVdReU5HUXpObUkwWXpRM01EazFOamd5TXpZNFkyUT0=@sublinkhiddify.makingirangreatagain.com:19458#CPI_SS_%20ShadowSocks2022
