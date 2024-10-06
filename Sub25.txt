@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-hy2://416a73a2-ca52-4cb7-bc15-40a4dbf90e53@xxjjpp.yjy.lol:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF2@ggboo_bot(4GPS)
-hy2://416a73a2-ca52-4cb7-bc15-40a4dbf90e53@zzxg.tiktokcn.xyz:443#%E9%A6%99%E6%B8%AF%E7%B4%A7%E6%80%A5%E5%A4%87%E7%94%A8%E5%85%AC%E7%9B%8A%E8%B7%AF%E7%BA%BF@ggboo_bot
-hy2://442cb870-98d6-4b62-8602-55e2b763e676@205.185.121.160:50002?insecure=1&sni=www.bing.com#US
-hy2://4a52c165e81fa8fc@hys3.cpionline.us:443?obfs=salamander&obfs-password=a16d0be0&insecure=1&sni=www.apple.com#sshoceanVIPVPN%E2%AD%90
 hy2://4c559a537ab2b12e@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#ipcf
 hy2://4d3e7a56-7129-49c9-a1bc-068efde4728a@b26.ntbq.dynu.net:8886?sni=b26.ntbq.dynu.net#TG%E9%A2%91%E9%81%93:@hkaa0
 hy2://4d3e7a56-7129-49c9-a1bc-068efde4728a@ty16.twty.dynu.net:8882?sni=ty16.twty.dynu.net#TG%E9%A2%91%E9%81%93:@hkaa0
@@ -603,3 +599,7 @@ trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@economist.com:443?security=tls&sni
 vless://15c2491a-01d2-4d36-b4c4-7095682368cd@economist.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhVhQEtbuL9Nwd#IRANCPI_%20tls%20WS%20CDN%20vless
 
 trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@economist.com:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=ws&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCVhQEtbuL9Nwd#IRANCPI_%20tls%20WS%20CDN%20trojan
+
+vless://15c2491a-01d2-4d36-b4c4-7095682368cd@economist.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FKCoBBKhIzEEluJuj#IRANCPI_%20tls%20httpupgrade%20CDN%20vless
+
+vless://15c2491a-01d2-4d36-b4c4-7095682368cd@economist.com:443?encryption=none&security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=KCoBBKhQONXdAX1q&mode=gun#IRANCPI_%20tls%20grpc%20CDN%20vless
