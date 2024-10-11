@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443/?type=ws&encryption=none&path=%2Fssl&security=tls&sni=fr.vpnbase.net&fp=chrome&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_0018
+trojan://62313560-c059-11ee-b43c-1239d0255272@uk1.test3.net:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0009
+trojan://70face6dd320ea29@5.44.249.53:3306/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0010
+trojan://7b06d22a8a7c764f@5.44.249.53:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0011
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0012
 trojan://aea19280-8d7d-11ee-ae44-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0015
 trojan://your_password@52.56.183.187:443/?type=tcp&security=tls&sni=aws-uk-london-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0021
 trojan://your_password@aws-uk-london-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-uk-london-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_0022
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.217.232:989#%F0%9F%87%B1%F0%9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 vmess://eyJhZGQiOiIxMDQuMTYuNjEuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiN3docmFwaWQtcml2ZXItYTA4My5zaXNheTcwNzc5LndvcmtlcnMuZGV2IiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkL2xpbmt3cyIsInBvcnQiOiIyMDk2IiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSkiLCJzY3kiOiJhdXRvIiwic25pIjoiN3docmFwaWQtcml2ZXItYTA4My5zaXNheTcwNzc5LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSkiLCJzY3kiOiJhdXRvIiwic25pIjoieG1pdmlkZW8uY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJwYW5kb3IuYm9hdHMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImF2ZWlyb3IuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhdmVpcm9yLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJiZXlvbmRkYmMuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXlvbmRkYmMuc2JzIiwiaWQiOiI4ZDkwYzEyOS00MTU2LTRkNmMtOTExNS0yNGRmMjVmMjZhMDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwic2N5IjoiYXV0byIsInNuaSI6ImJleW9uZGRiYy5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJzYXJlaWtlbGEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYXJlaWtlbGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzYXJlaWtlbGEuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.87.225:5499#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-vmess://eyJhZGQiOiIxNzIuNjcuMTc0LjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnd2RlZi5zYnMiLCJpZCI6ImJjODY0MDc4LWRjZjMtNGJmNC04ZGJmLWNhOWYyMDBiNTZiZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSkiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3dkZWYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
