@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://bpb-trojan@188.114.98.209:2053?security=tls&type=ws&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&host=bpb-worker-panel1-e4p.pages.dev#%E6%9C%AA%E7%9F%A540
-trojan://f06ac303-e626-451d-bcfc-ee825ee69398@104.21.25.228:443?security=tls&type=ws&sni=AzADnet-semEj.PAGes.dEv&path=/Tel-@V2ray_Alpha/?ed=2048&host=azaDNEt-sEMEJ.PageS.Dev#%E6%9C%AA%E7%9F%A541
-trojan://tg-dns68@162.159.153.66:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A542
-trojan://trojan@172.67.130.66:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/?ed=2560&host=test-a23.pages.dev#%E6%9C%AA%E7%9F%A543
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.79:5498#US34%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#US35%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.27.56:990#%E6%9C%AA%E7%9F%A544%2026.0KB%2Fs
 trojan://telegram-id-directvpn@52.210.192.198:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A545
@@ -603,3 +598,8 @@ vless://9a015c95-aa54-449f-8604-ecd16d67a38c@join-to.kiava.fun:8880?encryption=n
 vless://9a015c95-aa54-449f-8604-ecd16d67a38c@metrix.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws81.cloudfront.net.kiava.fun&path=/?ed=2560#🔗 Vauth - 474
 vless://922e96cd-7ed5-4836-a2f3-11c441716e53@www.bandmusic.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=/?ed=2560#🔗 Vauth - 475
 vless://TELEGRAM-NUFiLTER@Www.speedtest.net:8880?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8880&security=none&encryption=none&host=01.V2.h.www.speedtest.net.asve.iR.&type=httpupgrade#🔗 Vauth - 476
+vless://TELEGRAM-NUFiLTER@Www.speedtest.net:2052?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=002.V2.h.www.speedtest.net.ddigicyber.clicK.&type=httpupgrade#🔗 Vauth - 477
+vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80?path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#🔗 Vauth - 478
+vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Bs.net&fp=chrome&type=ws&sni=speedtest.net#🔗 Vauth - 479
+vless://eee42454-c782-440e-9feb-4822bb2dfc9c@172.66.44.254:8880?path=/TELEGRAM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🔗 Vauth - 480
+vless://477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#🔗 Vauth - 481
