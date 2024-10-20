@@ -3,63 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-            .card .text { font-size: 1.6rem;}
-        } 
-        @media screen and (max-width: 480px){
-            html {font-size: 5.7px;}
-            .container {max-width: 95%;}
-            .title-main {font-size: 6.6vw;}
-            /* .container.card {margin-top: 2rem;} */
-            .subheading{font-size: 13px;}
-            .card .text { font-size: 12px;}
-            footer {flex-direction: column;}
-        }
-        }
-    </style>
-
-</head>
-
-<body>
-    <section id="default-card" class="default-card">
-        <div class="container card">
-            <h1 class="title-main"><p id="title"></p></h1>
-            <script>
-            document.getElementById("title").innerHTML = window.location.hostname;
-            </script>
-            <p class="subheading">This account has been suspended</p>
-            <div class="main-image">
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-                    <style type="text/css">
-                        .st0{fill:#FFFFFF;}
-                        .st1{fill:#C1E9F4;}
-                        .st2{fill:#A3D5E9;}
-                        .st3{fill:#EAEAEA;}
-                        .st4{fill:#FDFDFF;}
-                        .st5{fill:#BFBFBF;}
-                        .st6{opacity:0.16;fill:#C1E9F4;}
-                        .st7{clip-path:url(#XMLID_3_);fill:#FFFFFF;}
-                        .st8{fill:#14103D;}
-                        .st9{fill:#EB8175;}
-                        .st10{fill:#418C41;}
-                        .st11{fill:#50AA50;}
-                        .st12{fill:#E1AD9D;}
-                        .st13{fill:#C8C6F2;}
-                        .st14{fill:#D8D7FD;}
-                        .st15{fill:#091218;}
-                        .st16{fill:#1B2934;}
-                        .st17{fill:#E16C5F;}
-                        .st18{clip-path:url(#XMLID_4_);fill:#231C61;}
-                        .st19{fill:#F5D100;}
-                        .st20{fill:none;stroke:#F1AB00;stroke-width:0.2802;stroke-miterlimit:10;}
-                        .st21{fill:none;stroke:#FFFFFF;stroke-width:1.1206;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-                        .st22{fill:none;stroke:#106797;stroke-width:2.1624;stroke-miterlimit:10;}
-                        .st23{fill:none;stroke:#FFFFFF;stroke-width:1.1138;stroke-miterlimit:10;}
-                        .st24{fill:#106797;}
-                        .st25{fill:#0F5A7C;}
-                        .st26{fill:none;stroke:#106797;stroke-width:2.6489;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-                    </style>
-                    <g id="BACKGROUND">
                         <rect class="st0" width="500" height="500"/>
                     </g>
                     <g id="OBJECTS">
@@ -603,3 +546,60 @@
                                     </g>
                                     <g>
                                         <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,313.3H359v-20.5h21.1V313.3z M361.2,311.2h16.7v-16.3h-16.7V311.2z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,313 359.3,294.6 360.8,293.1 379.8,311.5 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,313 359.3,311.5 378.2,293.1 379.8,294.6 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,331.7H359v-20.5h21.1V331.7z M361.2,329.6h16.7v-16.3h-16.7V329.6z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,331.4 359.3,313 360.8,311.5 379.8,329.9 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,331.4 359.3,329.9 378.2,311.5 379.8,313 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,350.1H359v-20.5h21.1V350.1z M361.2,348h16.7v-16.3h-16.7V348z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,349.8 359.3,331.4 360.8,329.9 379.8,348.3 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,349.8 359.3,348.3 378.2,329.9 379.8,331.4 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    </svg>
+            </div>
+            <p class="text">Either the domain has been overused, or the reseller ran out of resources.</p>
+        </div>
