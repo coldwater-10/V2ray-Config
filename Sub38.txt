@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+            padding-left: 11px;
+        }
+        footer .left-side {
+            display: flex;
+            align-items: center;
+        }
+        /* Medias */
+        @media screen and (max-width: 1024px){
             .container {max-width: 90%;}
         @media screen and (max-width: 768px){
             html {font-size: 7px;}
@@ -595,11 +603,3 @@
                                                     <path class="st24" d="M380.1,370.3H359v-20.5h21.1V370.3z M361.2,368.2h16.7v-16.3h-16.7V368.2z"/>
                                                 </g>
                                             </g>
-                                            <g>
-                                                <g>
-                                                    <polygon class="st24" points="378.2,370 359.3,351.6 360.8,350.1 379.8,368.5 								"/>
-                                                </g>
-                                            </g>
-                                            <g>
-                                                <g>
-                                                    <polygon class="st24" points="360.8,370 359.3,368.5 378.2,350.1 379.8,351.6 								"/>
