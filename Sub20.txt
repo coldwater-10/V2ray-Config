@@ -3,29 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "DE9E32FF31B704BF98967202DE78D00D",
@@ -603,3 +580,26 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?encryption=none&t
 vless://d13c3bd3-0ef3-4cd9-811a-f231130b577b@NUFiLTER.fastly80.hosting-ip.com:80?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=Babaaha.ir&security=none&alpn=h3%2Ch2&fp=randomized&sni=Babaaha.ir#123-%40
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?encryption=none&type=ws&path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&host=JOiNMAHdiSERVer-BG3.Pages.dEv&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#124-%D8%A8%D8%B1%D8%A7%DB%8C%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%2B%D8%AC%D9%88%DB%8C%D9%86%2B%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?encryption=none&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&host=internet4everieone7.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#125-%40V2rayi_net
+vless://a7c8aaec-b325-4037-8b19-24b46ab4a6e4@www.parsvds.ir:8080?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net#126-Ws%20-%20%40OhVpn-cn9tdyyb
+vless://baa3f0da-510c-470e-8ab3-1b737dff4977@172.66.46.213:443?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=speedtest1.svgspeedtest.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=speedtest1.svgspeedtest.net#127-Ws%20-%20%40SavageV2ray-4mm0ok8r
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=k.kp&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=GOV.UK#128-%40v2ryngfree%2B%D8%B3%D8%B1%DA%86%2B%DA%A9%D9%86%2B%D8%A8%DB%8C%D8%A7%2B%D8%AA%D9%88%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+vless://cce8d877-65fb-455d-9109-94e969494d65@zula.ir:8880?encryption=none&type=httpupgrade&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir.&security=none&alpn=h3%2Ch2&fp=randomized&sni=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir.#129-%F0%9F%87%B3%F0%9F%87%B1%2BVMESSKHODAM
+vless://9c18b0f0-0a6d-59ed-9caa-05ed01db072e@185.146.173.49:443?encryption=none&type=ws&path=%2Fvless&host=no2.vless.site&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=no2.vless.site#130-%40hopev2ray%F0%9F%A6%8B
+vless://adbdd423-90c6-492f-b120-9f6d2541769e@46.101.86.205:443?encryption=none&type=http&path=https%3A%2F%2Fcrm.talashnet.com%2Flogin%3Fed%3D2048&host=www.usecharge.ir&security=reality&pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&sid=33c48970a3f211ed&spx=%2Flogin&alpn=http%2F1.1&fp=randomized&sni=crm.talashnet.com#131-%F0%9F%87%AC%F0%9F%87%A7%2B%40ConfigTell
+vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C20-50%2C10-50&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#132-%40vipV2rayNGnp
+vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@104.21.24.106:2053?encryption=none&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-20&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev#133-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM0LfCfj4FSRUxBWS0xNzIuNjQuODAuMS0zOTE1IiwiYWRkIjoiY2YtYXowMS04MS5jbGFzaHpvbmUueHl6IiwicG9ydCI6ODQ0MywiaWQiOiI0MzBiNjg5NS0yZTBmLTQ3MTYtOTQxMC1lMTMzOWQwZjlhZjYiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6ImNmLWF6MDEtODEuY2xhc2h6b25lLnh5eiIsIm5ldCI6IndzIiwicGF0aCI6Ii92MmF6ODEiLCJob3N0IjoiY2YtYXowMS04MS5jbGFzaHpvbmUueHl6IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+vless://d0f9437f-3c49-45c6-976b-ebea24158b39@190.93.247.155:2082?encryption=none&type=httpupgrade&path=%2F&host=finhztco.nipytee.info&alpn=h3%2Ch2&fp=ios&sni=finhztco.nipytee.info#135-CF%E4%B8%AD%E8%BD%AC_1021092447
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM2LfCfj4FSRUxBWS0xMDQuMTYuNjEuOC0xMTg3IiwiYWRkIjoiMTA0LjE2LjYxLjgiLCJwb3J0Ijo4MDgwLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiNmM0Ny1idXR0ZXJmbHktNmM0Ny55ZXhvamkzNzQ5LndvcmtlcnMuZGV2IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsImhvc3QiOiI2YzQ3LWJ1dHRlcmZseS02YzQ3LnlleG9qaTM3NDkud29ya2Vycy5kZXYiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@59.3.3.161:443?encryption=none&type=ws&path=%2Fblue&host=kz.ylks.xyz&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=kz.ylks.xyz#137-%E9%9F%A9%E5%9B%BD_102109005
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMTM4LfCfh7rwn4e4IF9VU1/nvo7lm71fNCIsImFkZCI6InduZDMuc2hhYmlqaWNoYW5nLmNvbSIsInBvcnQiOjgwLCJpZCI6ImM0NTg2OTVkLTY5MDgtNDVjMy05NTEyLWUwYzQ2NDE4NDU0YyIsImFpZCI6IjAiLCJ0bHMiOiIiLCJzbmkiOiJ3bmQzLnNoYWJpamljaGFuZy5jb20iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InduZDMuc2hhYmlqaWNoYW5nLmNvbSIsImFscG4iOiJoMiIsImZwIjoiZWRnZSJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM5LfCfh6/wn4e1SlAtMTcyLjEwNS4yMTkuMTgtMDkxMiIsImFkZCI6IjE3Mi4xMDUuMjE5LjE4IiwicG9ydCI6NDQzLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.6:443?encryption=none&type=ws&path=twitterfreecodestg%40zdyz2&host=cfed.tgzdyz2.top&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=cfed.tgzdyz2.top#140-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_102109001
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?encryption=none&type=ws&path=tg%40zdyz2&host=cfed.tgzdyz2.top&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=cfed.tgzdyz2.top#141-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6_102109003
+vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.46:2082?encryption=none&type=httpupgrade&path=%2F&host=finhztco.nipytee.info&security=none&alpn=h2&fp=chrome&sni=finhztco.nipytee.info#142-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6_102109032
+vless://157b59b8-0dce-442b-ba9a-751d4cc2e8ab@173.245.59.101:8880?encryption=none&type=httpupgrade&path=%2Fresult&host=dash.cloudflare.com.www.speedtest.net.sanjesh.org1.Nanowash-shop.ir.&security=none&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=dash.cloudflare.com.www.speedtest.net.sanjesh.org1.Nanowash-shop.ir.#143-CF%E4%B8%AD%E8%BD%AC_1021091374
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?encryption=none&type=ws&path=%2Fblue&host=xz.ylks.xyz&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=xz.ylks.xyz#144-%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_102109029
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@209.208.227.229:2096?encryption=none&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C20-50&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#145-%E7%BE%8E%E5%9B%BD_1021091175
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.205.53:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=mmdv2.pages.dev#146-CF%E4%B8%AD%E8%BD%AC_1021093251
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ3LfCfh7jwn4esU0ctMTUuMjM1LjE0Ny4xODYtMDg2MyIsImFkZCI6InNnLWxiLnZoYXgubmV0IiwicG9ydCI6ODAsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJzZy1sYi52aGF4Lm5ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hraXQvRXJ0dXNnODYvNjM1MDE0NjM4YzI2NC8iLCJob3N0Ijoic2ctbGIudmhheC5uZXQiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImlvcyJ9
+vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@104.21.16.169:443?encryption=none&type=ws&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev#148-CF%E4%B8%AD%E8%BD%AC_1021091816
