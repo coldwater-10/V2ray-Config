@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
@@ -603,3 +587,19 @@ vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?encryption=none&t
 vless://017c320f-e573-46a9-a86d-edd8f4a8cbbf@188.114.98.224:2095?encryption=none&type=ws&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.#104-MKH%20VPNCUSTOMIZE
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=pardazesh18.pages.dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=pardazesh18.pages.dev#105-MCI-%40V2ray_Alpha-11
 vless://404a31fe-45c6-41af-8b74-6487fa8a4501@tr.v2rayn.com:2087?encryption=none&type=grpc&security=reality&pbk=AYM4c1_BQSmXwGc63-Yind0ogbkLnpWkxxWFIMLzhQ0&sid=7af60a&spx=%2F&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=zara.com#106-%40iranbaxvpn
+vless://4cab3073-5346-42bb-9dd4-4dc516e7e266@EXPRESSVPN_420.fastly80.hosting-ip.com:80?encryption=none&type=ws&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=Okalvhk.com&security=none&alpn=h2&fp=randomized&sni=Okalvhk.com#107-%40EXPRESSVPN_420%20%F0%9F%87%A9%F0%9F%87%AA%20WS12
+vless://68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#108-%F0%9F%87%A8%F0%9F%87%B5%20%40ghalagyann
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=download-93w.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=pages.dev#109-WiFi-%40V2ray_Alpha-12
+vless://39b77143-8b2d-43c8-b43b-be5cbf39f1b3@94.141.96.214:2053?encryption=none&type=grpc&security=reality&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&sid=57b5c570&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net#110-%40antimeli-AllNet-TR%F0%9F%94%A5
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@185.203.241.117:12345?encryption=none&type=http&path=%2F&security=reality&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373&alpn=http%2F1.1&fp=firefox&sni=telewebion.com#111-Telegram%3A%2B%40Asak_Vpn%2B%F0%9F%94%A5
+vless://5f59ccc3-6402-5232-a1b0-51c76b9c5dbf@185.146.173.26:80?encryption=none&type=ws&path=%2Fvless&host=Nl1.vless.site.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=Nl1.vless.site.#112-%40hopev2ray
+vless://6c76e884-b9cf-4e3c-b308-6f61d891f886@151.101.0.155:80?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=Abnabat2chobi.net&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=Abnabat2chobi.net#113-%DA%A9%D8%A7%D9%86%D9%81%DB%8C
+vless://49b8ce15-60c9-4ad4-85b8-3c6841ed6c19@79.127.70.121:2087?encryption=none&type=tcp&host=www.%40FergalVpnMod.net&security=none&headerType=http&alpn=h3%2Ch2&fp=chrome&sni=www.%40FergalVpnMod.net#114-%40NETMelliAnti
+vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C10-50&sni=pAgES.DEV#115-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?encryption=none&type=ws&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.#116-%40realvpnmaster
+vless://5a3ffd43-846c-43d2-b536-f9ca9a1f8a4d@92.223.124.62:80?encryption=none&type=httpupgrade&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&host=bng.org&security=none&alpn=h3%2Ch2&fp=chrome&sni=bng.org#117-t.me%2FentryNET
+vless://6a7dbc8e-708a-47a6-a514-ad0030f800cb@tk.mobicall.ir:13722?encryption=none&type=tcp&path=%2Fbot_telgram%3A%40vpn_landbot&host=Zula.ir&security=none&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=Zula.ir#118-t.me%2FVPN_LAND_OFFICIAL
+vless://6433ebb4-bdf0-4173-839f-1a426b83cb65@www.speedtest.net:2096?encryption=none&type=ws&path=%2FVmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol%3Fed%3D1024&host=cc.vmessprotocol.ggff.net&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=cc.vmessprotocol.ggff.net#119-%40vmessprotocol%20%D9%85%D9%86%D8%A8%D8%B9%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%F0%9F%8F%96%EF%B8%8F
+vless://694f4e1e-5768-4065-a9be-5f3945c6b4c4@151.101.2.216:80?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=none&alpn=h2&fp=chrome&sni=barkatc1.ir#120-%40V2ray1_Ng%2BALL
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:80?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM#121-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=NGINX-H.pages.DEV&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=NGINX-H.pages.DEV#122-%40DRA_NET-All%2BNets-9
