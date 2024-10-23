@@ -3,36 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
 		},
 		{
 			"remarks" : "dongtaiwang.com",
@@ -603,3 +573,33 @@ vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@52.29.10.187:8880?encryption=none&t
 vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:443?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitT.CoM&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-50&sni=hajlab.ucdavis.edu#98-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
 vless://771854f6-156d-5162-9187-91620e7a5d59@185.146.173.24:80?encryption=none&type=ws&path=%2Fvless&host=Nl2.vless.site.&security=none&alpn=http%2F1.1&fp=randomized&sni=Nl2.vless.site.#99-%40hopev2ray%F0%9F%94%A5
 vless://1b95181b-3319-4f62-8291-2aa84e1f9e1a@tun.ferdowsi.shop:2087?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-20&sni=g4.ferdowsi.shop#100-%F0%9F%87%A9%F0%9F%87%AA%20Cephalon_ALA-%5B315%5D
+vless://110ef14f-276f-451f-9fe5-65b4c1898d55@funnelytics.io:8443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C20-50&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#101-%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%D9%88%2B%DA%AF%D9%88%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF%F0%9F%98%8E%F0%9F%8E%81%F0%9F%94%B0%2B%40V2RAYNG_Outline_VPN
+vless://3eef6f0a-d63e-4a29-af16-494154a2a4ae@hajlab.ucdavis.edu:443?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitT.CoM&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=hajlab.ucdavis.edu#102-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
+vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?encryption=none&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=pAgES.DEV#103-WiFi-%40V2ray_Raha-09
+vless://017c320f-e573-46a9-a86d-edd8f4a8cbbf@188.114.98.224:2095?encryption=none&type=ws&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.#104-MKH%20VPNCUSTOMIZE
+vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=pardazesh18.pages.dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=pardazesh18.pages.dev#105-MCI-%40V2ray_Alpha-11
+vless://404a31fe-45c6-41af-8b74-6487fa8a4501@tr.v2rayn.com:2087?encryption=none&type=grpc&security=reality&pbk=AYM4c1_BQSmXwGc63-Yind0ogbkLnpWkxxWFIMLzhQ0&sid=7af60a&spx=%2F&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=zara.com#106-%40iranbaxvpn
+vless://4cab3073-5346-42bb-9dd4-4dc516e7e266@EXPRESSVPN_420.fastly80.hosting-ip.com:80?encryption=none&type=ws&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=Okalvhk.com&security=none&alpn=h2&fp=randomized&sni=Okalvhk.com#107-%40EXPRESSVPN_420%20%F0%9F%87%A9%F0%9F%87%AA%20WS12
+vless://68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#108-%F0%9F%87%A8%F0%9F%87%B5%20%40ghalagyann
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=download-93w.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=pages.dev#109-WiFi-%40V2ray_Alpha-12
+vless://39b77143-8b2d-43c8-b43b-be5cbf39f1b3@94.141.96.214:2053?encryption=none&type=grpc&security=reality&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&sid=57b5c570&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net#110-%40antimeli-AllNet-TR%F0%9F%94%A5
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@185.203.241.117:12345?encryption=none&type=http&path=%2F&security=reality&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373&alpn=http%2F1.1&fp=firefox&sni=telewebion.com#111-Telegram%3A%2B%40Asak_Vpn%2B%F0%9F%94%A5
+vless://5f59ccc3-6402-5232-a1b0-51c76b9c5dbf@185.146.173.26:80?encryption=none&type=ws&path=%2Fvless&host=Nl1.vless.site.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=Nl1.vless.site.#112-%40hopev2ray
+vless://6c76e884-b9cf-4e3c-b308-6f61d891f886@151.101.0.155:80?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=Abnabat2chobi.net&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=Abnabat2chobi.net#113-%DA%A9%D8%A7%D9%86%D9%81%DB%8C
+vless://49b8ce15-60c9-4ad4-85b8-3c6841ed6c19@79.127.70.121:2087?encryption=none&type=tcp&host=www.%40FergalVpnMod.net&security=none&headerType=http&alpn=h3%2Ch2&fp=chrome&sni=www.%40FergalVpnMod.net#114-%40NETMelliAnti
+vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C10-50&sni=pAgES.DEV#115-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?encryption=none&type=ws&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.#116-%40realvpnmaster
+vless://5a3ffd43-846c-43d2-b536-f9ca9a1f8a4d@92.223.124.62:80?encryption=none&type=httpupgrade&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&host=bng.org&security=none&alpn=h3%2Ch2&fp=chrome&sni=bng.org#117-t.me%2FentryNET
+vless://6a7dbc8e-708a-47a6-a514-ad0030f800cb@tk.mobicall.ir:13722?encryption=none&type=tcp&path=%2Fbot_telgram%3A%40vpn_landbot&host=Zula.ir&security=none&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=Zula.ir#118-t.me%2FVPN_LAND_OFFICIAL
+vless://6433ebb4-bdf0-4173-839f-1a426b83cb65@www.speedtest.net:2096?encryption=none&type=ws&path=%2FVmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol%3Fed%3D1024&host=cc.vmessprotocol.ggff.net&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=cc.vmessprotocol.ggff.net#119-%40vmessprotocol%20%D9%85%D9%86%D8%A8%D8%B9%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%F0%9F%8F%96%EF%B8%8F
+vless://694f4e1e-5768-4065-a9be-5f3945c6b4c4@151.101.2.216:80?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=none&alpn=h2&fp=chrome&sni=barkatc1.ir#120-%40V2ray1_Ng%2BALL
+vless://5d0ba2f0-be35-403d-8cb5-460b38b3384f@hajlab.ucdavis.edu:80?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM#121-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=NGINX-H.pages.DEV&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=NGINX-H.pages.DEV#122-%40DRA_NET-All%2BNets-9
+vless://32f09b70-d2f7-11ee-abda-00505603e70d@104.26.10.137:443?encryption=none&type=ws&path=%2Fwebsocket&host=st-gb-1.brocdn.com&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=st-gb-1.brocdn.com#123-%40meli_proxyy
+vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?encryption=none&type=ws&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#124-%40V2ray1_Ng
+vless://335eed6c-5db8-49f4-a23c-1831c9333d74@www.speedtest.net:80?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net#125-Ws%20-%20%40Vpnmasi-6bfp427o
+vless://6bbdc884-fbc1-41e1-858b-c007fe306812@setup2.bestprime2.top:20125?encryption=none&type=grpc&security=none&mode=gun&alpn=h2&fp=randomized&sni=setup2.bestprime2.top#126-configkade%F0%9F%91%89%40proxystore11
+vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.103:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=cmli.ali.f5.si&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=cmli.ali.f5.si#127-%40Vpn_Tehran%2B%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%2B%D8%AF%D8%B1%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@analytics-cn.elephant-tech.xyz.:8880?encryption=none&type=ws&path=%2F%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20JOIN%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20JOIN%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20JOIN%20%40ZEDMODEON%20TEL%C2%A0%20%40ZEDMODEON%20%40ZeV2ray&host=xn---qhnayawi--d-vdk4borp32aj02aoha8dw0a0a1c46444eckia.xn--48jyb6eya.tech.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=xn---qhnayawi--d-vdk4borp32aj02aoha8dw0a0a1c46444eckia.xn--48jyb6eya.tech.#128-%40Proxy_n1
+vless://4cab3073-5346-42bb-9dd4-4dc516e7e266@redd.it:443?encryption=none&type=ws&path=%2Ftelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%3Fed%3D2048&host=khamenei.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=redd.it#129-%40EXPRESSVPN_420%20%F0%9F%87%A9%F0%9F%87%AA%20TlS-4
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?encryption=none&type=ws&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&host=alecruiz.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=alecruiz.pages.dev#130-%E6%9C%AA%E7%9F%A5_102313070
