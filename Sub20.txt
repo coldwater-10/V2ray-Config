@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
@@ -592,14 +603,3 @@ vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?encryption=none&t
 vless://c8cb53c0-2bbf-4e8a-b339-1e4abb688f21@104.19.30.208:443?encryption=none&type=ws&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#182-%F0%9F%87%BA%F0%9F%87%B8US_49_%40Surfboardv2ray
 vless://ada314a3-8e52-49d0-8423-6319a7da2664@151.101.66.133:443?encryption=none&type=ws&host=UNLIMITEDDEV.zr.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=live.wkrq.com#183-%F0%9F%87%BA%F0%9F%87%B8US_44_%40Surfboardv2ray
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?encryption=none&type=ws&path=%2F%3Fed%3D8080&host=download-93w.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=pages.dev#184-%F0%9F%87%A8%F0%9F%87%A6CA_12_%40Surfboardv2ray
-vless://d6ec4a5b-3e01-4688-a40b-e8c714f4b461@Zmaoz.Faculty.Ucdavis.Edu:443?encryption=none&type=ws&path=%2F%40custom_config%3Fed%3D2560&host=downloadlynet.ir.&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=Zmaoz.Faculty.Ucdavis.Edu#185-%F0%9F%87%BA%F0%9F%87%B8US_54_%40Surfboardv2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=ls.ylks01.eu.org#186-%F0%9F%87%BA%F0%9F%87%B8US_39_%40Surfboardv2ray
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?encryption=none&type=ws&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&host=mIDsuMMer-bpb.PAgEs.DeV&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=midsUMmER-Bpb.pAgES.DEV#187-%F0%9F%87%A8%F0%9F%87%A6CA_47_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODgt8J+HqPCfh6ZDQV80X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6InAudmFsa2luaW4ub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwLnZhbGtpbmluLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJob3N0IjoicC52YWxraW5pbi5vcmciLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODkt8J+HqPCfh6ZDQV8xX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xMzEuMTA4IiwicG9ydCI6NDQzLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnbHdlaWRmLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoiZ2x3ZWlkZi5jZmQiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
-vless://513db028-d7d1-487d-db5c-6d93bdb744d0@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fed%3D2048&host=chde.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#190-%F0%9F%87%BA%F0%9F%87%B8US_17_%40Surfboardv2ray
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?encryption=none&type=ws&path=%2F%3Fed%3D8080&host=download-93w.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=pages.dev#191-%F0%9F%87%BA%F0%9F%87%B8US_13_%40Surfboardv2ray
-vless://03623097-928a-4680-9aee-6a3b4ff88996@172.66.47.169:443?encryption=none&type=ws&path=%2F1iY8b6FB0mAmfsTk%3Fed%3D2560&host=Channel-ELiV2RaY.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C10-20&sni=CHANnEL-ELiV2RaY.pAgEs.dEV#192-%F0%9F%87%A8%F0%9F%87%A6CA_5_%40Surfboardv2ray
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?encryption=none&type=ws&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&host=mIDsuMMer-bpb.PAgEs.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=midsUMmER-Bpb.pAgES.DEV#193-%F0%9F%87%A8%F0%9F%87%A6CA_48_%40Surfboardv2ray
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?encryption=none&type=ws&path=%2F%3Fed%3D8080&host=download-93w.pages.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=pages.dev#194-%F0%9F%87%A8%F0%9F%87%A6CA_11_%40Surfboardv2ray
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?encryption=none&type=ws&path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&host=5c53ca21.vpn-aryoo.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=5c53ca21.vpn-aryoo.pages.dev#195-%F0%9F%87%BA%F0%9F%87%B8US_43_%40Surfboardv2ray
