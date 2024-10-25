@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
 			"id" : "DE9E32FF31B704BF98967202DE78D00D",
 			"server" : "nk6.boom.skin",
 			"server_port" : 16000,
@@ -603,3 +587,19 @@ vless://b7dc61b1-5ff2-429b-a02e-08f178bc5eeb@hajlab.ucdavis.edu:80?encryption=no
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@172.67.2.238:8880?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=late-tooth.granzinhannah.workers.dev&security=none&alpn=h3%2Ch2&fp=android&sni=late-tooth.granzinhannah.workers.dev#132-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NONE%204%E2%83%A3
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTMzLfCfj4FSRUxBWS0yMDMuMzAuMTkxLjUtMjIzNCIsImFkZCI6IjIwMy4zMC4xOTEuNSIsInBvcnQiOjQ0MywiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM0LfCfj4FSRUxBWS0xNzIuNjQuMTY2LjktMjY5MiIsImFkZCI6IjE3Mi42NC4xNjYuOSIsInBvcnQiOjIwODYsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJpcDIuMTQ1NzIzMC54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDIuMTQ1NzIzMC54eXoiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMTM1LfCflJIgVk0tV1MtVExTIPCfj7TigI3imKDvuI8gTkEtMTcyLjY3LjIwNC44NDoyMDk2IiwiYWRkIjoiMTcyLjY3LjIwNC44NCIsInBvcnQiOjIwOTYsImlkIjoiMzBjYWI3NDYtNWNhNS00NmVmLWFhOWItNTM3ZjIwZjZhNDBjIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiJraW5nby5oaWdodGVjaHNlcnZpY2UuaXIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImtpbmdvLmhpZ2h0ZWNoc2VydmljZS5pciIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiYW5kcm9pZCJ9
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.44.105:443?encryption=none&type=ws&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&host=IsaA1.pAGEs.DEV&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=iSaA1.paGes.DEv#136-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.44.105%3A443
+vless://ff4c1e90-fe35-4966-9b05-191777776561@172.66.46.213:443?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=speedtest1.svgspeedtest.net&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=speedtest1.svgspeedtest.net#137-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.46.213%3A443
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.220:2083?encryption=none&type=ws&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&host=mIDsuMMer-bpb.PAgEs.DeV&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=midsUMmER-Bpb.pAgES.DEV#138-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.47.220%3A2083
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM5LfCfh7rwn4e4VVMtNzIuNTIuMTc4LjIzLTE5NDQiLCJhZGQiOiJkZS12LnNzaG1heC54eXoiLCJwb3J0Ijo4MCwiaWQiOiI1NjY4ZmY5Ny02MzFmLTQ2MDItYTEzZi1iNTY1NTJjNjdhYmUiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6ImRlLXYuc3NobWF4Lnh5eiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsImhvc3QiOiJkZS12LnNzaG1heC54eXoiLCJhbHBuIjoiaDIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQwLfCfj4FSRUxBWS0xNzIuNjQuMTAzLjIxMS0yNzU5IiwiYWRkIjoiMTcyLjY0LjEwMy4yMTEiLCJwb3J0Ijo0NDMsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnbHdlaWRmLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoiZ2x3ZWlkZi5jZmQiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.153.235:2053?encryption=none&type=ws&path=%2FyFvXZrnt18tEHj1A%2FMTI5LjE1OS4yNDEuMTcy&host=BpB-v.PaGes.DeV&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=bPb-V.PAgES.dEv#141-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.64.153.235%3A2053
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.16.201.94:2087?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=contactusfromwebvahid.saSSANiDEMPiRe.Com&security=tls&alpn=h2&fp=firefox&fragment=tlshello%2C30-80%2C10-50&sni=contactusfromwebvahid.saSSANiDEMPiRe.Com#142-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.201.94%3A2087
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQzLfCfh6jwn4emQ0EtMTkyLjk5LjguOTktMjI4NiIsImFkZCI6InRjYXMucGFkcmEtaG9sZGluZy5jb20iLCJwb3J0IjozNjAwNSwiaWQiOiIwNWMzODM5OS01Mjk2LTRiZjItYTYwNi0xY2VjM2I3MWM5NDIiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6InRjYXMucGFkcmEtaG9sZGluZy5jb20iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRjYXMucGFkcmEtaG9sZGluZy5jb20iLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ0eXBlIjoiIiwicHMiOiIxNDQt8J+UkiBWTS1XUy1OQSDwn4+04oCN4pig77iPIE5BLTEwNC4yMS42MS4yMTQ6ODA4MCIsImFkZCI6IjEwNC4yMS42MS4yMTQiLCJwb3J0Ijo4MDgwLCJpZCI6IjIyODI2YjQ0LTVjMWEtNGI0Yi1kYmFhLTgzYTJlOGJkOTVmMCIsImFpZCI6MCwidGxzIjoiIiwic25pIjoid3d3LmRhcmtyb29tLmxvbCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoid3d3LmRhcmtyb29tLmxvbCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiZWRnZSJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ1LfCfj4FSRUxBWS0xNzIuNjcuMTM1LjE5NS04MTY1IiwiYWRkIjoiYjJuLmlyIiwicG9ydCI6NDQzLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiYjJuLmlyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczUxMDY4IiwiaG9zdCI6ImIybi5pciIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiaW9zIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ2LfCfh7nwn4e3VFItOTUuMTY0LjM0LjE4NC04MjA4IiwiYWRkIjoiOTUuMTY0LjM0LjE4NCIsInBvcnQiOjgwLCJpZCI6IjNhZjk3NTRlLWYyYTgtNDA2Yy1hOGExLTQ1NTMwNjVlNmRhNCIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwiaG9zdCI6IiIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ3LfCfj4FSRUxBWS0xNzIuNjcuMTU2LjE0MC0yMzQyIiwiYWRkIjoiMTcyLjY3LjE1Ni4xNDAiLCJwb3J0Ijo4NDQzLCJpZCI6ImE2YTM3ZTA0LTVlODEtNDRjOS1iZTUzLWJhYTNmZjQ2ZWI4YiIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiLzhjZGE0OGIzIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiaW9zIn0=
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ4LfCfh7vwn4ezVk4tMTAzLjE3NC43My4xMDItMjM3NCIsImFkZCI6ImhjbTIuc2FmZXBuLm5ldCIsInBvcnQiOjQ0MywiaWQiOiJlZTc2Y2VjZi0xMjE5LTQyYmUtYWUzZi02YjgwNzdlNGNhY2MiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6ImhjbTIuc2FmZXBuLm5ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiaGNtMi5zYWZlcG4ubmV0IiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?encryption=none&type=ws&path=%2FPath%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev#149-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.147.162%3A443
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTUwLfCfj4FSRUxBWS0xMDQuMTcuMjMxLjEyMi0yNjUwIiwiYWRkIjoiY2ZjZG4zLnNhbmZlbmNkbjkuY29tIiwicG9ydCI6ODAsImlkIjoiZGU4YTZmZDUtOWI3Zi00ZjVjLTk4MDAtYjNmZjU5YmMwZDQ0IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJDZndNRUVodmpwMy53emp3a3F5YS54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8vcVRqdkVxaXgiLCJob3N0IjoiQ2Z3TUVFaHZqcDMud3pqd2txeWEueHl6IiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
