@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -603,3 +599,7 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM1LfCfj4FSRUxBWS0xMDQuMjEuMjQuMTcwLTE1MDki
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM2LfCfj4FSRUxBWS02Ni4yMzUuMjAwLjIyLTIzOTgiLCJhZGQiOiI2Ni4yMzUuMjAwLjIyIiwicG9ydCI6NDQzLCJpZCI6IjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwiaG9zdCI6IiIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
 vless://cc9a3194-ebbd-49ab-9da5-002bbb7a7db1@151.101.66.133:80?encryption=none&type=ws&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&host=onlineshoppardis.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=live.skornorth.com#137-%E7%BE%8E%E5%9B%BD_1025131193
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTM4LfCfj4FSRUxBWS0xNzIuNjQuMTY3LjI5LTA2NDAiLCJhZGQiOiIxNzIuNjQuMTY3LjI5IiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6ImlwMTguNjkyOTE5OC54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImlwMTguNjkyOTE5OC54eXoiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImVkZ2UifQ==
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.92:443?encryption=none&type=ws&path=%2Fblue&host=dr.ylks.xyz&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=dr.ylks.xyz#139-%E7%BE%8E%E5%9B%BD_1025131337
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMTQwLfCfh7rwn4e4IOe+juWbvV84MCIsImFkZCI6InNnY2Z0MDEueHFjLmJlc3QiLCJwb3J0Ijo0NDMsImlkIjoiMzI4YzE1NDEtM2Y1Yi00YzMyLTk3NTItZGVjM2Q4NDIyMTRhIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImQxdDRwNjJlbzQyOWZpLmNsb3VkZnJvbnQubmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJkMXQ0cDYyZW80MjlmaS5jbG91ZGZyb250Lm5ldCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiZWRnZSJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQxLfCfj4FSRUxBWS0xNjIuMTU5LjE0MC42Ni0xMDY0IiwiYWRkIjoiMTYyLjE1OS4xNDAuNjYiLCJwb3J0IjoyMDk1LCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiaXAyLjYwMTY3MjUueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJpcDIuNjAxNjcyNS54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImFuZHJvaWQifQ==
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQyLfCfj4FSRUxBWS0xNjIuMTU5LjE0MC45MS0xMDcxIiwiYWRkIjoiMTYyLjE1OS4xNDAuOTEiLCJwb3J0IjoyMDk1LCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiaXAyLjYwMTY3MjUueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJpcDIuNjAxNjcyNS54eXoiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
