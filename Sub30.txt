@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-        <h1 class="title">
-          404
-        </h1>
-        <h2 class="subtitle">
-          Page not found.
-        </h2>
-      </div>
-    </div>
-    <div class="hero-foot">
-      <div class="container"></div>
-    </div>
   </section>
 <main class="section">
     <div class="container">
@@ -76,7 +65,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8d982856b951397a &bull; 2024-10-28 04:24:40 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8d9879f75ecb15d4 &bull; 2024-10-28 05:20:24 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -101,12 +90,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d982856b951397a</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d9879f75ecb15d4</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.223.132</span>
+      <span class="hidden" id="cf-footer-ip">13.83.123.115</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +592,14 @@ vless://9418b7ae-84ad-484b-98e5-d1aeafa24950@104.17.234.114:443?security=tls&sni
 vless://7580afe9-d014-44a3-b500-e6cb6ae2d591@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN---@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN?ed%3D8880&host=Moft_VPN.net&encryption=none#👉🆔
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.42.233:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://9418b7ae-84ad-484b-98e5-d1aeafa24950@162.159.138.178:443?path=%2F%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D8080&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=%55NLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&sni=UNLIMITEDDEV.unlimiteddev-vpn.com#👉🆔
+vless://f86cac86-19f2-4202-8260-1f2447f71b29@www.speedtest.net:8080?path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D8880&security=none&encryption=none&host=shOp.GkalAbar.Ir.&type=ws#👉🆔
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell&sni=adsl.felafel.org#👉🆔
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.79.146:443?path=Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=20fb0424.bpb-worker-panel-1xd.pages.dev&fp=randomized&type=ws&sni=20Fb0424.bpB-wORKer-PAnEl-1xd.pages.deV#👉🆔
+vless://93c99b25-f10c-4187-98e5-41688032d167@EXPRESSVPN_420.fastly80.hosting-ip.com:80?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=Awawawa.net#👉🆔
+vless://93c99b25-f10c-4187-98e5-41688032d167@live.989bull.com:443?security=tls&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=Awawawa.net&sni=live.989bull.com&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔
+vless://93c99b25-f10c-4187-98e5-41688032d167@adroll.com:443?security=tls&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=Awawawa.net&sni=busbud.com&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔
+vless://90fdaaaf-44fb-443a-a666-c5a6fadafddc@adroll.com:443?path=%2F%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ir&fp=firefox&type=ws&sni=adroll.com#👉🆔
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.160.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@aksnmaioas.pages.dev:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#👉🆔
+vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#👉🆔
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@w3.org:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=56897854.pAGES.dEv&fp=randomized&type=ws&sni=56897854.PaGeS.DEv#👉🆔
