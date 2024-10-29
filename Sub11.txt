@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
@@ -603,3 +601,5 @@ vless://084a7d29-d80b-4660-be82-44f2d0ff6fa3@anti_ping.antiping.click:443?encryp
 vless://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=www-domain.hu1.v2vless.sitespeedtest.net&security=none&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=www-domain.hu1.v2vless.sitespeedtest.net#102-WiFi-%40V2ray_Alpha-12
 vless://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?encryption=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=www-domain.hu1.v2vless.sitespeedtest.net&security=none&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=www-domain.hu1.v2vless.sitespeedtest.net#103-%40V2Graphy
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C10-50&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#104-%F0%9F%87%B3%F0%9F%87%B1%2B%40v2ryNG01
+vless://0209e64d-9c96-5f75-a3d0-5b13f8802566@185.146.173.28:80?encryption=none&type=ws&path=%2Fvless&host=De3.vless.site.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=De3.vless.site.#105-%40hopev2ray%F0%9F%96%A4
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.49.50:22222?encryption=none&type=ws&path=%2Ftelegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=telegram-channel-vlessconfig.sohala.uk#106-Telegram%20%40VlessConfig%20%F0%9F%87%A9%F0%9F%87%AA
