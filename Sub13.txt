@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -598,8 +603,3 @@ vless://b882be34-d731-421f-8c8f-f818d475075c@172.67.148.163:443?encryption=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.21:443?encryption=none%40ShadowsocksM68&type=ws&path=%2FH%3Fed%3D2560&host=behdasht.hrtc.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-50&sni=behdasht.hrtc.ir#169-%F0%9F%87%BA%F0%9F%87%B8US_45_%40Surfboardv2ray
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?encryption=none&type=ws&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&host=5c53ca21.vpn-aryoo.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=5c53ca21.vpn-aryoo.pages.dev#170-%F0%9F%87%BA%F0%9F%87%B8US_73_%40Surfboardv2ray
 vless://18671611-26d7-4132-8c0f-8b52e89ccd4e@live.989bull.com:443?encryption=none&type=ws&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&host=Golestanvpn.com&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=live.989bull.com#171-%F0%9F%87%BA%F0%9F%87%B8US_19_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&host=23spt.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C20-50&sni=23sPT.pAGEs.dEV#172-%F0%9F%87%A8%F0%9F%87%A6CA_48_%40Surfboardv2ray
-vless://4dc374d9-66c7-47d2-9e95-e86f96b0525c@104.18.32.47:443?encryption=none&type=ws&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&host=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#173-%F0%9F%87%BA%F0%9F%87%B8US_35_%40Surfboardv2ray
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&type=ws&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&host=iSAA1.paGEs.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=iSaa1.PAGeS.DeV#174-%F0%9F%87%BA%F0%9F%87%B8US_70_%40Surfboardv2ray
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.99:443?encryption=none&type=ws&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&host=freedom-1rj.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=freedom-1rj.pages.dev#175-%F0%9F%87%BA%F0%9F%87%B8US_26_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzYt8J+HuvCfh7hVU18xMF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJobXMyNC5pdmlkZW9zLnNicyIsInBvcnQiOjQ0MywiaWQiOiI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiaXZpZGVvcy5zYnMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6Iml2aWRlb3Muc2JzIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJpb3MifQ==
