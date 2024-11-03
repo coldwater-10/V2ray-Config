@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
 <link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
 <!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
 <link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
@@ -140,7 +139,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8dc99562cf721783 &bull; 2024-11-03 04:22:29 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8dc9e759499506ad &bull; 2024-11-03 05:18:27 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -165,12 +164,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dc99562cf721783</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dc9e759499506ad</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.86.189</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.243</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +602,4 @@ vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTelegram-%
 vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#All-%40V2ray_Alpha-11
 vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=nufilterok.pages.dev&fp=randomized&type=ws&sni=nufilterok.pages.dev#All-%40V2ray_Alpha-12
 vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg97.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg97.pages.dev#All-%40V2ray_Alpha-13♾نامحدود
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#All-%40V2ray_Alpha-02
