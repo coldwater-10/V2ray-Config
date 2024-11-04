@@ -3,46 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
-<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
-<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
-<body>
-<div class="wrapper">
-  <nav class="navbar">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="&#x2F;">
-        <span class="icon is-small">
-          <svg viewBox="0 0 24 24">
-  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
-</svg>
-        </span>
-        <span>paste.gg</span>
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="menu" class="navbar-menu">
-      <div class="navbar-start">
-        <a class="navbar-item" href="&#x2F;">
-          New
-        </a>
-      </div>
-      <div class="navbar-end">
-        <a class="navbar-item" href="&#x2F;about">
-          About
-        </a>
-      
-        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
-            Log in
           </a>
           <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
               Register
@@ -390,7 +350,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8dd53d4f08a99676 &bull; 2024-11-04 14:19:31 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8dd5989aef9b0165 &bull; 2024-11-04 15:21:50 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -415,12 +375,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dd53d4f08a99676</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dd5989aef9b0165</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.234.40.16</span>
+      <span class="hidden" id="cf-footer-ip">20.102.199.100</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +563,43 @@ vless://f2b3219c-215f-4b7e-96d8-25b751d79988@221.164.192.95:50000?path=Telegram%
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@165.154.43.92:35181?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@59.21.83.241:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.227.204.62:12228?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@106.242.64.238:30015?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.182.83.123:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@210.99.119.3:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.85.124.97:30002?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.177.19.87:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.81.13.82:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@115.88.75.154:30032?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.146.200.8:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@59.1.62.95:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.190.128.166:12345?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@175.210.52.92:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@175.212.197.193:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.152.197.93:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@183.109.100.130:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.230.144.97:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@129.154.223.89:15800?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@112.164.28.162:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@59.3.3.161:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@125.141.125.11:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.144.184.196:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@183.100.116.217:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@206.238.236.37:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.158.34.87:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@202.81.237.150:9999?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.184.85.221:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@59.23.75.51:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.219.199.21:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.170.244.214:21307?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@221.151.212.249:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@27.50.49.156:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.159.236.206:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@206.238.236.219:2083?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@183.102.23.76:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.182.55.77:30063?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@175.203.118.178:30005?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.221.20.167:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@175.205.113.47:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@210.99.38.190:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@121.185.50.225:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@220.87.93.137:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
