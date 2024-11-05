@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
 <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
@@ -130,7 +138,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8ddac6c80ce559c2 &bull; 2024-11-05 06:27:10 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8ddb118efb1a6207 &bull; 2024-11-05 07:18:13 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -155,12 +163,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ddac6c80ce559c2</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8ddb118efb1a6207</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.109.38.153</span>
+      <span class="hidden" id="cf-footer-ip">172.183.82.230</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -595,11 +603,3 @@ trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?path=%2Fvless&se
 trojan://23b41d65-d0b2-4a50-f94d-ae187e0bd456@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#IR-%40V2ray_Alpha-11
 trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=king-ae1.pages.dev&type=ws&sni=king-ae1.pages.dev#IR-%40V2ray_Alpha-12
 trojan://eyJhZGQiOiJoa3QyLmJpa2EuaGsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWU4OGExMGItNjU1Yy01MTIwLTg5ZDAtNDA4NjM0MTY5NTYxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDI1MSIsInBzIjoiSVItQFYycmF5X0FscGhhLTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾نامحدود
-trojan://bpb-trojan@185.238.228.6:443?path=%2FtrLb1imnrxPEhfzfwk%3Fed&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#MCI-%40V2ray_Alpha-04
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sara193.ir&type=ws#MCI-%40V2ray_Alpha-05
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.21.3.233:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-06
-trojan://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#MCI-%40V2ray_Alpha-07
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=argodev11222.pages.dev&type=ws&sni=ArGodev11222.PaGes.Dev#MCI-%40V2ray_Alpha-08
-trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=nicorobin.eula.cloudns.org&type=ws&sni=nicorobin.eula.cloudns.org#MCI-%40V2ray_Alpha-09
-trojan://telegram-Afv2Ray@re.iranfastfod.ir:8443?security=reality&encryption=none&pbk=0LI5bDltMLiL2_W9Sl4xp60UGlznmgR-b6TbsKFtKG4&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=96c7#MCI-%40V2ray_Alpha-10
-trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#MCI-%40V2ray_Alpha-11

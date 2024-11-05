@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
@@ -603,3 +590,16 @@ vless://ec5bdeb0-e0dc-4c62-dca9-7999a0275e61@Zmaoz.Faculty.UcdavIS.Edu:443?encry
 vless://c0625679-81ef-4af3-87b5-11d2ef2ee49e@151.101.194.228:443?encryption=none&type=ws&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C30-80%2C20-50&sni=zmaoz.faculty.ucdavis.edu#197-%F0%9F%87%BA%F0%9F%87%B8US_58_%40Surfboardv2ray
 trojan://telegram-id-directvpn@54.224.185.158:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-54.224.185.158-4242
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjRTdpYXhOMGRneXVneFRiOEVxUnFR@3.138.200.105:1093#%F0%9F%87%BA%F0%9F%87%B8US-3.138.200.105-0037
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-3704
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-3861
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjguMzgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI3aHNzLWJ1dHRlcmZseS1kNGMzLmZpamV0ZW00MzIud29ya2Vycy5kZXYiLAogICAgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQvbGlua3dzIiwKICAgICJwb3J0IjogMjA4MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2LjY4LjM4LTAwMjAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI3aHNzLWJ1dHRlcmZseS1kNGMzLmZpamV0ZW00MzIud29ya2Vycy5kZXYiCn0=
+trojan://telegram-id-directvpn@35.182.5.121:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.5.121-4146
+trojan://telegram-id-directvpn@3.14.47.95:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.14.47.95-4520
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-3927
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjE5LjE5NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLAogICAgImlkIjogImIzMjFmZDVkLWU2ZWMtNDI5My1hNjQ0LTE2NGUzODg1ZjUyZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTkuMTk0LTM1MDkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTgzLjIyMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImphaGZramhhLmNmZCIsCiAgICAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE4My4yMjAtMDAwMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImphaGZramhhLmNmZCIKfQ==
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuMS4zMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjMuY2xhcml0eTE2OC5jb20iLAogICAgImlkIjogIjQ4ZjgzN2ZhLTEyZDAtNDk4ZC1iNWY2LTk0Zjk5Nzk3MzZhNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi90ayIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjEuMzItMDcxOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjIwLjgzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluamEwNS5od2Nhci5zYnMiLAogICAgImlkIjogIjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMjAuODMtMzUyNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImxpbmphMDUuaHdjYXIuc2JzIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-3890
+vmess://ewogICAgImFkZCI6ICJkZW5jMzYueHRvb2x0ZWNoLmNmZCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLAogICAgImlkIjogImIzMjFmZDVkLWU2ZWMtNDI5My1hNjQ0LTE2NGUzODg1ZjUyZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yNC4xNzAtMzU0MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-3823
