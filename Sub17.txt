@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "17431:D7BnFuPDyUA",
 			"obfs" : "tls1.2_ticket_auth",
 			"obfsparam" : "f4b6417431.microsoft.com",
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0
 vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDYuMTAzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAzLjY5MjkxOTgueHl6IiwKICAgICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsCiAgICAicG9ydCI6IDIwODIsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xOS40Ni4xMDMtMDA4OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-3965
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#%F0%9F%87%AE%F0%9F%87%B3IN-103.174.86.114-5390
+trojan://telegram-id-privatevpns@52.28.220.124:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-52.28.220.124-4606
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDIuNDkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpcDMuNjkyOTE5OC54eXoiLAogICAgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwKICAgICJwb3J0IjogMjA4MiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjQyLjQ5LTA2NTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
