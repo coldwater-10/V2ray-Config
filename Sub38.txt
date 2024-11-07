@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
       </a>
     </div>
     <div id="menu" class="navbar-menu">
@@ -109,7 +118,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8dea37012edb2c64 &bull; 2024-11-07 03:25:13 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8dea8b1e6cf93932 &bull; 2024-11-07 04:22:39 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -134,12 +143,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dea37012edb2c64</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8dea8b1e6cf93932</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.154.179</span>
+      <span class="hidden" id="cf-footer-ip">20.57.14.25</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -594,12 +603,3 @@ trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#MCI-%40V2ray_Alpha-12
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#MCI-%40V2ray_Alpha-13
 trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#MCI-%40V2ray_Alpha-14♾نامحدود
-trojan://azadnet-trojan@104.21.36.165:443?path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=xn----pmcnaac0dkn0rb71nda.pages.dev&fp=randomized&type=ws&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#All-%40V2ray_Alpha-5
-trojan://auto@185.146.173.158:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=esetsecuritylicense.bwnsmv.workers.dev&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev#All-%40V2ray_Alpha-6
-trojan://auto@104.25.254.4:2087?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#All-%40V2ray_Alpha-7
-trojan://9yu6m5okr@172.67.198.177:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#All-%40V2ray_Alpha-8
-trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?path=trojan-ws%2F%3Fed&security=tls&host=trojan.trojan0.woRkeRS.deV&type=ws&sni=trojan.trojan0.woRkeRS.deV#All-%40V2ray_Alpha-9
-trojan://9yu6m5okr@104.21.50.5:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#All-%40V2ray_Alpha-10
-trojan://bpb-trojan@172.64.150.145:443?path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=mindroom-5cz.pages.dev&fp=chrome&type=ws&sni=mindrOOm-5cz.pAgEs.dEV#All-%40V2ray_Alpha-11
-trojan://auto@172.67.213.48:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=esetsecuritylicense2.wawafec355.workers.dev&fp=randomized&type=ws&sni=esetsecuritylicense2.wawafec355.workers.dev#All-%40V2ray_Alpha-12
-trojan://bpb-trojan@172.66.44.141:2083?path=%2FtrMK2zs2naPJSgJ7Pr%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=fb0887ca.bpb-worker-panel-e3c.pages.dev&fp=randomized&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV#All-%40V2ray_Alpha-13
