@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://auto@172.64.35.135:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A548
-trojan://auto@172.67.21.93:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A549
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#%E6%9C%AA%E7%9F%A550
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.64.148.82:2377#%E6%9C%AA%E7%9F%A551
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTIgMS4zTUIvcyIsImFkZCI6IjQ1LjguMTU4LjMyIiwicG9ydCI6IjMxNjgiLCJpZCI6IjM5OGNlODRlLTQ4NDktNGU1Zi05YjFhLWE1NmZiZTIzM2I4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MiJ9
-trojan://NISHIKUITAN222@34.147.231.33:443?#%E6%9C%AA%E7%9F%A553
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#US16%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUOVZQZXQxZkdoZGI0SlBtVVM2U1M1Uk5aN05TZ0J2UU5GNHJrb1FUZEZoR1d2bUdlZHN6ZmpCVGdlZm1yUVloamh5Qjg2N1A5UnZ5QlFtdEVqTFVlZ201Q055bUhDM2k=@mx2.drawnrisha.one:55988#%E6%9C%AA%E7%9F%A554%201.9MB%2Fs
 trojan://NISHIKUITAN222@188.114.98.76:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
 trojan://b264982e-e333-4085-ac04-406afef23455@naiu-jp.05vr9nyqg5.download:13012?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
@@ -603,3 +596,10 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.161:443?security=tls&sni
 vless://a89b1111-7ee2-4741-b5db-be2e32270ae8@199.232.0.1:443?security=tls&sni=FullHD.4k.ELiV2RaY.ai&type=ws&host=fullhd.4k.eliv2ray.ai&path=%2FVLESS%3Fed%3D2560&fp=edge&allowInsecure=1#🔗 Vauth - 476
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.70:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔗 Vauth - 477
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.199.110:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔗 Vauth - 478
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.245.119.18:1091?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔗 Vauth - 479
+vless://4f2878ed-57c2-4268-b621-2891b0228ee2@62.60.178.195:2053?security=none&type=tcp&host=speedtest.net&headerType=http#🔗 Vauth - 480
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.91:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔗 Vauth - 481
+vless://252edc4d-a758-4749-a389-4ec15d3feedb@92.223.124.62:443?security=tls&sni=gcore.com&type=ws&host=technoi.ai&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔗 Vauth - 482
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.90.210:443?security=tls&sni=lj.ylks.us.kg&type=ws&host=lj.ylks.us.kg&path=%2F%3Fed%3D2560#🔗 Vauth - 483
+vless://182602e4-b3d2-461d-b880-1bf10b7f82de@172.64.33.212:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔗 Vauth - 484
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#🔗 Vauth - 485
