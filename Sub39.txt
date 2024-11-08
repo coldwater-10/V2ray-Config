@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.95.207</span>
+      <span class="hidden" id="cf-footer-ip">172.183.52.201</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -602,4 +603,3 @@ vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FTelegram-
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#All-%40V2ray_Alpha-07
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg105.pages.dev&type=ws&sni=pardazeshvpn-tg105.pages.dev#All-%40V2ray_Alpha-08
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#All-%40V2ray_Alpha-09
-vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ShAh-9aQ.PaGEs.DEV&fp=randomized&type=ws&sni=SHAh-9Aq.PAGes.deV#All-%40V2ray_Alpha-10
