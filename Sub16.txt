@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.62ms
-vless://3857bc00-5792-4fed-b22d-465928712000@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=i-am-melo.com&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸 | speedtest.net-443 | 2.09ms
-vless://3828a536-28ce-4927-dc3e-287c06468c54@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=melofin.ir&fp=firefox&type=ws&sni=speedtest.net#US🇺🇸 | speedtest.net-443 | 2.18ms
-vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@git-scm.com:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 123.53ms
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.159.173:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 118.16ms
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.246:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 217.08ms
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.161:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 109.02ms
@@ -603,3 +599,7 @@ vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com:80?path=/telegram-A
 			"remarks" : "dongtaiwang.com",
 			"id" : "DE9E32FF31B704BF98967202DE78D00D",
 			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
