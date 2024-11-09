@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
+  "gfwListUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
   "availabilityStatistics": false,
   "autoCheckUpdate": false,
   "checkPreRelease": false,
@@ -591,15 +603,3 @@ vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?encryption=none&typ
 vless://74d34dc7-4f6e-4f71-bd8b-74d3f3965cd4@www.parsvds.ir:8080?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&security=none&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net#101-Ws%20-%20%40XvProxy-33c7sc2u
 vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#102-%F0%9F%87%A8%F0%9F%87%B5%20%40kingofilter
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?encryption=none&type=ws&path=%2FTelegram-Xv2ry2%3Fed%3D512&host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.#103-%E2%9A%99%EF%B8%8FConfigV2RayNG
-vless://36b0a46c-8273-4c46-815d-c735f9e4895a@151.101.3.8:80?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&alpn=h2%2Chttp%2F1.1&fp=safari&sni=barkatc1.ir#104-%40mehrosaboran
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.228.143:22222?encryption=none&type=ws&path=%2Ftelegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C10-20&sni=telegram-channel-vlessconfig.sohala.uk#105-Telegram%20%40VlessConfig%20%F0%9F%87%AB%F0%9F%87%B7
-vless://7fd90765-17a9-46bb-ee63-62ce88cc532b@151.101.2.165:80?encryption=none&type=ws&path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&host=XpnTeam.ir&security=none&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=XpnTeam.ir#106-%F0%9F%87%B9%F0%9F%87%B7%2B%7C%2BXpnTeam%2B-%2BFASTSERVERS-r2e86l4bd
-vmess://eyJ0eXBlIjoiaHR0cCIsInBzIjoiMTA3LU1DSS1AVjJyYXlfQWxwaGEtMTQiLCJhZGQiOiIxNDcuNDUuNTEuMTYiLCJwb3J0IjoyMDk4LCJpZCI6IjgzODc2MjIyLTY0YTQtNDkxMi1hYTE4LWI3ZDlkMzQ5NTlkZSIsImFpZCI6IjAiLCJ0bHMiOiIiLCJzbmkiOiJmNDEubWFyeWFtMTUwMC50b3AiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJmNDEubWFyeWFtMTUwMC50b3AiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxMDgtQG1lbGlfcHJveHl52LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsImFkZCI6InZhbGtpbmluLm9yZyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwidGxzIjoidGxzIiwic25pIjoidmFsa2luaW4ub3JnIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsImhvc3QiOiJ2YWxraW5pbi5vcmciLCJhbHBuIjoiaDIiLCJmcCI6ImNocm9tZSJ9
-vless://7714facb-a22d-4302-8fe4-2726b638a426@151.101.3.8:80?encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc2.ir&security=none&alpn=h2%2Chttp%2F1.1&fp=android&sni=barkatc2.ir#109-%40mehrosaboran
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxMTAtV2lGaS1AVjJyYXlfQWxwaGEtMTUiLCJhZGQiOiI0NS44LjE1OC4zMiIsInBvcnQiOjMxNjgsImlkIjoiMzk4Y2U4NGUtNDg0OS00ZTVmLTliMWEtYTU2ZmJlMjMzYjgxIiwiYWlkIjoiMCIsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6IiIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImVkZ2UifQ==
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxMTEtQGRhcmVkZXZpbGxfNDA0IiwiYWRkIjoiMTg1LjE0Ni4xNzMuOTEiLCJwb3J0IjoyMDUyLCJpZCI6IjZlODg0NjVlLWEyYWMtNTdkMy1iYmFmLWY3MmU0NDM5YmQ3NSIsImFpZCI6IjAiLCJ0bHMiOiIiLCJzbmkiOiJEZTEudm1lc3Muc2l0ZS4iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJob3N0IjoiRGUxLnZtZXNzLnNpdGUuIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxMTItTm9jbHMg4p2XIiwiYWRkIjoiMTUxLjEwMS42Ni4yMTkiLCJwb3J0Ijo0NDMsImlkIjoiMmY2MjY1MWYtOGJkMy00YjdkLWQ5YTUtOGUwZTE3NDRjYzlmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnJlZXZwbjIuaXI/ZWQ9MjA0OCIsImhvc3QiOiJmcmVldnBuMi5pciIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vless://fe04082c-3ed6-40fc-ac9e-f11487996e39@LIGHTNING6-joinbed.filj.top:8880?encryption=none&type=ws&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&security=none&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.#113-tm%E2%9A%A1%7C%40lightning6
-vless://25713299-5531-4790-97bd-0bbbf3fba882@104.17.234.114:443?encryption=none&type=ws&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8080&host=UNLIMITEDDEV1.unlimiteddev-vpn.com&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=UNLIMITEDDEV1.unlimiteddev-vpn.com#114-%40vipV2rayNGnp
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=sB-1u6.Pages.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=sB-1u6.Pages.DEV#115-WiFi-%40V2ray_Raha-06
