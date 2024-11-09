@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -592,14 +603,3 @@ vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?encryption=none&t
 vmess://eyJ0eXBlIjoiIiwicHMiOiIxODEt8J+HqPCfh6ZDQV8xNF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxNjIuMTU5LjguMTIwIiwicG9ydCI6NDQzLCJpZCI6IjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwibmV0Ijoid3MiLCJwYXRoIjoiL0xJTktXUyIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
 vmess://eyJ0eXBlIjoiIiwicHMiOiIxODIt8J+HqPCfh6ZDQV8yMF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsInBvcnQiOjQ0MywiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCJhbHBuIjoiaDIiLCJmcCI6ImFuZHJvaWQifQ==
 vmess://eyJ0eXBlIjoiIiwicHMiOiIxODMt8J+HuvCfh7hVU180X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS41NS4yMzQiLCJwb3J0Ijo0NDMsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Imd3ZGVmLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoiZ3dkZWYuc2JzIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODQt8J+HuvCfh7hVU18zNF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxODguMTE0Ljk5LjEzNCIsInBvcnQiOjQ0MywiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImFscG4iOiJoMiIsImZwIjoiaW9zIn0=
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?encryption=none&type=ws&path=%2FTelegram-Xv2ry2-7%3Fed%3D512&host=1v-2wk.pages.dev&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C10-20&sni=Pages.dev#185-%F0%9F%87%BA%F0%9F%87%B8US_75_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODYt8J+HuvCfh7hVU18zX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS40LjYiLCJwb3J0Ijo0NDMsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODct8J+HqPCfh6ZDQV8xN19AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxNzIuNjcuMTU1LjE2OSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwidGxzIjoidGxzIiwic25pIjoiYmUuYW5hdmlyaXRpLmluZm8iLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwiaG9zdCI6ImJlLmFuYXZpcml0aS5pbmZvIiwiYWxwbiI6ImgyIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&host=Falcunargo.net&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=zmaoz.faculty.ucdavis.edu#188-%F0%9F%87%BA%F0%9F%87%B8US_60_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxODkt8J+HuvCfh7hVU18xMV9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxMDQuMjEuOTQuMTY4IiwicG9ydCI6NDQzLCJpZCI6IjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiYWxwbiI6ImgyIiwiZnAiOiJpb3MifQ==
-vless://84712b8f-1902-4fce-8ac0-3389758a412f@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C10-20&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#190-%F0%9F%87%BA%F0%9F%87%B8US_78_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxOTEt8J+HqPCfh6ZDQV81MV9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJkLnNlcmlidXMub3JnIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJkLnNlcmlidXMub3JnIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsImhvc3QiOiJkLnNlcmlidXMub3JnIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJmaXJlZm94In0=
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxOTIt8J+HqPCfh6ZDQV81OF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwicG9ydCI6NDQzLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
-vless://08aebf01-9960-4679-a6b2-cd2f1f90caab@live.skornorth.com:443?encryption=none&type=ws&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2560&host=Join_Evay_vpn.ir&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=live.skornorth.com#193-%F0%9F%87%BA%F0%9F%87%B8US_62_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxOTQt8J+HuvCfh7hVU18yX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS4xNS4zNiIsInBvcnQiOjQ0MywiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
