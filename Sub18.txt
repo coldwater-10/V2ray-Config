@@ -3,29 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
@@ -603,3 +580,26 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTY5LfCfj4FSRUxBWS0xNzIuNjQuMTY2LjE2LTEwOTUi
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?encryption=none&type=ws&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&host=pardazeshvpn-tg105.pages.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=pardazeshvpn-tg105.pages.dev#170-%F0%9F%87%BA%F0%9F%87%B8US_65_%40Surfboardv2ray
 vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzEt8J+HqPCfh6ZDQV81X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6ImdpdC5iYXJ0c21lZGluZy5ubCIsInBvcnQiOjQ0MywiaWQiOiI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoieWVsYW4ubGFzdHJvbmluLmNsb3VkbnMub3JnIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsvaG1zMDIuZnhpYW9taS5zYnMiLCJob3N0IjoieWVsYW4ubGFzdHJvbmluLmNsb3VkbnMub3JnIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJpb3MifQ==
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?encryption=none&type=ws&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%2F%3Fed%3D2560&host=ShAh-9aQ.PaGEs.DEV&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=SHAh-9Aq.PAGes.deV#172-%F0%9F%87%A8%F0%9F%87%A6CA_9_%40Surfboardv2ray
+vless://c33fac82-baf0-4b78-bd4b-7a44ae3219c5@www.speedtest.net:443?encryption=none&type=ws&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&host=bia-daily-configs.pages.dev&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=bIa-dAily-confIgs.paGeS.Dev#173-%F0%9F%87%BA%F0%9F%87%B8US_57_%40Surfboardv2ray
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=cfpage-39t.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=cfpage-39t.pages.dev#174-%F0%9F%87%A8%F0%9F%87%A6CA_52_%40Surfboardv2ray
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mahdiv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=mahdiv2.pages.dev#175-%F0%9F%87%BA%F0%9F%87%B8US_7_%40Surfboardv2ray
+vless://f6a6c35b-20d4-464f-b416-4ba311c4fda7@104.18.32.47:443?encryption=none&type=ws&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&host=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C10-20%2C20-50&sni=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#176-%F0%9F%87%BA%F0%9F%87%B8US_68_%40Surfboardv2ray
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=Noshteri.hooplnqpb.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=Noshteri.hooplnqpb.ir#177-%F0%9F%87%BA%F0%9F%87%B8US_21_%40Surfboardv2ray
+vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazesh18.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C20-50&sni=pardazesh18.pages.dev#178-%F0%9F%87%A8%F0%9F%87%A6CA_14_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzkt8J+HuvCfh7hVU18zX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6ImFuLmFuYXZpcml0aS5pbmZvIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhbi5hbmF2aXJpdGkuaW5mbyIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJob3N0IjoiYW4uYW5hdmlyaXRpLmluZm8iLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImlvcyJ9
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=cfpage-39t.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=cfpage-39t.pages.dev#180-%F0%9F%87%A8%F0%9F%87%A6CA_51_%40Surfboardv2ray
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?encryption=none&type=ws&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&host=azaDNEt-sEMEJ.PageS.Dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-50&sni=AzADnet-semEj.PAGes.dEv#181-%F0%9F%87%A8%F0%9F%87%A6CA_66_%40Surfboardv2ray
+vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?encryption=none&type=ws&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&host=pardazeshvpn-tg104.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=pardazeshvpn-tg104.pages.dev#182-%F0%9F%87%A8%F0%9F%87%A6CA_18_%40Surfboardv2ray
+vless://3a0dface-b8e9-4028-a1e1-29780f369667@live.989bull.com:443?encryption=none&type=ws&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&host=Golestanvpn.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=live.989bull.com#183-%F0%9F%87%BA%F0%9F%87%B8US_17_%40Surfboardv2ray
+vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazesh18.pages.dev&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-20%2C10-20&sni=pardazesh18.pages.dev#184-%F0%9F%87%A8%F0%9F%87%A6CA_15_%40Surfboardv2ray
+vless://08a07fca-27c1-46f5-85dc-6c9043588836@172.66.44.244:443?encryption=none&type=ws&path=%2FTelegram-------%40PROXY_MTM-_-_-_-Telegram-------%40PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM%2F%3Fed%3D2048&host=pardazeshvpn-tg110.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C30-80%2C10-20&sni=pardazeshvpn-tg110.pages.dev#185-%F0%9F%87%A8%F0%9F%87%A6CA_6_%40Surfboardv2ray
+vless://c33fac82-baf0-4b78-bd4b-7a44ae3219c5@172.66.44.110:443?encryption=none&type=ws&path=%2FTELEGRAM-Daily_Configs%3Fed%3D8080&host=bia-daily-configs.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=BIa-Daily-coNfIGS.pagEs.dEv#186-%F0%9F%87%A8%F0%9F%87%A6CA_54_%40Surfboardv2ray
+vless://1ae70a18-c028-4e83-b199-858b5b89c5fc@104.18.124.193:443?encryption=none&type=ws&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#187-%F0%9F%87%BA%F0%9F%87%B8US_12_%40Surfboardv2ray
+vless://1ca7e43f-a737-4667-948e-67c2059f82e9@104.26.15.16:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=falcunargo.f0e7dc3bfe.workers.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C20-50&sni=falcunargo.f0e7dc3bfe.workers.Dev#188-%F0%9F%87%BA%F0%9F%87%B8US_13_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?encryption=none&type=ws&path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#189-%F0%9F%87%A8%F0%9F%87%A6CA_33_%40Surfboardv2ray
+vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazesh18.pages.dev&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C10-50&sni=pardazesh18.pages.dev#190-%F0%9F%87%A8%F0%9F%87%A6CA_16_%40Surfboardv2ray
+vless://c33fac82-baf0-4b78-bd4b-7a44ae3219c5@172.66.47.146:443?encryption=none&type=ws&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&host=bia-daily-configs.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=bIa-daILy-CoNFigS.PAgEs.DEV#191-%F0%9F%87%A8%F0%9F%87%A6CA_55_%40Surfboardv2ray
+vless://50311a68-6be4-4bfa-91ef-8d80d3c38239@151.101.38.133:443?encryption=none&type=ws&host=Unique98.com&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=mio.splashthat.com#192-%F0%9F%87%B3%F0%9F%87%B1NL_22_%40Surfboardv2ray
+vless://c2891968-a859-474f-8a31-7c8b3cd3f567@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2560&host=Join_Evay_vpn.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=hajlab.ucdavis.edu#193-%F0%9F%87%BA%F0%9F%87%B8US_53_%40Surfboardv2ray
+vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C50-100%2C10-20&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#194-%F0%9F%87%BA%F0%9F%87%B8US_59_%40Surfboardv2ray
+vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk2LjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjExNC45Ni4yLTAxNDUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
