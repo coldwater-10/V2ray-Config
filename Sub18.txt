@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
 			"udp_over_tcp" : false
 		},
 		{
@@ -603,3 +598,8 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2096?encryption=none&typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.202.76:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=lw.kpcloud.eu.org#157-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.202.76%3A443
 vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@104.18.53.172:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#158-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.53.172%3A443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.31.9:587?encryption=none&type=ws&path=%2F%3Fed%3D2560fp%3Dchrome&host=vless.ifx.us.kg&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=vless.ifx.us.kg#159-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.105.31.9%3A587
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.183:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=ld.ylks.us.kg&security=tls&alpn=h2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=ld.ylks.us.kg#160-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-198.62.62.183%3A443
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@188.114.97.2:2096?encryption=none&type=ws&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=1223-9ux.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=1223-9ux.pages.dev#161-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.2%3A2096
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?encryption=none%40ShadowsocksM8&type=ws&path=%2FH%3Fed%3D2560&host=mefa.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-20&sni=mefa.ir#162-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.232.5.60%3A443
+vless://db0c0df4-be29-40ec-9637-da40f6a66778@162.159.136.63:443?encryption=none&type=ws&path=%2F&host=freee.v2ray.com.br&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=freee.v2ray.com.br#163-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.136.63%3A443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.71:443?encryption=none&type=ws&path=%2Fblue&host=ln.ylks01.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=ln.ylks01.eu.org#164-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.98.71%3A443
