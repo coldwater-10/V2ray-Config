@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
         </span>
         <span>paste.gg</span>
       </a>
@@ -116,7 +121,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e1bfbb36d43093a &bull; 2024-11-13 04:22:52 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e1c4e855c7cfab6 &bull; 2024-11-13 05:19:25 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -141,12 +146,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e1bfbb36d43093a</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e1c4e855c7cfab6</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.46.124</span>
+      <span class="hidden" id="cf-footer-ip">52.159.137.224</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -598,8 +603,3 @@ trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&alpn=http/1.1&he
 trojan://auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560..@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841].@BugFreeNet[@AB_841]&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#👉🆔
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#WiFi-%40V2ray_Alpha-02
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sara193.ir&type=ws#WiFi-%40V2ray_Alpha-03
-vless://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-04
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=79193c43.aryoovpn-5fr.pages.dev&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev#WiFi-%40V2ray_Alpha-05
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#WiFi-%40V2ray_Alpha-06
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.249:2096?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#WiFi-%40V2ray_Alpha-07
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.18:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=nicorobin.eula.cloudns.org&type=ws&sni=nicorobin.eula.cloudns.org#WiFi-%40V2ray_Alpha-08
