@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  <script
+    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
   defer
   src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
   integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
@@ -402,7 +419,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e285b1b1e485710 &bull; 2024-11-14 16:25:09 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e28a8dc5896dee1 &bull; 2024-11-14 17:18:15 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -427,12 +444,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e285b1b1e485710</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e28a8dc5896dee1</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.55.47.63</span>
+      <span class="hidden" id="cf-footer-ip">20.172.28.131</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -586,20 +603,3 @@ vless://f2b3219c-215f-4b7e-96d8-25b751d79988@120.232.218.32:12330?path=Telegram%
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@43.199.77.155:4444?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@141.11.139.211:8443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@210.61.97.241:81?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@114.34.202.224:10004?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@120.232.218.36:12330?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@103.27.186.179:10004?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@38.147.189.48:8013?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@152.32.168.5:8081?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@118.163.37.32:81?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%A8%F0%9F%87%B3TW_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@188.64.108.9:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@158.178.238.239:2053?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@18.162.156.23:12355?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@185.214.103.210:29862?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.111.247.253:587?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@210.87.195.160:587?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@20.41.104.196:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.144.184.196:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@221.164.192.95:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@106.242.64.238:30015?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.217.223.187:50000?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&type=ws&sni=edgetunnel.xiaomayi.nyc.mn#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
