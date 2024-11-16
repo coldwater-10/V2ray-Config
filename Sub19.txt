@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://11e0a4c8-6764-42f4-8723-6450804355e2@104.17.250.75:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#RELAY🚩 | bia-to-channel4.unlimiteddev.shop-80 | 2.6ms
-vless://0fdc0235-0055-4203-a66f-f29e7e663d10@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus3.pages.dev&fp=randomized&type=ws&sni=tnetplus3.pages.dev#RELAY🚩 | tnetplus3.pages.dev-2096 | 20.23ms
-vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@66.235.200.91:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+11#US🇺🇸 | 66.235.200.91-8080 | 2.6ms
-vless://0be5f51e-498c-4d91-890b-bc3f047fab52@ip.irino.sbs:2083?path=%2Fvless&security=tls&encryption=none&host=fr1.vless.site&type=ws&sni=fr1.vless.site#CY🇨🇾 | fr1.vless.site-2083 | 108.93ms
 vless://0b0dc717-c040-44cd-9d43-cf5775bf86f9@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#AT🇦🇹 | splUs.Ir.DigIcYBer.CLIck.-8880 | 150.86ms
 vless://05e4c207-f43e-4ccd-a3d7-7b2cd2e99c9b@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#RELAY🚩 | join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za-443 | 2.86ms
 vless://032f6acf-d1e0-4f95-bdaa-e913977f93e8@ficbook.net:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 119.19ms
@@ -603,3 +599,7 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni
 			"server" : "aiavnd1.vip.conectinnode.info",
 			"server_port" : 1611,
 			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",

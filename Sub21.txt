@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-3451
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-3778
-vmess://ewogICAgImFkZCI6ICJhbi5rYWxhdnJ5dGEub3JnIiwKICAgICJhaWQiOiAxLAogICAgImhvc3QiOiAiYW4ua2FsYXZyeXRhLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjg2Ljk5LTAwODciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.115.255.151:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.255.151-3736
 trojan://telegram-id-privatevpns@34.250.198.44:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.250.198.44-4263
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-3678
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-3370
@@ -603,3 +599,7 @@ vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?type=grpc&service
 vless://SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&type=httpupgrade#🔗 Vauth - 228
 vless://28c27cde-5cf8-4cdb-af94-f773b0263729@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#🔗 Vauth - 229
 vless://aacbbca-baca-abac-adcb-bacccaababcb@127.0.0.1:1080?security=tls&type=tcp#🔗 Vauth - 230
+vless://ac3b0485-bf26-445f-8ffb-ce2e55cb8d7b@209.141.59.194:62222?security=reality&sni=www.python.org&type=tcp&fp=chrome&pbk=p_vdjNaaGBmYTsoQUGMD4yQ_NZQphwWqNc3_PoXAOFc&sid=a1dbc8a1#🔗 Vauth - 231
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2,http/1.1#🔗 Vauth - 232
+vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?security=reality&sni=dalfak.com&type=http&path=%2F&fp=chrome&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc#🔗 Vauth - 233
+vless://b1a441f5-ee43-4903-ab2e-a80c0d1a71eb@188.245.125.135:8443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&pbk=f9yPFWY54wzWAvcPgsg8KqW1wvKhWbHHiP9pQzpD5mM&sid=9d152a93#🔗 Vauth - 234
