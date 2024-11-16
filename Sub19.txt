@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://01273555-eb93-4398-b5b9-9c7e25e65fd9@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&host=meta1.modinso.ir&type=ws&sni=meta1.modinso.ir#RELAY🚩 | meta1.modinso.ir-443 | 5.83ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:8443?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-8443 | 25.02ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:443?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-443 | 6.05ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2096?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2096 | 5.84ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2053?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2053 | 5.83ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2083?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2083 | 5.85ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2087?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2087 | 5.89ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:80?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-80 | 6.01ms
@@ -603,3 +598,8 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=/if1pdmbi6s
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
