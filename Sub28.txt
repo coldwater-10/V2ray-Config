@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-3414
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%F0%9F%87%AC%F0%9F%87%A7GB-109.120.186.9-4190
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0078
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-3272
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%F0%9F%87%A6%F0%9F%87%B1AL-103.167.234.98-3412
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.58-0038
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqT0p0Z2daNDRDcE1lUU9WRjRHNTFD@77.83.246.74:33320#%F0%9F%87%B5%F0%9F%87%B1PL-77.83.246.74-5001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTDhrZ1JIakZ0cFkzVzhhQnBvcGhU@77.83.246.74:33320#%F0%9F%87%B5%F0%9F%87%B1PL-77.83.246.74-4995
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@80.92.204.106:9005#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-3396
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWTVFMmJvVGJ4QXdYTGNCRlRVSGp4@77.83.246.74:33320#%F0%9F%87%B5%F0%9F%87%B1PL-77.83.246.74-4997
 trojan://telegram-id-privatevpns@13.50.229.219:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.229.219-3518
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#%F0%9F%87%AD%F0%9F%87%BAHU-91.219.237.102-3180
@@ -178,7 +169,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e4e25571a258845 &bull; 2024-11-19 06:29:26 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e4e7069eda22d79 &bull; 2024-11-19 07:20:41 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -203,12 +194,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e4e25571a258845</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e4e7069eda22d79</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.57.14.21</span>
+      <span class="hidden" id="cf-footer-ip">172.183.131.103</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +594,12 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4yMTYuMjkiLCAicG9ydCI6IDQ0MywgImlkIjog
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xMzEuMTciLCAicG9ydCI6IDQ0MywgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
 trojan://bpb-trojan@23.227.60.8:443?path=%2FtrZkJgi4MLAtl7SrU9%3Fed&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#WiFi-%40V2ray_Alpha-8
 trojan://2d722623-3740-4f73-9357-01ad1a25ce27@185.156.108.40:13784?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-9
+trojan://4c942230-2910-4c2d-80eb-f3800c79dc7a@91.107.151.209:58298?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#WiFi-%40V2ray_Alpha-10
+trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#WiFi-%40V2ray_Alpha-11
+trojan://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.hu1.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-12
+trojan://4dcbf542-6f9f-4c87-a96d-fa66e7a03d2b@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.nl2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-13
+trojan://cf43996d-cc45-458e-87ac-c9c933c9ed3e@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-14
+trojan://2fe62d75-af36-4f84-97cb-c0c71691be1b@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi2.v2vless.sitespeedtest.net&type=ws#WiFi-%40V2ray_Alpha-15
+trojan://f1aefe1d-64a7-4252-81b9-34c8221a925f@91.107.240.100:2095?security=reality&encryption=none&pbk=SgzllpJZNbdqv4IXgW-tixaJDu1mK5EZTS6dqrQvnEE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=EMie2V.Gstatic.COM.coiNEX.com.SARBAZIT.COM&sid=8786b7bb#WiFi-%40V2ray_Alpha-16
+trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#WiFi-%40V2ray_Alpha-17
+trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?path=%2F%40Telegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=king-ae1.pages.dev&type=ws&sni=king-ae1.pages.dev#WiFi-%40V2ray_Alpha-18

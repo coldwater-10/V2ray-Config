@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d9e40f24-d668-457d-926f-e4021246749b@185.234.64.35:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 15.52ms
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048#RELAY🚩 | e10c0e4b.oodaeq2.pages.dev-443 | 21.64ms
 vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#RELAY🚩 | Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com-8443 | 5.79ms
 vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#RELAY🚩 | Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com-8443 | 20.12ms
 vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitT.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.67ms
@@ -601,5 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxNzIuNjcuNjQuMTIwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-3414
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%F0%9F%87%AC%F0%9F%87%A7GB-109.120.186.9-4190
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0078
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-3272
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%F0%9F%87%A6%F0%9F%87%B1AL-103.167.234.98-3412
