@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-{
   "version": "4.1.10.0",
   "configs": [
     {
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@vcp3.surfboardv2ray8830.worKerS.DeV
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@vcp3.surfboardv2ray8830.worKerS.DeV:443?encryption=none&type=ws&path=%2Flw.kpcloud.eu.org%3A443%2Fbluesecurity%3Dtls&host=vcp3.surfboardv2ray8830.woRKeRS.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=vcp3.surfboardv2ray8830.woRKeRS.dEv#84-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6_111904013-worker
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiODUt8J+PgVJFTEFZLTEwNC4xOS40OC40Mi04Mzc4LXdvcmtlciIsImFkZCI6InZjcDMuc3VyZmJvYXJkdjJyYXk4ODMwLndvcktlclMuRGVWIiwicG9ydCI6ODQ0MywiaWQiOiIzOTEzNWEzOS1lNmNhLTQzZGYtYTM2MC1kODU5ZWVhNThkODYiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6InZjcDMuc3VyZmJvYXJkdjJyYXk4ODMwLndvUmtFclMuRGVWIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hrMDEubGlua2l0bm93Lm5ldDo4NDQzLyIsImhvc3QiOiJ2Y3AzLnN1cmZib2FyZHYycmF5ODgzMC53b1JrRXJTLkRlViIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@vcp3.surfboardv2ray8830.worKerS.DeV:8443?encryption=none&type=ws&path=%2Fhappy.mianfeicf.lol%3A8443%2F%3Fed%3D2560&host=vcp3.surfboardv2ray8830.woRkErS.dEV&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.surfboardv2ray8830.woRkErS.dEV#86-%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A_111904002-worker
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@vcp3.surfboardv2ray8830.worKerS.DeV:443?encryption=none&type=ws&path=%2Flr.kpcloud.eu.org%3A443%2F%3Fed%3D2048&host=vcp3.surfboardv2ray8830.WoRkeRs.dev&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C20-50&sni=vcp3.surfboardv2ray8830.WoRkeRs.dev#87-CF%E4%B8%AD%E8%BD%AC_1119042684-worker
