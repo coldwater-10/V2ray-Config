@@ -3,6 +3,46 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+                     viewBox="0 0 16 16"
+                  >
+                     <path
+                     d="M15.672,14.2,8.3,1.443a.352.352,0,0,0-.609,0L.328,14.2a.352.352,0,0,0,.3.527H15.368A.352.352,0,0,0,15.672,14.2ZM8.743,12.9a.221.221,0,0,1-.221.221H7.478a.221.221,0,0,1-.221-.221V11.86a.221.221,0,0,1,.221-.221H8.522a.221.221,0,0,1,.221.221Zm-.025-2.422H7.282L7.257,6.005H8.743Z"
+                     />
+                  </svg>
+               </span>
+               <strong>
+                  This website has been temporarily rate limited
+               </strong>
+               </p>
+               <p class="cf-error-description">
+               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
+               </p>
+               
+               <p class="cf-error-description">
+               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
+               </p>
+               
+               
+               <p>
+               <a
+                  href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+               >
+                  Learn more about this issue →
+               </a>
+               </p>
+               
+            </div>
+
+            <div class="cf-error-footer cf-wrapper">
+    <p>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e620917fe147fae</span>
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item">2024-11-21 16:25:24 UTC</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
+        <span class="cf-footer-separator">&bull;</span>
+        Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
         <span class="hidden" id="cf-footer-ip">20.161.78.49</span>
       </span>
@@ -563,43 +603,3 @@ _102_@Surfboardv2ray
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
 	"TTL" : 0,
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
-	"authUser" : "",
-	"authPass" : "",
-	"autoBan" : false,
-	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
-	"nodeFeedAutoUpdate" : true,
-	"serverSubscribes" : [
-
-	],
-	"token" : {
-
-	},
-	"portMap" : {
-
-	}
-}
-vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.81.89.80%3A38923
-vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?encryption=none&security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.3%3A8880
-vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=%2F%3Fed#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40Outline_Vpn%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#%F0%9F%87%B3%F0%9F%87%B1NL-89.19.216.18-2582
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A8090
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.162.200.28%3A3389
-vless://0a6f7794-4dd9-47df-858f-d2ebf666b551@zula.ir:80?encryption=none&security=none&type=ws&host=5260827089.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEF5eGJGaUhXdnE=@139.28.221.242:27393#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%AE%20FI-139.28.221.242%3A27393
-vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A3306
-vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?encryption=none&security=tls&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%207
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B9%20AT-95.164.9.144%3A2927
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySDRVWWtLRGppVjlGYlpNUEU4YzV6@46.226.164.2:16006#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AD%F0%9F%87%B0%20HK-46.226.164.2%3A16006
