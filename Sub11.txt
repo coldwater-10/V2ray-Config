@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               max-width: 600px;
+            }
+      </style>
+   </head>
+   <body>
       <div id="cf-wrapper">
          <div
             id="cookie-alert"
@@ -598,8 +603,3 @@ vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=/?ed=2560&sec
             <div class="cf-error-footer cf-wrapper">
     <p>
       <span class="cf-footer-item">Cloudflare Ray ID: 8e6364787f4bce90</span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-21 20:22:33 UTC</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
-        <span class="cf-footer-separator">&bull;</span>
-        Your IP:

@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               </p>
+               
+               
+               <p>
+               <a
                   href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -598,8 +603,3 @@ vless://be375f30-0249-4d44-b77b-4dccc4892c09@hajlab.ucdavis.edu:443?path=/@Shh_P
 <style>body{margin:0;padding:0}</style>
 
 
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');

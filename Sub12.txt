@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item">2024-11-21 20:22:33 UTC</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
+        <span class="cf-footer-separator">&bull;</span>
+        Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
         <span class="hidden" id="cf-footer-ip">52.159.137.12</span>
       </span>
@@ -598,8 +603,3 @@ vless://2e9a0784-86fc-4e1b-861f-5dd6430cfdce@zula.ir:443?path=/TELEGRAM-MARAMBAS
                padding: 0;
             }
 
-            #cf-wrapper {
-               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-                  "Segoe UI Symbol" !important;
-            }

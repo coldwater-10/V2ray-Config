@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      <style type="text/css">
+            body {
+               margin: 0;
+               padding: 0;
+            }
 
             #cf-wrapper {
                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -598,8 +603,3 @@ vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&sec
                <p>
                <a
                   href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
-                  target="_blank"
-                  rel="noopener noreferrer"
-               >
-                  Learn more about this issue →
-               </a>

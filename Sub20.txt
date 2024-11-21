@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               <p class="cf-error-description">
+               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
+               </p>
+               
+               <p class="cf-error-description">
                If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
                </p>
                
@@ -598,8 +603,3 @@ vless://e446048f-725e-5d74-8c38-6e7f7b5dbfc9@104.18.165.39:80?path=/Telegram-VPN
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-

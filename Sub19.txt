@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
       cookieEl.style.display = 'block';
     })
   }
@@ -598,8 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.12:8000?path=/?ed=2560&se
                   This website has been temporarily rate limited
                </strong>
                </p>
-               <p class="cf-error-description">
-               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
-               </p>
-               
-               <p class="cf-error-description">
