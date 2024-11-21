@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      <style type="text/css">
-            body {
-               margin: 0;
-               padding: 0;
-            }
-
-            #cf-wrapper {
-               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-                  "Segoe UI Symbol" !important;
-            }
-            .cf-error-description {
-               max-width: 600px;
-            }
-      </style>
-   </head>
-   <body>
       <div id="cf-wrapper">
          <div
             id="cookie-alert"
@@ -603,3 +586,20 @@ vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080?encryption=none
                <p>
                <a
                   href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+               >
+                  Learn more about this issue →
+               </a>
+               </p>
+               
+            </div>
+
+            <div class="cf-error-footer cf-wrapper">
+    <p>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e6208fd8c4ac987</span>
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item">2024-11-21 16:25:20 UTC</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
+        <span class="cf-footer-separator">&bull;</span>
+        Your IP:

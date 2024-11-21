@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-                  </svg>
-               </span>
-               <strong>
-                  This website has been temporarily rate limited
-               </strong>
-               </p>
-               <p class="cf-error-description">
-               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
-               </p>
-               
-               <p class="cf-error-description">
-               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
-               </p>
-               
-               
-               <p>
-               <a
                   href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -603,3 +586,20 @@ vless://7c2ba149-2827-4e07-b82a-61b74b76d68b@165.22.54.50:8889?security=reality&
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="en-US">
    <!--<![endif]-->
+   <head>
+      <title>This website has been temporarily rate limited | ip-api.colaho6124.workers.dev | Cloudflare</title>
+      <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');

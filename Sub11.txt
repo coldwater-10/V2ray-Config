@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-               max-width: 600px;
-            }
-      </style>
-   </head>
-   <body>
-      <div id="cf-wrapper">
-         <div
-            id="cookie-alert"
-            class="cf-alert cf-alert-error cf-cookie-error"
-            data-translate="enable_cookies"
-         >
-            Please enable cookies.
-         </div>
-         <div id="cf-error-details" class="cf-error-details-wrapper">
-            <div class="cf-wrapper cf-header cf-error-overview">
-               <h1>
-               <span class="cf-error-type" data-translate="please check back later"
                   >Please check back later</span
                >
                </h1>
@@ -603,3 +586,20 @@ vless://0399af93-ed7e-4717-ba12-aa1f4e45a5c6@104.20.195.223:2087?encryption=none
             <div class="cf-error-footer cf-wrapper">
     <p>
       <span class="cf-footer-item">Cloudflare Ray ID: 8e6208f86c4ed647</span>
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item">2024-11-21 16:25:19 UTC</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
+        <span class="cf-footer-separator">&bull;</span>
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">20.161.78.49</span>
+      </span>
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+         </div>
+      </div>

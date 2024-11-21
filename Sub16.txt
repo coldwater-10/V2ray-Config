@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-                  target="_blank"
-                  rel="noopener noreferrer"
-               >
-                  Learn more about this issue →
-               </a>
-               </p>
-               
-            </div>
-
-            <div class="cf-error-footer cf-wrapper">
-    <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e6208fd8c4ac987</span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-21 16:25:20 UTC</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
-        <span class="cf-footer-separator">&bull;</span>
-        Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
         <span class="hidden" id="cf-footer-ip">20.161.78.49</span>
       </span>
@@ -603,3 +586,20 @@ vless://2e9a0784-86fc-4e1b-861f-5dd6430cfdce@104.21.69.44:443?encryption=none&se
     window.addEventListener('DOMContentLoaded', function () {
       var cookieEl = document.getElementById('cookie-alert');
       cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+      <style type="text/css">
+            body {
+               margin: 0;
+               padding: 0;
+            }
+
+            #cf-wrapper {
+               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+                  "Segoe UI Symbol" !important;
+            }

@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-      <style type="text/css">
-            body {
-               margin: 0;
-               padding: 0;
-            }
 
             #cf-wrapper {
                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -603,3 +586,20 @@ vless://47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80?encryption=none&secu
                   This website has been temporarily rate limited
                </strong>
                </p>
+               <p class="cf-error-description">
+               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
+               </p>
+               
+               <p class="cf-error-description">
+               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
+               </p>
+               
+               
+               <p>
+               <a
+                  href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+               >
+                  Learn more about this issue →
+               </a>
