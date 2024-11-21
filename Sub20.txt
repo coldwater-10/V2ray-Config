@@ -3,6 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
+               </p>
+               
+               
+               <p>
+               <a
+                  href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+               >
+                  Learn more about this issue →
+               </a>
+               </p>
+               
+            </div>
+
+            <div class="cf-error-footer cf-wrapper">
+    <p>
+      <span class="cf-footer-item">Cloudflare Ray ID: 8e6364817a9a67a3</span>
+      <span class="cf-footer-separator">&bull;</span>
+      <span class="cf-footer-item">2024-11-21 20:22:34 UTC</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
+        <span class="cf-footer-separator">&bull;</span>
+        Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
         <span class="hidden" id="cf-footer-ip">52.159.137.12</span>
       </span>
@@ -579,27 +603,3 @@ vless://e446048f-725e-5d74-8c38-6e7f7b5dbfc9@104.18.165.39:80?path=/Telegram-VPN
 <!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
 <style>body{margin:0;padding:0}</style>
 
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-      <style type="text/css">
-            body {
-               margin: 0;
-               padding: 0;
-            }
-
-            #cf-wrapper {
-               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-                  "Segoe UI Symbol" !important;
-            }

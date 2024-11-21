@@ -3,6 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+            .cf-error-description {
+               max-width: 600px;
+            }
+      </style>
+   </head>
+   <body>
+      <div id="cf-wrapper">
+         <div
+            id="cookie-alert"
+            class="cf-alert cf-alert-error cf-cookie-error"
+            data-translate="enable_cookies"
+         >
+            Please enable cookies.
+         </div>
+         <div id="cf-error-details" class="cf-error-details-wrapper">
+            <div class="cf-wrapper cf-header cf-error-overview">
+               <h1>
+               <span class="cf-error-type" data-translate="please check back later"
+                  >Please check back later</span
+               >
+               </h1>
+               <h2 class="cf-subheadline">Error 1027</h2>
+            </div>
+
             <div class="cf-section cf-wrapper">
                <p>
                <span style="width:16px; display:inline-block; vertical-align:text-top">
@@ -579,27 +603,3 @@ vless://43f8f2c7-59fd-4ab4-b7dd-c52f0f0da18f@104.18.35.86:443?path=/bmvpiqrOHtbF
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 8e63647b8d476441</span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2024-11-21 20:22:33 UTC</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
-        <span class="cf-footer-separator">&bull;</span>
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.159.137.12</span>
-      </span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-         </div>
-      </div>
-
-      <script>
-  window._cf_translation = {};
-  
-  
-</script>
