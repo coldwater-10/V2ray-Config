@@ -3,28 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
-<link
-  title="light"
-  rel="stylesheet alternate"
-  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
-<script
-  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
-<script
-  defer
-  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
-<script
-  defer
-  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
-<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
-<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
-<meta name="msapplication-TileColor" content="#FFFFFF"/>
 <meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
 <meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
 <meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
@@ -157,7 +135,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e698d1aceaee619 &bull; 2024-11-22 14:18:52 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e69e7dcef8c396a &bull; 2024-11-22 15:20:49 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -182,12 +160,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e698d1aceaee619</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e69e7dcef8c396a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.161.78.234</span>
+      <span class="hidden" id="cf-footer-ip">20.49.55.99</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +581,25 @@ vless://4639cda7-0742-4bcd-ab1e-b7c879c2189c@151.101.2.165:80?path=%2Fv2pedia%3F
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.204:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-04
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-06
 vless://d4861c73-74d0-4d1b-8338-5700239aea99@94.130.186.50:2052?security=reality&encryption=none&pbk=hYzyuL3U0PGH7nKahcS8h0zt392Hwad7ZnCGoyYqHQ0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=030f845d#MCI-%40V2ray_Alpha-07
+vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=ad52706b#MCI-%40V2ray_Alpha-08
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#MCI-%40V2ray_Alpha-09
+vless://b219dd78-3de9-40ba-98dd-a711318882fc@5.182.87.141:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a7c159#MCI-%40V2ray_Alpha-10
+vless://250f6225-c4b1-41f4-90e7-e90aab898ceb@151.101.2.133:443?path=ws%2F%3Fed%3D2048%2FTelegram%40Linkvws&security=tls&encryption=none&host=s4brgbetbngbgf.com&type=ws&sni=Live.skornorth.com#MCI-%40V2ray_Alpha-11
+vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=Falcunargo.net&type=ws&sni=zmaoz.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-12
+vless://eyJhZGQiOiJka3pib2Z6a29wLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGt6Ym9memtvcC5jb20iLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYnFxdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJka3pib2Z6a29wLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImY0MS5tYXJ5YW0xNTAwLnRvcCIsImlkIjoiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5OCIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=♾نامحدود
+vless://17bc17be-8764-4b9f-8c2c-6a5cd190ef01@104.17.148.22:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&type=ws#IR-%40V2ray_Alpha-02
+vless://d859fa25-320f-4af3-8075-9545957f1a62@151.101.3.8:80?path=%2Fspeedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa%3Fed%3D2048&security=none&encryption=none&host=speedfaa.com&type=ws#IR-%40V2ray_Alpha-03
+vless://9f25100d-25e5-4e8b-a684-36f9a194eb35@104.17.148.22:2052?path=%2Fvless&security=none&encryption=none&host=www-domain.uk2.v2vless.sitespeedtest.net&type=ws#IR-%40V2ray_Alpha-04
+vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@141.227.130.193:2000?security=reality&encryption=none&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&headerType=none&fp=qq&type=tcp&sni=chatbot.chronopost.fr&sid=5273fd24#IR-%40V2ray_Alpha-05
+vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@160.22.142.172:2000?security=reality&encryption=none&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&headerType=none&fp=ios&type=tcp&sni=www.huntingdon.edu&sid=5273fd24#IR-%40V2ray_Alpha-06
+vless://336a1cc3-dc1c-4d20-b2cc-618b50dc3f23@91.107.154.43:2083?security=reality&encryption=none&pbk=nS5815rpEsXGTPO9hjUW7KPMg_gkIgSfKHIN-JoLzg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=varzesh3.com&sid=1c5fb555a9609e45#IR-%40V2ray_Alpha-07
+vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&fp=chrome&type=ws&sni=pAgES.DEV#IR-%40V2ray_Alpha-08
+vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=paGES.dEV#IR-%40V2ray_Alpha-09
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.182:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=bPb005.paGes.DEV&type=ws&sni=bPb005.paGes.DEV#IR-%40V2ray_Alpha-10
+vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&security=tls&encryption=none&host=Falcunargo.net&type=ws&sni=zmaoz.faculty.ucdavis.edu#IR-%40V2ray_Alpha-11
+vless://250f6225-c4b1-41f4-90e7-e90aab898ceb@151.101.2.133:443?path=ws%2F%3Fed%3D2048%2FTelegram%40Linkvws&security=tls&encryption=none&host=s4brgbetbngbgf.com&type=ws&sni=Live.skornorth.com#IR-%40V2ray_Alpha-12
+vless://0792bb58-36ac-451e-a629-e363e53da93b@www.rxhomeo.in:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=kafka.eula.cloudns.org&fp=random&type=ws&sni=kafka.eula.cloudns.org#IR-%40V2ray_Alpha-13
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.199:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#IR-%40V2ray_Alpha-14
+vless://eyJhZGQiOiI0NS44LjE1OC4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzE2OCIsInBzIjoiSVItQFYycmF5X0FscGhhLTE1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9♾نامحدود
+vless://6aa14e75-7d01-472b-8983-00ce703963c0@tu.hideabr.ir:1001?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=firefox&type=tcp&sni=The-Ashegh.org#All-%40V2ray_Alpha-4
