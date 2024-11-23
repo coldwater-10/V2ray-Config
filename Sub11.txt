@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2095?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2095 | 1.35ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2053?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2053 | 1.62ms
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2087?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2087 | 2.57ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-443 | 25.8ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-8443 | 1.67ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2053 | 1.61ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2096 | 1.66ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2087 | 1.76ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2083 | 1.5ms
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:80?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-80 | 1.52ms
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:8080?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-8080 | 1.6ms
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2052?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2052 | 1.61ms
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2086?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2086 | 1.79ms
@@ -603,3 +593,13 @@ vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegra
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "148477AE146D474DFF2EA001FFF8DF35",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
