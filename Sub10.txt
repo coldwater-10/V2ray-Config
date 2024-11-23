@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://auto@benedict.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 1.76ms
 trojan://auto@braden.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 1.75ms
 trojan://auto@cris.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 1.65ms
 trojan://auto@104.17.71.31:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 1.68ms
@@ -602,4 +603,3 @@ vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@8.217.102.5:443?mode=multi&security
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@149.104.26.31:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=hk-yc.wymv.top#HK🇭🇰 | hk-yc.wymv.top-443 | 165.92ms
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@47.236.128.92:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=sg-al.wymv.top#SG🇸🇬 | sg-al.wymv.top-443 | 252.75ms
 vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@8.211.128.156:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=jp-al-1.wymv.top#JP🇯🇵 | jp-al-1.wymv.top-443 | 266.14ms
-vless://8b005c37-c90c-4c17-9e95-c1c8c42481eb@8.221.142.133:443?mode=multi&security=tls&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=jp-al-3.wymv.top#JP🇯🇵 | jp-al-3.wymv.top-443 | 110.59ms
