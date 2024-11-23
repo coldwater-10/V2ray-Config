@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.11ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.17ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.29ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.63ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.85ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.27ms
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.21ms
 vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.04ms
 vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.86ms
 vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.2ms
@@ -603,3 +596,10 @@ vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegra
     "SwitchSystemProxyMode": "",
     "SwitchAllowLan": "",
     "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  }
+}
+{
+	"configs" : [
