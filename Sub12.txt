@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
@@ -584,22 +603,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@23.150.248.153:443?security=tls&sni=jo
 trojan://71409d3e488548e8bb076d229778f008@23.150.248.153:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.153-5666
 trojan://4732adfa16c6450bbef87264e41332db@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-5663
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-5659
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-3615
-trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.153:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.153-5696
-trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-5670
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-3474
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-3483
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.150-3502
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-3673
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.139-6190
-ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.157.179-3665
-trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#%F0%9F%87%BA%F0%9F%87%B8US-104.219.41.229-4106
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-3654
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-3416
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-6093
-vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODkuMjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2hzLnhpYW9xaTY2Ni54eXoiLAogICAgImlkIjogIjNmZDdiOTU4LTIxNjEtNDZlMS1iNmZjLWJkNmJiMjE2NTMxMiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuODkuMjE5LTAwMTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-3711
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@23.95.68.112:16899#%F0%9F%87%BA%F0%9F%87%B8US-23.95.68.112-0108
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTM4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIml2aWRlb3Muc2JzIiwKICAgICJpZCI6ICI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTM4LjE0MC0zMjc4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiaXZpZGVvcy5zYnMiCn0=
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8US-107.155.57.51-3496
-trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#%F0%9F%87%BA%F0%9F%87%B8US-152.70.115.209-4212
