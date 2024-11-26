@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@45.89.52.66:9027#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9027%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20beeb2
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@45.89.52.66:9029#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9029%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20fbaa5
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@45.89.52.66:9030#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9030%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20a64d1
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@45.89.52.66:9050#%F0%9F%9A%AB%F0%9F%87%B9%F0%9F%87%B7%20TR%2045.89.52.66%20%E2%97%88%20tcp%3A9050%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20030d6
@@ -64,7 +65,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8e8b8b9b4d9782c0 &bull; 2024-11-26 17:19:46 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8e8bf1eba84f0fcb &bull; 2024-11-26 18:29:37 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -89,12 +90,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e8b8b9b4d9782c0</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8e8bf1eba84f0fcb</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.190.111.169</span>
+      <span class="hidden" id="cf-footer-ip">4.227.114.180</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -602,4 +603,3 @@ vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2FTelegram-
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.206.92:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#WiFi-%40V2ray_Alpha_7
 vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#WiFi-%40V2ray_Alpha_8♾
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#All-%40V2ray_Alpha_1
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#All-%40V2ray_Alpha_2
