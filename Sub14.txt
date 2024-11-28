@@ -3,6 +3,62 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "001A9875F7EFDC23EC122E00A195E08B",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
@@ -547,59 +603,3 @@ vless://e25188d3-816a-413a-913a-c934c1d34654@151.101.194.133:443?encryption=none
 vless://3d5115e5-61c5-4a15-a616-6f2734914797@151.101.2.133:443?encryption=none&type=ws&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&host=Configt-Channel.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=live.wkrq.com#189-%F0%9F%87%BA%F0%9F%87%B8US_14_%40Surfboardv2ray
 vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fe%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpnd%3D2048&host=meloch-de.com&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C30-80%2C10-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#190-%F0%9F%87%BA%F0%9F%87%B8US_13_%40Surfboardv2ray
 vless://0769bba4-814e-49fd-8319-6e01f3fecdc2@151.101.194.133:443?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=api.nhl6.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=mio.splashthat.com#191-%F0%9F%87%BA%F0%9F%87%B8US_9_%40Surfboardv2ray
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.2.221:443?encryption=none&type=ws&path=%2F&host=nn.mytiyab.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=nn.mytiyab.xyz#192-%F0%9F%87%BA%F0%9F%87%B8US_19_%40Surfboardv2ray
-vless://263497fb-9ae2-4f7b-94c6-b0179e480448@104.21.56.58:443?encryption=none&type=ws&path=%2FBPOqQst9lkEDkJfY%3Fed%3D2560&host=moon-azadnet.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=moON-azADnEt.paGEs.DeV#193-%F0%9F%87%BA%F0%9F%87%B8US_10_%40Surfboardv2ray
-vless://e2ad5fd4-2b9a-4b5e-bec6-4df07d415afd@151.101.2.133:443?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=mio.splashthat.com#194-%F0%9F%87%BA%F0%9F%87%B8US_34_%40Surfboardv2ray
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-6507
-trojan://f0eb8c92ce8946aaba856569cff1a16b@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6508
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-3919
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-4394
-trojan://b4e8771997c94732acbc9ec4d19c2589@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-6535
-trojan://4732adfa16c6450bbef87264e41332db@23.150.248.153:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.153-6515
-trojan://telegram-id-directvpn@3.99.96.200:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.99.96.200-4651
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-4176
-trojan://telegram-id-directvpn@3.99.88.11:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.99.88.11-4507
-trojan://4732adfa16c6450bbef87264e41332db@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6511
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-4242
-trojan://4aec4e7f8cf8454ea4613659822e1a61@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6562
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-6506
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-6513
-trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-6518
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-4079
-trojan://b4e8771997c94732acbc9ec4d19c2589@23.150.248.153:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.153-4596
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-4037
-vmess://ewogICAgImFkZCI6ICIxNzAuMTE0LjQ1LjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXMxLjg0OXlodDg5dy5qaWVzazRwZHFjcWpvMTZqLnh5eiIsCiAgICAiaWQiOiAiM2RiMmQxMTUtMWRiOS00NTdkLTg1MGYtODE4YjczMjI4ZjY3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzAuMTE0LjQ1LjUzLTkyOTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-4157
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-4166
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.150-3969
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.139-7038
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-4442
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-4436
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-4429
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#%F0%9F%87%A8%F0%9F%87%A6CA-81.19.140.31-5176
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-4074
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.132-3912
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.129-3987
-ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.157.179-4415
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8US-107.155.57.51-3921
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-4311
-vmess://ewogICAgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImV1LTIuaGlodS5uZXQiLAogICAgImlkIjogIjdiYTYxZmUwLWFhNDAtMTFlZi1iNTM4LTIwNWM2ZDVmNWQ3OCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xNy4xNDguMjItMTUyMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-5189
-trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#%F0%9F%87%BA%F0%9F%87%B8US-152.70.115.209-4948
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#%F0%9F%87%BA%F0%9F%87%B8US-74.50.98.185-4142
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.215.160.52:443#%F0%9F%87%BA%F0%9F%87%B8US-34.215.160.52-4363
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.245.4.48:443#%F0%9F%87%BA%F0%9F%87%B8US-54.245.4.48-3894
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.86.117.124:443#%F0%9F%87%BA%F0%9F%87%B8US-35.86.117.124-6460
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.254.222:443#%F0%9F%87%BA%F0%9F%87%B8US-35.89.254.222-4035
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.191.9.106:443#%F0%9F%87%BA%F0%9F%87%B8US-54.191.9.106-4095
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.244.24.140:443#%F0%9F%87%BA%F0%9F%87%B8US-44.244.24.140-4333
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.118.99:443#%F0%9F%87%BA%F0%9F%87%B8US-34.219.118.99-4103
-trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.138-5182
-trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.138-5186
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55.2.232-7097
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.205.11:443#%F0%9F%87%BA%F0%9F%87%B8US-35.91.205.11-4387
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-4423
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#%F0%9F%87%BA%F0%9F%87%B8US-207.246.101.50-4228
-trojan://b4e8771997c94732acbc9ec4d19c2589@134.195.196.138:443?security=tls&sni=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.138-5180
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.111-4355
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-4097
