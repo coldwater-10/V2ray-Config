@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
 			"server" : "nk7.boom.skin",
 			"server_port" : 17000,
 			"server_udp_port" : 0,
@@ -603,3 +591,15 @@ vless://e25188d3-816a-413a-913a-c934c1d34654@151.101.194.133:443?encryption=none
 vless://3d5115e5-61c5-4a15-a616-6f2734914797@151.101.2.133:443?encryption=none&type=ws&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&host=Configt-Channel.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=live.wkrq.com#189-%F0%9F%87%BA%F0%9F%87%B8US_14_%40Surfboardv2ray
 vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fe%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpnd%3D2048&host=meloch-de.com&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C30-80%2C10-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#190-%F0%9F%87%BA%F0%9F%87%B8US_13_%40Surfboardv2ray
 vless://0769bba4-814e-49fd-8319-6e01f3fecdc2@151.101.194.133:443?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=api.nhl6.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=mio.splashthat.com#191-%F0%9F%87%BA%F0%9F%87%B8US_9_%40Surfboardv2ray
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.2.221:443?encryption=none&type=ws&path=%2F&host=nn.mytiyab.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=nn.mytiyab.xyz#192-%F0%9F%87%BA%F0%9F%87%B8US_19_%40Surfboardv2ray
+vless://263497fb-9ae2-4f7b-94c6-b0179e480448@104.21.56.58:443?encryption=none&type=ws&path=%2FBPOqQst9lkEDkJfY%3Fed%3D2560&host=moon-azadnet.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=moON-azADnEt.paGEs.DeV#193-%F0%9F%87%BA%F0%9F%87%B8US_10_%40Surfboardv2ray
+vless://e2ad5fd4-2b9a-4b5e-bec6-4df07d415afd@151.101.2.133:443?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=mio.splashthat.com#194-%F0%9F%87%BA%F0%9F%87%B8US_34_%40Surfboardv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#%F0%9F%87%BA%F0%9F%87%B8US-207.246.101.50-4227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-4422
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.129-3986
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-4428
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-4073
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.132-3911
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-5188
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-4435
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.86.117.124:443#%F0%9F%87%BA%F0%9F%87%B8US-35.86.117.124-6459
