@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server" : "us7.edge.boom.skin",
+			"server_port" : 46000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
+			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -595,11 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.186:443?encryption=none
 vless://93b99881-df03-4597-9146-0c11e46387f7@114.34.202.224:10004?encryption=none&type=ws&path=%2F%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=cfv.cscfwoker.fun#167-%E5%8F%B0%E6%B9%BE_112804058
 vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@104.19.47.9:443?encryption=none&type=ws&path=%2Fd0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vless%3Fed%3D2048&host=chose-fabulous-psychiatry-fc.trycloudflare.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=chose-fabulous-psychiatry-fc.trycloudflare.com#168-CF%E4%B8%AD%E8%BD%AC_112804889
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.106:443?encryption=none&type=ws&path=tg%40zdyz2&host=cfed.tgzdyz2.top&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=cfed.tgzdyz2.top#169-%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_112804045
-vless://4ead13d1-f307-49b0-a828-a205a80ab570@212.192.13.179:4035?encryption=none&type=ws&path=%2F&security=none&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=212.192.13.179#170-%E6%8D%B7%E5%85%8B_112804008
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.122.58.158:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=lt.kpcloud.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=lt.kpcloud.eu.org#171-%E5%BE%B7%E5%9B%BD_112804175
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.193.128:8443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=lz.ylks01.eu.org&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=lz.ylks01.eu.org#172-CF%E4%B8%AD%E8%BD%AC_1128045575
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.219.23:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=lv.ylks01.eu.org&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C20-50&sni=lv.ylks01.eu.org#173-CF%E4%B8%AD%E8%BD%AC_112804735
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.150:443?encryption=none&type=ws&path=%2Fblue&host=zz.linghang.buzz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=zz.linghang.buzz#174-%E6%96%B0%E5%8A%A0%E5%9D%A1_112804015
-vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-20&sni=pAgES.DEV#175-CF%E4%B8%AD%E8%BD%AC_112804660
-vless://a64d1cba-13a8-4179-8139-96790c759389@140.245.34.216:40000?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&sid=19e5124d&alpn=http%2F1.1&fp=safari&sni=www.python.org#176-%E6%96%B0%E5%8A%A0%E5%9D%A1_112804023
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@195.85.59.161:443?encryption=none&type=ws&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&host=purlitefastest.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=purlitefastest.pages.dev#177-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF_112804006
