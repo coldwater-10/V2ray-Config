@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443?security=tls&sni=tr.test3.net&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiIxNzIuNjcuMTQ1LjQ5IiwiYWlkIjoiMCIsImhvc3QiOiJmYW1pbHkubWd0YWpoaXouaXIiLCJpZCI6IjU0NGYyZTkzLTUxYjAtNGQ0Ny1mZDcyLWU3ZDg1ODAyMWJiZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MiIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://9a27800ca7b52ee0@103.172.116.113:3389?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443?security=tls&sni=sg1.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443?security=tls&sni=jp2.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMzYuMC45LjIxNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI3NTM0ZmEzMC02NmJlLTRjODEtZWM3Ny0zNDc2OWY5YWFhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE3OTQ3IiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vless://d0cf4930-7dbf-4607-b930-dc05eda72901@23.94.48.229:6326?security=reality&sni=www.pcmag.com&fp=chrome&pbk=C5Ot4nQBJMxk2DKCe3JTSqcithC9IHVSnixotp4VUVk&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@104.21.60.120:443?security=tls&sni=c5mt.cdncisco.org&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -596,10 +603,3 @@ vless://1ea40d23-e223-4be9-a830-036c9740b830@mamadtatardo442.my442vpn442.workers
 trojan://yAcqvPOj@sgb.mdfg.tk:443?security=tls&sni=sgb.mdfg.tk&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiaG9zdCI6Im9kZWxpYS5hdXRvcyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoib2RlbGlhLmF1dG9zIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDMuMTEzLjY4LjIzMyIsImFpZCI6IjAiLCJob3N0IjoiMTAzLjExMy42OC4yMzMiLCJpZCI6ImZkZGIzNzgxLTdlMTUtNDczMS1hOTMzLTk0ZGIxMTBiNGJiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4ODgwIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada145.lefxb.com:443?security=tls&type=ws&path=users?ed%3D2048&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.1.100:6379#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiJ5eXl1bWxvYWxvLnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6Inl5eXVtbG9hbG8uc2l0ZSIsImlkIjoiNGZhMzVlYTQtNjY4ZS00ZDdiLTliYmMtYjgzNjgxMDYwNjE3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2t3aG12d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@us1.jjzgy.live:443?security=tls&sni=us1.jjzgy.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD

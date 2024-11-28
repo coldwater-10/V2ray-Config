@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.158.246:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#FI🇫🇮 | flnewconect3.fragmentscan.xyz-2053 | 111.13ms
+vless://12d2c26d-d64d-4942-88b8-c6e5a985c48e@104.25.73.28:8443?path=%2F&security=tls&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&type=ws&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#RELAY🚩 | unlimiteddev.xn--9iqr0tm1r4wg.co-8443 | 58.41ms
+vless://11e0a4c8-6764-42f4-8723-6450804355e2@104.18.104.223:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸 | bia-to-channel4.unlimiteddev.shop-80 | 11.93ms
+vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@66.235.200.91:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+14#US🇺🇸 | 66.235.200.91-8080 | 5.62ms
+vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@194.76.18.65:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+13#KZ🇰🇿 | 194.76.18.65-8080 | 5.68ms
+vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@104.16.76.38:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+12#RELAY🚩 | 104.16.76.38-8080 | 5.49ms
+vless://0e08ea94-6f77-41f6-fa9b-8e584ff02472@185.81.114.195:8080?security=reality&encryption=none&pbk=6P_NQdJQKG9Z-TC62Lmny1-mgX0ZFJFOWQtkbPBNyDk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=dc3a9fef8a20#REALITY|NL🇳🇱 | 185.81.114.195-8080 | 85.32ms
+vless://0be5f51e-498c-4d91-890b-bc3f047fab52@ip.irino.sbs:2083?path=%2Fvless&security=tls&encryption=none&host=fr1.vless.site&type=ws&sni=fr1.vless.site#CY🇨🇾 | fr1.vless.site-2083 | 110.44ms
+vless://0948673a-e607-4629-a07e-c70e1122fb73@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#RELAY🚩 | DEc80.TehrANsiMAn.co.UK.-443 | 42.57ms
 vless://0948673a-e607-4629-a07e-c70e1122fb73@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 250.74ms
 vless://07631ca0-01f9-42fe-b8ad-bea5f8bb79e8@104.25.255.156:443?encryption=none&security=tls&sni=cc1.kosnanatfilterchi.eu.org&alpn=h3&fp=chrome&type=ws&host=cc1.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#RELAY🚩 | cc1.kosnanatfilterchi.eu.org-443 | 205.3ms
 vless://05e4c207-f43e-4ccd-a3d7-7b2cd2e99c9b@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#RELAY🚩 | Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com-8443 | 6.12ms
@@ -594,12 +603,3 @@ vless://f57a47bc-e618-45da-dc5f-5a2baf35b8d3@185.146.173.39:443?security=tls&sni
 	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
-	"TTL" : 0,
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
