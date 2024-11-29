@@ -3,6 +3,31 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "9D5249CB74D17FE57D18E5ED8AD1EC47",
+			"server" : "us7.edge.boom.skin",
+			"server_port" : 46000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
@@ -578,28 +603,3 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTYyLfCfh7rwn4e4VVMtMjE2LjI0LjU3LjY4LTgxMzIi
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.145.205.115:8443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=lt.kpcloud.eu.org&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C50-100%2C20-50&sni=lt.kpcloud.eu.org#163-%E6%B3%95%E5%9B%BD_112904111
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@104.25.163.249:8443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=lz.ylks01.eu.org&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C20-50&sni=lz.ylks01.eu.org#164-CF%E4%B8%AD%E8%BD%AC_1129048000
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTY1LfCfj4FSRUxBWS0xNzIuNjcuMTk5LjM0LTU1MTAiLCJhZGQiOiIxNzIuNjcuMTk5LjM0IiwicG9ydCI6NDQzLCJpZCI6IjEyZTA4MjU2LWRhNWQtNGIxYy1hZWNhLThjOTczY2NjZWVmOCIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoiZ2Nzc3NnLnN5bHUuY3lvdSIsIm5ldCI6IndzIiwicGF0aCI6Ii9GYWxsaW5nNDJnY3Nzc2dub2RlIiwiaG9zdCI6Imdjc3NzZy5zeWx1LmN5b3UiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.178:8443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=lz.ylks01.eu.org&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-50%2C20-50&sni=lz.ylks01.eu.org#166-CF%E4%B8%AD%E8%BD%AC_1129048057
-vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@172.66.47.146:443?encryption=none&type=ws&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&host=bia-daily-configs.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=bIa-daILy-CoNFigS.PAgEs.DEV#167-CF%E4%B8%AD%E8%BD%AC_1129043308
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTY4LfCfj4FSRUxBWS0xNzIuNjcuNzAuOTItMTA3NiIsImFkZCI6IjE3Mi42Ny43MC45MiIsInBvcnQiOjIwOTUsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJpcDIuNjAxNjcyNS54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJpcDIuNjAxNjcyNS54eXoiLCJhbHBuIjoiaDIiLCJmcCI6ImVkZ2UifQ==
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTY5LfCfh6zwn4enR0ItNjguMTY4LjMxLjI0Mi04MDIwIiwiYWRkIjoiNjguMTY4LjMxLjI0MiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IjY4LjE2OC4zMS4yNDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjY4LjE2OC4zMS4yNDIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?encryption=none&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security%3Dtls&host=a.ssll.gay&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=a.ssll.gay#170-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_112904015
-vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?encryption=none&type=ws&path=%2Fwebsocket&host=st-gb-1.brocdn.com&security=tls&alpn=h2&fp=ios&fragment=tlshello%2C50-100%2C10-20&sni=st-gb-1.brocdn.com#171-%F0%9F%87%BA%F0%9F%87%B8US_8_%40Surfboardv2ray
-vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?encryption=none&type=ws&path=twitterfreecodessecurity%3Dtls&host=fq521.6789.cloudns.be&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=fq521.6789.cloudns.be#172-%F0%9F%87%AC%F0%9F%87%A7GB_34_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?encryption=none&type=ws&path=%2FH%3Fed%3D2560&host=mefa.ir&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=mefa.ir#173-%F0%9F%87%BA%F0%9F%87%B8US_40_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?encryption=none&type=ws&path=%2FuPVugEgQeF43TiFV%3Fed%3D2560&host=pPAL03.SorAkiC670.workerS.deV&security=tls&alpn=h2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C10-20&sni=ppAl03.SoRaKic670.Workers.DEv#174-%F0%9F%87%A8%F0%9F%87%A6CA_38_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzUt8J+Hq/Cfh7dGUl8yX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6ImJleW9uZGRzei5jZmQiLCJwb3J0Ijo0NDMsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImJleW9uZGRzei5jZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImJleW9uZGRzei5jZmQiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://2510a115-11c1-4710-9905-d98722bfc07d@151.101.2.133:443?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc1.ir&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=mio.splashthat.com#176-%F0%9F%87%BA%F0%9F%87%B8US_15_%40Surfboardv2ray
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?encryption=none&type=ws&path=%2F&host=cfed.tgzdyz2.top&security=tls&alpn=h2&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=cfed.tgzdyz2.top#177-%F0%9F%87%AC%F0%9F%87%A7GB_18_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?encryption=none&type=ws&path=%2FH%3Fed%3D2560&host=mefa.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-50&sni=mefa.ir#178-%F0%9F%87%BA%F0%9F%87%B8US_39_%40Surfboardv2ray
-vless://775213ac-3976-439a-8977-3277c0e4735d@45.135.235.111:443?encryption=none&type=ws&path=juzi&host=fq521.6789.cloudns.be&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=fq521.6789.cloudns.be#179-%F0%9F%87%BA%F0%9F%87%A6UA_33_%40Surfboardv2ray
-vless://338c7415-edfb-4d96-c0d7-74efd7ced808@190.93.244.61:443?encryption=none&type=ws&path=%2Fshare77769iai&host=seargo.100896.xyz&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=seargo.100896.xyz#180-%F0%9F%87%A8%F0%9F%87%B7CR_22_%40Surfboardv2ray
-vless://a3033d88-dc8e-4ebd-81d5-81c03ba3a72a@172.66.46.213:443?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=speedtest.svgspeedtest.net&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C30-80%2C10-50&sni=speedtest.svgspeedtest.net#181-%F0%9F%87%A8%F0%9F%87%A6CA_49_%40Surfboardv2ray
-vless://35c13bc8-4e73-41e2-a054-272afc75bde1@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybedeeeee.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=hajlab.ucdavis.edu#182-%F0%9F%87%BA%F0%9F%87%B8US_25_%40Surfboardv2ray
-vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fe%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpnd%3D2048&host=meloch-de.com&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C30-80%2C20-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#183-%F0%9F%87%BA%F0%9F%87%B8US_24_%40Surfboardv2ray
-vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?encryption=none&type=ws&path=%2F---------DisVpn---------DisVpn---------DisVpn&host=DisVpn.us.kg&security=tls&alpn=h2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=DisVpn.us.kg#184-%F0%9F%87%A8%F0%9F%87%A6CA_27_%40Surfboardv2ray
-vless://3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?encryption=none&type=ws&path=%2F---------DisVpn---------DisVpn---------DisVpn&host=DisVpn.us.kg&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=DisVpn.us.kg#185-%F0%9F%87%BA%F0%9F%87%B8US_28_%40Surfboardv2ray
-vless://88631f1b-0f78-4744-93ae-f2a19b39d6e9@151.101.2.133:443?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=barkatc2.ir&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=mio.splashthat.com#186-%F0%9F%87%BA%F0%9F%87%B8US_37_%40Surfboardv2ray
-vless://ddedd166-9183-40cc-a7af-8344c3b5a23b@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&host=loye.ir&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C10-20%2C10-50&sni=hajlab.ucdavis.edu#187-%F0%9F%87%BA%F0%9F%87%B8US_61_%40Surfboardv2ray
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&host=trojanyu.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C50-100%2C10-50&sni=trojanyu.pages.dev#188-%F0%9F%87%A8%F0%9F%87%A6CA_9_%40Surfboardv2ray
-vless://44c7c22c-47d7-4e18-bb7d-b47e92b76bb9@cookies.oops.wtf:443?encryption=none&type=ws&path=%2Fgetupdates&host=cookies.oops.wtf&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C10-20&sni=cookies.oops.wtf#189-%F0%9F%87%B7%F0%9F%87%BARU_30_%40Surfboardv2ray
-vless://3249644c-5227-4c1a-b91a-752db132159d@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybedeeeeee.ir&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=hajlab.ucdavis.edu#190-%F0%9F%87%BA%F0%9F%87%B8US_21_%40Surfboardv2ray
