@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.183:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 186.7ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 185.79ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.20:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 179.79ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.243:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 192.12ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.203:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 174.89ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.29:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 181.38ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.123:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 189.7ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.36:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 190.32ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 197.24ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.155:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 182.14ms
@@ -603,3 +596,10 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?path=/telegram-ArV2ray,telegram-
   "strategy": null,
   "index": 0,
   "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,

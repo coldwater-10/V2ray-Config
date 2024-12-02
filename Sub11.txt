@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  "enabled": false,
-  "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
-  "showPluginOutput": false,
   "pacUrl": null,
   "gfwListUrl": null,
   "useOnlinePac": false,
@@ -603,3 +596,10 @@ vless://022404e1-6083-48e1-beee-9048dda539bc@bwdraper.faculty.ucdavis.edu:443?en
 vless://161b8c69-b432-4865-8c1f-8d4a3406866b@168.119.154.98:443?encryption=none&type=grpc&security=reality&pbk=6FcfJl0x7JEzgqiUgSTZjOuqo90YOG0SOXTTt8hLOm4&sid=ce00a8c4&spx=%2Fmgod&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=ftp.debian.org#102-%40AntiFilterService
 vless://13fdda6f-f5c9-499a-826c-d99bfacdcc23@185.146.173.58:8080?encryption=none&type=ws&path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none&alpn=h3%2Ch2&fp=ios&sni=Kanal-polproxy.Vipnufilter.Online.#103-Germany%20%F0%9F%87%A9%F0%9F%87%AA%20Telgram%20%40Sobi_vpn
 vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@speedtest.net:80?encryption=none&type=ws&path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&host=www.Yjc.ir&security=none&alpn=h2%2Chttp%2F1.1&fp=ios&sni=www.Yjc.ir#104-TLS%2B%40icv2ray
+vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@www.zula.ir:80?encryption=none&type=httpupgrade&path=%2Ftelegram%3DV_2RAYNGVPN&host=FySuMyYk3.aMirsiTesos.sItE.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=FySuMyYk3.aMirsiTesos.sItE.#105-%40V_2rayngVpn
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.76:8443?encryption=none&type=grpc&security=tls&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=12l1.diginoshops3.ir#106-All-%40V2ray_Raha-18
+vless://619a4352-7d8a-4ac2-ab31-0b5135c7eb2f@85.9.120.100:40199?encryption=none&type=ws&path=%2F&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=85.9.120.100#107-%F0%9F%94%92%2BVL-WS-NONE%2B%F0%9F%87%AE%F0%9F%87%B7%2BIR-85.9.120.100%3A40199
+vless://074a4804-1756-4688-ef3a-3a21c082bfa7@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fed%3D2048&host=meloch-de.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#108-%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
+vless://1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?encryption=none&type=ws&path=TELEGRAM-NUFiLTER&host=api.nhl9.ir&security=none&alpn=http%2F1.1&fp=chrome&sni=api.nhl9.ir#109-%40V2ry_Proxy%2B%F0%9F%87%A9%F0%9F%87%AA%2Bws5
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=trojanyu.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=trojanyu.pages.dev#110-All-%40V2ray_Alpha-12
+vless://3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7@hajlab.ucdavis.edu:443?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=hajlab.ucdavis.edu#111-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
