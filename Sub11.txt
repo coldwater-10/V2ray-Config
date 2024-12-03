@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.216:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 185.14ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.166:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 181.95ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.31:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 180ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.69:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 192.89ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 192.48ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.109:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 193.76ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.77:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 188.72ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.50:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 188.28ms
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 4.26ms
 trojan://gW2L4C6TS3@195.133.52.153:2087?path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=http&sni=ru2.all-connections.ir#RU🇷🇺 | ru2.all-connections.ir-2087 | 392.78ms
@@ -603,3 +596,10 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?path=/telegram-ArV2ray,telegram-
 	"proxyAuthUser" : "",
 	"proxyAuthPass" : "",
 	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
