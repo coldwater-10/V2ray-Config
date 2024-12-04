@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      "server_port": 443,
+      "password": "dongtaiwang.com",
+      "method": "aes-256-gcm",
       "plugin": "v2ray-plugin",
       "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
       "plugin_args": "",
@@ -600,6 +603,3 @@ vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@hajlab.ucdavis.edu:80?encryption=no
 vless://58fe8bf1-60bc-4535-a046-76ed9eeafac2@151.101.130.133:443?encryption=none&type=ws&host=iranvistapc.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=live.theworldwidewolf.com#95-%40Hope_Net-join-us-on-Telegram
 vless://56b4ce36-ea2e-4415-a6c8-e461589184cc@NUFiLTER.fastly80.hosting-ip.com:80?encryption=none&type=ws&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&host=api.nhl239.ir&security=none&alpn=h2&fp=randomized&sni=api.nhl239.ir#96-%40meli_proxyy
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?encryption=none&type=grpc&security=tls&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C10-20&sni=1v2.diginoshops10.ir#97-%F0%9F%94%92%40VmessProtocol%E2%AD%95%EF%B8%8F%2B%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=pro-b.ponyo.lat&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=pro-b.ponyo.lat#98-%40VPN_VIP_NOR-6
-vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@hajlab.ucdavis.edu:443?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeWz.NeT&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-20%2C10-20&sni=hajlab.ucdavis.edu#99-%40meli_proxyy
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.12:443?encryption=none&type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&host=nicorobin.eula.cloudns.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=nicorobin.eula.cloudns.org#100-%40V2rayNG3
