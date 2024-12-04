@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
     "proxyType": 0,
     "proxyServer": "",
     "proxyPort": 0,
@@ -592,14 +603,3 @@ vless://58fe8bf1-60bc-4535-a046-76ed9eeafac2@151.101.194.133:443?encryption=none
 vless://01c8e316-66bf-490a-86d5-efcc674c66c6@www.speedtest.net:8880?encryption=none&type=ws&path=%2FOmid%3Fed%3D2560&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.#122-%40V2ray1_Ng
 vless://680f4906-aa6b-4150-9f59-9560b1635fd3@104.17.147.22:443?encryption=none&type=ws&path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&host=TgChannelVpnOwL.PAGEs.dEV.&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=paGES.DEV.#123-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%91%88vpnowl%40
 vless://06eb68e6-5f5f-4ef1-8b5e-cffbf6189766@185.146.173.58:8080?encryption=none&type=ws&path=%2Fservernett&host=lc85.lebasnoo.ir.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=lc85.lebasnoo.ir.#124-%40Selinc
-vless://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?encryption=none&type=ws&path=%2Fservernett&host=lc82.lebasnoo.ir.&security=none&alpn=h2%2Chttp%2F1.1&fp=ios&sni=lc82.lebasnoo.ir.#125-%40IrV2rey%2BMTN%2BRTL%2BWIFI
-vless://0023fbdf-7bd9-448a-b7ae-5217196183a4@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybedeeeee.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C20-50&sni=hajlab.ucdavis.edu#126-vpnWedBaz%20ALL%20%7C%20%20(%D9%BE%D8%A7%D8%A8%D9%84%D9%88%20%D8%A7%D8%B3%DA%A9%D9%88%D8%A8%D8%A7%D8%B1)
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?encryption=none&type=ws&path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&host=joiNv2ngFaST.PAgES.DeV&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=JOINv2nGFast.PagEs.dEv#127-%40V2rayNG3
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.17.234.128:443?encryption=none&type=ws&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#128-%F0%9F%87%A8%F0%9F%87%B5%20%40kingofilter
-vless://89320cf7-10b6-43d2-bf4d-fb5cbb98aba7@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-20&sni=zmaoz.faculty.ucdavis.edu#129-%F0%9F%87%AB%F0%9F%87%AETel%20%3A%20%40SRCVPN
-vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@skk.moe:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=v2raylandd-89.vmjisexa.workers.Dev&security=tls&alpn=h2&fp=android&fragment=tlshello%2C10-20%2C10-50&sni=v2raylandd-89.vmjisexa.workers.Dev#130-%40v2raylandd%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
-vless://7e56fda5-5a83-4f58-be1b-f28bb1f942b7@shop.ponisha.top:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=zUtyRDFvC39gxrncFeIklwNWQnECecr7abL2NLwvHCg&sid=e4f3d586&spx=%2Fshop&alpn=h3%2Ch2&fp=chrome&sni=shop.ponisha.top#131-V2rayfast
-vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80?encryption=none&type=ws&path=%2F6Fb9gZwPctjjwBVW%3Fed%3D2048&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=anTiFiLTEr.dOXAs38496.wOrkErs.dEV#132-%40v2city
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@151.101.2.228:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=dr.pezeshkian-80.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=seminarsinmcb.faculty.ucdavis.edu#133-%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Francisco%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3
-vless://62357561-a129-4b9e-9614-ce2578020866@183.105.48.110:50000?encryption=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048security%3Dtls&host=edg.comorg.us.kg&alpn=h3%2Ch2&fp=chrome&sni=edg.comorg.us.kg#134-%E9%9F%A9%E5%9B%BD_120404064
-vless://c5a2abdb-f272-464f-b146-1881d0baab5f@151.101.194.165:80?encryption=none&type=ws&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&host=UNLIMITEDDEV.channel-telegram-1.ir&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=UNLIMITEDDEV.channel-telegram-1.ir#135-%E7%BE%8E%E5%9B%BD_1204042632
