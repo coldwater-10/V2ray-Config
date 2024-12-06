@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -599,7 +603,3 @@ vless://0a614a84-af05-4806-8d7a-209375837be8@104.17.234.114:8443?encryption=none
 vless://812c097f-9feb-44a8-a25f-4faa76494e1b@www.speedtest.net:8880?encryption=none&type=tcp&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet%3Fed%3D2048&alpn=http%2F1.1&fp=ios&sni=www.speedtest.net#159-%E6%9C%AA%E7%9F%A5_120604742
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTYwLfCfh7rwn4e4VVMtMTAzLjIyNC4xODIuMjEwLTEwODgiLCJhZGQiOiJoazgwLnNhbmZlbjAwMS5waWNzIiwicG9ydCI6ODAsImlkIjoiODBlOTRhZjYtZTQyYS00ZGJjLThmNGItYzVmOTliZjk3ZDNkIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJoazgwLnNhbmZlbjAwMS5waWNzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3poLWNuL2Rvd25sb2FkIiwiaG9zdCI6ImhrODAuc2FuZmVuMDAxLnBpY3MiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
 vless://714a02b8-117f-4a3e-e25c-6bac267185a2@104.18.165.78:80?encryption=none&type=httpupgrade&path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D2048&host=joinmain.mralpha-vpn.com&security=none&alpn=http%2F1.1&fp=chrome&sni=joinmain.mralpha-vpn.com#161-CF%E4%B8%AD%E8%BD%AC_1206044830
-vless://e19b2e36-b6bb-413e-8dda-0bc7ba017859@www.speedtest.net:8880?encryption=none&type=tcp&path=%2F%3Fed%3D2048&alpn=h3%2Ch2&fp=edge&sni=www.speedtest.net#162-%E6%9C%AA%E7%9F%A5_120604803
-vless://9fc6bb34-39be-4fcf-9567-9ec74b3a59d9@173.245.59.81:443?encryption=none&type=ws&path=%2Fwss&host=hpi2sk.a27app.com&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-50%2C10-20&sni=hpi2sk.a27app.com#163-CF%E4%B8%AD%E8%BD%AC_1206046438
-vless://d47eebd4-80d7-4763-b7a6-9bc57f21f0dc@151.101.194.165:80?encryption=none&type=ws&path=%2F%E2%80%8C%40Vpn_Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield&host=TheEndYou.Com&security=none&headerType=none&alpn=h3%2Ch2&fp=firefox&sni=TheEndYou.Com#164-%E7%BE%8E%E5%9B%BD_1206041789
-vless://93d1e628-e14a-4c00-feed-df69dcfc78bd@unlimiteddev.fastly80-3.hosting-ip.com:80?encryption=none&type=ws&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480fp%3Dchrome&host=UNLIMITEDDEV.channel-telegram-1.ir&alpn=h3%2Ch2&fp=randomized&sni=UNLIMITEDDEV.channel-telegram-1.ir#165-%E7%BE%8E%E5%9B%BD_1206043005
