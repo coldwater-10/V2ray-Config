@@ -16,23 +16,6 @@
 		},
 		{
 			"remarks" : "dongtaiwang.com",
-			"id" : "9D5249CB74D17FE57D18E5ED8AD1EC47",
-			"server" : "us7.edge.boom.skin",
-			"server_port" : 46000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
 			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
 			"server" : "nk7.boom.skin",
 			"server_port" : 17000,
@@ -603,3 +586,20 @@ vless://0a614a84-af05-4806-8d7a-209375837be8@104.17.234.114:8443?encryption=none
 vless://812c097f-9feb-44a8-a25f-4faa76494e1b@www.speedtest.net:8880?encryption=none&type=tcp&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet%3Fed%3D2048&alpn=http%2F1.1&fp=ios&sni=www.speedtest.net#159-%E6%9C%AA%E7%9F%A5_120604742
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTYwLfCfh7rwn4e4VVMtMTAzLjIyNC4xODIuMjEwLTEwODgiLCJhZGQiOiJoazgwLnNhbmZlbjAwMS5waWNzIiwicG9ydCI6ODAsImlkIjoiODBlOTRhZjYtZTQyYS00ZGJjLThmNGItYzVmOTliZjk3ZDNkIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJoazgwLnNhbmZlbjAwMS5waWNzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3poLWNuL2Rvd25sb2FkIiwiaG9zdCI6ImhrODAuc2FuZmVuMDAxLnBpY3MiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
 vless://714a02b8-117f-4a3e-e25c-6bac267185a2@104.18.165.78:80?encryption=none&type=httpupgrade&path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D2048&host=joinmain.mralpha-vpn.com&security=none&alpn=http%2F1.1&fp=chrome&sni=joinmain.mralpha-vpn.com#161-CF%E4%B8%AD%E8%BD%AC_1206044830
+vless://e19b2e36-b6bb-413e-8dda-0bc7ba017859@www.speedtest.net:8880?encryption=none&type=tcp&path=%2F%3Fed%3D2048&alpn=h3%2Ch2&fp=edge&sni=www.speedtest.net#162-%E6%9C%AA%E7%9F%A5_120604803
+vless://9fc6bb34-39be-4fcf-9567-9ec74b3a59d9@173.245.59.81:443?encryption=none&type=ws&path=%2Fwss&host=hpi2sk.a27app.com&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-50%2C10-20&sni=hpi2sk.a27app.com#163-CF%E4%B8%AD%E8%BD%AC_1206046438
+vless://d47eebd4-80d7-4763-b7a6-9bc57f21f0dc@151.101.194.165:80?encryption=none&type=ws&path=%2F%E2%80%8C%40Vpn_Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield--%40Vpn-Shield&host=TheEndYou.Com&security=none&headerType=none&alpn=h3%2Ch2&fp=firefox&sni=TheEndYou.Com#164-%E7%BE%8E%E5%9B%BD_1206041789
+vless://93d1e628-e14a-4c00-feed-df69dcfc78bd@unlimiteddev.fastly80-3.hosting-ip.com:80?encryption=none&type=ws&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480fp%3Dchrome&host=UNLIMITEDDEV.channel-telegram-1.ir&alpn=h3%2Ch2&fp=randomized&sni=UNLIMITEDDEV.channel-telegram-1.ir#165-%E7%BE%8E%E5%9B%BD_1206043005
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.102:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=lm.kpcloud.eu.org&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=lm.kpcloud.eu.org#166-CF%E4%B8%AD%E8%BD%AC_1206047079
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTY3LfCfj4FSRUxBWS0xMDQuMjEuMjM4LjI1MC0xNTYwIiwiYWRkIjoiMTA0LjIxLjIzOC4yNTAiLCJwb3J0IjoyMDg2LCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoicDEuNjEzMDU1Lnh5eiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6InAxLjYxMzA1NS54eXoiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
+vless://92cd305f-3b77-4cdd-bb22-d42a44f7d6e9@104.19.175.59:443?encryption=none&type=ws&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS-ADVANCED&host=11566462974246098529376317200726.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=11566462974246098529376317200726.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#168-CF%E4%B8%AD%E8%BD%AC_1206046941
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.217.161:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=al.ylks.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-20&sni=al.ylks.xyz#169-CF%E4%B8%AD%E8%BD%AC_1206047040
+vless://559539cc-68e8-413d-bcf8-621ac2f12cc7@104.16.22.69:2052?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=007.hebav63406.workers.dev&security=none&alpn=h2&fp=edge&sni=007.hebav63406.workers.dev#170-CF%E4%B8%AD%E8%BD%AC_1206046351
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTcxLfCfh6/wn4e1SlAtNTIuMTk2LjE0NC42MS01NDg1IiwiYWRkIjoiZjFmMzIyNy52MS5nbGFkb3MtY29uZmlnLm5ldCIsInBvcnQiOjMzMzEsImlkIjoiNTdlMGNiNGQtZWFlNS00OGVjLTgwOTEtMTQ5ZGMyYjMwOWUwIiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJmMWYzMjI3LnYxLmdsYWRvcy1jb25maWcubmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3MvZjFmMzIyNy5mbS5hcHBsZS5jb206MTExNTQ4IiwiaG9zdCI6ImYxZjMyMjcudjEuZ2xhZG9zLWNvbmZpZy5uZXQiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
+vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.245:443?encryption=none&type=splithttp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=www.spcdn.org#172-%E7%BE%8E%E5%9B%BD_1206042002
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.25.36.137:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=lt.kpcloud.eu.org&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C30-80%2C20-50&sni=lt.kpcloud.eu.org#173-CF%E4%B8%AD%E8%BD%AC_1206046236
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMTc0LfCfh6jwn4e3IOWTpeaWr+i+vum7juWKoCIsImFkZCI6IjE5MC45My4yNDcuMjMiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJ0bHMiOiIiLCJzbmkiOiJpcDE4LjY5MjkxOTgueHl6IiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImlwMTguNjkyOTE5OC54eXoiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImVkZ2UifQ==
+vless://ef4bbe53-6c12-4577-9c2a-a10a456fa158@www.speedtest.net:8880?encryption=none&type=tcp&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet%3Fed%3D2048&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=www.speedtest.net#175-%E6%9C%AA%E7%9F%A5_120604769
+vless://83dc8fd4-db43-43e2-9d96-ccf1985f2b0d@likemyinfo.com:443?encryption=none&type=ws&path=%2FVLESS%2Fkz-full.privateip.net&host=yelan.thelastronin.cloudns.org&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=yelfuif8fbrb3j3an.thelastronin.cloudns.org#176-%E6%9C%AA%E7%9F%A5_120604838
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTc3LfCfj4FSRUxBWS0xNzAuMTE0LjQ2LjIxOS0wNzU3IiwiYWRkIjoiMTcwLjExNC40Ni4yMTkiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6IiIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
+vless://1ca7e43f-a737-4667-948e-67c2059f82e9@104.26.15.16:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=falcunargo.f0e7dc3bfe.workers.Dev&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=falcunargo.f0e7dc3bfe.workers.Dev#178-CF%E4%B8%AD%E8%BD%AC_1206047141
