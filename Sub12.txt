@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.45:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 262.68ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.93:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 252.29ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 260.05ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.128:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 260.5ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.132:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 258.29ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.13:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 264.63ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.109:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 260.49ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.138:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 266.18ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.161:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 252.52ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.98:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 270.91ms
@@ -596,10 +603,3 @@ vless://telll--ZEDMODEON@live.skornorth.com:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMO
 			"server_udp_port" : 0,
 			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,

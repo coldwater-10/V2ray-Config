@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
 			"udp_over_tcp" : false
 		},
 		{
@@ -596,10 +603,3 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTc3LfCfj4FSRUxBWS0xNzAuMTE0LjQ2LjIxOS0wNzU3
 vless://1ca7e43f-a737-4667-948e-67c2059f82e9@104.26.15.16:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=falcunargo.f0e7dc3bfe.workers.Dev&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=falcunargo.f0e7dc3bfe.workers.Dev#178-CF%E4%B8%AD%E8%BD%AC_1206047141
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTc5LfCfj4FSRUxBWS0xMDQuMjYuMC4xNC0wOTE1IiwiYWRkIjoiMTA0LjI2LjAuMTQiLCJwb3J0Ijo4ODgwLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsImFpZCI6MCwidGxzIjoiIiwic25pIjoibTIuMTA2Nzc4Lnh5eiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6Im0yLjEwNjc3OC54eXoiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
 vless://26306138-5a05-4921-9d12-9ca19e2c6ed7@www.parsvds.ir:8080?encryption=none&type=ws&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=www.parsvds.ir#180-%E6%9C%AA%E7%9F%A5_120604461
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.19:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=a.xn--i-sx6a60i.us.kg&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=a.xn--i-sx6a60i.us.kg#181-%F0%9F%87%A8%F0%9F%87%A6CA_47_%40Surfboardv2ray
-vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?encryption=none&type=ws&path=%2Fabcdews&host=30b8cec93f5140c3b1d0.tora-aba.rest&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=30b8cec93f5140c3b1d0.tora-aba.rest#182-%F0%9F%87%A8%F0%9F%87%A6CA_39_%40Surfboardv2ray
-vless://092ae4c2-bd39-4217-9eb3-460ef5d4e813@104.22.4.136:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#183-%F0%9F%87%A8%F0%9F%87%A6CA_5_%40Surfboardv2ray
-vless://092ae4c2-bd39-4217-9eb3-460ef5d4e813@104.21.211.74:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C20-50&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#184-%F0%9F%87%A8%F0%9F%87%A6CA_4_%40Surfboardv2ray
-vless://35017be6-5b1c-4cd4-a248-95c4a99a46b1@Zmaoz.Faculty.UcdavIS.Edu:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fed%3D2048&host=meloch-de.com&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C10-50&sni=Zmaoz.Faculty.UcdavIS.Edu.#185-%F0%9F%87%BA%F0%9F%87%B8US_10_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.130.18:443?encryption=none&type=ws&path=%2FkIC5WQ27QjR7HVJC%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D%3Fed%3D2560&host=v2.yunchun.top&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=V2.yunCHUN.tOp#186-%F0%9F%87%A8%F0%9F%87%A6CA_24_%40Surfboardv2ray
-vless://5164ba71-f145-42f7-b618-b3a7659544ef@aBrHA.DE:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&host=abrha.de&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C50-100%2C20-50&sni=abrha.de#187-%F0%9F%87%A8%F0%9F%87%A6CA_13_%40Surfboardv2ray
