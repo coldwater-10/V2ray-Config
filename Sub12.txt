@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.179:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 213.77ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.204:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 212.72ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.219:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 207.53ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.0.222:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 217.96ms
+vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.68:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 213.55ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.2.212:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 217.69ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.3.171:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 207.44ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@199.232.1.5:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chekad.ir&fp=randomized&type=ws&sni=chekad.ir#IR🇮🇷 | chekad.ir-443 | 215.65ms
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8118#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.95-7140
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.49.122-6311
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-7148
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.191:5001#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.191-6616
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.100.199:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.199-6873
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:4444#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-7162
-vmess://eyJhZGQiOiAiNDUuOC4xNTguMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjM5OGNlODRlLTQ4NDktNGU1Zi05YjFhLWE1NmZiZTIzM2I4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTM1MjgiLCAicHMiOiAiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhUlVfMV9AU3VyZmJvYXJkdjJyYXkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDQV8yX0BTdXJmYm9hcmR2MnJheSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
