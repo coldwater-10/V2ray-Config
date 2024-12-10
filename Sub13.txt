@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@cf.0sm.com:2087?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-2087 | 2.64ms
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@cf.0sm.com:2083?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-2083 | 2.97ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@cloudflare-ip.mofashi.ltd:443?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-443 | 3.05ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@cloudflare-ip.mofashi.ltd:8443?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-8443 | 3.04ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@cloudflare-ip.mofashi.ltd:2053?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-2053 | 2.88ms
@@ -603,3 +601,5 @@ vless://tell--ZEDMODEON@live.skornorth.com:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMOD
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
+		},
+		{
