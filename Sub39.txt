@@ -3,6 +3,80 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
+    </div>
+    <div class="hero-foot">
+      <div class="container"></div>
+    </div>
+  </section>
+<main class="section">
+    <div class="container">
+We couldn&#x27;t find what you&#x27;re looking for. Sorry!
+
+    </div>
+  </main>
+
+</div>
+<footer class="footer">
+  <nav class="breadcrumb is-centered has-bullet-separator" aria-label="breadcrumbs">
+    <ul>
+      <li><a href="https://github.com/ascclemens/paste">code</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/98f6a6a764b8af6ce4bc150d259ea508626434a4">server: ⁨98f6a6a⁩</a></li>
+      <li><a href="https://github.com/ascclemens/paste/commit/01cb6981d6d36376b40a46bdea92bc080fd92ba6">resources: ⁨01cb698⁩</a></li>
+      <li><a href="&#x2F;credits">credits</a></li>
+      <li class="is-active"><a>&copy; 2024</a></li>
+    </ul>
+  </nav>
+</footer>
+
+</body>
+</html>
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>404 · paste.gg</title>
+  <script
+    src="/static/js/detect-js.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
   integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
 <script
   src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
@@ -279,7 +353,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8efff3270d2315b6 &bull; 2024-12-10 20:22:56 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8f00467c696a7f9a &bull; 2024-12-10 21:19:49 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -304,12 +378,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8efff3270d2315b6</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f00467c696a7f9a</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.234.42.211</span>
+      <span class="hidden" id="cf-footer-ip">20.42.12.196</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -529,77 +603,3 @@ trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?path=%2Ftf3gqdlc
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#IR-%40V2ray_Alpha-8
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=1i5.diginoshops10.ir&type=httpupgrade#IR-%40V2ray_Alpha-9
 trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&encryption=none&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=680a8928#IR-%40V2ray_Alpha-10
-trojan://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IR-%40V2ray_Alpha-11
-trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=13l1.diginoshops10.ir#IR-%40V2ray_Alpha-12
-trojan://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=channel-mosiv2.pages.dev&fp=randomized&type=ws&sni=MoSiv2.PaGES.DeV#IR-%40V2ray_Alpha-13
-trojan://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&encryption=none&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&type=ws&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#IR-%40V2ray_Alpha-14
-trojan://e169856c-7c19-4908-9bdf-448dc846163a@144.21.56.16:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.0wolf.com#IR-%40V2ray_Alpha-15
-trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@cdn.011010100110111101110011011101000110000101110010110111010001100.de:443?path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=d7e1909f3a7e4477.jostar-data.nl&fp=firefox&type=httpupgrade&sni=wwwd7e1909f3a7e4477.jostar-data.nl#IR-%40V2ray_Alpha-16
-trojan://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImY0MS5tYXJ5YW0xNTAwLnRvcCIsImlkIjoiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5OCIsInBzIjoiSVItQFYycmF5X0FscGhhLTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==♾نامحدود
-trojan://auto@104.16.224.104:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#All-%40V2ray_Alpha_5♾نامحدود
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--4
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-85-39.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--5
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-94-131-115-71.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--6
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-77-91-72-197.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--7
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-185-231-206-12.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--8
-trojan://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#All-%40V2ray_Alpha--9
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#All-%40V2ray_Alpha--10
-trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047&security=tls&encryption=none&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#All-%40V2ray_Alpha--11
-trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&fp=chrome&type=ws&sni=sB-1u6.Pages.DEV#All-%40V2ray_Alpha--12
-trojan://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=aestingdownloadupload.pages.dev&fp=randomized&type=ws&sni=pages.dev#All-%40V2ray_Alpha--13
-trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=4cbba020.fastpurnet3.pages.dev&fp=randomized&type=ws&sni=4cbba020.fastpurnet3.pages.dev#All-%40V2ray_Alpha--14
-trojan://ec9406f9-3fc6-442d-b9f6-90c59b64eff2@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#All-%40V2ray_Alpha--15
-trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg104.pages.dev&type=ws&sni=pardazeshvpn-tg104.pages.dev#All-%40V2ray_Alpha--16♾نامحدود
-trojan://dns68@206.238.237.1:2087?path=%2F%3Fed&security=tls&host=trojan.putata.us.kg&type=ws&sni=trojan.putata.us.kg#Wifi-%40V2ray_Alpha-13
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-%40V2ray_Alpha-14
-trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-%40V2ray_Alpha-15
-trojan://dns68@135.84.79.80:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#Wifi-%40V2ray_Alpha-16
-trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#Wifi-%40V2ray_Alpha-17
-trojan://b8e24ec7-b282-46a9-b1ed-92583b1a5120@yyyyyyyyymahdi1.v2ryng01.ru:8443?security=none&encryption=none&headerType=none&type=tcp#Wifi-%40V2ray_Alpha-18
-trojan://eyJhZGQiOiIxNzIuNjcuMTQ0LjExNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGt6Ym9memtvcC5jb20iLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYnFxdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiV2lmaS1AVjJyYXlfQWxwaGEtMTkiLCJzY3kiOiJhdXRvIiwic25pIjoiZGt6Ym9memtvcC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==♾
-trojan://bpb-trojan@188.114.96.245:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#MCI-%40V2ray_Alpha-1
-trojan://dns68@66.179.48.88:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#MCI-%40V2ray_Alpha-2
-trojan://3648425794742788096@cool-meerkat.pig299.lat:443?security=tls&headerType=none&type=tcp&sni=cool-meerkat.pig299.lat#MCI-%40V2ray_Alpha-3
-trojan://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#MCI-%40V2ray_Alpha-4hysteria2://51ed158e-b95b-451b-a48b-60e356de287d@35f235a.surfcat.store:30103?security=tls&insecure=1&sni=35afq4514.surfcat.store#MCI-%40V2ray_Alpha-5hysteria2://d45e4297-0e1c-4e61-86e3-a2d18d3c2a0e@us.legeth.cc:26873?security=tls&insecure=0&sni=us.legeth.cc#MCI-%40V2ray_Alpha-6hysteria2://51ed158e-b95b-451b-a48b-60e356de287d@35afq4514.surfcat.store:30001?security=tls&insecure=1&sni=35afq4514.surfcat.store#MCI-%40V2ray_Alpha-7hysteria2://51ed158e-b95b-451b-a48b-60e356de287d@35asfq3t.surfcat.store:30103?security=tls&insecure=1&sni=35afq4514.surfcat.store#MCI-%40V2ray_Alpha-8
-trojan://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=VIrgiNiavPn-nL.pagEs.dEv&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv#MCI-%40V2ray_Alpha-9
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=Bloom-cHh.PAGEs.DeV&type=ws&sni=Bloom-cHh.PAGEs.DeV#MCI-%40V2ray_Alpha-10
-trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#MCI-%40V2ray_Alpha-11
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=blOOM-cHh.pAges.DeV&type=ws&sni=blOOM-cHh.pAges.DeV#MCI-%40V2ray_Alpha-12
-trojan://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=78345.pages.dev&type=ws&sni=ax78345V2ray.pages.dev#MCI-%40V2ray_Alpha-13
-trojan://eyJhZGQiOiJka3pib2Z6a29wLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGt6Ym9memtvcC5jb20iLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYnFxdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJka3pib2Z6a29wLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9♾نامحدود
-trojan://bpb-trojan@173.245.59.182:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#IR-%40V2ray_Alpha-1
-trojan://dns68@66.179.48.88:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#IR-%40V2ray_Alpha-2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?path=%2F6b777a91&security=tls&host=sherasheba.com&type=ws&sni=sherasheba.com#IR-%40V2ray_Alpha-3
-trojan://41ed1447-0623-4e86-b159-aee5a6f67a1c@157.90.236.4:29032?security=none&encryption=none&headerType=none&type=tcp#IR-%40V2ray_Alpha-4
-trojan://eyJhZGQiOiJjcy5wdXRpaGIub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjcy5wdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTUiLCJzY3kiOiJhdXRvIiwic25pIjoiY3MucHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://eyJhZGQiOiJjLnNlcmthdC5vcmciLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImMuc2Vya2F0Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS02Iiwic2N5IjoiYXV0byIsInNuaSI6ImMuc2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://eyJhZGQiOiJlcy5wdWxhdS5vcmciLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImVzLnB1bGF1Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS03Iiwic2N5IjoiYXV0byIsInNuaSI6ImVzLnB1bGF1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://eyJhZGQiOiJicy5wdXRpaGIub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJicy5wdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTgiLCJzY3kiOiJhdXRvIiwic25pIjoiYnMucHV0aWhiLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://eyJhZGQiOiJkLnJpdGNoaWVyLmluZm8iLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImQucml0Y2hpZXIuaW5mbyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS05Iiwic2N5IjoiYXV0byIsInNuaSI6ImQucml0Y2hpZXIuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://eyJhZGQiOiJiZS5rYWxhdnJ5dGEub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS5rYWxhdnJ5dGEub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTEwIiwic2N5IjoiYXV0byIsInNuaSI6ImJlLmthbGF2cnl0YS5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://eyJhZGQiOiIxMDQuMjEuODQuMTE0IiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS5oa2RkaXNuZXkub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTExIiwic2N5IjoiYXV0byIsInNuaSI6ImJlLmhrZGRpc25leS5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://eyJhZGQiOiJiZS50YXdhcmQub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS50YXdhcmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZS50YXdhcmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://eyJhZGQiOiIxMDQuMjEuNTYuMTg3IiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyaXRjaGllci5pbmZvIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTEzIiwic2N5IjoiYXV0byIsInNuaSI6InJpdGNoaWVyLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTE0Iiwic2N5IjoiYXV0byIsInNuaSI6ImphbWVray5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==♾ایرانسل
-trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-12
-trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-13
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Wifi-MCi-%40V2ray_Alpha-14
-trojan://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#Wifi-MCi-%40V2ray_Alpha-15
-trojan://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&security=none&encryption=none&type=ws#Wifi-MCi-%40V2ray_Alpha-16
-trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uhc6rhiubu.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#Wifi-MCi-%40V2ray_Alpha-17♾
-trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Ir-%40V2ray_Alpha-10
-trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Ir-%40V2ray_Alpha-11
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#Ir-%40V2ray_Alpha-12
-trojan://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.163.79:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#Ir-%40V2ray_Alpha-13
-trojan://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#Ir-%40V2ray_Alpha-14♾نامحدود
-trojan://telegram-id-privatevpns@35.181.94.246:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔
-vless://17bc17be-8764-4b9f-8c2c-6a5cd190ef01@104.17.148.22:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&type=ws#IR-%40V2ray_Alpha-02
-vless://d859fa25-320f-4af3-8075-9545957f1a62@151.101.3.8:80?path=%2Fspeedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa-speedfaa%3Fed%3D2048&security=none&encryption=none&host=speedfaa.com&type=ws#IR-%40V2ray_Alpha-03
-vless://9f25100d-25e5-4e8b-a684-36f9a194eb35@104.17.148.22:2052?path=%2Fvless&security=none&encryption=none&host=www-domain.uk2.v2vless.sitespeedtest.net&type=ws#IR-%40V2ray_Alpha-04
-vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@141.227.130.193:2000?security=reality&encryption=none&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&headerType=none&fp=qq&type=tcp&sni=chatbot.chronopost.fr&sid=5273fd24#IR-%40V2ray_Alpha-05
-vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@160.22.142.172:2000?security=reality&encryption=none&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&headerType=none&fp=ios&type=tcp&sni=www.huntingdon.edu&sid=5273fd24#IR-%40V2ray_Alpha-06
-vless://336a1cc3-dc1c-4d20-b2cc-618b50dc3f23@91.107.154.43:2083?security=reality&encryption=none&pbk=nS5815rpEsXGTPO9hjUW7KPMg_gkIgSfKHIN-JoLzg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=varzesh3.com&sid=1c5fb555a9609e45#IR-%40V2ray_Alpha-07
-vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&fp=chrome&type=ws&sni=pAgES.DEV#IR-%40V2ray_Alpha-08
-vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=paGES.dEV#IR-%40V2ray_Alpha-09
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.182:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=bPb005.paGes.DEV&type=ws&sni=bPb005.paGes.DEV#IR-%40V2ray_Alpha-10
-vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&security=tls&encryption=none&host=Falcunargo.net&type=ws&sni=zmaoz.faculty.ucdavis.edu#IR-%40V2ray_Alpha-11
