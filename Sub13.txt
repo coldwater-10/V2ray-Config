@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bd03e966-fda3-48a8-849c-7018ce8668a8@www.shopify.com:443?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-443 | 6.09ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@www.shopify.com:8443?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-8443 | 6.19ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@www.shopify.com:2053?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-2053 | 6.17ms
 vless://bd03e966-fda3-48a8-849c-7018ce8668a8@www.shopify.com:2096?encryption=none&security=tls&sni=edtunnel-9k9.pages.dev&fp=random&allowInsecure=1&type=ws&host=edtunnel-9k9.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | edtunnel-9k9.pages.dev-2096 | 6.21ms
@@ -603,3 +602,4 @@ vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com:80?path=/telegram-A
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
+			"udp_over_tcp" : false
