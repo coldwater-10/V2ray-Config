@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@comicabc.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 1.57ms
+vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@c.xf.free.hr:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 1.71ms
+vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@yecaoyun.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 1.74ms
+vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-443 | 12.94ms
+vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@myanmar.visa.com:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-8443 | 1.53ms
+vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@www.visa.com.tw:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-2053 | 1.64ms
+vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@www.visaeurope.ch:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-2083 | 1.9ms
 vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@www.visa.com.br:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-2087 | 1.77ms
 vless://1b7c6268-0c6e-439d-9e98-8f68fea36718@www.visasoutheasteurope.com:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hamsafar-42y.pages.dev&fp=randomized&type=ws&sni=hamsafar-42y.pages.dev#RELAY🚩 | hamsafar-42y.pages.dev-2096 | 1.58ms
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#US🇺🇸 | google.com-443 | 4.74ms
@@ -596,10 +603,3 @@ vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3,h2,ht
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
