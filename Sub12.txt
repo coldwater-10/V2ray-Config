@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@ipinfo.in:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 5.86ms
-vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@gamer.com.tw:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 5.67ms
-vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@steamdb.info:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 6.17ms
-vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@toy-people.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 6.23ms
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@silkbook.com:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 5.82ms
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@ipv4.ip.sb:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 6.02ms
 vless://f4e54c1e-87f6-4d5b-9e26-87e4a75301d1@ip.gs:443?security=tls&type=ws&sni=amphoenix900.pages.dev&host=amphoenix900.pages.dev&encryption=none&fp=randomized&path=%2Famphoenix900.pages.dev%2F%3Fed%3D2560&headerType=none#RELAY🚩 | amphoenix900.pages.dev-443 | 5.87ms
@@ -603,3 +599,7 @@ vless://telegram-id-ArV2ray@live.skornorth.com:443?path=/telegram-ArV2ray,telegr
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
