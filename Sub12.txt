@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://suevpnx1290@104.24.46.62:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.49ms
+trojan://suevpnx1290@172.64.40.199:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.23ms
+trojan://suevpnx1290@103.21.244.137:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.15ms
+trojan://suevpnx1290@104.16.214.9:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 1.82ms
+trojan://suevpnx1290@104.24.237.80:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.38ms
+trojan://suevpnx1290@141.101.83.248:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 1.97ms
+trojan://suevpnx1290@172.64.66.16:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.45ms
+trojan://suevpnx1290@188.114.102.111:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.84ms
+trojan://suevpnx1290@190.93.247.9:443?type=ws&sni=johnwick90.pages.dev&path=%2F%3Fed%3D2560&host=johnwick90.pages.dev#RELAY🚩 | johnwick90.pages.dev-443 | 2.3ms
+trojan://ridamtomasoulin@visa.cn:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 25.51ms
+trojan://ridamtomasoulin@icook.hk:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.45ms
 trojan://ridamtomasoulin@time.is:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.17ms
 trojan://ridamtomasoulin@198.62.62.156:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.26ms
 trojan://ridamtomasoulin@162.159.129.11:2053?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-2053 | 1.97ms
@@ -592,14 +603,3 @@ vless://tel--ZEDMODEON@live.skornorth.com:443?path=/@ZEDMODEON-ZEDMODEON-ZEDMODE
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
-			"server" : "aiavnd1.vip.conectinnode.info",
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
-			"method" : "chacha20-ietf",
