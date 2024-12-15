@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://ridamtomasoulin@time.is:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 6.41ms
-trojan://ridamtomasoulin@icook.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 6.09ms
-trojan://ridamtomasoulin@icook.tw:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 6.36ms
-trojan://ridamtomasoulin@ip.sb:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 6.12ms
 trojan://ridamtomasoulin@shopify.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 5.74ms
 trojan://ridamtomasoulin@172.67.181.209:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 5.88ms
 trojan://ridamtomasoulin@172.67.49.134:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 6.11ms
@@ -603,3 +599,7 @@ vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3,h2,ht
 	"portMap" : {
 
 	}
+}
+{
+	"configs" : [
+		{
