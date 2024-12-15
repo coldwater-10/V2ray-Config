@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://ridamtomasoulin@icook.hk:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 3.08ms
-trojan://ridamtomasoulin@time.is:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.57ms
-trojan://ridamtomasoulin@198.62.62.156:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.45ms
-trojan://ridamtomasoulin@162.159.129.11:2053?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-2053 | 2.38ms
-trojan://ridamtomasoulin@162.159.129.67:8443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-8443 | 2.88ms
-trojan://ridamtomasoulin@104.16.134.27:2083?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-2083 | 2.78ms
-trojan://ridamtomasoulin@104.25.254.4:2087?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-2087 | 2.62ms
-trojan://ridamtomasoulin@104.17.128.1:2096?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-2096 | 2.73ms
-trojan://ridamtomasoulin@ashton.ns.cloudflare.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.78ms
-trojan://ridamtomasoulin@abdullah.ns.cloudflare.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.94ms
 trojan://ridamtomasoulin@bowen.ns.cloudflare.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.89ms
 trojan://ridamtomasoulin@benedict.ns.cloudflare.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.46ms
 trojan://ridamtomasoulin@braden.ns.cloudflare.com:443?type=ws&sni=cfsue1890.pages.dev&path=%2Fcfsue1890.pages.dev%2F%3Fed%3D2560&host=cfsue1890.pages.dev#RELAY🚩 | cfsue1890.pages.dev-443 | 2.6ms
@@ -603,3 +593,13 @@ vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3,h2,ht
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
