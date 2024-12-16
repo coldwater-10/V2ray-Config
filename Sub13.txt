@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:443?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-443 | 2.13ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2096?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2096 | 1.75ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2053?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2053 | 1.97ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2083?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2083 | 2.1ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2087?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2087 | 2.14ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:80?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-80 | 2.34ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:8080?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-8080 | 1.8ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2052?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2052 | 2.59ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2086?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2086 | 2.34ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2095?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2095 | 2.48ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2053?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2053 | 2.38ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2087?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2087 | 2.89ms
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-443 | 17.94ms
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-8443 | 4.43ms
@@ -592,14 +603,3 @@ vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3,h2,ht
 	"portMap" : {
 
 	}
-}
-{
-	"configs" : [
-		{
-			"remarks" : "www.dongtaiwang.com 洛杉矶",
-			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
-			"server" : "liaoningddns.xyz",
-			"server_port" : 11421,
-			"server_udp_port" : 0,
-			"password" : "Fhbe0z",
-			"method" : "chacha20-ietf",
