@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:80?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-80 | 2.42ms
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:8080?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-8080 | 2.65ms
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2052?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2052 | 2.67ms
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2086?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2086 | 2.62ms
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2095?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#RELAY🚩 | 1223-9ux.pages.dev-2095 | 2.37ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:443?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-443 | 18.38ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:8443?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-8443 | 2.56ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:2096?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-2096 | 2.62ms
@@ -598,8 +603,3 @@ vless://v2rayvpn_______official@zula.ir:8443?mode=gun&security=tls&alpn=h3,h2,ht
 			"obfs" : "tls1.2_ticket_auth",
 			"obfsparam" : "f4b6417431.microsoft.com",
 			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		}
-	],
