@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?encryption=none&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@172.67.195.176:8880?encryption=none&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.wOrkers.DEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.wOrkers.DEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:8443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.WORKERS.dEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.WORKERS.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.wOrkers.DEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.wOrkers.DEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.WORKERS.dEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.WORKERS.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://eae21a69-c4bf-4da6-9b7b-916a302ca32b@[2a0b:4140:659a:2::2]:33000?encryption=none&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&security=reality&serviceName=b&sid=be7f13dd&sni=www.speedtest.net&type=grpc#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://ef50cac3-d137-4d3f-830f-84a4cd84339e@104.19.251.227:2096?alpn=http%2F1.1&encryption=none&host=worker-wild-limit-d8f8.tenomi4521.wOrKErs.DeV&path=vless-ws%2F&security=tls&sni=worker-wild-limit-d8f8.tenomi4521.wOrKErs.DeV&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -603,3 +598,8 @@ hysteria2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443?sec
 hysteria2://KevinZakarian@66.23.198.35:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=kevin.serverv.net#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hysteria2://4453aa95-c236-46a1-8066-8145ab8ebee6@207.211.189.252:30102?security=tls&insecure=1&sni=us12.wish.ml#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hysteria2://sysadmin.sysadmin@194.36.209.54:443?security=tls&insecure=1#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
+hysteria2://2d347be7-909b-4410-af92-95a1abf7e531@193.123.76.84:35000?security=tls&insecure=1&sni=www.apple.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇦🇪%20AE%20down
+hysteria2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?security=tls&insecure=1&sni=www.apple.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇪%20SE%20down
+hysteria2://2d347be7-909b-4410-af92-95a1abf7e531@141.147.19.58:35000?security=tls&insecure=1&sni=api.push.apple.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇩🇪%20DE%20down
+hysteria2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?security=tls&insecure=1&sni=www.apple.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇫🇷%20FR%20down
+hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?security=tls&insecure=1&sni=www.bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇵🇱%20PL%20down
