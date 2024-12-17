@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
-  "showPluginOutput": false,
-  "pacUrl": null,
-  "gfwListUrl": null,
-  "useOnlinePac": false,
-  "secureLocalPac": true,
-  "availabilityStatistics": false,
   "autoCheckUpdate": false,
   "checkPreRelease": false,
   "isVerboseLogging": false,
@@ -603,3 +594,12 @@ vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@hajlab.ucdavis.edu:80?encryption=no
 vless://d41faf1e-054b-48e9-9487-40747f230808@162.159.24.142:443?encryption=none&type=ws&path=%2Fws&host=f-dl.chawoshco.ir&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=f-dl.chawoshco.ir#111-%40VPN_VIP_NOR-12
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=3k.pureboy.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=3k.pureboy.eu.org#112-%D8%AC%D9%88%DB%8C%D9%86%2B%D8%B4%D9%88%2Bmiov2ray%40%20%20%F0%9F%91%BB%F0%9F%AB%B6
 vless://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?encryption=none&type=tcp&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=212.16.68.63#113-%D9%87%D8%AF%DB%8C%D9%87%203%20%D8%B1%D9%88%D8%B2%D9%87-%40fasst_vpn
+vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?encryption=none&type=ws&path=%2Fvless&host=Fr2.vless.site.&security=none&alpn=h2%2Chttp%2F1.1&fp=edge&sni=Fr2.vless.site.#114-%40hopev2ray%F0%9F%92%99
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&type=ws&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&host=iSAA1.paGEs.DEV&security=tls&alpn=h2&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=iSaa1.PAGeS.DeV#115-%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D9%85%D8%A7%2B%D8%AF%D8%B1%2B%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%2B%40Asak_Vpn%2B%F0%9F%92%9B
+vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@hajlab.ucdavis.edu:443?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.TzZLiMitTNeWz.NeT&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=hajlab.ucdavis.edu#116-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
+vless://c2b162ee-c653-4345-9cbe-58e4b085f4c6@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&host=rohammmmmvistav2.ir&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-20&sni=hajlab.ucdavis.edu#117-%F0%9F%87%A9%F0%9F%87%AA%2B%40vistav2ray
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?encryption=none&type=ws&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&host=tnetplus-1wc.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-50&sni=tnetplus-1wc.pages.dev#118-%40vpnAzadland%F0%9F%AA%BD
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.13.101:80?encryption=none&type=ws&path=%2Fxmlrpc.php%3Fed%3D1080&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.#119-%40meli_proxyy
+vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&host=86278058785885367257976103254902.v2line.net&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C20-50%2C10-50&sni=86278058785885367257976103254902.v2line.net#120-%40meli_proxyyy
+vless://9cf16370-7cb1-4d3c-aa56-7f45747939db@speedtest.net:80?encryption=none&type=ws&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&host=Tehranc3.Org&security=none&alpn=http%2F1.1&fp=firefox&sni=Tehranc3.Org#121-WS%2B%C2%B3%2B%40icv2ray
+vless://9ab2b8f7-e854-4716-8ddd-f72e7aaa9b8a@173.245.58.100:80?encryption=none&type=httpupgrade&path=%2Fresult%3Fed%3D80&host=fr.aptel.irancell.mci.it.www.speedtest.net.zula.ir.Nanowash-shop.ir.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=fr.aptel.irancell.mci.it.www.speedtest.net.zula.ir.Nanowash-shop.ir.#122-%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D9%85%D8%A7%2B%D8%AF%D8%B1%2B%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%2B%40Asak_Vpn%2B%F0%9F%94%B5
