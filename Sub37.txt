@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
             </a>
             <div class="requires-js">
               <hr class="navbar-divider"/>
@@ -219,7 +225,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8f3d63acaf0d3891 &bull; 2024-12-18 07:20:16 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8f3dc73f9df467eb &bull; 2024-12-18 08:28:14 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -244,12 +250,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f3d63acaf0d3891</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f3dc73f9df467eb</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.190.111.227</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.84</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -597,9 +603,3 @@ vless://13fa0037-5480-446b-8885-714e424677fb@103.21.244.182:80?path=%2F%3Fed%3D2
 vless://13fa0037-5480-446b-8885-714e424677fb@104.24.53.6:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=black-wind-7f73lb.jewefe6869.workers.dev&type=ws#👉🆔
 vless://13fa0037-5480-446b-8885-714e424677fb@172.64.109.148:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=black-wind-7f73lb.jewefe6869.workers.dev&type=ws#👉🆔
 vless://1f2f0b4c-e5f2-4122-8f91-9ec61792098f@104.19.54.231:8080?type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D8080#👉🆔
-vless://0140727e-61b0-4ff3-91b0-e8af147e00e6@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN---@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN?ed%3D8880&host=Moft_VPN.net&encryption=none#👉🆔
-vless://59fa18e2-6bb7-42b6-87ec-880eb53514f9@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#👉🆔
-vless://75f12cab-d1e7-4e52-a828-093492a8401e@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#👉🆔
-vless://31e437ef-7ad8-4393-b232-1c5fbe7db0c0@wWw.SpeedTeSt.Net:2082?path=%2F%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam%3Fed%3D2560&security=none&encryption=none&host=JOIN.SVNTEAM.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.SvnTeam.DDNS-IP.nEt%3A5.5.5.5.5.Rubika.iR.Dashboard.WelCome.Com.1.1.1.1.SportXnews.cOm.&type=ws#👉🆔
-vless://d23eb114-7097-4743-aa73-d4ebbee94eed@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔
-vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#👉🆔
