@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@158.178.142.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=mirrors.download.xn--mirrors-oj8km52txc7d.com&fp=chrome&packetEncoding=xudp#$m
+vless://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@141.147.72.184:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.mirrors.download.xn--mirrors-oj8km52txc7d.com&fp=chrome&packetEncoding=xudp#$m
+vless://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@138.2.171.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.mirrors.download.xn--mirrors-oj8km52txc7d.com&fp=chrome&packetEncoding=xudp#$m
+
+vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
 vless://55b57d47-00b7-4539-ae4a-fc394e53d3d4@www.speedtest.net:8880?flow=&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&type=ws#@V2rayMiner
 vless://d6545fce-02c9-4d1e-ae5d-e55d2f60d165@Arpc.MAshti.link:8880?flow=&host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&type=ws#@V2rayMiner
