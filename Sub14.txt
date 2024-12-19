@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 3.93ms
+vless://0be5f51e-498c-4d91-890b-bc3f047fab52@ip.irino.sbs:2083?path=%2Fvless&security=tls&encryption=none&host=fr1.vless.site&type=ws&sni=fr1.vless.site#CY🇨🇾 | fr1.vless.site-2083 | 93.89ms
+vless://0948673a-e607-4629-a07e-c70e1122fb73@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 1.94ms
+vless://060e0cfb-aa46-435a-8c9b-d35605419361@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 1.84ms
+vless://032f6acf-d1e0-4f95-bdaa-e913977f93e8@92.243.74.151:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 121.9ms
+vless://032f6acf-d1e0-4f95-bdaa-e913977f93e8@188.164.158.161:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 109ms
+vless://032f6acf-d1e0-4f95-bdaa-e913977f93e8@185.146.173.90:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 124.02ms
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:8443?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-8443 | 13.09ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:443?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-443 | 2.1ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2096?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2096 | 2.05ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@kelly-similiarbody.shop:2053?encryption=none&security=tls&sni=tnetplus.pages.dev&fp=randomized&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus.pages.dev-2053 | 1.88ms
@@ -595,11 +603,3 @@ vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON
 		{
 			"remarks" : "www.dongtaiwang.com 洛杉矶",
 			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
-			"server" : "liaoningddns.xyz",
-			"server_port" : 11421,
-			"server_udp_port" : 0,
-			"password" : "Fhbe0z",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "17431:D7BnFuPDyUA",
-			"obfs" : "tls1.2_ticket_auth",
