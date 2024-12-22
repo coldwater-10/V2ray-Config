@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://228bf403-6198-4dc1-bc98-65ee1792d772@104.16.136.35:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸 | bia-to-channel4.unlimiteddev.shop-80 | 4.33ms
 vless://1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.23ms
 vless://1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.05ms
 vless://1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.32ms
@@ -603,3 +602,4 @@ vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON
 	],
 	"index" : 0,
 	"random" : true,
+	"sysProxyMode" : 3,
