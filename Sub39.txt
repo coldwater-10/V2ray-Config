@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://078cb40d-20ee-4f17-830a-f4fd180ea3e4@amirtronic.1384.zula.amirtronic.top:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.amirtronic.top.&type=ws#@vpnclashfa - 5
-vless://07631ca0-01f9-42fe-b8ad-bea5f8bb79e8@104.25.255.156:443?encryption=none&security=tls&sni=cc1.kosnanatfilterchi.eu.org&alpn=h3&fp=chrome&type=ws&host=cc1.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#@vpnclashfa - 4
-vless://0557b9ff-877c-412d-eb09-2d4988e70299@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=diVAr.iR.DigIcYBer.CLIck.&type=httpupgrade#@vpnclashfa - 3
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.33.176.169:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#@vpnclashfa - 2
-vless://032f6acf-d1e0-4f95-bdaa-e913977f93e8@188.164.158.246:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 1
-trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#@vpnclashfa - 26
-trojan://telegram-id-privatevpns@99.81.163.185:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 25
-trojan://telegram-id-directvpn@18.135.189.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 24
-trojan://telegram-id-directvpn@16.170.88.101:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 23
-trojan://gW2L4C6TS3@195.133.52.153:2087?path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=http&sni=ru2.all-connections.ir#@vpnclashfa - 22
-trojan://bpb-trojan@zula.ir:443?path=%2FtrxcjEhlEAQoH0H4xK%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-worKER-PAnEl.PagES.Dev#@vpnclashfa - 21
-trojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrawQuYV0dBGjBNVXI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-WoRKeR-paNEl.PagEs.dEv#@vpnclashfa - 20
 trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#@vpnclashfa - 19
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#@vpnclashfa - 18
 trojan://bpb-trojan@[2606:4700:310c::ac42:2c57]:443?path=%2FtrX8KHVBHF19MGHAzI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BpB-worKeR-pAnEL.paGEs.dEV#@vpnclashfa - 17
@@ -59,8 +47,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@162.159.1.105:443?security=tls&sni=ChA
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMzU1ZTI5ODUtODljMS00Y2FlLTlhZDMtNzM5NWYxMzAyMjE4IiwicGFnZV90aW1lIjoxNzM0OTc0Mjc3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjQyLjE2LjExNSJ9Cg==";</script>
-<script src="/bnHaaxlZO.js"></script>
+<script>window.park = "eyJ1dWlkIjoiZDc5NDVhZTMtYTRlMy00ZTE5LTllNWEtYmM1NWYzMzRiMWJjIiwicGFnZV90aW1lIjoxNzM0OTc4NDExLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjQyLjE3LjExNyJ9Cg==";</script>
+<script src="/bqTiGabgm.js"></script>
 </body>
 </html>
 
@@ -603,3 +591,15 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
               <hr class="navbar-divider"/>
               <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
                 Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
