@@ -3,28 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
-<link
-  title="light"
-  rel="stylesheet alternate"
-  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
-<script
-  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
-<script
-  defer
-  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
-<script
-  defer
-  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
-  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
-<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
-<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
-<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
-<meta name="msapplication-TileColor" content="#FFFFFF"/>
-<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
 <meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
 <meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
 <meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
@@ -284,7 +262,7 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 8f67a076ff80c994 &bull; 2024-12-23 10:21:48 UTC</small>
+          <small class="heading-ray-id">Ray ID: 8f67f14ee877c9b3 &bull; 2024-12-23 11:16:59 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -309,12 +287,12 @@ We couldn&#x27;t find what you&#x27;re looking for. Sorry!
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f67a076ff80c994</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8f67f14ee877c9b3</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.42.14.162</span>
+      <span class="hidden" id="cf-footer-ip">68.154.31.162</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +581,25 @@ vless://5e454ad1-f158-4608-a51f-5f8700964e2e@irc6.vpsland.site:39357?security=no
 vless://357027be-f167-41c3-a878-aa64f6284761@104.17.147.22:443?path=%2Fv2line-paris-france-vl-ws-tls-advanced&security=tls&encryption=none&host=12863995741163367406554084809141.v2line.net&type=ws&sni=12863995741163367406554084809141.v2line.net#IR-%40V2ray_Alpha-14
 vless://eyJhZGQiOiIxODguMTIxLjEyMi44OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZXdlYmlvbi5jb20iLCJpZCI6IjZlNjFiNzcxLWYyYzItNDBlMS05NzI1LTZjYWQwMDY1YTI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQwODA0IiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9♾نامحدود
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-16
+vless://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IldpRmktQFYycmF5X0FscGhhLTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾
+vless://6a22bd4b-9eb5-41ef-d953-5e25fb20c55c@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#Mci-%40V2ray_Alpha-07
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#Mci-%40V2ray_Alpha-08
+vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#Mci-%40V2ray_Alpha-09
+vless://a5b1fa7c-3a28-4e23-8b13-cc1c98c8f151@151.101.66.133:80?path=%2F&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g1h.com&type=ws#Mci-%40V2ray_Alpha-10
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.171:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aba.zhuk.us.kg&type=ws&sni=aba.zhuk.us.kg#Mci-%40V2ray_Alpha-11
+vless://eyJhZGQiOiJ1bC1qYXBhbjEuMDl2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE4NjU5YTMxLWFkZDktNGI5Zi1hZjU3LTc3ZmZhZjAzOTZjOSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8jIiwicG9ydCI6IjgwIiwicHMiOiJNY2ktQFYycmF5X0FscGhhLTAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==♾نامحدود
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#Ir-%40V2ray_Alpha-7
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=vbbc.ylks2024.us.kg&type=ws&sni=vbbc.ylks2024.us.kg#Ir-%40V2ray_Alpha-8
+vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#Ir-%40V2ray_Alpha-9
+vless://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&encryption=none&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#Ir-%40V2ray_Alpha-10
+vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#Ir-%40V2ray_Alpha-11
+vless://c0a863a0-e9fa-43c3-8328-5387a00aa1e0@74.48.100.195:54157?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sega.com#Ir-%40V2ray_Alpha-12
+vless://eyJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNmYwNTQxZi1hZjcxLTRlMTYtOWNkOC01YTYxMjkzNGI3YTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMjk0IiwicHMiOiJJci1AVjJyYXlfQWxwaGEtMTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://eyJhZGQiOiIxNjIuMjUxLjYyLjExNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJJci1AVjJyYXlfQWxwaGEtMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://eyJhZGQiOiIxOTMuMTYwLjEzMC4yNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJleW9uZGRzei5jZmQiLCJpZCI6IjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJJci1AVjJyYXlfQWxwaGEtMTUiLCJzY3kiOiJhdXRvIiwic25pIjoiYmV5b25kZHN6LmNmZCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://eyJhZGQiOiJobXMyNC5pdmlkZW9zLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXZpZGVvcy5zYnMiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJJci1AVjJyYXlfQWxwaGEtMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiaXZpZGVvcy5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==♾نامحدود
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#Wifi-%40V2ray_Alpha-22
+vless://69f8b663-1bb1-466d-a440-82814c5281d2@142.132.237.159:333?mode=gun&security=reality&encryption=none&pbk=k7IVO7W6lPYjx7B9LnjZxA4cwTgCWiYF3w3wGE7wERU&fp=chrome&type=grpc&sni=www.speedtest.net&sid=fee425#Wifi-%40V2ray_Alpha-23
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#Wifi-%40V2ray_Alpha-24
+vless://eyJhZGQiOiI0OS4xMy4xMjYuMTM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiODk5MGViMmUtNTEwZC00NDMxLWFkOGQtYjVjNDg4ZDAzOTM2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTQwMzEiLCJwcyI6IldpZmktQFYycmF5X0FscGhhLTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IldpZmktQFYycmF5X0FscGhhLTI2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾
