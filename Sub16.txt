@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://9ab014d4-273c-4221-bb57-464bd0cc2a09@104.16.151.185:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸 | bia-to-channel4.unlimiteddev.shop-80 | 19.86ms
-vless://9a7a3472-5b8a-43b4-9e44-c54e1a633a52@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#RELAY🚩 | gard.starmc.ir-443 | 6.15ms
-vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v30.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.51ms
-vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v29.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.36ms
-vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v22.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.31ms
-vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.03ms
 vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.63ms
 vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.49ms
 vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.bEsTdRlImIt.NeT#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.54ms
@@ -603,3 +597,9 @@ vless://telegram-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegram-A
       "password": "dongtaiwang.com",
       "method": "aes-256-gcm",
       "plugin": "v2ray-plugin",
+      "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
+      "plugin_args": "",
+      "remarks": "www.dongtaiwang.com 洛杉矶",
+      "timeout": 5
+    }
+  ],
