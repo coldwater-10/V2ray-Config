@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://475429b6-5012-4ede-9cde-a049d5372f7f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 10.29ms
+vless://475429b6-5012-4ede-9cde-a049d5372f7f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 10.79ms
+vless://475429b6-5012-4ede-9cde-a049d5372f7f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 9.84ms
+vless://451f428c-7630-4363-b667-8928b710a5b3@serverpars.com:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 176.75ms
 vless://451f428c-7630-4363-b667-8928b710a5b3@ketabnak.com:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 163.91ms
 vless://451f428c-7630-4363-b667-8928b710a5b3@dizibox.tv:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 162.7ms
 vless://451f428c-7630-4363-b667-8928b710a5b3@188.164.158.246:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#SE🇸🇪 | connectingno.technewspaper.store-2053 | 177.18ms
@@ -599,7 +603,3 @@ vless://telegram-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegram-A
 			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
