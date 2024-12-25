@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@59.29.116.20:11965?encryption=none&host=global2.ccdd.site&security=tls&sni=global2.ccdd.site&type=ws#%F0%9F%87%B0%F0%9F%87%B7KR%28AzadNet.t.me%29
+vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?encryption=none&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@172.67.195.176:8880?encryption=none&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.wOrkers.DEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.wOrkers.DEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:8443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.WORKERS.dEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.WORKERS.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.wOrkers.DEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.wOrkers.DEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?alpn=http%2F1.1&encryption=none&host=web.v2ray-ab-841-vpn.WORKERS.dEv&path=vless-ws%2F&security=tls&sni=web.v2ray-ab-841-vpn.WORKERS.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://eae21a69-c4bf-4da6-9b7b-916a302ca32b@[2a0b:4140:659a:2::2]:33000?encryption=none&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&security=reality&serviceName=b&sid=be7f13dd&sni=www.speedtest.net&type=grpc#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://ef50cac3-d137-4d3f-830f-84a4cd84339e@104.19.251.227:2096?alpn=http%2F1.1&encryption=none&host=worker-wild-limit-d8f8.tenomi4521.wOrKErs.DeV&path=vless-ws%2F&security=tls&sni=worker-wild-limit-d8f8.tenomi4521.wOrKErs.DeV&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -597,9 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMjMuMTU3LjQwLjExMzozMzA2#🇺🇸US_265
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguMTQzLjY2Ljg3Ojg4ODg=#🇺🇸US_266 | 8.56Mb
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDM4LjE0My42Ni44Nzo2Njk3#🇺🇸US_267 | 8.52Mb
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjE4LjIyOS4xNzA6NDQz#🇺🇸US_268 |20.32Mb
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTg0Ljc3LjE5OTo0NDM=#🇺🇸US_270 |20.97Mb
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4Ljc1LjEzNi4yMTo1MDAz#🇺🇸US_271 | 8.45Mb
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDIzLjE1Ny40MC4xMTM6NDQ0NA==#🇺🇸US_272 | 8.47Mb
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDIzLjE1Ny40MC4xMTM6NzMwNg==#🇺🇸US_273 | 8.61Mb
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNkAxMzguMTk5LjQyLjY4OjgwODA=#🇺🇸US_274 | 3.49Mb
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTQyLjIwMi40OS4xMjI6OTEwMQ==#🇺🇸US_275 | 8.68Mb
