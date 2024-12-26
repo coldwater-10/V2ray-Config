@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://4f2e05f5-2bd5-40a8-90c6-3144de8379bd@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.69ms
-vless://4f2e05f5-2bd5-40a8-90c6-3144de8379bd@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.61ms
 vless://4f2e05f5-2bd5-40a8-90c6-3144de8379bd@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.83ms
 vless://4f2e05f5-2bd5-40a8-90c6-3144de8379bd@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 4.19ms
 vless://4d69403d-c435-4ed8-a2ba-5a95fc05485f@ns2.esfahansiman.com:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#RELAY🚩 | FTP.tehrANSiman.coM.-2052 | 13.25ms
@@ -603,3 +601,5 @@ vless://telegram-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegram-A
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
+			"udp_over_tcp" : false
+		},
