@@ -3,50 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "476637:Caiange823057",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
@@ -603,3 +559,47 @@ vless://65364f16-a80d-4879-a22a-fdb81340d0c2@www.speedtest.net:443?encryption=no
 vless://35017be6-5b1c-4cd4-a248-95c4a99a46b1@151.101.130.228:443?encryption=none&type=ws&path=%2F%40melov2ray%2Fws%3Fed%3D2048&host=meloch-de.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=Zmaoz.Faculty.UcdavIS.Edu.#177-%F0%9F%87%BA%F0%9F%87%B8US_14_%40Surfboardv2ray
 vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@fts.mahxraytm.com:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=MaHxRaYtDeP.Ir.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=MaHxRaYtDeP.Ir.#178-%F0%9F%87%BA%F0%9F%87%B8US_23_%40Surfboardv2ray
 vless://5f5467e0-691d-4c61-9d3f-7d4cea17022c@live.989bull.com:443?encryption=none&type=ws&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&host=Golestanvpn.com&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-50&sni=live.989bull.com#179-%F0%9F%87%BA%F0%9F%87%B8US_30_%40Surfboardv2ray
+vless://176b41c4-cad6-49bf-81a1-e6a7b6331aa1@live.theworldwidewolf.com:443?encryption=none%3D%2F%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO&type=ws&path=%2F%40custom_config%3Fed%3D2048&host=doWnloadlynEt.iR.&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=www.robertwalters-usa.com#180-%F0%9F%87%BA%F0%9F%87%B8US_11_%40Surfboardv2ray
+vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@104.17.148.22:443?encryption=none&type=ws&path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&host=86278058785885367257976103254902.v2line.net&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=86278058785885367257976103254902.v2line.net#181-%F0%9F%87%A8%F0%9F%87%A6CA_57_%40Surfboardv2ray
+vless://f848942f-30f1-446e-a546-7c500facce27@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-frankfurt-germany-vl-ws-tls-advanced&host=31451350071858616668266749896909.v2line.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=31451350071858616668266749896909.v2line.net#182-%F0%9F%87%A8%F0%9F%87%A6CA_82_%40Surfboardv2ray
+vless://357027be-f167-41c3-a878-aa64f6284761@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-paris-france-vl-ws-tls-advanced&host=12863995741163367406554084809141.v2line.net&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=12863995741163367406554084809141.v2line.net#183-%F0%9F%87%A8%F0%9F%87%A6CA_16_%40Surfboardv2ray
+vless://6433ee3c-c408-47ea-a5da-a9c980160d23@hajlab.ucdavis.edu:443?encryption=none&type=ws&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&host=rohammmmmvistav2.ir&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=hajlab.ucdavis.edu#184-%F0%9F%87%BA%F0%9F%87%B8US_32_%40Surfboardv2ray
+vless://3a15a346-2f6f-41bc-ad0c-a885aec3002a@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&host=46771119909676129223555549792065.v2line.net&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=46771119909676129223555549792065.v2line.net#185-%F0%9F%87%A8%F0%9F%87%A6CA_18_%40Surfboardv2ray
+vless://4a41de72-af20-4a1b-a561-85caf016d414@104.19.48.236:443?encryption=none&type=ws&path=%2F4a41de72-af20-4a1b-a561-85caf016d414&host=hkone.111677.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=hkone.111677.xyz#186-%F0%9F%87%A8%F0%9F%87%A6CA_25_%40Surfboardv2ray
+vless://e3d88bae-d1ef-420a-b23a-e53a4d819dcc@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-istanbul-turkey-vl-ws-tls-advanced&host=16833408090632354836285938102432.v2line.net&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=16833408090632354836285938102432.v2line.net#187-%F0%9F%87%A8%F0%9F%87%A6CA_70_%40Surfboardv2ray
+vless://3d5115e5-61c5-4a15-a616-6f2734914797@151.101.2.133:443?encryption=none&type=ws&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&host=Configt-Channel.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=compare99.com#188-%F0%9F%87%BA%F0%9F%87%B8US_20_%40Surfboardv2ray
+vless://357027be-f167-41c3-a878-aa64f6284761@104.17.147.22:443?encryption=none&type=ws&path=%2Fv2line-paris-france-vl-ws-tls-advanced&host=12863995741163367406554084809141.v2line.net&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=12863995741163367406554084809141.v2line.net#189-%F0%9F%87%A8%F0%9F%87%A6CA_15_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.160.204.4:443?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&host=123.drming.buzz&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=123.drmIng.bUzz#190-%F0%9F%87%AD%F0%9F%87%B0HK_43_%40Surfboardv2ray
+vless://f7993502-37fe-4a14-8836-66ded7b88bfd@www.speedtest.net:443?encryption=none&type=ws&path=%2Fv2line-dubai-unitedarabemirates-vl-ws-tls-advanced&host=40172455355379893279666481965425.v2line.net&security=tls&alpn=h2&fp=ios&fragment=tlshello%2C20-50%2C10-50&sni=40172455355379893279666481965425.v2line.net#191-%F0%9F%87%A8%F0%9F%87%A6CA_81_%40Surfboardv2ray
+vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@fasttls.mahxraytm.com:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=MaHxRaYtDeP.Ir.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=MaHxRaYtDeP.Ir.#192-%F0%9F%87%BA%F0%9F%87%B8US_22_%40Surfboardv2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-3424
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-3320
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-3546
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-3500
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0164
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0069
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0135
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0130
+vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODMuMTA4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICAgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuODMuMTA4LTg2NTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@sherasheba.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-8646
+trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443?security=tls&sni=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-4046
+trojan://984e400bf5d541b7b0815913fe0c432a@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-4220
+trojan://b4e8771997c94732acbc9ec4d19c2589@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-6729
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6738
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-3967
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-3875
+trojan://f0eb8c92ce8946aaba856569cff1a16b@23.150.248.54:443?security=tls&sni=jobscareerforlawyers.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.54-6782
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-3893
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@sherasheba.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-8687
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6802
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-3262
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%BA%F0%9F%87%B8US-194.5.215.59-0097
+trojan://2cba4104747d49d18319e5ade1b93ab5@23.150.248.107:443?security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.107-6768
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@142.202.48.220:443?security=tls&sni=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.220-7178
+trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&sni=avianrecruit.com#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.138-3131
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-6744
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#%F0%9F%87%BA%F0%9F%87%B8US-92.118.112.111-3154
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-3639
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.150-3843
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-3318
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-3372
