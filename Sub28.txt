@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.87:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2375#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.46:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.142:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.27:2375#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2375#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -603,3 +594,12 @@ trojan://ypDt8RkT7J@185.180.13.70:43118?allowInsecure=1&security=tls&sni=earya.p
 tuic://d6214437-e1b5-4334-9090-8f66b78bea89:dongtaiwang@108.181.22.205:50987?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=telegramEUT-VPN.ddns.net&udp_relay-mode=native&udp_relay_mode=native&version=5#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?alpn=h3&congestion_control=bbr&congestion_controller=bbr&udp_relay-mode=native&udp_relay_mode=native&version=5#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://04445126-54bd-48e4-b6f0-dd35b18baf44@104.26.14.16:443?encryption=none&host=falcunargo-channel.6fb12429e8.workers.Dev&path=%2F&security=tls&sni=falcunargo-channel.6fb12429e8.workers.Dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://04445126-54bd-48e4-b6f0-dd35b18baf44@[2606:4700:20::681a:e10]:443?encryption=none&host=falcunargo-channel.6fb12429e8.workers.Dev&path=%2F&security=tls&sni=falcunargo-channel.6fb12429e8.workers.Dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://04a6d9ad-15d1-5391-a47f-10c8a6ff3d94@104.21.59.254:8443?alpn=http%2F1.1&encryption=none&host=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&path=vless-ws%2F&security=tls&sni=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://04a6d9ad-15d1-5391-a47f-10c8a6ff3d94@172.67.186.159:8443?alpn=http%2F1.1&encryption=none&host=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&path=vless-ws%2F&security=tls&sni=id-tel-vpnkenzo-1.bvxvgih.WOrkeRs.dEv&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://050450d4-7c7d-435f-b812-155e30fd8c7c@104.21.7.175:443?encryption=none&host=freedom1.boficax311.workers.dev&security=tls&sni=freedom1.boficax311.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://050450d4-7c7d-435f-b812-155e30fd8c7c@172.67.187.245:443?encryption=none&host=freedom1.boficax311.workers.dev&path=%2F&security=tls&sni=freedom1.boficax311.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://06d9503e-6b12-4abb-90cd-7eb0ce58180f@104.24.72.1:443?encryption=none&host=telegram-falcunargo.yabado5043.workers.dev&path=%2F&security=tls&sni=telegram-falcunargo.yabado5043.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://0c1823f5-e8b1-4cfe-8f8b-441f8dd42fd2@[2606:4700:3034::6815:129a]:80?encryption=none&host=server3.mobileberooz-e41.workers.dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://0c1823f5-e8b1-4cfe-8f8b-441f8dd42fd2@[2606:4700:3035::ac43:b6b3]:80?encryption=none&host=server3.mobileberooz-e41.workers.dev&path=%2F&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://0ca3eb00-271b-49e0-b3c8-fe2e8ba634b8@104.21.30.22:443?encryption=none&host=freedom8.yeweroh309.workers.dev&security=tls&sni=freedom8.yeweroh309.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
