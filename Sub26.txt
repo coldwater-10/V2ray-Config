@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#@meli_proxyy
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#@meli_proxyy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#@meli_proxyy
@@ -27,6 +26,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#%F0%9F%93%A18%40oneclickv
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#%40Artemisvpn1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.37.18.75:9090#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8009#@meli_proxyy
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#@meli_proxyy
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#@meli_proxyy
@@ -73,10 +73,13 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#رایگان | S
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣3️⃣
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣
 vless://bbd9c6a2-2a68-4922-be9f-4266a0545888@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[
+trojan://telegram-id-privatevpns@13.37.111.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)
 vless://SVNTEAM@JOIN-SVNTEAM.RU:443/?type=tcp&security=reality&pbk=-8Kc96Mx8qkwEaYTF9Jx6x5uLpuizNFuXaeZQPD4FQY&fp=chrome&sni=refersion.com&sid=101b2a567b1309&spx=%2FSVNTEAM#@meli_proxyy
+trojan://telegram-id-directvpn@3.133.241.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer58osowk.net&type=ws#WS2-All+%7C+%40ArV2ray
 vless://tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=live.skornorth.com#[
 vless://telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw98.net&fp=chrome&type=ws&sni=mio.splashthat.com#%40proxy_kafee%20%7C%20ALL%20%20%28%D8%B9%D8%A7%DB%8C%20%D8%B3%DB%8C%D9%81%DB%8C%D8%AF%29
+trojan://telegram-id-privatevpns@63.177.122.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)
 vless://Parsashonam-140@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam
 vless://Parsashonam-140@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
 trojan://telegram-id-privatevpns@3.67.20.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)
@@ -94,7 +97,6 @@ vless://eaf17659-8e0c-42c7-8578-dc052ddfa7e3@151.101.158.204:80?encryption=none&
 vless://e6e93d1d-d9e6-40ba-a583-04f7681d6be7@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss1x.iR&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#@meli_proxyy
 vless://ID-%56iraV2ray-468@test.fast.hosting-ip.com:80?path=farsi.khamenei.ir%2Fcontact%2F%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%3Fed%3D2096&security=none&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=tgidvirav2ray.org&type=ws#%40mehrosaboran
-trojan://telegram-id-directvpn@52.18.128.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://ID-%56iraV2ray-342@speedtest.net:80?path=farsi.khamenei.ir%2Fcontact%2F%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%2C%56iraV2ray%3Fed%3D2096&security=none&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=tgidvirav2ray.org&type=ws#%40mehrosaboran
 trojan://telegram-id-privatevpns@15.188.234.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)
 trojan://telegram-id-directvpn@3.254.216.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -111,6 +113,7 @@ vless://1274355b-308a-4436-a5f5-d648884e71b8@whatsapp.avandsecurity.sbs:5222?typ
 trojan://telegram-id-privatevpns@3.67.164.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.20.194.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Dorzadim.filtero.neT&type=ws#[
+vless://092f6989-74a2-5deb-841c-46622fd8f96d@151.101.64.223:80/?type=ws&encryption=none&host=O-ELi-V2-RAY.COM&path=%2F#[
 trojan://telegram-id-directvpn@35.181.224.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=v2.fxpw6ls.ir&type=ws#WS-All+%7C+%40ArV2ray
@@ -129,6 +132,7 @@ vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=no
 vless://37ec7228-f4ea-4820-84ea-d4f101575851@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hvwrfuerhetitugj44yhrthj.com&path=ws%2F%3Fed%3D2048#[
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.16.142.237:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.17.48.63:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[
+vless://TELEGRAM-NUFiLTER@hajlab.ucdavis.edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Germany.vipnufilter.coM&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#[
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[
 vless://5b608ce2-011a-43aa-9e6c-0e93b3983edd@tabnak.twn24.ir:443?path=%2F37089%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=tabnak.twn24.ir&fp=chrome&type=httpupgrade&sni=tabnak.twn24.ir#[
 vless://7c95e3b5-9c45-4795-f954-b0ca84e648a9@tabnak.twn24.ir:443?path=%2F41929%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=tabnak.twn24.ir&fp=chrome&type=ws&sni=tabnak.twn24.ir#[
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.26:8090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8091#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.87:8090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.87:8091#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.89:8090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
