@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206MzQyNjM2MnNFRDkyWXR5MTRkODZh@45.12.207.208:8448#%F0%9F%87%A
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.217.232:989#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.232-3493
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-3738
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-3470
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:809#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-5367
