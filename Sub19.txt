@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      "method": "aes-256-gcm",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
-      "plugin_args": "",
-      "remarks": "www.dongtaiwang.com 洛杉矶",
-      "timeout": 5
-    }
-  ],
-  "strategy": null,
-  "index": 0,
-  "global": false,
-  "enabled": false,
   "shareOverLan": false,
   "isDefault": false,
   "isIPv6Enabled": false,
@@ -603,3 +591,15 @@ vless://6433ee3c-c408-47ea-a5da-a9c980160d23@vcp3.surfboardv2ray8830.worKERS.DEv
 vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:777?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=5lB0aSk6YmPH3EpVGeOtEt1glj8GI_V7SZfm6pZ9yEU&sid=c5010b9e&spx=%2F&headerType=none&alpn=h3%2Ch2&fp=chrome&sni=fortune.com#97-%F0%9F%87%AB%F0%9F%87%B7%40BlueberryNetWork
 vless://68c7c147-afc9-4c0d-8d70-f05cff1c421f@www.speedtest.net:443?encryption=none&type=grpc&security=tls&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=www.felafel.org#98-1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3%F0%9F%87%A9%F0%9F%87%AA%40ConfigTell
 vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:80?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT#99-%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=dc1bf227.vf-8co.pages.dev&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=dc1bf227.vf-8co.pages.dev#100-%F0%9F%87%AE%F0%9F%87%B7%2B%D8%B9%D8%B6%D9%88%2B%D8%B4%D9%88%2B%3A%2B%40V2rayFree_irr
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=fraud.chase&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=fraud.chase#101-%40V2rayNGV
+vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?encryption=none&type=ws&path=%2Fservernett&host=lc86.lebasnoo.ir.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=lc86.lebasnoo.ir.#102-%40V2RAY1_NG%2BALL
+vless://ab3cf247-1932-4b96-95c4-85cfe75dee1f@172.67.171.43:80?encryption=none&type=ws&path=%2Fvless&host=De2.v2vless.site.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=de2.v2vless.site#103-%40hopev2ray%F0%9F%92%9A
+vless://d4e354ed-51ef-4149-8062-5b9c614e38b7@172.66.46.213:443?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=speedtest1.svgspeedtest.net&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C30-80%2C10-50&sni=speedtest1.svgspeedtest.net#104-Ws%20-%20%40OhVpn-kjpblxw9
+vless://a7ac5863-e0ad-4051-9a5d-bcf5c6f4b52e@www.speedtest.net:8880?encryption=none&type=httpupgrade&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D8880&host=joinchannel.spdnet.digikala.com.speedtest.net.xn--gmqy8gvtb111b6b123kgm4aq4n.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=joinchannel.spdnet.digikala.com.speedtest.net.xn--gmqy8gvtb111b6b123kgm4aq4n.com#105-%40DRA_NET%201%20%E2%9C%A8%F0%9F%87%A9%F0%9F%87%AA
+vless://de6677da-e02c-4935-8ec0-24ed23fadfe9@ns.tehransiman.co.uk:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=DEc80.TehrANsiMAn.co.UK.&security=tls&alpn=h2&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=DEc80.TehrANsiMAn.co.UK.#106-%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40proxycityiran
+vless://dad060e4-bfdc-438e-8400-05c15cfec3ba@ns.cloudflare.com:80?encryption=none&type=httpupgrade&path=%2Fdhcfh%2F%3Fed%3D2560&host=ger1.nanowaash-shop.ir&security=none&alpn=http%2F1.1&fp=randomized&sni=ger1.nanowaash-shop.ir#107-%F0%9F%87%A9%F0%9F%87%AA-%40iraniV2ray_config%20%D8%AA%D9%85%D8%A7%D9%85%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7%20%E2%9C%85
+vless://cf976e1d-5fd7-4ae5-bdd9-5341ca133f8c@172.66.46.213:443?encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&host=speedtest.svgspeedtest.net&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-20%2C10-50&sni=speedtest.svgspeedtest.net#108-Ws%20-%20%40XvProxy-swjthmn8
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&host=iSAA1.paGEs.DEV&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C20-50&sni=iSaa1.PAGeS.DeV#109-%40V2rayi_net
+vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@hajlab.ucdavis.edu:80?encryption=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeWz.NeT&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeWz.NeT#110-telegram%20%E2%98%82%EF%B8%8F%20DailyV2ry
+vless://d41faf1e-054b-48e9-9487-40747f230808@162.159.24.142:443?encryption=none&type=ws&path=%2Fws&host=f-dl.chawoshco.ir&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=f-dl.chawoshco.ir#111-%40VPN_VIP_NOR-12
