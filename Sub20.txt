@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "148477AE146D474DFF2EA001FFF8DF35",
-			"server" : "aiavnd1.vip.conectinnode.info",
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
 			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
@@ -603,3 +585,21 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.49:6679#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.49:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-3728
 vmess://ewogICAgImFkZCI6ICIxNDkuNy4xNi4xNzQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJtZXJvaXkuaWN1IiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4es8J+Hp0dCLTE0OS43LjE2LjE3NC0wNDkxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWHVWOGs1YTRORm1rcGhncjVOVGxM@89.185.84.185:52338#%F0%9F%87%AC%F0%9F%87%A7GB-89.185.84.185-5575
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-3850
+trojan://telegram-id-directvpn@52.56.53.10:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-52.56.53.10-4153
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-3401
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.49:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-3539
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-3832
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.27.48-3469
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-3647
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-13.43.127.6-3097
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.82-0063
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.24.30.67:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.24.30.67-3266
+trojan://telegram-id-privatevpns@51.44.118.98:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.118.98-4349
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-3363
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.49:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-3354
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-3239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%F0%9F%87%B3%F0%9F%87%B1NL-89.23.103.21-3608
+trojan://telegram-id-directvpn@52.47.81.120:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-52.47.81.120-4606
+vmess://ewogICAgImFkZCI6ICJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLAogICAgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNzIuMjMyLjM2LjE0NC0wMDYyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-3521
